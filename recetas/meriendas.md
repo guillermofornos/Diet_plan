@@ -1,52 +1,37 @@
-# Recetas de Meriendas (~14% calorías diarias: 200-250 kcal)
+# Recetas de Meriendas (Originales del PDF)
 
-Las meriendas son sencillas, fáciles de preparar (o llevar al trabajo) y te aportarán proteína y grasas saludables o antioxidantes.
+*Nota: Estas cantidades son **solo para 1 persona** (tus macros). Si tu novia también merienda contigo, multiplica todo x2.*
 
 ---
 
-### 1. Yogur Natural con Pipas de Calabaza y Arándanos (Aprox. 240 kcal)
+### 1. Yogur Natural con Pipas de Calabaza (Estándar)
 **Ingredientes:**
-- 125g (1 yogur) natural sin azúcar (no edulcorado si es posible, o kéfir).
-- 20g de pipas de calabaza (sin sal).
-- 50g de arándanos frescos.
+- 125g de yogur natural sin azúcar.
+- 30g de pipas de calabaza.
 
 **Instrucciones:**
 1. Vierte el yogur en un bol.
-2. Añade por encima las pipas de calabaza (puedes tostarlas ligeramente antes sin aceite) y los arándanos lavados.
+2. Espolvorea las pipas de calabaza por encima y mezcla.
 
 ---
 
-### 2. Queso Cottage con Granada (Aprox. 200 kcal)
+### 2. Yogur con Pipas de Calabaza y Kiwi (Día de Ejercicio)
 **Ingredientes:**
-- 150g de Queso Cottage (el de Mercadona es una gran opción, alto en proteína y bajo en grasa).
-- 100g de semillas de granada frescas.
+- 125g de yogur natural sin azúcar.
+- 30g de pipas de calabaza.
+- 1 kiwi grande (150g) *[Sustituyendo a la naranja]*.
 
 **Instrucciones:**
-1. Pon el queso cottage en un cuenco.
-2. Extrae las semillas de la granada (o cómpralas ya desgranadas si vas con prisa) y ponlas por encima.
-3. Si lo necesitas un poco dulce, puedes añadir una pizca de canela o unas gotitas (muy pocas) de edulcorante, aunque la fruta ya le da el toque dulce.
+1. Mezcla el yogur con las pipas en un bol.
+2. Añade el kiwi pelado y cortado en trozos o gajos.
 
 ---
 
-### 3. Batido Rápido "Whey" post-entreno (Aprox. 120-150 kcal)
-*(Usar si has entrenado ese día o si ves que llegas bajo de proteína en tus comidas principales).*
+### 3. Yogur con Pipas y Arándanos (Viernes)
 **Ingredientes:**
-- 1 cazo (30g) de proteína de suero (Whey) sabor vainilla o chocolate.
-- 200 ml de agua fría o leche de almendras sin azúcar.
-- Opcional: Un poco de hielo.
+- 100g de yogur natural sin azúcar.
+- 20g de pipas de calabaza.
+- 50g de arándanos frescos.
 
 **Instrucciones:**
-1. Mezclar todo en un shaker o batidora y agitar bien.
-
----
-
-### 4. Medio Bocadillo Integral de Pavo (Aprox. 230 kcal)
-**Ingredientes:**
-- 40g de pan integral (tipo rebanada o panecillo).
-- 50g de pechuga de pavo braseada (con alto % de carne, >85%).
-- Unas hojas de rúcula o canónigos.
-- Unas rodajas finas de tomate.
-
-**Instrucciones:**
-1. Tuesta ligeramente el pan si lo prefieres.
-2. Monta el mini bocadillo con el tomate, la rúcula y el pavo. No le eches aceite, el tomate ya le dará jugosidad.
+1. Mezcla el yogur con las pipas y los arándanos lavados en un bol.

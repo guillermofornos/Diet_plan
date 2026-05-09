@@ -1,47 +1,43 @@
 # Lista de la Compra - Semana 2
 
-Basada en el "Menú Semana 2". Verifica tu despensa antes de comprar (seguro que te sobra avena, arroz, quinoa, AOVE y especias de la semana 1).
+*Nota: Todas las cantidades están **multiplicadas por 2** para ti y tu novia.*
 
 ## Frutería / Verdulería
-- 2 Kiwis
-- 2 Plátanos pequeños
-- 1 tarrina de arándanos frescos
-- 1 Granada (o semillas envasadas)
-- 1-2 Aguacates
-- 2 Pimientos (rojo o verde)
-- 1 Calabacín
-- Cebollas (si faltan de la S1)
-- Tomate natural para ensalada y cherrys
-- 1 Boniato grande
-- Limones (si faltan)
+- 8 Kiwis grandes
+- 6-8 Plátanos
+- 300g de arándanos frescos
+- 2 Granadas
+- 4-6 Aguacates
+- 800g de Pimientos (rojos y verdes)
+- 400g de Cebollas
+- 800g de Calabacines
+- 400g de Zanahorias
+- 500g de Tomate natural para ensaladas
+- Limones y Ajos
 
 ## Ensaladas / Verdura Envasada
-- 1 Bolsa de canónigos
-- 1 Bolsa de rúcula
-
-## Congelados (Sección Hacendado / Supermercado)
-- 1-2 Bolsas de "Salteado Rústico" (patata, boniato, cebolla asada)
-- 1 Bolsa de "Menestra de verduras"
+- 3 Bolsas de canónigos y rúcula combinadas
 
 ## Proteínas (Carnes, Pescados, Huevos, Vegetal)
-- 1 docena de Huevos
-- 1 bote de Claras de Huevo pasteurizadas
-- 400g Pechuga de Pollo
-- 300g Filetes de Merluza
-- 150g Lomo de Bacalao
-- 150g Pechuga de Pavo braseada en lonchas
-- 400g Tofu firme (para dos días de salteado vegano)
-- 1 Lata de Atún al natural
+- 2 docenas de Huevos
+- 2 botes pequeños (o 1 grande) de Claras de Huevo pasteurizadas
+- 400g de Pechuga de Pollo
+- 300g de Filetes de Merluza
+- 200g de Lomo de Bacalao
+- 540g de Tofu firme (2 paquetes Mercadona)
 
 ## Lácteos y Similares
-- 1 Bola de Mozzarella fresca
-- 2 Tarrinas de Queso Cottage
-- 2 Yogures naturales sin azúcar (o Kéfir)
+- 2 Bolas de Mozzarella fresca (aprox. 250g total)
+- 1 Tarrina de Queso Cottage (Mercadona)
+- 1.8 kg de Yogur natural sin azúcar
 
 ## Despensa (Cereales, Legumbres, Otros)
-- Pan integral (si falta)
-- 1 Bote de Garbanzos cocidos
-- 1 Bote de pimientos asados
-- Cervezas (las 3 de rigor).
-
-*Nota: No incluyo avena, arroz, quinoa, ni pipas de calabaza asumiendo que te sobran paquetes completos de la semana anterior. Si no es así, añádelos.*
+- Pan integral (revisar existencias)
+- Copos de Avena (revisar existencias)
+- Arroz integral (revisar existencias)
+- Cuscús perlado (revisar existencias)
+- 1 Bote grande de Garbanzos cocidos
+- Pipas de calabaza (revisar existencias)
+- Cacao puro en polvo (revisar existencias)
+- 1 Bote de Pimientos asados
+- Cervezas (3 para ti, y las que quiera tu novia).

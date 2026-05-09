@@ -1,18 +1,13 @@
-# Menú Semana 3
+# Menú Semana 3 (Basado en PDF Original)
 
-*Este menú repite la estructura de la Semana 1, facilitando la organización y compra al tener ya dominadas las recetas.*
-
-**Recuerda:**
-- Revisa la carpeta `recetas/` para las cantidades.
-- Días de Entreno (E): Lunes, Martes, Jueves, Viernes.
-- Días de Descanso (D): Miércoles, Sábado, Domingo.
+*Nota: Revisa `recetas/` para la preparación exacta. Multiplica cantidades por 2 si cocinas para tu novia.*
 
 | Día | Desayuno | Comida | Merienda | Cena |
 | :--- | :--- | :--- | :--- | :--- |
-| **Lunes (E)** | Tostada Integral con Aguacate y Huevo + Kiwi | Merluza al Horno con Arroz Integral y Verduras | Yogur Natural con Pipas de Calabaza y Arándanos | Ensalada de Canónigos con Mozzarella y Atún |
-| **Martes (E)** | Batido Proteico de Avena, Plátano y Claras | Salteado de Pollo con "Salteado Rústico" y Cherry | Queso Cottage con Granada | Bacalao a la Plancha con Pimientos Asados y Boniato |
-| **Miércoles (D)** | Porridge de Avena con Arándanos y Kéfir | Ensalada Templada de Garbanzos con Menestra | Medio Bocadillo Integral de Pavo | Tortilla Francesa y Ensalada de Rúcula y Tomate |
-| **Jueves (E)** | Tortilla de Claras y Huevo con Pimiento | Salteado de Tofu con Quinoa y Verduras | Yogur Natural con Pipas de Calabaza y Arándanos | Pechuga de Pollo a la Plancha con "Salteado Rústico" |
-| **Viernes (E)** | Tostada Integral con Aguacate y Huevo + Kiwi | Merluza al Horno con Arroz Integral y Verduras | Batido Rápido "Whey" | **Cena Libre/Fuera** + *Cervezas* |
-| **Sábado (D)** | Porridge de Avena con Arándanos y Kéfir | Salteado de Pollo con "Salteado Rústico" y Cherry | Queso Cottage con Granada | **Cena Libre/Fuera** + *Cervezas* |
-| **Domingo (D)** | Batido Proteico de Avena, Plátano y Claras | Ensalada Templada de Garbanzos con Menestra | Medio Bocadillo Integral de Pavo | Bacalao a la Plancha con Pimientos Asados y Boniato |
+| **Lunes (E)** | Tostada Integral con Aguacate y Huevo + Yogur | Merluza al Horno con Arroz Integral, Verduras y Aguacate | Yogur Natural con Pipas de Calabaza | Ensalada Ligera con Mozzarella y Huevo + Porridge |
+| **Martes (E)** | Batido Proteico y Tostada Integral (con Kiwi) | Salteado de Tofu con Verduras y Arroz Integral | Yogur con Pipas de Calabaza y Kiwi | Ensalada de Canónigos con Mozzarella y Huevo + Porridge |
+| **Miércoles (D)** | Tortilla de Claras con Cebolla y Pimiento + Tostada | Ensalada Templada de Garbanzos con Verduras y Aguacate | Yogur Natural con Pipas de Calabaza | Tortilla de Claras con Pimiento + Porridge |
+| **Jueves (E)** | Batido de Plátano, Avena y Claras + Kiwi | Pechuga de Pollo al Horno con Zanahorias, Calabacín y Arroz | Yogur Natural con Pipas de Calabaza | Tortilla de Claras con Aguacate + Porridge |
+| **Viernes (E)** | Tostada Integral con Aguacate y Huevo + Batido Yogur y Kiwi | Bacalao a la Plancha con Pimientos Asados, Arroz y Aguacate | Yogur con Pipas y Arándanos | **Cena Fuera** (~1100 kcal) + *Cervezas* |
+| **Sábado (D)** | Tostada Integral con Aguacate y Huevo | Receta Vegana – Cuscús con Garbanzos Crujientes y Queso Cottage | Yogur Natural con Pipas de Calabaza | **Cena Fuera** (Hamburguesa) + *Cervezas* |
+| **Domingo (D)** | Tortilla de Claras con Cebolla y Pimiento + Tostada | Ensalada Templada de Garbanzos con Verduras y Aguacate | Yogur Natural con Pipas de Calabaza | Tortilla de Claras con Pimiento + Porridge |

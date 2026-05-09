@@ -1,41 +1,43 @@
 # Lista de la Compra - Semana 6
 
-Basada en el "Menú Semana 6" (Misma que la Semana 2).
+*Nota: Todas las cantidades están **multiplicadas por 2** para ti y tu novia.*
 
 ## Frutería / Verdulería
-- 2 Kiwis
-- 2 Plátanos pequeños
-- 1 tarrina de arándanos
-- 1 Granada
-- 1-2 Aguacates
-- 2 Pimientos
-- 1 Calabacín
-- Tomate natural para ensalada y cherrys
-- 1 Boniato grande
+- 8 Kiwis grandes
+- 6-8 Plátanos
+- 300g de arándanos frescos
+- 2 Granadas
+- 4-6 Aguacates
+- 800g de Pimientos (rojos y verdes)
+- 400g de Cebollas
+- 800g de Calabacines
+- 400g de Zanahorias
+- 500g de Tomate natural para ensaladas
+- Limones y Ajos
 
 ## Ensaladas / Verdura Envasada
-- 1 Bolsa de canónigos
-- 1 Bolsa de rúcula
+- 3 Bolsas de canónigos y rúcula combinadas
 
-## Congelados
-- 1-2 Bolsas de "Salteado Rústico"
-- 1 Bolsa de "Menestra de verduras"
-
-## Proteínas
-- 1 docena de Huevos
-- 1 bote de Claras de Huevo
-- 400g Pechuga de Pollo
-- 300g Filetes de Merluza
-- 150g Lomo de Bacalao
-- 150g Pechuga de Pavo braseada
-- 400g Tofu firme
-- 1 Lata de Atún al natural
+## Proteínas (Carnes, Pescados, Huevos, Vegetal)
+- 2 docenas de Huevos
+- 2 botes pequeños (o 1 grande) de Claras de Huevo pasteurizadas
+- 400g de Pechuga de Pollo
+- 300g de Filetes de Merluza
+- 200g de Lomo de Bacalao
+- 540g de Tofu firme (2 paquetes Mercadona)
 
 ## Lácteos y Similares
-- 1 Bola de Mozzarella fresca
-- 2 Tarrinas de Queso Cottage
-- 2 Yogures naturales sin azúcar
+- 2 Bolas de Mozzarella fresca (aprox. 250g total)
+- 1 Tarrina de Queso Cottage (Mercadona)
+- 1.8 kg de Yogur natural sin azúcar
 
-## Despensa (Revisar)
-- Garbanzos cocidos
-- Cervezas.
+## Despensa (Cereales, Legumbres, Otros)
+- Pan integral (revisar existencias)
+- Copos de Avena (revisar existencias)
+- Arroz integral (revisar existencias)
+- Cuscús perlado (revisar existencias)
+- 1 Bote grande de Garbanzos cocidos
+- Pipas de calabaza (revisar existencias)
+- Cacao puro en polvo (revisar existencias)
+- 1 Bote de Pimientos asados
+- Cervezas (3 para ti, y las que quiera tu novia).
