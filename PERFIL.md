@@ -8,7 +8,7 @@
 
 ## Intolerancias Alimentarias
 
-A continuación se listan las intolerancias reportadas. **Los alimentos con nivel alto (>40) que sean verduras, frutas, lácteos grasos o frutos secos han sido excluidos del plan**, a menos que hayas indicado explícitamente lo contrario (como el tomate, patata, berenjena, etc.).
+A continuación se listan las intolerancias reportadas en el test (`Intolerancias GUILLERMO FORNOS.pdf`, 08/12/2024). **Los alimentos con nivel alto (>40) que sean verduras, frutas, lácteos grasos o frutos secos han sido excluidos del plan**, a menos que hayas indicado explícitamente lo contrario (como el tomate, patata, berenjena, etc.).
 
 ### ❌ ALIMENTOS PROHIBIDOS (Excluidos del menú)
 Estos alimentos no aparecerán en tus recetas ni listas de la compra.
@@ -19,22 +19,36 @@ Estos alimentos no aparecerán en tus recetas ni listas de la compra.
     *   Queso graso de vaca (48)
     *   Mantequilla (45)
 *   **Frutos Secos:**
+    *   Almendras (60) - *El valor más alto de todo el test. Ojo también con la bebida de almendras: para el porridge usa agua o bebida de soja/avena.*
+    *   Nueces (48) - *Evitar del todo, también cuando vienen dentro de otros productos (pan con nueces, granola, mezclas de frutos secos).*
     *   Avellanas (47)
-    *   Nueces (45)
-*   **Pescados:**
+*   **Pescados y Marisco:**
     *   Caballa (45)
+    *   Salmón (45)
+    *   Sardinas (45)
+    *   Lubina (43)
+    *   Almejas (41)
+*   **Legumbres:**
+    *   Alubias (47) - *Garbanzos, lentejas y soja/tofu sí están bien.*
+*   **Cereales:**
+    *   Escanda (42), mijo (41) y "otras gramíneas" (45) - *Avena, trigo, maíz, arroz y espelta salen bien.*
 *   **Verduras y Hortalizas (nivel alto y excluidas por precaución):**
     *   Pepino (45)
+    *   Escarola (45)
     *   Champiñón (43)
     *   Hinojo (43)
     *   Rábano (43)
     *   Col (42)
+    *   Espárragos (41)
+    *   Alcachofa (41)
     *   Espinacas (41) - *Sustituidas por canónigos o rúcula.*
     *   Lechuga (41) - *Sustituida por canónigos o rúcula.*
 
 ### ✅ ALIMENTOS PERMITIDOS (A pesar de nivel >40)
 Has decidido mantener estos alimentos. Se usarán de forma moderada en el plan.
 
+*   Cacao (50) - *Solo en preparaciones tipo porridge o natillas.*
+*   Ajo (43) - *Un poco, para dar sabor a las recetas.*
 *   Tomate (42)
 *   Patata (42)
 *   Berenjena (41)
@@ -52,6 +66,7 @@ Estos alimentos se han incluido activamente en el plan según tus preferencias:
 *   Pipas de calabaza (como fuente de grasa saludable)
 
 ### ⚠️ A TENER EN CUENTA
-*   El test de intolerancia también mostró niveles altos para **alcohol etílico (51)** y **cafeína (50)**.
+*   El test de intolerancia también mostró niveles altos para **alcohol etílico (51)**, **cafeína (50)** y **teína (44)**.
 *   Las 3 cervezas se mantienen a petición tuya.
-*   Si consumes café, intenta limitarlo a 1 o 2 tazas al día máximo, preferiblemente antes de las 14:00 para no afectar el sueño.
+*   Si consumes café, intenta limitarlo a 1 o 2 tazas al día máximo, preferiblemente antes de las 14:00 para no afectar el sueño. El té (también el verde) lleva teína: mejor infusiones sin teína.
+*   **Queso fresco (45):** el queso cottage es un queso fresco. En el plan solo aparece en el cuscús del sábado (30g); en las recetas fast food se ha cambiado por yogur.

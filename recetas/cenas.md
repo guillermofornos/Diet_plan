@@ -2,7 +2,7 @@
 
 *Nota: Estas cantidades son **solo para 1 persona** (tus macros). Multiplica por 2 al cocinar la cena para ti y tu novia.*
 
-*(NOTA IMPORTANTE DEL PORRIDGE: En el PDF original tomas un porridge de avena y cacao TODAS las noches acompañando a la ensalada/tortilla. Lo he mantenido tal cual).*
+*(NOTA IMPORTANTE DEL PORRIDGE: En el PDF original tomas un porridge de avena y cacao TODAS las noches acompañando a la ensalada/tortilla. Lo he mantenido tal cual: el cacao marca 50 en tu test, pero decidiste mantenerlo en el porridge. Como bebida vegetal, usa soja o avena; nunca de almendras, que marcan 60).*
 
 ---
 

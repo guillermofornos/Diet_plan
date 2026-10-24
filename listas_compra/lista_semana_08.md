@@ -40,4 +40,13 @@
 - Pipas de calabaza (revisar existencias)
 - Cacao puro en polvo (revisar existencias)
 - 1 Bote de Pimientos asados
-- Cervezas (3 para ti, y las que quiera tu novia).
+- 1 Paquete de Copos de maíz sin azúcar (para rebozar la merluza; se usan 80g)
+
+## Opcional: Cena fast food en casa — Kebab de pollo con patatas y salsa blanca (x2)
+*Solo si una noche del finde cenáis en casa en vez de fuera (receta 6 de `recetas/fast_food_saludable.md`).*
+- 360g de Solomillos de pollo
+- 2 Panes de pita (mejor integrales)
+- 300g de Patatas
+- 2 Yogures naturales sin azúcar extra (marinado + salsa blanca)
+- Tomate, canónigos/rúcula y granada: de la lista
+- Despensa: comino, curry, orégano, cebolla en polvo, chipotle o cayena, ajo en polvo

@@ -26,12 +26,12 @@ Para mantener la masa muscular mientras pierdes peso, la **proteína** es el mac
 ### 1. Proteínas (Alta Prioridad)
 *   **Objetivo:** ~160 - 180 gramos al día.
 *   **Por qué:** Mantiene tu músculo, da muchísima saciedad (quitará el hambre) y quema más calorías al digerirse.
-*   **Fuentes principales:** Pollo, pavo, ternera magra, pescados blancos (merluza, bacalao), pescados azules (salmón, atún), huevos, claras de huevo, tofu, queso cottage, proteína whey.
+*   **Fuentes principales:** Pollo, pavo, ternera magra, pescados blancos (merluza, bacalao), pescado azul (atún), huevos, claras de huevo, tofu, queso cottage, proteína whey.
 
 ### 2. Grasas (Prioridad Media)
 *   **Objetivo:** ~50 - 65 gramos al día.
 *   **Por qué:** Necesarias para la salud hormonal y asimilación de vitaminas.
-*   **Fuentes principales:** Aceite de oliva virgen extra (AOVE), aguacate, pipas de calabaza. *(Evitamos nueces y avellanas por tus intolerancias).*
+*   **Fuentes principales:** Aceite de oliva virgen extra (AOVE), aguacate, pipas de calabaza. *(Evitamos nueces, avellanas y almendras por tus intolerancias).*
 
 ### 3. Carbohidratos (Ajustables)
 *   **Objetivo:** El resto de calorías (aprox. 120 - 160 gramos en días de descanso; 180 - 200 gramos en días de entreno).

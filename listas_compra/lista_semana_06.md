@@ -1,43 +1,83 @@
-# Lista de la Compra - Semana 6
+# Lista de la Compra - Semana 6 (16 – 22 nov)
 
-*Nota: Todas las cantidades están **multiplicadas por 2** para ti y tu novia.*
+*Nota: cantidades para los dos (x2), calculadas sumando las recetas del menú de esta semana. La merienda también va x2: si tu novia no merienda, quita la mitad de natillas, plátanos y kiwis.*
 
-## Frutería / Verdulería
-- 8 Kiwis grandes
-- 6-8 Plátanos
-- 300g de arándanos frescos
-- 2 Granadas
-- 4-6 Aguacates
-- 800g de Pimientos (rojos y verdes)
-- 400g de Cebollas
-- 800g de Calabacines
-- 400g de Zanahorias
-- 500g de Tomate natural para ensaladas
-- Limones y Ajos
+*Truco: compra el pescado congelado y congela al llegar el pollo que no vayas a usar en dos días; pásalo a la nevera la noche antes (ver «Preparación por adelantado» en el menú).*
 
-## Ensaladas / Verdura Envasada
-- 3 Bolsas de canónigos y rúcula combinadas
+## Fruta y verdura
+- 14 Plátanos (desayunos y meriendas)
+- 12 Kiwis (desayunos y meriendas)
+- 1 trozo Piña natural (unos 60 g)
+- 4 Aguacates (unos 480 g de pulpa)
+- 360 g Pimientos rojos o de colores
+- 350 g Pimientos verdes italianos
+- 1,22 kg Cebollas (incluye cebolleta y morada)
+- 580 g Zanahorias
+- 820 g Tomates (incluye cherrys)
+- 1,54 kg Patatas
+- 600 g Calabaza (pelada)
+- 80 g Puerros
+- 3 bolsas Rúcula o canónigos (unos 260 g)
+- Cilantro
+- Limas
+- Limones
+- Perejil
 
-## Proteínas (Carnes, Pescados, Huevos, Vegetal)
-- 2 docenas de Huevos
-- 2 botes pequeños (o 1 grande) de Claras de Huevo pasteurizadas
-- 400g de Pechuga de Pollo
-- 300g de Filetes de Merluza
-- 200g de Lomo de Bacalao
-- 540g de Tofu firme (2 paquetes Mercadona)
+## Carne, huevos y tofu
+- docena y media Huevos (se usan 17)
+- 940 ml Claras de huevo pasteurizadas
+- 900 g Pechuga de pollo
+- 960 g Solomillos de pollo
+- 600 g Pechuga o solomillo de pavo
+- 70 g Taquitos de jamón serrano
 
-## Lácteos y Similares
-- 2 Bolas de Mozzarella fresca (aprox. 250g total)
-- 1 Tarrina de Queso Cottage (Mercadona)
-- 1.8 kg de Yogur natural sin azúcar
+## Pescado
+- 340 g Merluza congelada (lomos o filetes)
+- 360 g Lomos de bacalao congelados (mira si son desalados)
+- 2 Latas de atún al natural (120 g escurrido)
 
-## Despensa (Cereales, Legumbres, Otros)
-- Pan integral (revisar existencias)
-- Copos de Avena (revisar existencias)
-- Arroz integral (revisar existencias)
-- Cuscús perlado (revisar existencias)
-- 1 Bote grande de Garbanzos cocidos
-- Pipas de calabaza (revisar existencias)
-- Cacao puro en polvo (revisar existencias)
-- 1 Bote de Pimientos asados
-- Cervezas (3 para ti, y las que quiera tu novia).
+## Lácteos
+- 11 Yogures naturales sin azúcar (de 125 g)
+- 2 Yogur +Proteínas natural (vasitos de 120 g, en packs de 4)
+- 14 Natillas +Proteínas (4 packs de 4)
+- 2 bolas Mozzarella fresca (se usan 240 g)
+- 2 bolas Mozzarella fresca light (se usan 180 g)
+- 80 ml Leche o bebida de soja sin azúcar
+
+## Pan y tortillas
+- 580 g Pan integral (100% integral)
+- 1 trozo Pan de pueblo (20 g)
+- 2 Panes de pita (mejor integrales)
+- 8 Tortillas integrales (paquete de 10)
+- 6 Tortillas de maíz (paquete de 8)
+
+## Despensa
+- 320 g Lenteja pardina
+- 160 g Arroz integral
+- 340 g Copos de avena
+- 40 g Copos de maíz sin azúcar (para los rebozados)
+- 210 g Pipas de calabaza sin sal
+- 300 g Tomate triturado natural
+- 1 bote Carne de pimiento choricero (se usan 40 g)
+- 1 Salsa de soja baja en sodio (si no te queda)
+- 1 Mostaza (si no te queda)
+- 1 Salsa barbacoa sin azúcar (si no te queda)
+- 500 ml Caldo de pescado sin azúcar (o agua)
+- 140 ml Aceite de oliva virgen extra (se usan esta semana)
+- Salsa picante (opcional)
+
+## Congelados
+- 400 g Guisantes finos congelados
+
+## Especias y condimentos
+- Chipotle o pimentón picante, Comino, Curry en polvo, Orégano, Pimentón dulce (revisa lo que tienes)
+- Sal, pimienta, ajo en polvo y cebolla en polvo (básicos)
+
+## Opcional: Big Mac en casa el sábado (x2)
+*Solo si el sábado cenáis en casa en vez de fuera (receta en `recetas/fast_food_saludable.md`).*
+- 300 g Patatas
+- 300 g Carne picada de ternera magra (carnicería: tapilla o babilla; cómprala el día que la cocines)
+- 2 Panes de hamburguesa 100% integrales
+- 1 Ketchup sin azúcar (si no te queda)
+- 1 bote Guindillas en vinagre
+- Yogur, mozzarella, cebolla, canónigos y mostaza (de la lista: añade 1 yogur y 40 g de mozzarella)

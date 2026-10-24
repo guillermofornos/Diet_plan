@@ -4,23 +4,30 @@
 
 ---
 
-### 1. Merluza al Horno con Arroz Integral, Verduras y Aguacate
+### 1. Merluza Rebozada con Arroz Integral, Verduras y Aguacate
+*(Versión rebozada, a petición tuya: el mismo rebozado crujiente al horno de los fingers de `fast_food_saludable.md`, con copos de maíz sin azúcar)*
 **Ingredientes:**
-- 150g de filete de merluza.
+- 150g de filete de merluza (si es congelada, descongelada en la nevera y bien seca).
+- 1/2 huevo batido (bate 1 para los dos).
+- 20g de copos de maíz sin azúcar.
+- Sal, ajo en polvo, perejil y la ralladura de 1/2 limón.
 - 60g de arroz integral (en crudo).
 - 100g de calabacín.
 - 100g de zanahoria.
 - 50g de cebolla.
 - 100g de pimiento.
 - 1/2 aguacate (50g).
-- 10 ml de AOVE.
-- Limón, ajo picado y perejil.
+- 10 ml de AOVE (3 ml en spray para la merluza y 7 ml para las verduras).
+- Limón.
 
 **Instrucciones:**
-1. Precalienta el horno a 180 °C. Sazona la merluza con limón, ajo y perejil. Hornea 15–20 minutos.
-2. Cocina el arroz integral según las instrucciones del paquete.
-3. En una sartén, calienta el aceite y saltea el calabacín, zanahoria, cebolla y pimiento picados durante 5–7 minutos.
-4. Sirve la merluza sobre el arroz y las verduras, y añade el aguacate en rodajas por encima.
+1. Precalienta el horno a 200 °C. Seca muy bien la merluza con papel de cocina: la humedad impide que el rebozado cruja.
+2. Bate el huevo con la sal, el ajo en polvo, el perejil y la ralladura de limón. Tritura los copos de maíz en una bolsa (que queden trocitos, sin llegar a harina).
+3. Pasa la merluza por el huevo y después por los copos, apretando para que se peguen. Colócala sobre papel de horno, rocíala con el aceite en spray y hornea 12–15 minutos sin darle la vuelta (en airfryer: 190 °C, 8–10 minutos).
+4. Mientras, cocina el arroz integral según las instrucciones del paquete y saltea en una sartén con el resto del aceite el calabacín, la zanahoria, la cebolla y el pimiento picados, 5–7 minutos.
+5. Sirve la merluza rebozada sobre el arroz y las verduras, con el aguacate en rodajas y unas gotas de limón.
+
+*El rebozado suma unas 110 kcal (≈700 kcal la ración). En días de descanso, si quieres compensar, baja el arroz a 45g.*
 
 ---
 
@@ -106,5 +113,5 @@
 1. Precalienta el horno a 220 °C.
 2. En una bandeja de horno, pon a un lado el calabacín y tomate picados, aderezados con aceite, sal, pimienta y tomillo.
 3. Al otro lado de la bandeja, pon los garbanzos secos, espolvorea pimentón ahumado y un chorrito de aceite. Hornea todo 20-25 minutos hasta que los garbanzos estén dorados/crujientes.
-4. En una sartén, saltea el ajo picado en una gota de aceite. Añade el cuscús perlado y remueve 1 minuto. Añade el agua y el caldo vegetal, reduce el fuego y cocina hasta que el líquido se absorba.
+4. En una sartén, saltea el ajo picado en una gota de aceite. Añade el cuscús perlado y remueve 1 minuto. Añade el agua y el caldo vegetal y cuécelo 8-10 minutos como una pasta; escurre el líquido que sobre.
 5. Sirve el cuscús, pon encima las verduras y garbanzos, y corona con el queso cottage.

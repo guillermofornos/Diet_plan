@@ -40,5 +40,15 @@
 - 350g de Pipas de calabaza (sin sal)
 - 1 Bote de Cacao puro en polvo (sin azúcar)
 - 1 Bote de Pimientos asados
+- 1 Paquete de Copos de maíz sin azúcar (para rebozar la merluza; se usan 40g)
 - Aceite de Oliva Virgen Extra (AOVE), sal, vinagre, pimienta, pimentón ahumado, orégano.
-- Cervezas (3 para ti, y las que quiera tu novia).
+
+## Opcional: Cena fast food en casa — Big Mac Fit con patatas (x2)
+*Solo si una noche del finde cenáis en casa en vez de fuera (receta 2 de `recetas/fast_food_saludable.md`).*
+- 300g de Carne picada de ternera magra (en carnicería: tapilla o babilla; cómprala el día que la cocines, aguanta 24 h)
+- 2 Panes de hamburguesa 100% integrales
+- 300g de Patatas
+- 40g de Mozzarella fresca (mira si te sobra de la de la semana)
+- 1 Yogur natural sin azúcar extra
+- Cebolla y canónigos/rúcula: de la lista
+- Despensa: mostaza, ketchup sin azúcar, guindillas en vinagre, chipotle o cayena, ajo en polvo
