@@ -15,6 +15,8 @@ Bienvenido a tu repositorio personal de dieta y entrenamiento. El objetivo de es
 - **`menus/`**: Menús detallados semana a semana.
 - **`listas_compra/`**: Listas de la compra semanales para que no falte de nada.
 - **`recetas/`**: Instrucciones detalladas para preparar las comidas.
+  - **`recetas/recetas_videos_internet.md`**: comidas y cenas de otoño sacadas de vídeos de YouTube y recetas de internet (lentejas, pescado con gracia, cenas de Lara Ibarra), con cantidades por persona y enlace a la fuente. Son la base de los menús de las semanas 3 a 6 (26 oct – 22 nov).
+  - **`recetas/fast_food_saludable.md`**: 6 recetas "fast food" saludables (burger crispy, Big Mac, tacos, fajitas, fingers y kebab) adaptadas a tus intolerancias, con macros aproximados. Son cenas habituales de los menús desde la semana 1.
 - **`SEGUIMIENTO.md`**: Tabla para que anotes tu progreso semanal.
 - **`SUPLEMENTACION.md`**: Recomendaciones opcionales para complementar tu dieta.
 - **`GUIA_CERVEZA.md`**: Cómo integrar tus 3 cervezas semanales sin arruinar el progreso.

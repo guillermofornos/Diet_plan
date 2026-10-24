@@ -20,5 +20,5 @@ Dado que quieres perder peso rápidamente (10 kg en 2 meses) y conservar múscul
 *   **Tipo:** Bisglicinato de Magnesio (evita el óxido de magnesio que actúa como laxante).
 
 ### 4. Omega 3
-*   **Por qué:** Antiinflamatorio natural, protege el corazón y mejora la salud cognitiva. Ya que hemos quitado nueces y semillas ricas en Omega 3 de tu dieta por intolerancia, suplementar puede ser una buena idea si no comes mucho pescado azul (como el salmón o sardinas).
+*   **Por qué:** Antiinflamatorio natural, protege el corazón y mejora la salud cognitiva. Ya que hemos quitado nueces y semillas ricas en Omega 3 de tu dieta por intolerancia, y el salmón, las sardinas y la caballa también te salen altos en el test (45), suplementar es buena idea (si prefieres no tomar nada de pescado, existe omega 3 de algas).
 *   **Dosis:** 1-2 perlas al día con alguna comida que contenga algo de grasa.

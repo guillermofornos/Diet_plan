@@ -23,7 +23,7 @@ Si trabajas sentado de 09:00 a 18:00, tu gasto calórico (NEAT) cae en picado.
 ## 4. Hidratación Constante
 Muchas veces confundimos la sed con hambre, especialmente en un déficit calórico.
 *   **Objetivo:** Entre 2.5 y 3 litros de agua al día (más los días que entrenes).
-*   Si te aburre el agua sola, puedes tomar infusiones, té verde (ayuda algo con la quema de grasa) o echarle unas rodajas de limón al agua.
+*   Si te aburre el agua sola, puedes tomar infusiones sin teína o echarle unas rodajas de limón al agua. El té verde, con moderación: la teína te sale 44 en el test.
 
 ## 5. Bloques de Trabajo Enfocado
 Técnica Pomodoro o bloques de 90 minutos sin distracciones. Menos estrés mental significa menos cortisol, lo que facilita el proceso de pérdida de grasa.
