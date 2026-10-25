@@ -77,34 +77,33 @@
 
 ---
 
-### Garbanzos con bacalao (potaje rápido)
-*Fuente: Las Recetas de MJ · ≈ 598 kcal · 49 g proteína · 57 g HC · 15 g grasa · por persona*
+### Bacalao a la riojana con patata
+*Fuente: Karlos Arguiñano · ≈ 455 kcal · 39 g proteína · 47 g HC · 9 g grasa · por persona*
 
-▶ **Vídeo:** <https://www.youtube.com/watch?v=2WiScz6MVQg>  
-📄 **Receta escrita:** <https://lasrecetasdemj.com/2024/10/garbanzos-con-bacalao.html>
+▶ **Vídeo:** <https://www.youtube.com/watch?v=WF6ME_t0Pks>  
+📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/pescados-mariscos/bacalao-riojana-42529.html>
 
-**Ingredientes:**
-- 340 g de lomo de bacalao en tacos (descongelado).
-- 400 g de garbanzos cocidos, escurridos y enjuagados.
-- 240 g de patata.
-- 120 g de cebolla.
-- 80 g de pimiento rojo.
-- 80 g de pimiento verde.
-- 60 g de tomate triturado natural.
-- 20 ml de AOVE.
-- 1 diente de ajo, pimentón dulce, 1 hoja de laurel y perejil.
-- Unos 600 ml de agua (o caldo de pescado sin azúcar).
+**Ingredientes (Salsa riojana):**
+- 240 g de pimiento rojo (morrón) para asar.
+- 160 g de cebolla.
+- 1 diente de ajo, sal y perejil.
+- 400 g de tomate triturado natural.
+- 16 ml de AOVE.
+
+**Ingredientes (Bacalao y guarnición):**
+- 340 g de lomo de bacalao (desalado o fresco-congelado, descongelado).
+- 360 g de patata.
 
 **Instrucciones:**
-1. Dora el ajo picado 30 segundos en el aceite, añade la cebolla con una pizca de sal 5 minutos y después los pimientos en dados otros 5.
-2. Fuera del fuego, añade el pimentón; echa el tomate y cocina 2–3 minutos. Si quieres la salsa más fina, tritura el sofrito con un poco de agua.
-3. Añade la patata chascada (clava el cuchillo y rompe el trozo para que suelte almidón) y el laurel, cubre con el agua y cuece 20 minutos a fuego medio.
-4. Añade los garbanzos y el bacalao y cuece 5 minutos sin remover, moviendo la cazuela en vaivén (4 minutos si el bacalao es fresco-congelado).
-5. Rectifica de sal (si el bacalao es «punto de sal», prueba antes), reposa 5 minutos y sirve con perejil.
+1. Pimientos: lávalos, úntalos con un poco del aceite y sal y ásalos en el horno a 180 °C 35–40 minutos (airfryer: 180 °C, 20–25 minutos), dándoles la vuelta a mitad. Cuando templen, pélalos, córtalos en tiras y guarda el jugo.
+2. Salsa: pocha la cebolla picada y el ajo con el resto del aceite 10 minutos, añade el tomate y la sal y cuece 25–30 minutos a fuego suave; tritúrala para que quede fina. En el robot: sofrito 10 min/120 °C/vel 1, tomate 25 min/100 °C/vel 1 y triturar 30 s a vel 7. Sin azúcar: si queda ácida, unos minutos más de fuego.
+3. Patata en dados de 2 cm, en un bol tapado con un poco de agua, 6–7 minutos de microondas.
+4. El día que lo comas: calienta la salsa en una cazuela, pon los lomos bien secos con la piel hacia arriba y cuécelos a fuego muy suave 5–6 minutos por lado (4 si son fresco-congelados), moviendo la cazuela en vaivén, sin remover.
+5. Añade las tiras de pimiento con su jugo y la patata, 2 minutos más, y perejil por encima.
 
-*Tupper:* Excelente: 3 días en la nevera (congélalo sin la patata).
-*Batch cooking:* En el batch, el potaje sin el bacalao (pasos 1–3 y los garbanzos), a la nevera. El día que lo comas: calienta una ración y cuece el bacalao dentro 5 minutos.
-*Cambios respecto a la fuente:* Tomate triturado natural en vez de tomate frito; versión sin espinacas.
+*Tupper:* La salsa con los pimientos y la patata, del batch (3 días en la nevera); el bacalao, el mismo día.
+*Batch cooking:* En el batch, los pimientos asados, la salsa y la patata, a la nevera. El día que lo comas: calienta la salsa y cuece el bacalao dentro 5–6 minutos por lado.
+*Cambios respecto a la fuente:* Sin azúcar; la mitad de ajo y el aceite medido; una sola cebolla, en la salsa (Arguiñano rehoga otra aparte); con patata para que sea un plato completo de táper.
 
 ---
 

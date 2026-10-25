@@ -9,13 +9,13 @@
 - 12 Kiwis (desayunos y meriendas)
 - 1 Granada (se usan 80 g de granos)
 - 2 Aguacates (unos 260 g de pulpa)
-- 590 g Pimientos rojos o de colores
-- 440 g Pimientos verdes italianos
-- 950 g Cebollas (incluye cebolleta y morada)
+- 750 g Pimientos rojos o de colores
+- 360 g Pimientos verdes italianos
+- 990 g Cebollas (incluye cebolleta y morada)
 - 240 g Calabacines
 - 200 g Zanahorias
 - 720 g Tomates (incluye cherrys)
-- 2,18 kg Patatas
+- 2,3 kg Patatas
 - 160 g Puerros
 - 2 bolsas Rúcula o canónigos (unos 210 g)
 - 1 paquete Remolacha cocida (se usan 100 g)
@@ -51,25 +51,24 @@
 
 ## Despensa
 - 320 g Lenteja pardina
-- 400 g Garbanzos cocidos (escurridos, unos 2 botes)
 - 130 g Espaguetis integrales o normales (mira si os quedan del paquete)
 - 280 g Copos de avena
 - 110 g Copos de maíz sin azúcar (para los rebozados)
 - 210 g Pipas de calabaza sin sal
-- 460 g Tomate triturado natural
+- 800 g Tomate triturado natural
 - 1 bote Alcaparras (se usan 15 g)
 - 1 Salsa de soja baja en sodio (si no te queda)
 - 1 Mostaza (si no te queda)
 - 1 Salsa barbacoa sin azúcar (si no te queda)
 - 1 Vinagre balsámico (si no te queda; no crema de balsámico)
-- 190 ml Aceite de oliva virgen extra (se usan esta semana)
+- 180 ml Aceite de oliva virgen extra (se usan esta semana)
 - Salsa picante (opcional)
 
 ## Congelados
 - 600 g Guisantes finos congelados
 
 ## Especias y condimentos
-- Comino, Curry en polvo, Laurel, Orégano, Pimentón dulce, Romero o tomillo (revisa lo que tienes)
+- Comino, Curry en polvo, Orégano, Pimentón dulce, Romero o tomillo (revisa lo que tienes)
 - Sal, pimienta, ajo en polvo y cebolla en polvo (básicos)
 
 ## Opcional: Big Mac en casa el sábado (x2)

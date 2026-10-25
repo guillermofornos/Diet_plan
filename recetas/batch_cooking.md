@@ -17,7 +17,6 @@
 
 **A la nevera:**
 - Lentejas con pollo, 4 raciones (lunes y martes)
-- Potaje de garbanzos sin el bacalao, 2 raciones (miércoles)
 - Pechuga asada y desmenuzada para las fajitas (miércoles)
 - Verduras picadas: fajicesta (lunes), pizza (martes) y fajitas (miércoles)
 
@@ -35,7 +34,6 @@
 | 0:05 | Robot y tabla | Trocea en el robot, por tandas, la cebolla, la zanahoria, los pimientos y el puerro de las lentejas y de la tofuloñesa (4–5 s/vel 5), y guarda cada verdura aparte. A cuchillo: el calabacín, el tomate, la juliana de pimientos y cebolla de las fajitas, la verdura de la fajicesta y el pimiento y la cebolla de la pizza (estas tres, en táperes). |
 | 0:20 | Horno | Marina la pechuga de las fajitas con la soja, la mostaza y las especias y hornéala 25–30 minutos. |
 | 0:20 | Fuego 1 · olla a presión | Dora el pollo de las lentejas 1 minuto por lado y resérvalo en la nevera. En la misma olla, sofrito: cebolla y zanahoria 10 minutos, pimiento, puerro y calabacín 10 más, y el tomate con las especias. |
-| 0:25 | Robot | Potaje de garbanzos sin el bacalao: ajo, cebolla y pimientos troceados (5 s/vel 5) y sofritos con el aceite 10 min/120 °C/vel 1; pimentón y tomate 3 min; tritura con un vaso de agua 30 s/vel 7. Añade la patata chascada, el laurel y el resto del agua: 20 min/100 °C/vel 1/giro inverso. Añade los garbanzos: 3 min/100 °C/giro inverso. El bacalao no: se cuece el miércoles. |
 | 0:25 | Fuego 2 · sartén | Tofuloñesa: mezcla el tofu rallado con las especias; pocha la cebolla y los pimientos 10 minutos, añade el tofu 6–8 minutos y el tomate 8–10. |
 | 0:45 | Fuego 1 · olla a presión | Añade las lentejas, la patata y el agua, cierra y cuece 12–15 minutos desde que suba la válvula. Deja que baje la presión sola. |
 | 0:50 | Horno | Saca la pechuga, deja que temple, desmenúzala y guárdala. Apaga el horno. |
@@ -46,14 +44,14 @@
 | 1:25 | Táperes | Deja templar, reparte, etiqueta con el día y guarda: a la nevera lo de lunes a miércoles y al congelador lo de jueves y viernes. |
 
 **Recordatorios de la semana:**
-- **Lunes 26:** Compra 140 g de jamón cocido extra (o pechuga de pavo en lonchas) para la pizza del martes, que ya no lleva atún.
-- **Martes 27 por la noche:** Pasa el bacalao a la nevera para que se descongele.
-- **Miércoles 28 por la mañana:** Calienta el potaje en un cazo, cuece dentro el bacalao 5 minutos y llévalo en los táperes.
+- **Lunes 26:** Compra 140 g de jamón cocido extra (o pechuga de pavo en lonchas) para la pizza del martes, que ya no lleva atún, y para el bacalao a la riojana del miércoles un bote de tomate triturado (400 g) y un pimiento rojo grande.
+- **Martes 27 por la noche:** Pasa el bacalao a la nevera. Haz la salsa riojana en el robot (unos 40 minutos), asa los pimientos en la airfryer (180 °C, 20–25 minutos) y cuece la patata en dados (6–7 minutos de microondas); todo a la nevera.
+- **Miércoles 28 por la mañana:** Calienta la salsa riojana en una cazuela y cuece dentro el bacalao 5–6 minutos por lado; añade los pimientos y la patata 2 minutos y a los táperes.
 - **Miércoles 28 por la noche:** Pasa del congelador a la nevera la tofuloñesa (jueves) y el marinado del kebab.
 - **Jueves 29:** Kebab: pon las patatas en remojo al llegar a casa.
 - **Jueves 29 por la noche:** Pasa a la nevera los guisantes y los solomillos de la barbacoa; cuece 2 huevos 10 minutos y 300 g de patata en dados (5–6 minutos de microondas) y añádelos a los táperes del viernes.
 - **Viernes 30 por la noche:** Deja los solomillos del sábado en el adobo barbacoa y pasa a la nevera los de los fingers.
-- **Sábado 31:** Con la compra de la semana siguiente, coge canónigos y hierbabuena frescos para el domingo.
+- **Sábado 31:** Con la compra de la semana siguiente, coge canónigos y hierbabuena frescos para el domingo. No compres garbanzos: te quedan los de esta semana para el potaje del miércoles 4.
 - **Sábado 31 por la noche:** Pasa la merluza a la nevera, haz la tártara y deja marinando los fingers (para el domingo).
 
 ---
