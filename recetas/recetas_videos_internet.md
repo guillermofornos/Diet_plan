@@ -1,6 +1,6 @@
 # Recetas de Vídeos e Internet (Otoño)
 
-*Nota: estas cantidades son **solo para 1 persona** (tus macros). Multiplica x2 al cocinar para los dos. Kcal y macros aproximados, calculados con valores medios por 100 g y etiquetas de Mercadona.*
+*Nota: cantidades para **2 personas** (los dos coméis lo mismo). Las kcal y los macros son por persona, aproximados, calculados con valores medios por 100 g y etiquetas de Mercadona.*
 
 *Todas vienen de vídeos de YouTube o recetas de internet (enlace en cada una) y están adaptadas a `PERFIL.md` y a tus normas: solomillos en vez de contramuslos, merluza siempre rebozada, nada de lechuga, espinacas, pepinillos ni quesos curados.*
 
@@ -16,18 +16,18 @@
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=7aLt6GAkC2s>
 
 **Ingredientes:**
-- 80 g de lenteja pardina (en seco).
-- 150 g de solomillos de pollo en dados.
-- 60 g de cebolla.
-- 50 g de zanahoria.
-- 40 g de pimiento verde.
-- 40 g de puerro.
-- 50 g de calabacín.
-- 75 g de tomate maduro.
-- 100 g de patata chascada (día de entreno).
-- 10 ml de AOVE.
-- Pimentón dulce y comino (media cucharadita de cada), media hoja de laurel, sal y pimienta.
-- 500 ml de agua (350 ml en olla exprés).
+- 160 g de lenteja pardina (en seco).
+- 300 g de solomillos de pollo en dados.
+- 120 g de cebolla.
+- 100 g de zanahoria.
+- 80 g de pimiento verde.
+- 80 g de puerro.
+- 100 g de calabacín.
+- 150 g de tomate maduro.
+- 200 g de patata chascada (día de entreno).
+- 20 ml de AOVE.
+- Pimentón dulce y comino (1 cucharadita de cada), 1 hoja de laurel, sal y pimienta.
+- 1000 ml de agua (700 ml en olla exprés).
 
 **Instrucciones:**
 1. Lava las lentejas (la pardina no necesita remojo). Pica fino la cebolla, la zanahoria, el pimiento, el puerro y el calabacín, y ralla el tomate.
@@ -49,19 +49,19 @@
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=fUhWRSZiauI>
 
 **Ingredientes (Ingredientes):**
-- 80 g de lenteja pardina (en seco).
-- 150 g de pechuga o solomillo de pavo en dados.
-- 150 g de calabaza pelada.
-- 125 g de cebolla.
-- 30 g de tomate triturado natural.
-- 5 ml de AOVE.
-- Media cucharadita de curry en polvo y sal.
-- 300 ml de agua en olla exprés (450 ml en olla normal).
-- 60 g de yogur natural para servir.
+- 160 g de lenteja pardina (en seco).
+- 300 g de pechuga o solomillo de pavo en dados.
+- 300 g de calabaza pelada.
+- 250 g de cebolla.
+- 60 g de tomate triturado natural.
+- 10 ml de AOVE.
+- 1 cucharadita de curry en polvo y sal.
+- 600 ml de agua en olla exprés (900 ml en olla normal).
+- 120 g de yogur natural para servir.
 - Perejil o cilantro.
 
 **Ingredientes (Acompañamiento (día de entreno)):**
-- 40 g de arroz integral (en crudo).
+- 80 g de arroz integral (en crudo).
 
 **Instrucciones:**
 1. Pica la cebolla, corta la calabaza en dados de 1 cm y el pavo en dados de 2 cm. Lava las lentejas.
@@ -84,16 +84,16 @@
 📄 **Receta escrita:** <https://lasrecetasdemj.com/2024/10/garbanzos-con-bacalao.html>
 
 **Ingredientes:**
-- 170 g de lomo de bacalao en tacos (descongelado).
-- 200 g de garbanzos cocidos, escurridos y enjuagados.
-- 120 g de patata.
-- 60 g de cebolla.
-- 40 g de pimiento rojo.
-- 40 g de pimiento verde.
-- 30 g de tomate triturado natural.
-- 10 ml de AOVE.
-- Medio diente de ajo, pimentón dulce, media hoja de laurel y perejil.
-- Unos 300 ml de agua (o caldo de pescado sin azúcar).
+- 340 g de lomo de bacalao en tacos (descongelado).
+- 400 g de garbanzos cocidos, escurridos y enjuagados.
+- 240 g de patata.
+- 120 g de cebolla.
+- 80 g de pimiento rojo.
+- 80 g de pimiento verde.
+- 60 g de tomate triturado natural.
+- 20 ml de AOVE.
+- 1 diente de ajo, pimentón dulce, 1 hoja de laurel y perejil.
+- Unos 600 ml de agua (o caldo de pescado sin azúcar).
 
 **Instrucciones:**
 1. Dora el ajo picado 30 segundos en el aceite, añade la cebolla con una pizca de sal 5 minutos y después los pimientos en dados otros 5.
@@ -115,24 +115,24 @@
 📄 **Receta escrita:** <https://lasrecetasdemj.com/2016/03/bacalao-la-vizcaina-videoreceta.html>
 
 **Ingredientes (Salsa vizcaína):**
-- 120 g de cebolla morada.
-- 40 g de puerro (parte blanca).
-- 60 g de pimiento verde italiano.
-- 80 g de tomate maduro rallado.
-- 20 g de carne de pimiento choricero (o 3 choriceros secos).
-- 10 g de pan del día anterior.
-- 10 ml de AOVE.
-- Medio diente de ajo, sal y pimienta.
-- 250 ml de caldo de pescado sin azúcar (o agua).
+- 240 g de cebolla morada.
+- 80 g de puerro (parte blanca).
+- 120 g de pimiento verde italiano.
+- 160 g de tomate maduro rallado.
+- 40 g de carne de pimiento choricero (o 6 choriceros secos).
+- 20 g de pan del día anterior.
+- 20 ml de AOVE.
+- 1 diente de ajo, sal y pimienta.
+- 500 ml de caldo de pescado sin azúcar (o agua).
 
 **Ingredientes (Bacalao y guarnición):**
-- 180 g de lomo de bacalao (descongelado).
-- 70 g de arroz integral (en crudo).
+- 360 g de lomo de bacalao (descongelado).
+- 140 g de arroz integral (en crudo).
 
 **Instrucciones:**
 1. Si usas choriceros secos, remójalos 1 hora en agua tibia y raspa la carne con una cucharilla.
 2. Dora el ajo 30 segundos en el aceite, añade la cebolla, el puerro y el pimiento picados con una pizca de sal, tapa y pocha a fuego bajo 30–35 minutos (1–2 cucharadas de agua si se agarra).
-3. Añade el pan, el tomate y el choricero y rehoga 2 minutos; echa 150 ml de caldo por persona y cuece 15 minutos; añade el resto y 5 minutos más.
+3. Añade el pan, el tomate y el choricero y rehoga 2 minutos; echa 300 ml de caldo y cuece 15 minutos; añade el resto y 5 minutos más.
 4. Tritura y pasa por un colador; debe quedar como una crema ligera.
 5. El día que lo comas: calienta la salsa en una cazuela pequeña a fuego muy suave y cuece dentro los lomos 10–12 minutos si son desalados y gruesos (6–8 si son fresco-congelados), dándoles la vuelta a mitad.
 6. Sirve con el arroz integral, cocido en el batch.
@@ -150,33 +150,33 @@
 ▶ **Otro vídeo:** <https://www.youtube.com/watch?v=0jzDq5TupPI>
 
 **Ingredientes (Merluza rebozada):**
-- 180 g de lomo de merluza (descongelado y bien seco).
-- 1/2 huevo.
-- 3 g de mostaza.
-- 25 g de copos de maíz sin azúcar.
+- 360 g de lomo de merluza (descongelado y bien seco).
+- 1 huevo.
+- 6 g de mostaza.
+- 50 g de copos de maíz sin azúcar.
 - Ralladura de limón, pimentón dulce, pimienta y sal.
-- 3 ml de AOVE en spray.
+- 6 ml de AOVE en spray.
 
 **Ingredientes (Patatas):**
-- 250 g de patata con piel bien lavada.
-- 5 ml de AOVE.
+- 500 g de patata con piel bien lavada.
+- 10 ml de AOVE.
 - Pimentón dulce, romero o tomillo, una pizca de ajo en polvo y sal.
 
 **Ingredientes (Guisantes machacados):**
-- 100 g de guisantes congelados.
-- 2 ml de AOVE.
+- 200 g de guisantes congelados.
+- 4 ml de AOVE.
 - Hierbabuena (unas 8 hojas), zumo de limón, sal y pimienta.
 
 **Ingredientes (Tártara de yogur):**
-- 60 g de yogur natural.
-- 8 g de alcaparras picadas.
-- 10 g de cebolleta.
-- 2 g de mostaza.
+- 120 g de yogur natural.
+- 16 g de alcaparras picadas.
+- 20 g de cebolleta.
+- 4 g de mostaza.
 - Perejil, limón y pimienta.
 
 **Instrucciones:**
 1. Patatas en bastones o gajos de 1–1,5 cm, 15 minutos en agua fría, bien secas y mezcladas con el aceite y las especias. Airfryer a 200 °C 20–25 minutos removiendo cada 8 (horno: 220 °C 30–35 minutos).
-2. Guisantes en un cazo con el aceite, 30 ml de agua por persona, la hierbabuena picada y sal; tapa 8–10 minutos, añade el limón y aplástalos con un tenedor.
+2. Guisantes en un cazo con el aceite, 60 ml de agua, la hierbabuena picada y sal; tapa 8–10 minutos, añade el limón y aplástalos con un tenedor.
 3. Tártara: mezcla el yogur con las alcaparras, la cebolleta, el perejil, la mostaza, el limón y pimienta (se puede hacer la víspera).
 4. Merluza seca y salada: pásala por el huevo batido con la mostaza y por los copos triturados con la ralladura y el pimentón, y rocíala con el spray.
 5. Airfryer a 190 °C 10–12 minutos (lomo de unos 3 cm) u horno a 200 °C 14–16 minutos.
@@ -194,15 +194,15 @@
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=VBzkbiCoRTk&t=236s>
 
 **Ingredientes:**
-- 65 g de espaguetis integrales o normales (en seco).
-- 250 g de tofu firme.
-- 60 g de cebolla.
-- 50 g de pimiento rojo.
-- 50 g de pimiento verde.
-- 150 g de tomate triturado natural.
-- 5 ml de AOVE.
+- 130 g de espaguetis integrales o normales (en seco).
+- 500 g de tofu firme.
+- 120 g de cebolla.
+- 100 g de pimiento rojo.
+- 100 g de pimiento verde.
+- 300 g de tomate triturado natural.
+- 10 ml de AOVE.
 - Pimentón, cebolla en polvo, una pizca de ajo en polvo, pimienta, cayena y sal.
-- 30 g de mozzarella fresca (opcional).
+- 60 g de mozzarella fresca (opcional).
 
 **Instrucciones:**
 1. Prensa el tofu entre papel de cocina con un peso 10–15 minutos y rállalo grueso.
@@ -212,7 +212,7 @@
 5. Cuece la pasta el tiempo que diga el paquete (la normal suele tardar algo menos que la integral). Añade el tomate al tofu y deja reducir 8–10 minutos.
 6. Mezcla con la pasta y sirve con la mozzarella por encima.
 
-*Día de descanso:* 45 g de pasta en lugar de 65 g. (≈ 635 kcal · 42 g proteína · 46 g HC · 28 g grasa).
+*Día de descanso:* 90 g de pasta en lugar de 130 g. (≈ 635 kcal · 42 g proteína · 46 g HC · 28 g grasa por persona).
 *Tupper:* La salsa, 3–4 días o congelada 3 meses; la pasta mejor del día.
 *Batch cooking:* Entera en el batch, con la pasta: 3 días en la nevera o al congelador.
 *Cambios respecto a la fuente:* Tomate triturado natural en vez de frito; mozzarella fresca en vez de rallada.
@@ -225,15 +225,15 @@
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=VBzkbiCoRTk&t=474s>
 
 **Ingredientes (Guisantes (en el batch)):**
-- 200 g de guisantes finos congelados.
-- 60 g de cebolleta.
-- 35 g de taquitos de jamón serrano.
-- 6 ml de AOVE.
+- 400 g de guisantes finos congelados.
+- 120 g de cebolleta.
+- 70 g de taquitos de jamón serrano.
+- 12 ml de AOVE.
 - Pimentón dulce y pimienta (sin sal: el jamón ya sala).
 
 **Ingredientes (La noche antes):**
-- 150 g de patata en dados.
-- 1 huevo cocido.
+- 300 g de patata en dados.
+- 2 huevos cocidos.
 
 **Instrucciones:**
 1. En el batch: dora el jamón con el aceite 1–2 minutos a fuego medio-bajo, añade la cebolleta picada 4–5 minutos y luego los guisantes congelados; tapa y cocina 5–7 minutos. Enfría y congela en táperes.
@@ -252,23 +252,23 @@
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=VBzkbiCoRTk&t=70s>
 
 **Ingredientes (Pollo en adobo):**
-- 180 g de solomillos de pollo.
-- 20 g de salsa barbacoa sin azúcar.
-- 5 ml de AOVE.
+- 360 g de solomillos de pollo.
+- 40 g de salsa barbacoa sin azúcar.
+- 10 ml de AOVE.
 - Pimentón dulce, cebolla en polvo, una pizca de ajo en polvo, pimienta y sal.
 
 **Ingredientes (Patatas exprés):**
-- 220 g de patata.
-- 2 ml de AOVE en spray.
+- 440 g de patata.
+- 4 ml de AOVE en spray.
 
 **Ingredientes (Ensalada):**
-- 40 g de canónigos.
-- 80 g de tomates cherry.
-- 20 g de cebolla morada.
-- 40 g de granada desgranada.
-- 40 g de mozzarella fresca.
-- 5 ml de AOVE.
-- 5 ml de vinagre balsámico.
+- 80 g de canónigos.
+- 160 g de tomates cherry.
+- 40 g de cebolla morada.
+- 80 g de granada desgranada.
+- 80 g de mozzarella fresca.
+- 10 ml de AOVE.
+- 10 ml de vinagre balsámico.
 
 **Instrucciones:**
 1. Mezcla el adobo, unta los solomillos y déjalos marinar al menos 15 minutos (mejor 2–4 horas en la nevera).
@@ -288,18 +288,18 @@
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=1_jICCSmU6A&t=48s>
 
 **Ingredientes (Gratinado):**
-- 250 g de patata.
-- 180 g de solomillos de pollo (unas 4 piezas).
-- 1 huevo.
-- 40 ml de leche.
-- 40 g de mozzarella fresca.
+- 500 g de patata.
+- 360 g de solomillos de pollo (unas 8 piezas).
+- 2 huevos.
+- 80 ml de leche.
+- 80 g de mozzarella fresca.
 - Curry, una pizca de ajo en polvo, pimienta y sal.
-- 3 ml de AOVE en spray.
+- 6 ml de AOVE en spray.
 
 **Ingredientes (Ensalada):**
-- 30 g de canónigos.
-- 80 g de tomate.
-- 3 ml de AOVE y vinagre o limón.
+- 60 g de canónigos.
+- 160 g de tomate.
+- 6 ml de AOVE y vinagre o limón.
 
 **Instrucciones:**
 1. Cuece la patata (o córtala cruda en rodajas de 3–4 mm) y cubre con ella el fondo de un molde para airfryer. Sal, pimienta y spray.
@@ -320,21 +320,21 @@
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=VBzkbiCoRTk&t=566s>
 
 **Ingredientes (Relleno):**
-- 150 g de pechuga de pollo en dados.
-- 60 g de cebolla.
-- 50 g de pimiento rojo.
-- 50 g de pimiento verde.
-- 40 g de tomate triturado.
-- 10 g de salsa barbacoa sin azúcar.
-- 6 ml de AOVE.
+- 300 g de pechuga de pollo en dados.
+- 120 g de cebolla.
+- 100 g de pimiento rojo.
+- 100 g de pimiento verde.
+- 80 g de tomate triturado.
+- 20 g de salsa barbacoa sin azúcar.
+- 12 ml de AOVE.
 - Pimentón ahumado, comino, sal y pimienta.
 
 **Ingredientes (Montaje):**
-- 2 tortillas integrales (72 g).
-- 40 g de mozzarella fresca escurrida.
-- 40 g de aguacate machacado con limón.
-- 15 g de canónigos.
-- 50 g de tomate en dados.
+- 4 tortillas integrales (144 g).
+- 80 g de mozzarella fresca escurrida.
+- 80 g de aguacate machacado con limón.
+- 30 g de canónigos.
+- 100 g de tomate en dados.
 
 **Instrucciones:**
 1. Saltea el pollo en dados con la mitad del aceite a fuego fuerte 6–7 minutos y resérvalo.
@@ -358,26 +358,26 @@
 📄 **Receta escrita:** <https://www.directoalpaladar.com/recetas-de-pescados-y-mariscos/tacos-de-merluza-con-salsa-picante-de-queso-fresco-receta>
 
 **Ingredientes (Merluza rebozada):**
-- 170 g de merluza en tiras (descongelada y bien seca).
-- 1/2 huevo.
-- 20 g de copos de maíz sin azúcar.
+- 340 g de merluza en tiras (descongelada y bien seca).
+- 1 huevo.
+- 40 g de copos de maíz sin azúcar.
 - Pimentón de la Vera, comino, ralladura de lima y sal.
-- 3 ml de AOVE en spray.
+- 6 ml de AOVE en spray.
 
 **Ingredientes (Tacos):**
-- 3 tortillas de maíz (78 g).
-- 15 g de canónigos.
-- 30 g de aguacate en láminas.
+- 6 tortillas de maíz (156 g).
+- 30 g de canónigos.
+- 60 g de aguacate en láminas.
 
 **Ingredientes (Pico de gallo):**
-- 90 g de tomate.
-- 30 g de piña natural.
-- 15 g de pimiento verde.
-- 20 g de cebolla morada.
+- 180 g de tomate.
+- 60 g de piña natural.
+- 30 g de pimiento verde.
+- 40 g de cebolla morada.
 - Cilantro o perejil, guindilla (opcional), zumo de lima y sal.
 
 **Ingredientes (Salsa de yogur y lima):**
-- 60 g de yogur natural.
+- 120 g de yogur natural.
 - Zumo y ralladura de lima, cilantro y una pizca de chipotle.
 
 **Instrucciones:**
@@ -400,17 +400,17 @@
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=LDsMNefTWL0&t=135s>
 
 **Ingredientes:**
-- 175 g de patata.
-- 50 g de cebolla o cebolleta.
-- 2 huevos.
-- 200 ml de claras.
-- 6 ml de AOVE.
+- 350 g de patata.
+- 100 g de cebolla o cebolleta.
+- 4 huevos.
+- 400 ml de claras.
+- 12 ml de AOVE.
 - Sal.
 
 **Instrucciones:**
 1. Pela la patata, córtala en láminas de medio centímetro y luego en triángulos, y sálala.
 2. Microondas en un bol tapado a máxima potencia 6–7 minutos, remueve y otros 3–6, hasta que esté hecha pero entera (para dos, en 2–3 tandas).
-3. Pocha la cebolla en juliana con 5 ml de aceite y sal, 6–8 minutos a fuego medio.
+3. Pocha la cebolla en juliana con 10 ml de aceite y sal, 6–8 minutos a fuego medio.
 4. Añade la patata y dórala 4–5 minutos.
 5. Bate los huevos con las claras, mezcla con la patata y la cebolla y deja reposar 2 minutos.
 6. Cuaja en sartén bien caliente con un poco de spray, 2–3 minutos por lado (dale la vuelta con un plato).
@@ -427,17 +427,17 @@
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=QfoqWVQ6TGE&t=262s>
 
 **Ingredientes (Masa):**
-- 80 g de avena molida.
-- 80 g de yogur +Proteínas natural.
+- 160 g de avena molida.
+- 160 g de yogur +Proteínas natural.
 - Una pizca de sal (y un poco de agua si hace falta).
 
 **Ingredientes (Encima):**
-- 50 g de tomate triturado natural.
-- 60 g de mozzarella fresca light.
-- 70 g de jamón cocido extra (o pechuga de pavo en lonchas).
-- 30 g de pimiento rojo.
-- 20 g de cebolla.
-- 2 ml de AOVE para el borde.
+- 100 g de tomate triturado natural.
+- 120 g de mozzarella fresca light.
+- 140 g de jamón cocido extra (o pechuga de pavo en lonchas).
+- 60 g de pimiento rojo.
+- 40 g de cebolla.
+- 4 ml de AOVE para el borde.
 - Orégano.
 
 **Instrucciones:**
@@ -459,15 +459,15 @@
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=Ng9gXmVFJVs&t=19s>
 
 **Ingredientes:**
-- 1 piadina Hacendado.
-- 1 huevo.
-- 100 ml de claras.
-- 50 g de yogur +Proteínas natural.
-- 20 g de calabacín.
-- 25 g de pimiento rojo y verde.
-- 15 g de cebolla.
-- 40 g de pechuga de pavo en lonchas (92 % carne).
-- 30 g de mozzarella fresca light.
+- 2 piadinas Hacendado.
+- 2 huevos.
+- 200 ml de claras.
+- 100 g de yogur +Proteínas natural.
+- 40 g de calabacín.
+- 50 g de pimiento rojo y verde.
+- 30 g de cebolla.
+- 80 g de pechuga de pavo en lonchas (92 % carne).
+- 60 g de mozzarella fresca light.
 - Sal, pimienta y un poco de AOVE en spray.
 
 **Instrucciones:**
@@ -489,12 +489,12 @@
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=k21RflDL2kw&t=603s>
 
 **Ingredientes:**
-- 2 tomates medianos (300 g).
-- 120 g de pimiento rojo en aros.
-- 2 huevos.
-- 50 ml de claras.
-- 80 g de solomillo de pollo.
-- 30 g de mozzarella fresca light.
+- 4 tomates medianos (600 g).
+- 240 g de pimiento rojo en aros.
+- 4 huevos.
+- 100 ml de claras.
+- 160 g de solomillo de pollo.
+- 60 g de mozzarella fresca light.
 - Cebollino, sal, pimienta y un poco de AOVE en spray.
 
 **Instrucciones:**
@@ -516,14 +516,14 @@
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=bgZcOVkEYlM&t=294s>
 
 **Ingredientes:**
-- 2 tortillas integrales (72 g).
-- 50 g de tomate triturado natural.
-- 60 g de mozzarella fresca light.
-- 50 g de jamón cocido extra o pavo.
-- 60 g de solomillo de pollo.
-- 15 g de aceitunas negras en rodajas.
+- 4 tortillas integrales (144 g).
+- 100 g de tomate triturado natural.
+- 120 g de mozzarella fresca light.
+- 100 g de jamón cocido extra o pavo.
+- 120 g de solomillo de pollo.
+- 30 g de aceitunas negras en rodajas.
 - Orégano.
-- Un puñado de rúcula por encima (15 g).
+- Rúcula por encima (30 g).
 
 **Instrucciones:**
 1. Haz el pollo a la plancha 6–7 minutos y desmenúzalo.
@@ -543,14 +543,14 @@
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=bgZcOVkEYlM&t=356s>
 
 **Ingredientes:**
-- 2 tortillas integrales (72 g).
-- 120 g de solomillos de pollo.
-- 20 g de canónigos.
-- 40 g de zanahoria rallada.
-- 60 g de tomates cherry.
-- 30 g de mozzarella fresca light.
-- 40 g de yogur +Proteínas.
-- 1 cucharadita de mostaza y unas gotas de limón.
+- 4 tortillas integrales (144 g).
+- 240 g de solomillos de pollo.
+- 40 g de canónigos.
+- 80 g de zanahoria rallada.
+- 120 g de tomates cherry.
+- 60 g de mozzarella fresca light.
+- 80 g de yogur +Proteínas.
+- 2 cucharaditas de mostaza y unas gotas de limón.
 - Pimentón, sal y un poco de AOVE en spray.
 
 **Instrucciones:**

@@ -1,16 +1,16 @@
 # Recetas de Desayunos (Originales del PDF)
 
-*Nota: Estas cantidades son **solo para 1 persona** (tus macros). A la hora de comprar y preparar para ti y para tu novia, multiplica todo x2 (como se indica en las listas de la compra).*
+*Nota: cantidades para **2 personas**, porque los dos coméis lo mismo (las listas de la compra ya van para los dos).*
 
 ---
 
 ### 1. Batido Proteico y Tostada Integral (Día Ejercicio)
 **Ingredientes:**
-- 125g de yogur natural sin azúcar.
-- 30g de avena en copos.
-- 1 plátano pequeño (≈100g).
-- 1 rebanada de pan integral (70g).
-- 1 kiwi grande (150g) *[Sustituyendo a la naranja por intolerancia]*.
+- 250g de yogur natural sin azúcar.
+- 60g de avena en copos.
+- 2 plátanos pequeños (≈200g).
+- 2 rebanadas de pan integral (140g).
+- 2 kiwis grandes (300g) *[Sustituyendo a la naranja por intolerancia]*.
 
 **Instrucciones:**
 1. En la licuadora, coloca el yogur natural, la avena y el plátano. Licúa hasta obtener una mezcla homogénea.
@@ -21,12 +21,12 @@
 
 ### 2. Tortilla de Claras con Cebolla y Pimiento + Tostada Integral (Día Descanso)
 **Ingredientes:**
-- 100 ml de claras de huevo (aprox. 3 claras).
-- 1 huevo entero (60g).
-- 30g de cebolla.
-- 50g de pimiento.
-- 3 ml de Aceite de Oliva Virgen Extra (AOVE).
-- 1 rebanada de pan integral (70g).
+- 200 ml de claras de huevo (aprox. 6 claras).
+- 2 huevos enteros (120g).
+- 60g de cebolla.
+- 100g de pimiento.
+- 6 ml de Aceite de Oliva Virgen Extra (AOVE).
+- 2 rebanadas de pan integral (140g).
 
 **Instrucciones:**
 1. Bate las claras con el huevo entero.
@@ -38,10 +38,10 @@
 
 ### 3. Batido de Plátano, Avena y Claras + Fruta (Día Ejercicio)
 **Ingredientes:**
-- 150 ml de claras de huevo (aprox. 5 claras).
-- 30g de avena.
-- 1 plátano mediano (≈118g).
-- 1 kiwi grande (150g) *[Sustituyendo a la naranja]*.
+- 300 ml de claras de huevo (aprox. 10 claras).
+- 60g de avena.
+- 2 plátanos medianos (≈236g).
+- 2 kiwis grandes (300g) *[Sustituyendo a la naranja]*.
 
 **Instrucciones:**
 1. En la licuadora, combina las claras (puedes calentarlas 1 min al microondas antes si lo prefieres para mejor digestión), la avena y el plátano. Licúa bien.
@@ -51,12 +51,12 @@
 
 ### 4. Tostada Integral con Aguacate y Huevo + Batido de Yogur y Kiwi (Viernes/Sábado)
 **Ingredientes:**
-- 1 rebanada de pan integral (50g).
-- 1/3 de aguacate (≈30g).
-- 1 huevo (60g).
+- 2 rebanadas de pan integral (100g).
+- 2/3 de aguacate (≈60g).
+- 2 huevos (120g).
 - Unas gotas de limón y sal.
-- 125g de yogur natural sin azúcar.
-- 1 kiwi grande (150g) *[Sustituyendo a la naranja]*.
+- 250g de yogur natural sin azúcar.
+- 2 kiwis grandes (300g) *[Sustituyendo a la naranja]*.
 
 **Instrucciones:**
 1. Tuesta el pan integral.

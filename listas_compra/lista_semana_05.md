@@ -10,10 +10,10 @@
 - 1 Granada (se usan 80 g de granos)
 - 1 trozo Piña natural (unos 60 g)
 - 2 Aguacates (unos 240 g de pulpa)
-- 360 g Pimientos rojos o de colores
-- 410 g Pimientos verdes italianos
-- 860 g Cebollas (incluye cebolleta y morada)
-- 200 g Zanahorias
+- 340 g Pimientos rojos o de colores
+- 310 g Pimientos verdes italianos
+- 880 g Cebollas (incluye cebolleta y morada)
+- 280 g Zanahorias
 - 1,06 kg Tomates (incluye cherrys)
 - 1,69 kg Patatas
 - 200 g Puerros
@@ -26,13 +26,13 @@
 - Perejil
 
 ## Carne, huevos y tofu
-- 2 docenas y media Huevos (se usan 24)
+- 2 docenas y media Huevos (se usan 25)
 - 1,1 L Claras de huevo pasteurizadas
 - 280 g Pechuga de pollo
 - 1,42 kg Solomillos de pollo
 - 180 g Taquitos de jamón serrano
 - 140 g Jamón cocido extra
-- 500 g Tofu firme (2 bloques de 400 g)
+- 320 g Carne picada magra, mitad ternera y mitad cerdo (pídela en la carnicería y cocínala en 24 horas)
 
 ## Pescado
 - 340 g Merluza congelada (lomos o filetes)
@@ -42,21 +42,20 @@
 - 8 Yogures naturales sin azúcar (de 125 g)
 - 2 Yogur +Proteínas natural (vasitos de 120 g, en packs de 4)
 - 14 Natillas +Proteínas (4 packs de 4)
-- 3 bolas Mozzarella fresca (se usan 260 g)
+- 2 bolas Mozzarella fresca (se usan 200 g)
 - 1 bola Mozzarella fresca light (se usan 120 g)
-- 140 ml Leche o bebida de soja sin azúcar
+- 160 ml Leche o bebida de soja sin azúcar
 
 ## Pan y tortillas
-- 720 g Pan integral (100% integral)
+- 750 g Pan integral (100% integral)
 - 1 trozo Pan de pueblo (20 g)
 - 2 Panes de cristal (o de hamburguesa 100% integrales)
 - 6 Tortillas de maíz (paquete de 8)
 
 ## Despensa
 - 360 g Lenteja pardina
-- 140 g Arroz integral
+- 260 g Arroz integral
 - 120 g Arroz redondo
-- 130 g Espaguetis integrales o normales (mira si os quedan del paquete)
 - 300 g Copos de avena
 - 140 g Copos de maíz sin azúcar (para los rebozados)
 - 210 g Pipas de calabaza sin sal

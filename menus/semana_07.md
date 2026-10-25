@@ -1,6 +1,6 @@
 # Menú Semana 7 (Basado en PDF Original)
 
-*Nota: Revisa `recetas/` para la preparación exacta. Multiplica cantidades por 2 si cocinas para tu novia.*
+*Nota: Revisa `recetas/` para la preparación exacta; las recetas vienen para 2 personas, porque los dos coméis lo mismo.*
 
 | Día | Desayuno | Comida | Merienda | Cena |
 | :--- | :--- | :--- | :--- | :--- |

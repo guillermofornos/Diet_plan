@@ -112,7 +112,7 @@
 - Pimiento y cebolla en tiras para la pizza (lunes)
 
 **Al congelador** (pásalo a la nevera la noche antes):
-- Tofuloñesa, 2 raciones (jueves)
+- Albóndigas en salsa con su arroz, 2 raciones (jueves)
 - Salsa vizcaína con su arroz, 2 raciones (viernes; el bacalao se cuece el viernes)
 - Solomillos del crispy en la leche (jueves)
 - Pechuga cruda del risotto, en dados (martes)
@@ -122,25 +122,25 @@
 
 | Hora | Dónde | Qué hacer |
 | :--- | :--- | :--- |
-| 0:00 | Preparación | Prensa el tofu. Lava las lentejas (en la olla a presión no hace falta remojarlas) y el arroz. Si usas choriceros secos, ponlos en remojo. Precalienta el horno a 200 °C. |
-| 0:05 | Robot y tabla | Trocea en el robot, por tandas, el ajo, el tomate, la zanahoria, el pimiento y la cebolla de las lentejas y la cebolla y los pimientos de la tofuloñesa (4–5 s/vel 5); guarda cada cosa aparte. A cuchillo, el pimiento y la cebolla de la pizza del lunes. |
+| 0:00 | Preparación | Lava las lentejas (en la olla a presión no hace falta remojarlas) y el arroz. Si usas choriceros secos, ponlos en remojo. Precalienta el horno a 200 °C. |
+| 0:05 | Robot y tabla | Trocea en el robot, por tandas, el ajo, el tomate, la zanahoria, el pimiento y la cebolla de las lentejas y la cebolla, la zanahoria y el pimiento de la salsa de las albóndigas (4–5 s/vel 5); guarda cada cosa aparte. Luego, la mezcla de las albóndigas: cebolla, ajo, pan, leche, huevo y perejil 6 s/vel 6, y la carne con la sal 15–20 s/vel 5. A cuchillo, el pimiento y la cebolla de la pizza del lunes. |
 | 0:20 | Robot | Salsa vizcaína sin el bacalao: cebolla morada, puerro y pimiento verde troceados (5 s/vel 5); con el aceite y el ajo, 30 min/120 °C/vel 1/giro inverso, con el cestillo encima en vez del cubilete. Añade el tomate, el choricero y el pan: 3 min/120 °C. Añade el caldo: 15 min/100 °C/vel 1. Tritura 1 min a vel 5–10 progresivo (no hace falta colarla). |
+| 0:20 | Airfryer | Haz las albóndigas (unas 12, del tamaño de una nuez) y ponlas a 190 °C 8–10 minutos, en dos tandas si no caben. |
 | 0:20 | Fuego 1 · olla a presión | Lentejas con jamón (4 raciones): sofríe sus verduras con el aceite 10 minutos. |
-| 0:25 | Fuego 2 · olla | Arroz integral: 140 g para la vizcaína, el tiempo del paquete. |
+| 0:25 | Fuego 2 · olla | Arroz integral: 260 g (140 para la vizcaína y 120 para las albóndigas), el tiempo del paquete. |
 | 0:25 | Horno | Gratinado al curry en una fuente: patata en rodajas finas con spray y sal 20 minutos; encima el pollo con el huevo, la leche y el curry, 12–15 minutos; la mozzarella y 3–4 minutos más. |
 | 0:30 | Fuego 1 · olla a presión | Añade las lentejas, el jamón, la patata chascada, el caldo, el pimentón y el laurel: presión 12–15 minutos y que baje sola. |
-| 0:30 | Fuego 3 · sartén | Tofuloñesa: cebolla y pimientos 10 minutos, tofu 6–8 y tomate 8–10. |
-| 1:00 | Fuego 3 · olla | Agua para la pasta: 130 g de espaguetis; escúrrelos y mézclalos con la tofuloñesa. |
+| 0:30 | Fuego 3 · sartén | Salsa de las albóndigas: sofríe sus verduras con el aceite 8 minutos y añade el tomate y el laurel 10 minutos; quita el laurel, mete las albóndigas y cuécelas 10 minutos a fuego suave. |
 | 1:00 | Fuego 2 · cazo | Cuando el arroz esté hecho, escúrrelo. En ese fuego, cuece 4 huevos 10 minutos para las lentejas; guárdalos con cáscara. |
 | 1:05 | Horno | Saca el gratinado y deja que temple. Apaga el horno. |
 | 1:10 | Fuego 1 | Abre la olla y rectifica de sal las lentejas. |
 | 1:15 | Encimera | Crispy del jueves: solomillos con la leche, el pimentón y la sal, en una bolsa de congelación. La pechuga del risotto (280 g), en dados y en otra bolsa. |
-| 1:20 | Táperes | Deja templar, reparte y etiqueta: nevera de lunes a miércoles; congelador la tofuloñesa, la salsa vizcaína con su arroz, el crispy, la pechuga del risotto y los solomillos de la barbacoa y de los fingers. |
+| 1:20 | Táperes | Deja templar, reparte y etiqueta: nevera de lunes a miércoles; congelador las albóndigas con su arroz, la salsa vizcaína con su arroz, el crispy, la pechuga del risotto y los solomillos de la barbacoa y de los fingers. |
 
 **Recordatorios de la semana:**
 - **Lunes 9 por la noche:** Pasa a la nevera la pechuga del risotto (cena del martes).
 - **Martes 10:** Risotto: en el robot, unos 30 minutos al llegar a casa.
-- **Miércoles 11 por la noche:** Pasa a la nevera la tofuloñesa y el crispy del jueves; cuece 1 huevo y haz la mayonesa proteica.
+- **Miércoles 11 por la noche:** Pasa a la nevera las albóndigas y el crispy del jueves; cuece 1 huevo y haz la mayonesa proteica.
 - **Jueves 12 por la noche:** Pasa a la nevera la salsa vizcaína con su arroz, el bacalao y los solomillos de la barbacoa.
 - **Viernes 13 por la mañana:** Calienta la salsa y cuece dentro el bacalao 10–12 minutos; con el arroz, a los táperes.
 - **Viernes 13 por la noche:** Deja los solomillos del sábado en el adobo barbacoa y pasa a la nevera los de los fingers.

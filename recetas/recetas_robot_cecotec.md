@@ -1,6 +1,6 @@
 # Recetas del Robot Cecotec
 
-*Nota: estas cantidades son **solo para 1 persona** (tus macros). Multiplica x2 al cocinar para los dos. Kcal y macros aproximados.*
+*Nota: cantidades para **2 personas** (los dos coméis lo mismo). Las kcal y los macros son por persona y aproximados.*
 
 *Sacadas del libro de recetas del robot Cecotec (fotos del 25 de octubre) y adaptadas a `PERFIL.md`: sin vino (alcohol 51), mantequilla (45), parmesano (queso curado 55) ni espinacas (41); con menos aceite y jamón, caldo bajo en sal y garbanzos de bote. Los programas son los del libro (velocidad, temperatura y tiempo), para vuestra Mambo.*
 
@@ -16,17 +16,17 @@
 📖 Libro del robot Cecotec, pág. 57
 
 **Ingredientes:**
-- 90 g de lenteja pardina (en seco), en remojo 2–4 horas.
-- 40 g de taquitos de jamón serrano.
-- 40 g de cebolla.
-- 50 g de zanahoria.
-- 40 g de pimiento verde.
-- 60 g de tomate.
-- 8 ml de AOVE.
-- Medio diente de ajo, media cucharadita de pimentón dulce, media hoja de laurel y sal.
-- 250 ml de caldo de verduras bajo en sal (o agua).
-- 100 g de patata chascada (día de entreno).
-- 1 huevo para cocer y servir encima.
+- 180 g de lenteja pardina (en seco), en remojo 2–4 horas.
+- 80 g de taquitos de jamón serrano.
+- 80 g de cebolla.
+- 100 g de zanahoria.
+- 80 g de pimiento verde.
+- 120 g de tomate.
+- 16 ml de AOVE.
+- 1 diente de ajo, 1 cucharadita de pimentón dulce, 1 hoja de laurel y sal.
+- 500 ml de caldo de verduras bajo en sal (o agua).
+- 200 g de patata chascada (día de entreno).
+- 2 huevos para cocer y servir encima.
 
 **Instrucciones:**
 1. Deja las lentejas en remojo 2–4 horas: la pardina sin remojar no se hace en 25 minutos.
@@ -46,15 +46,15 @@
 *Fuente: Libro de recetas del robot Cecotec · ≈ 532 kcal · 26 g proteína · 53 g HC · 19 g grasa · por persona*
 
 **Ingredientes:**
-- 200 g de garbanzos cocidos de bote, escurridos y enjuagados.
-- 100 g de acelgas en tiras (hojas y pencas).
-- 100 g de patata chascada.
-- 40 g de cebolla.
-- 10 ml de AOVE.
-- 250 ml de caldo de verduras bajo en sal.
-- 1/2 cucharada de tomate concentrado.
-- Medio diente de ajo, media cucharadita de pimentón dulce, media hoja de laurel y sal.
-- 1 huevo duro.
+- 400 g de garbanzos cocidos de bote, escurridos y enjuagados.
+- 200 g de acelgas en tiras (hojas y pencas).
+- 200 g de patata chascada.
+- 80 g de cebolla.
+- 20 ml de AOVE.
+- 500 ml de caldo de verduras bajo en sal.
+- 1 cucharada de tomate concentrado.
+- 1 diente de ajo, 1 cucharadita de pimentón dulce, 1 hoja de laurel y sal.
+- 2 huevos duros.
 
 **Instrucciones:**
 1. Pica en el robot la cebolla y el ajo: 10 segundos a velocidad 5.
@@ -73,19 +73,19 @@
 *Fuente: Libro de recetas del robot Cecotec · ≈ 607 kcal · 47 g proteína · 46 g HC · 21 g grasa · por persona*
 
 **Ingredientes (Sofrito):**
-- 70 g de cebolla.
-- 30 g de zanahoria en trozos.
-- Medio diente de ajo.
-- 10 ml de AOVE.
-- 20 g de taquitos de jamón serrano.
+- 140 g de cebolla.
+- 60 g de zanahoria en trozos.
+- 1 diente de ajo.
+- 20 ml de AOVE.
+- 40 g de taquitos de jamón serrano.
 
 **Ingredientes (Guiso):**
-- 160 g de ternera para guisar en tacos (morcillo, aguja o llana).
-- 175 ml de caldo de verduras bajo en sal (o agua).
+- 320 g de ternera para guisar en tacos (morcillo, aguja o llana).
+- 350 ml de caldo de verduras bajo en sal (o agua).
 - Sal y pimienta.
-- 180 g de patata en taquitos.
-- 80 g de zanahoria en rodajas.
-- 50 g de guisantes congelados.
+- 360 g de patata en taquitos.
+- 160 g de zanahoria en rodajas.
+- 100 g de guisantes congelados.
 
 **Instrucciones:**
 1. Pon en el robot la cebolla, el ajo, la zanahoria en trozos y el aceite y trocea 5 segundos a velocidad 5.
@@ -106,14 +106,14 @@
 📖 Libro del robot Cecotec, pág. 54
 
 **Ingredientes:**
-- 150 g de solomillos de pollo en dados.
-- 50 g de pimiento rojo.
-- 50 g de pimiento verde.
-- 100 g de tomate maduro.
-- 100 g de judías verdes troceadas congeladas.
-- 10 ml de AOVE.
-- 350 ml de caldo de pollo bajo en sal.
-- 70 g de arroz redondo.
+- 300 g de solomillos de pollo en dados.
+- 100 g de pimiento rojo.
+- 100 g de pimiento verde.
+- 200 g de tomate maduro.
+- 200 g de judías verdes troceadas congeladas.
+- 20 ml de AOVE.
+- 700 ml de caldo de pollo bajo en sal.
+- 140 g de arroz redondo.
 - Sal y una pizca de pimentón dulce.
 
 **Instrucciones:**
@@ -128,6 +128,42 @@
 
 ---
 
+### Albóndigas caseras en salsa de tomate con arroz integral
+*Fuente: Libro de recetas del robot Cecotec · ≈ 662 kcal · 47 g proteína · 66 g HC · 21 g grasa · por persona*
+
+**Ingredientes (Albóndigas):**
+- 320 g de carne picada magra, mitad ternera y mitad cerdo.
+- 1 huevo.
+- 30 g de pan integral (en vez de pan de molde).
+- 20 ml de leche.
+- 60 g de cebolla.
+- 1 diente de ajo, perejil picado y sal.
+
+**Ingredientes (Salsa de tomate y verduras):**
+- 300 g de tomate triturado natural.
+- 80 g de cebolla.
+- 80 g de zanahoria.
+- 80 g de pimiento rojo.
+- 16 ml de AOVE.
+- 1 hoja de laurel y sal.
+
+**Ingredientes (Guarnición (día de entreno)):**
+- 120 g de arroz integral (en crudo).
+
+**Instrucciones:**
+1. Si compras la carne en pieza, pícala en el robot por tandas, unos 15 segundos a velocidad 7, y resérvala (o pídela picada en la carnicería, magra, mitad ternera y mitad cerdo).
+2. Pon en el robot la cebolla, el ajo, el pan, la leche, el huevo y el perejil: 6 segundos a velocidad 6.
+3. Añade la carne picada y la sal: 15–20 segundos a velocidad 5.
+4. Haz bolitas del tamaño de una nuez (salen unas 12). En vez de rebozarlas en harina y freírlas: airfryer a 190 °C 8–10 minutos, u horno a 200 °C 15 minutos.
+5. Salsa: trocea en el robot la cebolla, la zanahoria y el pimiento (5 segundos a velocidad 5), sofríe con el aceite 8 minutos a 120 °C y velocidad 1 y añade el tomate, el laurel y la sal, 10 minutos a 100 °C. Si la quieres fina, quita el laurel y tritura 30 segundos a velocidad 7.
+6. Mete las albóndigas en la salsa, en una cazuela, y cuécelas 10 minutos a fuego suave. Sirve con el arroz integral.
+
+*Tupper:* 3 días en la nevera; se congelan muy bien en su salsa.
+*Batch cooking:* En el batch: la mezcla en el robot, las bolitas a la airfryer y la salsa en la sartén; con la salsa y el arroz, al congelador.
+*Cambios respecto a la fuente:* Al horno o en la airfryer en vez de rebozadas en harina y fritas; pan integral en vez de pan de molde; menos ajo; con salsa de tomate y verduras y arroz integral para que sea un plato completo. La ternera y el cerdo magros salen bien en tu test.
+
+---
+
 ## Cenas
 
 ### Ternera escalfada con salsa de sus verduras y patata
@@ -136,17 +172,17 @@
 📖 Libro del robot Cecotec, pág. 112
 
 **Ingredientes (Ternera escalfada):**
-- 170 g de ternera en una sola pieza (redondo, tapa o contra).
-- 60 g de zanahoria en cuartos.
-- 60 g de cebolla en cuartos.
-- Medio diente de ajo, media hoja de laurel, sal y pimienta.
-- 150 ml de caldo de verduras bajo en sal.
-- 1 cucharadita de vinagre balsámico (en vez del vino).
-- 5 ml de AOVE para marcarla.
+- 340 g de ternera en una sola pieza (redondo, tapa o contra).
+- 120 g de zanahoria en cuartos.
+- 120 g de cebolla en cuartos.
+- 1 diente de ajo, 1 hoja de laurel, sal y pimienta.
+- 300 ml de caldo de verduras bajo en sal.
+- 2 cucharaditas de vinagre balsámico (en vez del vino).
+- 10 ml de AOVE para marcarla.
 
 **Ingredientes (Guarnición):**
-- 250 g de patata.
-- 30 g de canónigos.
+- 500 g de patata.
+- 60 g de canónigos.
 
 **Instrucciones:**
 1. Salpimienta la pieza y ponla en el robot con la zanahoria y la cebolla en cuartos, el ajo, el laurel, el caldo y el balsámico.
@@ -165,14 +201,14 @@
 *Fuente: Libro de recetas del robot Cecotec · ≈ 559 kcal · 47 g proteína · 58 g HC · 14 g grasa · por persona*
 
 **Ingredientes:**
-- 140 g de pechuga de pollo en dados.
-- 60 g de puerro (la parte blanca).
-- 60 g de setas de cardo u ostra (no champiñón).
-- 10 g de taquitos de jamón serrano.
-- 6 ml de AOVE.
-- 60 g de arroz redondo (mejor arborio o bomba).
-- 300 ml de caldo de pollo bajo en sal, caliente.
-- 20 g de mozzarella fresca en trocitos (en vez del parmesano y la mantequilla).
+- 280 g de pechuga de pollo en dados.
+- 120 g de puerro (la parte blanca).
+- 120 g de setas de cardo u ostra (no champiñón).
+- 20 g de taquitos de jamón serrano.
+- 12 ml de AOVE.
+- 120 g de arroz redondo (mejor arborio o bomba).
+- 600 ml de caldo de pollo bajo en sal, caliente.
+- 40 g de mozzarella fresca en trocitos (en vez del parmesano y la mantequilla).
 - Pimienta y perejil.
 
 **Instrucciones:**

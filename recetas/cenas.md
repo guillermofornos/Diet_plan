@@ -1,6 +1,6 @@
 # Recetas de Cenas (Originales del PDF)
 
-*Nota: Estas cantidades son **solo para 1 persona** (tus macros). Multiplica por 2 al cocinar la cena para ti y tu novia.*
+*Nota: cantidades para **2 personas**, porque los dos coméis lo mismo.*
 
 *(NOTA IMPORTANTE DEL PORRIDGE: En el PDF original tomas un porridge de avena y cacao TODAS las noches acompañando a la ensalada/tortilla. Lo he mantenido tal cual: el cacao marca 50 en tu test, pero decidiste mantenerlo en el porridge. Como bebida vegetal, usa soja o avena; nunca de almendras, que marcan 60).*
 
@@ -8,15 +8,15 @@
 
 ### 1. Ensalada Ligera con Mozzarella y Huevo + Porridge de Cacao
 **Ingredientes (Ensalada):**
-- 50g de rúcula.
-- 50g de tomate en rodajas.
-- 30g de mozzarella.
-- 1 huevo mediano cocido (60g).
-- 3 ml de AOVE, sal y gotas de limón.
+- 100g de rúcula.
+- 100g de tomate en rodajas.
+- 60g de mozzarella.
+- 2 huevos medianos cocidos (120g).
+- 6 ml de AOVE, sal y gotas de limón.
 
 **Ingredientes (Porridge):**
-- 70g de avena.
-- 18g de cacao puro en polvo.
+- 140g de avena.
+- 36g de cacao puro en polvo.
 - Agua o bebida vegetal sin azúcar.
 
 **Instrucciones:**
@@ -27,15 +27,15 @@
 
 ### 2. Ensalada de Canónigos con Mozzarella y Huevo + Porridge de Cacao
 **Ingredientes (Ensalada):**
-- 100g de canónigos *[Sustituyendo a las espinacas por intolerancia]*.
-- 50g de tomate en rodajas.
-- 30g de mozzarella.
-- 1 huevo mediano cocido (60g).
-- 3 ml de AOVE, sal y limón.
+- 200g de canónigos *[Sustituyendo a las espinacas por intolerancia]*.
+- 100g de tomate en rodajas.
+- 60g de mozzarella.
+- 2 huevos medianos cocidos (120g).
+- 6 ml de AOVE, sal y limón.
 
 **Ingredientes (Porridge):**
-- 70g de avena.
-- 18g de cacao puro en polvo.
+- 140g de avena.
+- 36g de cacao puro en polvo.
 - Agua o bebida vegetal sin azúcar.
 
 **Instrucciones:**
@@ -46,14 +46,14 @@
 
 ### 3. Tortilla de Claras con Pimiento + Porridge de Cacao (Día Descanso)
 **Ingredientes (Tortilla):**
-- 150 ml de claras de huevo.
-- 1 huevo entero (60g).
-- 50g de pimiento *[Sustituyendo a champiñones por intolerancia]*.
-- 3 ml de AOVE.
+- 300 ml de claras de huevo.
+- 2 huevos enteros (120g).
+- 100g de pimiento *[Sustituyendo a champiñones por intolerancia]*.
+- 6 ml de AOVE.
 
 **Ingredientes (Porridge):**
-- 50g de avena *(cantidad reducida este día en el PDF original)*.
-- 18g de cacao en polvo.
+- 100g de avena *(cantidad reducida este día en el PDF original)*.
+- 36g de cacao en polvo.
 - Agua/Bebida vegetal.
 
 **Instrucciones:**
@@ -65,15 +65,15 @@
 
 ### 4. Tortilla de Claras con Aguacate + Porridge de Cacao
 **Ingredientes (Tortilla):**
-- 150 ml de claras de huevo.
-- 1 huevo entero (60g).
-- 50g de aguacate en cubos.
-- 50g de pimiento picado.
-- 3 ml de AOVE.
+- 300 ml de claras de huevo.
+- 2 huevos enteros (120g).
+- 100g de aguacate en cubos.
+- 100g de pimiento picado.
+- 6 ml de AOVE.
 
 **Ingredientes (Porridge):**
-- 70g de avena.
-- 18g de cacao puro en polvo.
+- 140g de avena.
+- 36g de cacao puro en polvo.
 - Agua/Bebida vegetal.
 
 **Instrucciones:**

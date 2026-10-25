@@ -1,6 +1,6 @@
 # Menú Semana 4 (2 – 8 nov)
 
-*Nota: cantidades por persona en `recetas/` (multiplica x2 si cocinas para tu novia). 🎬 = receta de vídeo o internet, con su enlace en el fichero de recetas; 🤖 = receta del libro del robot Cecotec. E = entreno, D = descanso.*
+*Nota: las recetas de `recetas/` vienen para 2 personas; las kcal y la proteína de esta tabla son por persona. 🎬 = receta de vídeo o internet, con su enlace en el fichero de recetas; 🤖 = receta del libro del robot Cecotec. E = entreno, D = descanso.*
 
 | Día | Desayuno | Comida | Merienda | Cena | Total del día |
 | :--- | :--- | :--- | :--- | :--- | :--- |

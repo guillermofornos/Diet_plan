@@ -1,6 +1,6 @@
 # Menú Semana 1 (Basado en PDF Original + recetas de los vídeos)
 
-*Nota: Revisa `recetas/` para la preparación exacta. Multiplica cantidades por 2 si cocinas para tu novia.*
+*Nota: Revisa `recetas/` para la preparación exacta; las recetas vienen para 2 personas, porque los dos coméis lo mismo.*
 
 *Esta semana las cenas en casa son las recetas de los vídeos de YouTube ([`recetas/fast_food_saludable.md`](../recetas/fast_food_saludable.md)). Cada una es una cena completa, así que esas noches no hay porridge.*
 
