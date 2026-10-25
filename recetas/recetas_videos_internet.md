@@ -4,14 +4,16 @@
 
 *Todas vienen de vídeos de YouTube o recetas de internet (enlace en cada una) y están adaptadas a `PERFIL.md` y a tus normas: solomillos en vez de contramuslos, merluza siempre rebozada, nada de lechuga, espinacas, pepinillos ni quesos curados.*
 
-*Las 6 cenas de tus vídeos (tacos, crispy, fajitas, kebab, fingers y Big Mac) siguen en `fast_food_saludable.md`.*
+*Las 6 cenas de tus vídeos (tacos, crispy, fajitas, kebab, fingers y Big Mac) siguen en `fast_food_saludable.md`. Cada receta dice qué se adelanta en el batch cooking del domingo (paso a paso en `batch_cooking.md`); el pescado se cocina siempre el día que se come.*
 
 ---
 
 ## Comidas
 
 ### Lentejas estofadas con pollo y verduras
-*[Eric Lahuerta](https://www.youtube.com/watch?v=7aLt6GAkC2s) · ≈ 679 kcal · 60 g proteína · 73 g HC · 13 g grasa · por persona*
+*Fuente: Eric Lahuerta · ≈ 679 kcal · 60 g proteína · 73 g HC · 13 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=7aLt6GAkC2s>
 
 **Ingredientes:**
 - 80 g de lenteja pardina (en seco).
@@ -36,12 +38,15 @@
 6. Mete el pollo los últimos 5–6 minutos, rectifica de sal y deja reposar tapado 5–10 minutos.
 
 *Tupper:* 3 días en la nevera; se congelan 2–3 meses (mejor sin el pollo).
+*Batch cooking:* Entera en el batch: 3 días en la nevera o al congelador.
 *Cambios respecto a la fuente:* Solomillos en vez de contramuslo, mucho menos aceite y sin chorizo; la patata es el extra para días de entreno.
 
 ---
 
 ### Lentejas con calabaza al curry y pavo
-*[Simple Blending (dietista-nutricionista)](https://www.youtube.com/watch?v=fUhWRSZiauI) · ≈ 735 kcal · 64 g proteína · 91 g HC · 10 g grasa · por persona*
+*Fuente: Simple Blending (dietista-nutricionista) · ≈ 735 kcal · 64 g proteína · 91 g HC · 10 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=fUhWRSZiauI>
 
 **Ingredientes (Ingredientes):**
 - 80 g de lenteja pardina (en seco).
@@ -67,12 +72,16 @@
 6. Sirve con el arroz cocido aparte, el yogur y el perejil por encima.
 
 *Tupper:* 3 días en la nevera; se congelan bien (el yogur se pone al servir).
+*Batch cooking:* Entera en el batch, con el arroz aparte: 3 días en la nevera o al congelador. El yogur, al servir.
 *Cambios respecto a la fuente:* Pavo añadido (la original es vegana) y 80 g de lentejas en vez de 150; el arroz es el extra para días de entreno.
 
 ---
 
 ### Garbanzos con bacalao (potaje rápido)
-*[Las Recetas de MJ](https://www.youtube.com/watch?v=2WiScz6MVQg) · [receta escrita](https://lasrecetasdemj.com/2024/10/garbanzos-con-bacalao.html) · ≈ 598 kcal · 49 g proteína · 57 g HC · 15 g grasa · por persona*
+*Fuente: Las Recetas de MJ · ≈ 598 kcal · 49 g proteína · 57 g HC · 15 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=2WiScz6MVQg>  
+📄 **Receta escrita:** <https://lasrecetasdemj.com/2024/10/garbanzos-con-bacalao.html>
 
 **Ingredientes:**
 - 170 g de lomo de bacalao en tacos (descongelado).
@@ -94,12 +103,16 @@
 5. Rectifica de sal (si el bacalao es «punto de sal», prueba antes), reposa 5 minutos y sirve con perejil.
 
 *Tupper:* Excelente: 3 días en la nevera (congélalo sin la patata).
+*Batch cooking:* En el batch, el potaje sin el bacalao (pasos 1–3 y los garbanzos), a la nevera. El día que lo comas: calienta una ración y cuece el bacalao dentro 5 minutos.
 *Cambios respecto a la fuente:* Tomate triturado natural en vez de tomate frito; versión sin espinacas.
 
 ---
 
-### Bacalao a la vizcaína ligero con patata
-*[Las Recetas de MJ (receta de Berasategui)](https://www.youtube.com/watch?v=GOU9ho8pQc0) · [receta escrita](https://lasrecetasdemj.com/2016/03/bacalao-la-vizcaina-videoreceta.html) · ≈ 537 kcal · 42 g proteína · 60 g HC · 11 g grasa · por persona*
+### Bacalao a la vizcaína ligero con arroz
+*Fuente: Las Recetas de MJ (receta de Berasategui) · ≈ 612 kcal · 43 g proteína · 77 g HC · 13 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=GOU9ho8pQc0>  
+📄 **Receta escrita:** <https://lasrecetasdemj.com/2016/03/bacalao-la-vizcaina-videoreceta.html>
 
 **Ingredientes (Salsa vizcaína):**
 - 120 g de cebolla morada.
@@ -114,23 +127,27 @@
 
 **Ingredientes (Bacalao y guarnición):**
 - 180 g de lomo de bacalao (descongelado).
-- 220 g de patata.
+- 70 g de arroz integral (en crudo).
 
 **Instrucciones:**
 1. Si usas choriceros secos, remójalos 1 hora en agua tibia y raspa la carne con una cucharilla.
 2. Dora el ajo 30 segundos en el aceite, añade la cebolla, el puerro y el pimiento picados con una pizca de sal, tapa y pocha a fuego bajo 30–35 minutos (1–2 cucharadas de agua si se agarra).
 3. Añade el pan, el tomate y el choricero y rehoga 2 minutos; echa 150 ml de caldo por persona y cuece 15 minutos; añade el resto y 5 minutos más.
 4. Tritura y pasa por un colador; debe quedar como una crema ligera.
-5. Mete los lomos en la salsa a fuego muy suave: 10–12 minutos si son desalados y gruesos, 6–8 si son fresco-congelados, dándoles la vuelta a mitad.
-6. Mientras, cuece la patata en rodajas (12–15 minutos en agua con sal o 6–8 en el microondas) y sirve con mucha salsa.
+5. El día que lo comas: calienta la salsa en una cazuela pequeña a fuego muy suave y cuece dentro los lomos 10–12 minutos si son desalados y gruesos (6–8 si son fresco-congelados), dándoles la vuelta a mitad.
+6. Sirve con el arroz integral, cocido en el batch.
 
-*Tupper:* Excelente: la salsa aguanta 4 días y se congela; haz el doble.
-*Cambios respecto a la fuente:* Sin vino ni coñac, la mitad de ajo, aceite medido y sofrito tapado para gastar menos aceite.
+*Tupper:* La salsa y el arroz, del batch (se congelan); el bacalao, el mismo día.
+*Batch cooking:* En el batch, la salsa (pasos 1–4) y el arroz, al congelador. El día que lo comas: calienta la salsa y cuece el bacalao dentro 10–12 minutos.
+*Cambios respecto a la fuente:* Sin vino ni coñac, la mitad de ajo, aceite medido y sofrito tapado para gastar menos aceite; arroz integral en vez de patata para que el táper aguante y se pueda congelar.
 
 ---
 
 ### Fish & chips fit con tártara de yogur y guisantes a la hierbabuena
-*[Las Recetas de MJ (YouTube) y La cocina de María y Miki](https://www.youtube.com/watch?v=CSBvpy16wvg) · [receta escrita](https://www.youtube.com/watch?v=0jzDq5TupPI) · ≈ 667 kcal · 49 g proteína · 73 g HC · 16 g grasa · por persona*
+*Fuente: Las Recetas de MJ (YouTube) y La cocina de María y Miki · ≈ 667 kcal · 49 g proteína · 73 g HC · 16 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=CSBvpy16wvg>  
+▶ **Otro vídeo:** <https://www.youtube.com/watch?v=0jzDq5TupPI>
 
 **Ingredientes (Merluza rebozada):**
 - 180 g de lomo de merluza (descongelado y bien seco).
@@ -166,15 +183,18 @@
 6. Emplata las patatas, la merluza y los guisantes, con la tártara para mojar.
 
 *Tupper:* Regular: la merluza y las patatas, recalentadas en airfryer.
+*Batch cooking:* Pescado: se hace el mismo día. La tártara puede hacerse la víspera.
 *Cambios respecto a la fuente:* Merluza rebozada al horno o airfryer en vez de frita con cerveza; tártara de yogur con alcaparras (sin pepinillos); guisantes con AOVE en vez de mantequilla.
 
 ---
 
-### Espaguetis integrales a la tofuloñesa
-*[Lara Ibarra](https://www.youtube.com/watch?v=VBzkbiCoRTk&t=236s) · ≈ 705 kcal · 45 g proteína · 59 g HC · 29 g grasa · por persona*
+### Espaguetis a la tofuloñesa
+*Fuente: Lara Ibarra · ≈ 705 kcal · 45 g proteína · 59 g HC · 29 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=VBzkbiCoRTk&t=236s>
 
 **Ingredientes:**
-- 65 g de espaguetis integrales (en seco).
+- 65 g de espaguetis integrales o normales (en seco).
 - 250 g de tofu firme.
 - 60 g de cebolla.
 - 50 g de pimiento rojo.
@@ -189,48 +209,47 @@
 2. Mézclalo con las especias y la sal y déjalo reposar 15 minutos como mínimo.
 3. Pocha la cebolla con el aceite 6–8 minutos y añade los pimientos picados 5 minutos más.
 4. Sube el fuego, añade el tofu y dóralo 6–8 minutos removiendo poco.
-5. Cuece la pasta mientras tanto. Añade el tomate al tofu y deja reducir 8–10 minutos.
+5. Cuece la pasta el tiempo que diga el paquete (la normal suele tardar algo menos que la integral). Añade el tomate al tofu y deja reducir 8–10 minutos.
 6. Mezcla con la pasta y sirve con la mozzarella por encima.
 
 *Día de descanso:* 45 g de pasta en lugar de 65 g. (≈ 635 kcal · 42 g proteína · 46 g HC · 28 g grasa).
 *Tupper:* La salsa, 3–4 días o congelada 3 meses; la pasta mejor del día.
+*Batch cooking:* Entera en el batch, con la pasta: 3 días en la nevera o al congelador.
 *Cambios respecto a la fuente:* Tomate triturado natural en vez de frito; mozzarella fresca en vez de rallada.
 
 ---
 
-### Guisantes con jamón y huevo + tosta de tomate y atún
-*[Lara Ibarra](https://www.youtube.com/watch?v=VBzkbiCoRTk&t=474s) · ≈ 697 kcal · 49 g proteína · 69 g HC · 19 g grasa · por persona*
+### Guisantes con jamón, patata y huevo (táper)
+*Fuente: Lara Ibarra · ≈ 513 kcal · 32 g proteína · 47 g HC · 16 g grasa · por persona*
 
-**Ingredientes (Guisantes):**
+▶ **Vídeo:** <https://www.youtube.com/watch?v=VBzkbiCoRTk&t=474s>
+
+**Ingredientes (Guisantes (en el batch)):**
 - 200 g de guisantes finos congelados.
 - 60 g de cebolleta.
 - 35 g de taquitos de jamón serrano.
-- 150 g de patata.
 - 6 ml de AOVE.
-- 1 huevo.
 - Pimentón dulce y pimienta (sin sal: el jamón ya sala).
 
-**Ingredientes (Tosta):**
-- 40 g de pan de pueblo.
-- 30 g de tomate rallado.
-- 1 lata pequeña de atún al natural (55 g escurrido).
-- 2 ml de AOVE.
+**Ingredientes (La noche antes):**
+- 150 g de patata en dados.
+- 1 huevo cocido.
 
 **Instrucciones:**
-1. Patata en dados de 1 cm al microondas con un poco de spray, 5–6 minutos.
-2. Dora el jamón con el aceite 1–2 minutos a fuego medio-bajo y añade la cebolleta picada 4–5 minutos.
-3. Añade la patata y los guisantes congelados, tapa y cocina 5–7 minutos (unas cucharadas de agua si se pega).
-4. Haz un hueco, casca el huevo y tapa 3–4 minutos hasta que cuaje la clara.
-5. Tosta: pan tostado con tomate rallado, una pizca de sal, el aceite y el atún.
+1. En el batch: dora el jamón con el aceite 1–2 minutos a fuego medio-bajo, añade la cebolleta picada 4–5 minutos y luego los guisantes congelados; tapa y cocina 5–7 minutos. Enfría y congela en táperes.
+2. La noche antes: pasa el táper a la nevera, cuece el huevo 10 minutos y la patata en dados 5–6 minutos en el microondas con un poco de agua, y añádelos al táper.
+3. Al comer: microondas 2–3 minutos, removiendo a mitad.
 
-*Día de descanso:* la misma receta sin la tosta de atún. (≈ 513 kcal · 32 g proteína · 47 g HC · 16 g grasa).
-*Tupper:* 3 días sin el huevo (ponlo al recalentar).
-*Cambios respecto a la fuente:* Tosta de atún en vez de salmón ahumado con queso crema; huevo añadido para más proteína.
+*Tupper:* Los guisantes se congelan bien; la patata y el huevo, mejor del día antes.
+*Batch cooking:* En el batch, los guisantes con jamón (al congelador). La noche antes: patata y huevo cocido al táper.
+*Cambios respecto a la fuente:* Huevo cocido para más proteína y patata en dados para que sea un plato completo de táper.
 
 ---
 
 ### Solomillos al adobo barbacoa con patatas y ensalada de granada
-*[Lara Ibarra](https://www.youtube.com/watch?v=VBzkbiCoRTk&t=70s) · ≈ 639 kcal · 57 g proteína · 48 g HC · 22 g grasa · por persona*
+*Fuente: Lara Ibarra · ≈ 639 kcal · 57 g proteína · 48 g HC · 22 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=VBzkbiCoRTk&t=70s>
 
 **Ingredientes (Pollo en adobo):**
 - 180 g de solomillos de pollo.
@@ -258,12 +277,15 @@
 4. Monta la ensalada con los canónigos, los cherrys en mitades, la cebolla en juliana, la granada y la mozzarella, y alíñala al servir.
 
 *Tupper:* El pollo y las patatas, 3 días; la ensalada sin aliñar.
+*Batch cooking:* Plato de fin de semana: se hace el mismo día.
 *Cambios respecto a la fuente:* Solomillos en vez de alitas; mozzarella en vez de queso de cabra; granada en vez de higos.
 
 ---
 
 ### Gratinado de patata y pollo al curry
-*[Lara Ibarra](https://www.youtube.com/watch?v=1_jICCSmU6A&t=48s) · ≈ 650 kcal · 64 g proteína · 45 g HC · 22 g grasa · por persona*
+*Fuente: Lara Ibarra · ≈ 650 kcal · 64 g proteína · 45 g HC · 22 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=1_jICCSmU6A&t=48s>
 
 **Ingredientes (Gratinado):**
 - 250 g de patata.
@@ -287,12 +309,15 @@
 5. Pon la mozzarella bien seca en trocitos y gratina 3 minutos a 200 °C. Sirve con la ensalada.
 
 *Tupper:* 2–3 días en la nevera; no se congela.
+*Batch cooking:* Entero en el batch: 2–3 días en la nevera (no se congela).
 *Cambios respecto a la fuente:* Mozzarella fresca en vez de rallada; sin nata ni leche de coco.
 
 ---
 
 ### Burritos crujientes de pollo con pimientos y barbacoa
-*[Lara Ibarra](https://www.youtube.com/watch?v=VBzkbiCoRTk&t=566s) · ≈ 650 kcal · 52 g proteína · 44 g HC · 26 g grasa · por persona*
+*Fuente: Lara Ibarra · ≈ 650 kcal · 52 g proteína · 44 g HC · 26 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=VBzkbiCoRTk&t=566s>
 
 **Ingredientes (Relleno):**
 - 150 g de pechuga de pollo en dados.
@@ -319,6 +344,7 @@
 5. Un poco de spray por fuera y airfryer a 200 °C 2–3 minutos (o sartén 1–2 minutos por lado). Sirve con el aguacate, los canónigos y el tomate.
 
 *Tupper:* El relleno, 3 días; los burritos se montan al momento.
+*Batch cooking:* Plato de fin de semana: se hace el mismo día.
 *Cambios respecto a la fuente:* Canónigos en vez de lechuga, tomate triturado en vez de frito y aguacate en vez de guacamole.
 
 ---
@@ -326,7 +352,10 @@
 ## Cenas
 
 ### Tacos de merluza crujiente con pico de gallo y salsa de yogur y lima
-*[Jordi Roca (YouTube) y Directo al Paladar](https://www.youtube.com/watch?v=hf4LhGH-SlM) · [receta escrita](https://www.directoalpaladar.com/recetas-de-pescados-y-mariscos/tacos-de-merluza-con-salsa-picante-de-queso-fresco-receta) · ≈ 572 kcal · 43 g proteína · 62 g HC · 16 g grasa · por persona*
+*Fuente: Jordi Roca (YouTube) y Directo al Paladar · ≈ 572 kcal · 43 g proteína · 62 g HC · 16 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=hf4LhGH-SlM>  
+📄 **Receta escrita:** <https://www.directoalpaladar.com/recetas-de-pescados-y-mariscos/tacos-de-merluza-con-salsa-picante-de-queso-fresco-receta>
 
 **Ingredientes (Merluza rebozada):**
 - 170 g de merluza en tiras (descongelada y bien seca).
@@ -360,12 +389,15 @@
 6. Calienta las tortillas 30–40 segundos por lado en sartén sin aceite y monta: salsa, canónigos, merluza, pico de gallo y aguacate.
 
 *Tupper:* Montado no; por partes, la merluza 1 día (reaviva en airfryer).
+*Batch cooking:* Pescado: se hace el mismo día. El pico de gallo y la salsa pueden hacerse la víspera.
 *Cambios respecto a la fuente:* Rebozado al horno en vez de frito; yogur en vez de queso fresco; canónigos en vez de col.
 
 ---
 
 ### Tortilla de patata con claras
-*[Lara Ibarra](https://www.youtube.com/watch?v=LDsMNefTWL0&t=135s) · ≈ 465 kcal · 40 g proteína · 33 g HC · 17 g grasa · por persona*
+*Fuente: Lara Ibarra · ≈ 465 kcal · 40 g proteína · 33 g HC · 17 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=LDsMNefTWL0&t=135s>
 
 **Ingredientes:**
 - 175 g de patata.
@@ -384,12 +416,15 @@
 6. Cuaja en sartén bien caliente con un poco de spray, 2–3 minutos por lado (dale la vuelta con un plato).
 
 *Tupper:* 1–2 días; está muy buena fría.
+*Batch cooking:* Se hace al momento; si sobra, aguanta 1–2 días en la nevera y está muy buena fría.
 *Cambios respecto a la fuente:* Más claras y algo menos de patata para subir la proteína.
 
 ---
 
 ### Pizza de avena y yogur proteico con atún
-*[Lara Ibarra](https://www.youtube.com/watch?v=QfoqWVQ6TGE&t=262s) · ≈ 540 kcal · 45 g proteína · 56 g HC · 14 g grasa · por persona*
+*Fuente: Lara Ibarra · ≈ 540 kcal · 45 g proteína · 56 g HC · 14 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=QfoqWVQ6TGE&t=262s>
 
 **Ingredientes (Masa):**
 - 80 g de avena molida.
@@ -413,12 +448,15 @@
 5. Hornea 10–12 minutos a 230–250 °C hasta que el borde se dore (airfryer: base 5 minutos a 200 °C y 5–6 más con todo).
 
 *Tupper:* 1 día; recaliéntala en airfryer o sartén.
+*Batch cooking:* En el batch, el pimiento y la cebolla cortados; la masa y el horno, al momento.
 *Cambios respecto a la fuente:* Yogur +Proteínas, mozzarella light y atún al natural; masa algo más pequeña.
 
 ---
 
 ### Tacos de atún marinados con soja, arroz integral y calabacín
-*[Lara Ibarra (versión con atún)](https://www.youtube.com/watch?v=bgZcOVkEYlM&t=153s) · ≈ 493 kcal · 54 g proteína · 33 g HC · 14 g grasa · por persona*
+*Fuente: Lara Ibarra (versión con atún) · ≈ 493 kcal · 54 g proteína · 33 g HC · 14 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=bgZcOVkEYlM&t=153s>
 
 **Ingredientes:**
 - 200 g de tacos de atún congelados (descongelados en la nevera).
@@ -436,12 +474,15 @@
 5. Sirve el atún sobre el arroz con el calabacín.
 
 *Tupper:* 1 día; se puede comer frío, tipo bowl.
+*Batch cooking:* En el batch, el arroz cocido; la noche antes, el atún a la nevera. El resto, al momento.
 *Cambios respecto a la fuente:* Atún en vez de salmón (el salmón sale alto en tu test).
 
 ---
 
 ### Fajicesta de huevo, verduras y pavo
-*[Lara Ibarra](https://www.youtube.com/watch?v=Ng9gXmVFJVs&t=19s) · ≈ 588 kcal · 45 g proteína · 57 g HC · 19 g grasa · por persona*
+*Fuente: Lara Ibarra · ≈ 588 kcal · 45 g proteína · 57 g HC · 19 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=Ng9gXmVFJVs&t=19s>
 
 **Ingredientes:**
 - 1 piadina Hacendado.
@@ -463,12 +504,15 @@
 5. Destapa y 5–10 minutos más para que se dore el queso.
 
 *Tupper:* 1 día; recalentar en airfryer.
+*Batch cooking:* En el batch, las verduras picadas; se monta y se hace al momento.
 *Cambios respecto a la fuente:* Yogur +Proteínas en vez de cottage y un huevo cambiado por claras.
 
 ---
 
 ### Tomates y pimientos rellenos de huevo, pollo y mozzarella
-*[Lara Ibarra](https://www.youtube.com/watch?v=k21RflDL2kw&t=603s) · ≈ 420 kcal · 47 g proteína · 17 g HC · 17 g grasa · por persona*
+*Fuente: Lara Ibarra · ≈ 420 kcal · 47 g proteína · 17 g HC · 17 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=k21RflDL2kw&t=603s>
 
 **Ingredientes:**
 - 2 tomates medianos (300 g).
@@ -487,12 +531,15 @@
 5. Tapa 2–3 minutos a fuego medio-bajo, dales la vuelta y 1–2 minutos más.
 
 *Tupper:* Mejor recién hechos.
+*Batch cooking:* En el batch, el pollo a la plancha y desmenuzado; los aros, al momento (mejor recién hechos).
 *Cambios respecto a la fuente:* Mozzarella light en vez de queso rallado; más huevo y pollo para llegar a la proteína.
 
 ---
 
 ### Fajipizzas de jamón y pollo
-*[Lara Ibarra](https://www.youtube.com/watch?v=bgZcOVkEYlM&t=294s) · ≈ 439 kcal · 41 g proteína · 34 g HC · 14 g grasa · por persona*
+*Fuente: Lara Ibarra · ≈ 439 kcal · 41 g proteína · 34 g HC · 14 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=bgZcOVkEYlM&t=294s>
 
 **Ingredientes:**
 - 2 tortillas integrales (72 g).
@@ -511,12 +558,15 @@
 4. Airfryer a 200 °C 4–5 minutos (de una en una) u horno a 200 °C 8–9 minutos. Rúcula por encima al servir.
 
 *Tupper:* No; deja los ingredientes preparados.
+*Batch cooking:* El pollo puede ir hecho del batch; las fajipizzas, al momento.
 *Cambios respecto a la fuente:* Mozzarella light en vez de queso rallado y brie; tomate triturado; pollo añadido.
 
 ---
 
 ### Burritos exprés de pollo con mayonesa proteica
-*[Lara Ibarra](https://www.youtube.com/watch?v=bgZcOVkEYlM&t=356s) · ≈ 446 kcal · 45 g proteína · 38 g HC · 11 g grasa · por persona*
+*Fuente: Lara Ibarra · ≈ 446 kcal · 45 g proteína · 38 g HC · 11 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=bgZcOVkEYlM&t=356s>
 
 **Ingredientes:**
 - 2 tortillas integrales (72 g).
@@ -536,12 +586,15 @@
 4. Rellena las tortillas, enróllalas cerrando los extremos y dóralas en sartén con spray 1–2 minutos por lado (o airfryer a 200 °C 3–4 minutos).
 
 *Tupper:* El relleno, 2 días; monta y tuesta al momento.
+*Batch cooking:* El pollo puede ir hecho del batch (2 días en la nevera); se montan y se tuestan al momento.
 *Cambios respecto a la fuente:* Canónigos en vez de lechuga; pollo en vez de carne picada sobrante.
 
 ---
 
 ### Ensaladilla con atún y mayonesa proteica
-*[Lara Ibarra](https://www.youtube.com/watch?v=bgZcOVkEYlM&t=63s) · ≈ 503 kcal · 48 g proteína · 45 g HC · 12 g grasa · por persona*
+*Fuente: Lara Ibarra · ≈ 503 kcal · 48 g proteína · 45 g HC · 12 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=bgZcOVkEYlM&t=63s>
 
 **Ingredientes (Ingredientes):**
 - 200 g de patata cocida (o medio bote de patatas cocidas).
@@ -562,3 +615,4 @@
 4. Mézclalo todo y enfría 30 minutos.
 
 *Tupper:* 2 días (la mejor para llevar).
+*Batch cooking:* La patata y el huevo, cocidos en el batch; la ensaladilla aguanta 2 días en la nevera.

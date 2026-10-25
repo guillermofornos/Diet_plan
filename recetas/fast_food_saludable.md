@@ -23,8 +23,8 @@ Cada receta es una **cena completa**: sustituye a la ensalada/tortilla **y** al 
 - **Mejor uso:** una de las noches de **Cena Fuera** del finde. El plan cuenta unas 1100 kcal para la cena fuera; cualquiera de estas se queda por debajo de 650 → unas **500 kcal menos** sin renunciar al capricho.
 - **Noche de cervezas** (`GUIA_CERVEZA.md`: sin pan, patata ni arroz si bebes): elige los **tacos (3)** o las **fajitas (4)**, que casi no tienen hidratos, o haz la burger/kebab **sin las patatas**.
 - **Entre semana:** sustituyen a la cena del día. En días de descanso (D) tira de fingers o fajitas, o quita las patatas.
-- **Meal prep:** el pollo especiado al horno de los tacos y las fajitas aguanta 3-4 días en la nevera. Haz de más y úsalo en ensaladas o tuppers.
-- **Rotación sugerida:** cada menú semanal propone una (S1 Big Mac · S2 Kebab · S3 Crispy · S4 Fajitas · S5 Tacos · S6 Fingers · S7 Big Mac · S8 Kebab), con sus ingredientes en una sección opcional de la lista de la compra.
+- **Batch cooking:** el pollo especiado al horno de los tacos y las fajitas se hace en el batch del domingo y aguanta 3 días en la nevera; los marinados del crispy y del kebab se congelan en crudo. Paso a paso en `batch_cooking.md`.
+- **En los menús:** la semana 1 y las semanas 3 a 6 las usan como cenas de diario, y la Big Mac queda como opción del sábado en casa. Las semanas 2, 7 y 8 proponen una como opcional (S2 Kebab · S7 Big Mac · S8 Kebab), con sus ingredientes en una sección opcional de la lista de la compra.
 
 ## Adaptaciones por intolerancias
 
@@ -50,7 +50,9 @@ Revisado contra el PDF del test (`Intolerancias GUILLERMO FORNOS.pdf`) y `PERFIL
 ---
 
 ### 1. Crispy Chicken Burger con Mayonesa Proteica
-*[Vídeo](https://www.youtube.com/watch?v=2M2BypAdYFU) · ≈ 600 kcal · 53 g proteína · 58 g HC · 16 g grasa*
+*≈ 600 kcal · 53 g proteína · 58 g HC · 16 g grasa*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=2M2BypAdYFU>
 
 **Ingredientes (Marinado, mínimo 2 h o toda la noche):**
 - 150g de solomillos de pollo (3-4 piezas) *[En lugar del contramuslo del vídeo: más magro; ver tiempos de cocción]*.
@@ -80,10 +82,14 @@ Revisado contra el PDF del test (`Intolerancias GUILLERMO FORNOS.pdf`) y `PERFIL
 4. **Mayonesa:** Tritura el huevo cocido con el yogur, el aceite, la sal y el limón hasta que quede cremosa (sale más fácil en cantidad doble).
 5. **Montaje:** Tuesta el pan. Salsa en la base, la rúcula (y la remolacha), los solomillos crujientes juntos, como si fueran un filete, y otro poco de salsa por encima.
 
+*Batch cooking:* en el batch del domingo, los solomillos en la leche con el pimentón, al congelador; pásalos a la nevera la noche antes y haz entonces la mayonesa. El rebozado y la airfryer, al momento.
+
 ---
 
 ### 2. Big Mac Fit con Patatas al Horno
-*[Vídeo](https://www.youtube.com/watch?v=FPyLPTmqFrY) · ≈ 620 kcal · 48 g proteína · 58 g HC · 19 g grasa · (sin patatas ≈ 480 kcal)*
+*≈ 620 kcal · 48 g proteína · 58 g HC · 19 g grasa · (sin patatas ≈ 480 kcal)*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=FPyLPTmqFrY>
 
 **Ingredientes (Patatas):**
 - 150g de patata (1 mediana) pelada.
@@ -110,10 +116,14 @@ Revisado contra el PDF del test (`Intolerancias GUILLERMO FORNOS.pdf`) y `PERFIL
 4. **Montaje:** Tuesta el pan. Salsa en la base, cebolla, canónigos, las dos carnes con la mozzarella y tapa. Sirve con las patatas.
 5. **Ojo:** la carne picada de carnicería sin conservantes hay que cocinarla en las primeras 24 horas.
 
+*Batch cooking:* al momento, con la carne picada comprada el mismo día.
+
 ---
 
 ### 3. Tacos de Zanahoria con Pollo
-*[Vídeo](https://www.youtube.com/watch?v=l1aZqU9Wavw) · ≈ 555 kcal · 53 g proteína · 20 g HC · 25 g grasa · (4 tacos)*
+*≈ 555 kcal · 53 g proteína · 20 g HC · 25 g grasa · (4 tacos)*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=l1aZqU9Wavw>
 
 **Ingredientes (Base de los tacos):**
 - 250g de zanahoria (3 medianas).
@@ -137,10 +147,14 @@ Revisado contra el PDF del test (`Intolerancias GUILLERMO FORNOS.pdf`) y `PERFIL
 
 *Variante:* la base también sale con calabacín rallado (escúrrelo muy bien) o con boniato rallado.
 
+*Batch cooking:* el pollo, asado y desmenuzado en el batch del domingo, y la zanahoria, rallada (Thermomix, 5–6 s/vel 5). El día que los comas, solo haces las bases y montas.
+
 ---
 
 ### 4. Fajitas de Pollo con Pan Nube
-*[Vídeo](https://www.youtube.com/watch?v=x-iDGOTuO9c) · ≈ 465 kcal · 52 g proteína · 10 g HC · 21 g grasa*
+*≈ 465 kcal · 52 g proteína · 10 g HC · 21 g grasa*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=x-iDGOTuO9c>
 
 **Ingredientes (Pollo marinado):**
 - 150g de pechuga de pollo.
@@ -170,10 +184,14 @@ Revisado contra el PDF del test (`Intolerancias GUILLERMO FORNOS.pdf`) y `PERFIL
 
 *Tip:* el mismo marinado sirve para solomillos de pollo o para el tofu del plan.
 
+*Batch cooking:* el pollo, asado y desmenuzado en el batch del domingo, y la juliana, cortada. El día que las comas: pocha las verduras, calienta el pollo con ellas y haz el pan nube.
+
 ---
 
 ### 5. Fingers de Pollo Crujientes
-*[Vídeo](https://www.youtube.com/watch?v=H-XSGAKFylY) · ≈ 455 kcal · 55 g proteína · 31 g HC · 11 g grasa · (con la ensalada)*
+*≈ 455 kcal · 55 g proteína · 31 g HC · 11 g grasa · (con la ensalada)*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=H-XSGAKFylY>
 
 **Ingredientes (Fingers):**
 - 200g de solomillos de pollo (o pechuga en tiras).
@@ -199,10 +217,14 @@ Revisado contra el PDF del test (`Intolerancias GUILLERMO FORNOS.pdf`) y `PERFIL
 
 *Día de entreno:* añade 150g del salteado rústico Hacendado (patata, boniato y cebolla) que tienes apuntado en `Consejo.md`.
 
+*Batch cooking:* se marinan la noche antes; el rebozado y la airfryer, al momento.
+
 ---
 
 ### 6. Kebab de Pollo con Patatas y Salsa Blanca
-*[Vídeo](https://www.youtube.com/watch?v=y-m_lSTYzBU) · ≈ 580 kcal · 54 g proteína · 60 g HC · 13 g grasa · (sin patatas ≈ 440 kcal)*
+*≈ 580 kcal · 54 g proteína · 60 g HC · 13 g grasa · (sin patatas ≈ 440 kcal)*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=y-m_lSTYzBU>
 
 **Ingredientes (Pollo):**
 - 180g de solomillos de pollo *[En lugar del contramuslo del vídeo: más magro]*.
@@ -231,3 +253,5 @@ Revisado contra el PDF del test (`Intolerancias GUILLERMO FORNOS.pdf`) y `PERFIL
 3. **Pollo:** Corta los solomillos en tiras finas (si los congelas un rato antes, se cortan mucho mejor). Calienta bien la sartén con el aceite (tiene que chisporrotear antes de echar el pollo) y deja que se dore sin removerlo demasiado. Como es más magro que el contramuslo, se hace en 3-4 minutos: sácalo en cuanto pierda el rosa o se secará.
 4. **Salsa blanca:** Mezcla el yogur con las especias, la sal y el vinagre o limón. Si queda muy espesa, aligera con un chorrito de leche.
 5. **Montaje:** Tuesta y abre el pan de pita. Salsa por dentro, canónigos, tomate, el pollo y más salsa (y la granada, si la usas). Las patatas al lado, para mojar en la salsa.
+
+*Batch cooking:* en el batch, el pollo en su marinado (al congelador si es para el jueves o el viernes; a la nevera si es para el lunes) y la salsa blanca. Las patatas y la plancha, al momento.

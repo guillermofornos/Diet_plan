@@ -2,7 +2,7 @@
 
 *Nota: cantidades para los dos (x2), calculadas sumando las recetas del menú de esta semana. La merienda también va x2: si tu novia no merienda, quita la mitad de natillas, plátanos y kiwis.*
 
-*Truco: compra el pescado congelado y congela al llegar el pollo que no vayas a usar en dos días; pásalo a la nevera la noche antes (ver «Preparación por adelantado» en el menú).*
+*Truco: compra el pescado congelado. Casi todo el pollo se cocina o se marina en el batch del domingo; el del fin de semana va crudo al congelador y se pasa a la nevera la noche antes (ver «Recordatorios de la semana» en el menú).*
 
 ## Fruta y verdura
 - 12 Plátanos (desayunos y meriendas)
@@ -52,7 +52,7 @@
 ## Despensa
 - 320 g Lenteja pardina
 - 400 g Garbanzos cocidos (escurridos, unos 2 botes)
-- 130 g Espaguetis integrales
+- 130 g Espaguetis integrales o normales (mira si os quedan del paquete)
 - 280 g Copos de avena
 - 110 g Copos de maíz sin azúcar (para los rebozados)
 - 210 g Pipas de calabaza sin sal

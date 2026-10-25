@@ -2,7 +2,7 @@
 
 *Nota: cantidades para los dos (x2), calculadas sumando las recetas del menú de esta semana. La merienda también va x2: si tu novia no merienda, quita la mitad de natillas, plátanos y kiwis.*
 
-*Truco: compra el pescado congelado y congela al llegar el pollo que no vayas a usar en dos días; pásalo a la nevera la noche antes (ver «Preparación por adelantado» en el menú).*
+*Truco: compra el pescado congelado. Casi todo el pollo se cocina o se marina en el batch del domingo; el del fin de semana va crudo al congelador y se pasa a la nevera la noche antes (ver «Recordatorios de la semana» en el menú).*
 
 ## Fruta y verdura
 - 14 Plátanos (desayunos y meriendas)
@@ -10,43 +10,41 @@
 - 1 trozo Piña natural (unos 60 g)
 - 3 Aguacates (unos 400 g de pulpa)
 - 540 g Pimientos rojos o de colores
-- 350 g Pimientos verdes italianos
+- 230 g Pimientos verdes italianos
 - 1,18 kg Cebollas (incluye cebolleta y morada)
 - 300 g Calabacines
 - 500 g Zanahorias
-- 1,2 kg Tomates (incluye cherrys)
-- 1,29 kg Patatas
+- 880 g Tomates (incluye cherrys)
+- 950 g Patatas
 - 600 g Calabaza (pelada)
-- 80 g Puerros
-- 2 bolsas Rúcula o canónigos (unos 180 g)
+- 1 bolsa Rúcula o canónigos (unos 120 g)
 - Cilantro
 - Limas
 - Limones
 - Perejil
 
 ## Carne, huevos y tofu
-- 2 docenas Huevos (se usan 23)
+- 2 docenas y media Huevos (se usan 25)
 - 1,3 L Claras de huevo pasteurizadas
 - 600 g Pechuga de pollo
-- 820 g Solomillos de pollo
+- 460 g Solomillos de pollo
 - 600 g Pechuga o solomillo de pavo
+- 140 g Taquitos de jamón serrano
 - 500 g Tofu firme (2 bloques de 400 g)
 
 ## Pescado
 - 340 g Merluza congelada (lomos o filetes)
-- 360 g Lomos de bacalao congelados (mira si son desalados)
 - 400 g Tacos de atún congelados
 
 ## Lácteos
 - 10 Yogures naturales sin azúcar (de 125 g)
 - 14 Natillas +Proteínas (4 packs de 4)
-- 3 bolas Mozzarella fresca (se usan 300 g)
+- 2 bolas Mozzarella fresca (se usan 220 g)
 - 1 bola Mozzarella fresca light (se usan 60 g)
-- 140 ml Leche o bebida de soja sin azúcar
+- 60 ml Leche o bebida de soja sin azúcar
 
 ## Pan y tortillas
 - 580 g Pan integral (100% integral)
-- 1 trozo Pan de pueblo (20 g)
 - 2 Panes de cristal (o de hamburguesa 100% integrales)
 - 4 Tortillas integrales (paquete de 10)
 - 6 Tortillas de maíz (paquete de 8)
@@ -54,16 +52,17 @@
 ## Despensa
 - 320 g Lenteja pardina
 - 240 g Arroz integral
-- 90 g Espaguetis integrales
+- 90 g Espaguetis integrales o normales (mira si os quedan del paquete)
 - 200 g Copos de avena
 - 80 g Copos de maíz sin azúcar (para los rebozados)
 - 210 g Pipas de calabaza sin sal
 - 500 g Tomate triturado natural
-- 1 bote Carne de pimiento choricero (se usan 40 g)
 - 1 Salsa de soja baja en sodio (si no te queda)
 - 1 Salsa barbacoa sin azúcar (si no te queda)
-- 500 ml Caldo de pescado sin azúcar (o agua)
-- 140 ml Aceite de oliva virgen extra (se usan esta semana)
+- 130 ml Aceite de oliva virgen extra (se usan esta semana)
+
+## Congelados
+- 800 g Guisantes finos congelados
 
 ## Especias y condimentos
 - Chipotle o pimentón picante, Comino, Curry en polvo, Pimentón de la Vera, Pimentón dulce (revisa lo que tienes)

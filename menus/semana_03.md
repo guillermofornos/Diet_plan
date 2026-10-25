@@ -7,19 +7,26 @@
 | **Lunes 26 oct (E)** | Tostada integral con aguacate y huevo + yogur | 🎬 Lentejas estofadas con pollo y verduras | Natillas +Proteínas con plátano y pipas | 🎬 Fajicesta de huevo, verduras y pavo | ≈1882 kcal · 138 g prot. |
 | **Martes 27 oct (E)** | Batido proteico + tostada integral y kiwi | 🎬 Lentejas estofadas con pollo y verduras | Natillas +Proteínas con plátano y pipas | 🎬 Pizza de avena y yogur proteico con atún | ≈2019 kcal · 138 g prot. |
 | **Miércoles 28 oct (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Garbanzos con bacalao (potaje rápido) | Natillas +Proteínas con kiwi y pipas | 🎬 Fajitas de pollo con pan nube | ≈1663 kcal · 142 g prot. |
-| **Jueves 29 oct (E)** | Batido de plátano, avena y claras + kiwi | 🎬 Espaguetis integrales a la tofuloñesa | Natillas +Proteínas con plátano y pipas | 🎬 Kebab de pollo con patatas y salsa blanca | ≈1928 kcal · 138 g prot. |
-| **Viernes 30 oct (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🎬 Fish & chips fit con tártara de yogur y guisantes a la hierbabuena | Natillas +Proteínas con plátano y pipas | **Cena fuera** + *cervezas* | ≈1343 kcal · 83 g prot. + cena fuera |
+| **Jueves 29 oct (E)** | Batido de plátano, avena y claras + kiwi | 🎬 Espaguetis a la tofuloñesa | Natillas +Proteínas con plátano y pipas | 🎬 Kebab de pollo con patatas y salsa blanca | ≈1928 kcal · 138 g prot. |
+| **Viernes 30 oct (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🎬 Guisantes con jamón, patata y huevo (táper) | Natillas +Proteínas con plátano y pipas | **Cena fuera** + *cervezas* | ≈1189 kcal · 66 g prot. + cena fuera |
 | **Sábado 31 oct (D)** | Tostada integral con aguacate y huevo | 🎬 Solomillos al adobo barbacoa con patatas y ensalada de granada | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1133 kcal · 85 g prot. + cena fuera |
-| **Domingo 1 nov (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Guisantes con jamón y huevo (sin tosta) | Natillas +Proteínas con kiwi y pipas | 🎬 Fingers de pollo crujientes con ensalada | ≈1566 kcal · 128 g prot. |
+| **Domingo 1 nov (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Fish & chips fit con tártara de yogur y guisantes a la hierbabuena | Natillas +Proteínas con kiwi y pipas | 🎬 Fingers de pollo crujientes con ensalada | ≈1720 kcal · 145 g prot. |
 
-**Preparación por adelantado:**
-- **Domingo 25:** Cocina las lentejas con pollo: 4 raciones, para el lunes y el martes de los dos.
-- **Martes 27 por la noche:** Pasa el bacalao a la nevera para los garbanzos del miércoles.
-- **Jueves 29:** Prensa el tofu 15 minutos antes de rallarlo; para el kebab, marina el pollo 30 minutos y pon las patatas en remojo.
-- **Jueves 29 por la noche:** Pasa la merluza a la nevera y deja hecha la tártara para el fish & chips del viernes.
-- **Viernes 30:** Deja los solomillos del sábado en el adobo barbacoa (de 2 a 4 horas, o desde la noche).
-- **Sábado 31 por la noche:** Deja marinando los fingers del domingo.
+**Batch cooking del domingo 25 de octubre:** 1 h 45 min, aproximadamente. Paso a paso en `recetas/batch_cooking.md`.
+- **A la nevera:** Lentejas con pollo, 4 raciones (lunes y martes); Potaje de garbanzos sin el bacalao, 2 raciones (miércoles); Pechuga asada y desmenuzada para las fajitas (miércoles); Verduras picadas: fajicesta (lunes), pizza (martes) y fajitas (miércoles).
+- **Al congelador** (pásalo a la nevera la noche antes): Tofuloñesa con los espaguetis, 2 raciones (jueves); Guisantes con jamón, 2 raciones (viernes); Solomillos del kebab en su marinado (jueves); Solomillos crudos de la barbacoa (sábado) y de los fingers (domingo), en bolsas.
+
+**Recordatorios de la semana:**
+- **Martes 27 por la noche:** Pasa el bacalao a la nevera para que se descongele.
+- **Miércoles 28 por la mañana:** Calienta el potaje en un cazo, cuece dentro el bacalao 5 minutos y llévalo en los táperes.
+- **Miércoles 28 por la noche:** Pasa del congelador a la nevera la tofuloñesa (jueves) y el marinado del kebab.
+- **Jueves 29:** Kebab: pon las patatas en remojo al llegar a casa.
+- **Jueves 29 por la noche:** Pasa a la nevera los guisantes y los solomillos de la barbacoa; cuece 2 huevos 10 minutos y 300 g de patata en dados (5–6 minutos de microondas) y añádelos a los táperes del viernes.
+- **Viernes 30 por la noche:** Deja los solomillos del sábado en el adobo barbacoa y pasa a la nevera los de los fingers.
+- **Sábado 31:** Con la compra de la semana siguiente, coge canónigos y hierbabuena frescos para el domingo.
+- **Sábado 31 por la noche:** Pasa la merluza a la nevera, haz la tártara y deja marinando los fingers (para el domingo).
 
 **Dónde está cada receta:**
 - Desayunos: `recetas/desayunos.md` · Meriendas: `recetas/meriendas.md`
 - Comidas y cenas nuevas: `recetas/recetas_videos_internet.md` · Cenas de tus vídeos: `recetas/fast_food_saludable.md`
+- Batch cooking del domingo, paso a paso: `recetas/batch_cooking.md`
