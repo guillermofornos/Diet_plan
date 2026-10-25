@@ -1,11 +1,11 @@
 # Menú Semana 3 (26 oct – 1 nov)
 
-*Nota: cantidades por persona en `recetas/` (multiplica x2 si cocinas para tu novia). 🎬 = receta de vídeo o internet, con su enlace en el fichero de recetas. E = entreno, D = descanso.*
+*Nota: cantidades por persona en `recetas/` (multiplica x2 si cocinas para tu novia). 🎬 = receta de vídeo o internet, con su enlace en el fichero de recetas; 🤖 = receta del libro del robot Cecotec. E = entreno, D = descanso.*
 
 | Día | Desayuno | Comida | Merienda | Cena | Total del día |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Lunes 26 oct (E)** | Tostada integral con aguacate y huevo + yogur | 🎬 Lentejas estofadas con pollo y verduras | Natillas +Proteínas con plátano y pipas | 🎬 Fajicesta de huevo, verduras y pavo | ≈1882 kcal · 138 g prot. |
-| **Martes 27 oct (E)** | Batido proteico + tostada integral y kiwi | 🎬 Lentejas estofadas con pollo y verduras | Natillas +Proteínas con plátano y pipas | 🎬 Pizza de avena y yogur proteico con atún | ≈2019 kcal · 138 g prot. |
+| **Martes 27 oct (E)** | Batido proteico + tostada integral y kiwi | 🎬 Lentejas estofadas con pollo y verduras | Natillas +Proteínas con plátano y pipas | 🎬 Pizza de avena y yogur proteico con jamón cocido | ≈2029 kcal · 137 g prot. |
 | **Miércoles 28 oct (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Garbanzos con bacalao (potaje rápido) | Natillas +Proteínas con kiwi y pipas | 🎬 Fajitas de pollo con pan nube | ≈1663 kcal · 142 g prot. |
 | **Jueves 29 oct (E)** | Batido de plátano, avena y claras + kiwi | 🎬 Espaguetis a la tofuloñesa | Natillas +Proteínas con plátano y pipas | 🎬 Kebab de pollo con patatas y salsa blanca | ≈1928 kcal · 138 g prot. |
 | **Viernes 30 oct (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🎬 Guisantes con jamón, patata y huevo (táper) | Natillas +Proteínas con plátano y pipas | **Cena fuera** + *cervezas* | ≈1189 kcal · 66 g prot. + cena fuera |
@@ -17,6 +17,7 @@
 - **Al congelador** (pásalo a la nevera la noche antes): Tofuloñesa con los espaguetis, 2 raciones (jueves); Guisantes con jamón, 2 raciones (viernes); Solomillos del kebab en su marinado (jueves); Solomillos crudos de la barbacoa (sábado) y de los fingers (domingo), en bolsas.
 
 **Recordatorios de la semana:**
+- **Lunes 26:** Compra 140 g de jamón cocido extra (o pechuga de pavo en lonchas) para la pizza del martes, que ya no lleva atún.
 - **Martes 27 por la noche:** Pasa el bacalao a la nevera para que se descongele.
 - **Miércoles 28 por la mañana:** Calienta el potaje en un cazo, cuece dentro el bacalao 5 minutos y llévalo en los táperes.
 - **Miércoles 28 por la noche:** Pasa del congelador a la nevera la tofuloñesa (jueves) y el marinado del kebab.
@@ -28,5 +29,5 @@
 
 **Dónde está cada receta:**
 - Desayunos: `recetas/desayunos.md` · Meriendas: `recetas/meriendas.md`
-- Comidas y cenas nuevas: `recetas/recetas_videos_internet.md` · Cenas de tus vídeos: `recetas/fast_food_saludable.md`
+- Comidas y cenas nuevas: `recetas/recetas_videos_internet.md` · Cenas de tus vídeos: `recetas/fast_food_saludable.md` · Recetas del robot: `recetas/recetas_robot_cecotec.md`
 - Batch cooking del domingo, paso a paso: `recetas/batch_cooking.md`

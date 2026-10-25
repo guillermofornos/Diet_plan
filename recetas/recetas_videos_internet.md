@@ -421,8 +421,8 @@
 
 ---
 
-### Pizza de avena y yogur proteico con atún
-*Fuente: Lara Ibarra · ≈ 540 kcal · 45 g proteína · 56 g HC · 14 g grasa · por persona*
+### Pizza de avena y yogur proteico con jamón cocido
+*Fuente: Lara Ibarra · ≈ 550 kcal · 43 g proteína · 56 g HC · 15 g grasa · por persona*
 
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=QfoqWVQ6TGE&t=262s>
 
@@ -434,7 +434,7 @@
 **Ingredientes (Encima):**
 - 50 g de tomate triturado natural.
 - 60 g de mozzarella fresca light.
-- 1 lata de atún al natural (60 g escurrido).
+- 70 g de jamón cocido extra (o pechuga de pavo en lonchas).
 - 30 g de pimiento rojo.
 - 20 g de cebolla.
 - 2 ml de AOVE para el borde.
@@ -444,38 +444,12 @@
 1. Precalienta el horno a 250 °C, arriba y abajo.
 2. Mezcla la avena, el yogur y la sal hasta formar una masa (añade agua a cucharadas solo si queda seca).
 3. Estírala con rodillo hasta 3–4 mm sobre papel de horno (unos 22 cm por persona).
-4. Pon el tomate con orégano, la mozzarella bien escurrida, el atún desmigado y las verduras en tiras finas.
+4. Pon el tomate con orégano, la mozzarella bien escurrida, el jamón en trocitos y las verduras en tiras finas.
 5. Hornea 10–12 minutos a 230–250 °C hasta que el borde se dore (airfryer: base 5 minutos a 200 °C y 5–6 más con todo).
 
 *Tupper:* 1 día; recaliéntala en airfryer o sartén.
 *Batch cooking:* En el batch, el pimiento y la cebolla cortados; la masa y el horno, al momento.
-*Cambios respecto a la fuente:* Yogur +Proteínas, mozzarella light y atún al natural; masa algo más pequeña.
-
----
-
-### Tacos de atún marinados con soja, arroz integral y calabacín
-*Fuente: Lara Ibarra (versión con atún) · ≈ 493 kcal · 54 g proteína · 33 g HC · 14 g grasa · por persona*
-
-▶ **Vídeo:** <https://www.youtube.com/watch?v=bgZcOVkEYlM&t=153s>
-
-**Ingredientes:**
-- 200 g de tacos de atún congelados (descongelados en la nevera).
-- 15 ml de salsa de soja baja en sodio.
-- 12 ml de AOVE (10 para el marinado y 2 para el calabacín).
-- Cebolla en polvo, pimentón y una pizca de ajo en polvo.
-- 150 g de calabacín.
-- 40 g de arroz integral en seco (o 1 vasito de arroz integral cocido).
-
-**Instrucciones:**
-1. Cuece el arroz (o calienta el vasito 1 minuto en el microondas).
-2. Mezcla el atún con la soja, el aceite y las especias y déjalo 10 minutos.
-3. Airfryer sobre papel a 180 °C 6–7 minutos removiendo a mitad (o sartén a fuego fuerte 3–4 minutos).
-4. Calabacín en rodajas finas con sal y un poco de spray, microondas a máxima potencia 4–5 minutos.
-5. Sirve el atún sobre el arroz con el calabacín.
-
-*Tupper:* 1 día; se puede comer frío, tipo bowl.
-*Batch cooking:* En el batch, el arroz cocido; la noche antes, el atún a la nevera. El resto, al momento.
-*Cambios respecto a la fuente:* Atún en vez de salmón (el salmón sale alto en tu test).
+*Cambios respecto a la fuente:* Yogur +Proteínas y mozzarella light; jamón cocido extra en vez del bonito del vídeo (no queréis atún); masa algo más pequeña.
 
 ---
 
@@ -588,31 +562,3 @@
 *Tupper:* El relleno, 2 días; monta y tuesta al momento.
 *Batch cooking:* El pollo puede ir hecho del batch (2 días en la nevera); se montan y se tuestan al momento.
 *Cambios respecto a la fuente:* Canónigos en vez de lechuga; pollo en vez de carne picada sobrante.
-
----
-
-### Ensaladilla con atún y mayonesa proteica
-*Fuente: Lara Ibarra · ≈ 503 kcal · 48 g proteína · 45 g HC · 12 g grasa · por persona*
-
-▶ **Vídeo:** <https://www.youtube.com/watch?v=bgZcOVkEYlM&t=63s>
-
-**Ingredientes (Ingredientes):**
-- 200 g de patata cocida (o medio bote de patatas cocidas).
-- 145 g de pimientos asados en tiras.
-- 2 latas de atún al natural (120 g escurrido).
-- 30 g de maíz dulce.
-- 15 g de aceitunas negras.
-
-**Ingredientes (Mayonesa proteica):**
-- 60 g de yogur +Proteínas.
-- 1 huevo cocido.
-- 2 ml de AOVE, unas gotas de limón y sal.
-
-**Instrucciones:**
-1. Cuece el huevo 10 minutos, enfríalo y pélalo. Cuece la patata si no es de bote.
-2. Corta la patata en dados y trocea el pimiento; junta con el maíz, las aceitunas y el atún escurrido.
-3. Tritura el yogur con el huevo, el limón, la sal y el aceite hasta que parezca mayonesa.
-4. Mézclalo todo y enfría 30 minutos.
-
-*Tupper:* 2 días (la mejor para llevar).
-*Batch cooking:* La patata y el huevo, cocidos en el batch; la ensaladilla aguanta 2 días en la nevera.

@@ -12,35 +12,37 @@
 - 2 Aguacates (unos 240 g de pulpa)
 - 360 g Pimientos rojos o de colores
 - 410 g Pimientos verdes italianos
-- 940 g Cebollas (incluye cebolleta y morada)
-- 500 g Calabacines
+- 860 g Cebollas (incluye cebolleta y morada)
 - 200 g Zanahorias
-- 1,12 kg Tomates (incluye cherrys)
+- 1,06 kg Tomates (incluye cherrys)
 - 1,69 kg Patatas
-- 240 g Puerros
+- 200 g Puerros
+- 120 g Setas de cardo u ostra (no champiñón)
 - 3 bolsas Rúcula o canónigos (unos 260 g)
 - 1 paquete Remolacha cocida (se usan 100 g)
 - Cilantro
 - Limas
 - Limones
+- Perejil
 
 ## Carne, huevos y tofu
-- 2 docenas Huevos (se usan 20)
+- 2 docenas y media Huevos (se usan 24)
 - 1,1 L Claras de huevo pasteurizadas
-- 2,02 kg Solomillos de pollo
+- 280 g Pechuga de pollo
+- 1,42 kg Solomillos de pollo
+- 180 g Taquitos de jamón serrano
+- 140 g Jamón cocido extra
 - 500 g Tofu firme (2 bloques de 400 g)
 
 ## Pescado
 - 340 g Merluza congelada (lomos o filetes)
 - 360 g Lomos de bacalao congelados (mira si son desalados)
-- 400 g Tacos de atún congelados
-- 2 Latas de atún al natural (120 g escurrido)
 
 ## Lácteos
 - 8 Yogures naturales sin azúcar (de 125 g)
 - 2 Yogur +Proteínas natural (vasitos de 120 g, en packs de 4)
 - 14 Natillas +Proteínas (4 packs de 4)
-- 2 bolas Mozzarella fresca (se usan 220 g)
+- 3 bolas Mozzarella fresca (se usan 260 g)
 - 1 bola Mozzarella fresca light (se usan 120 g)
 - 140 ml Leche o bebida de soja sin azúcar
 
@@ -51,22 +53,24 @@
 - 6 Tortillas de maíz (paquete de 8)
 
 ## Despensa
-- 320 g Lenteja pardina
-- 220 g Arroz integral
+- 360 g Lenteja pardina
+- 140 g Arroz integral
+- 120 g Arroz redondo
 - 130 g Espaguetis integrales o normales (mira si os quedan del paquete)
 - 300 g Copos de avena
 - 140 g Copos de maíz sin azúcar (para los rebozados)
 - 210 g Pipas de calabaza sin sal
 - 400 g Tomate triturado natural
 - 1 bote Carne de pimiento choricero (se usan 40 g)
-- 1 Salsa de soja baja en sodio (si no te queda)
 - 1 Salsa barbacoa sin azúcar (si no te queda)
 - 1 Vinagre balsámico (si no te queda; no crema de balsámico)
+- 1 brik de 1 L Caldo de pollo bajo en sal (se usan 600 ml)
+- 1 brik de 1 L Caldo de verduras bajo en sal (se usan 1 L)
 - 500 ml Caldo de pescado sin azúcar (o agua)
-- 190 ml Aceite de oliva virgen extra (se usan esta semana)
+- 170 ml Aceite de oliva virgen extra (se usan esta semana)
 
 ## Especias y condimentos
-- Chipotle o pimentón picante, Comino, Curry en polvo, Orégano, Pimentón de la Vera, Pimentón dulce (revisa lo que tienes)
+- Chipotle o pimentón picante, Curry en polvo, Laurel, Orégano, Pimentón de la Vera, Pimentón dulce (revisa lo que tienes)
 - Sal, pimienta, ajo en polvo y cebolla en polvo (básicos)
 
 ## Opcional: Big Mac en casa el sábado (x2)

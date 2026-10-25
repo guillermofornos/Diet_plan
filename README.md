@@ -17,6 +17,7 @@ Bienvenido a tu repositorio personal de dieta y entrenamiento. El objetivo de es
 - **`recetas/`**: Instrucciones detalladas para preparar las comidas.
   - **`recetas/recetas_videos_internet.md`**: comidas y cenas de otoño sacadas de vídeos de YouTube y recetas de internet (lentejas, pescado con gracia, cenas de Lara Ibarra), con cantidades por persona y enlace a la fuente. Son la base de los menús de las semanas 3 a 6 (26 oct – 22 nov).
   - **`recetas/fast_food_saludable.md`**: 6 recetas "fast food" saludables (burger crispy, Big Mac, tacos, fajitas, fingers y kebab) adaptadas a tus intolerancias, con macros aproximados. Son cenas habituales de los menús desde la semana 1.
+  - **`recetas/recetas_robot_cecotec.md`**: 6 recetas del libro del robot Cecotec (lentejas con jamón, potaje de garbanzos, ternera a la jardinera, arroz con pollo, ternera escalfada y risotto con pollo), adaptadas a tus intolerancias y con los programas del robot. Entran en los menús de las semanas 4 a 6.
   - **`recetas/batch_cooking.md`**: el batch cooking de cada domingo (semanas 3 a 6), paso a paso con hora y fuego (olla a presión, olla, sartén, horno, airfryer y Thermomix): qué va a la nevera, qué al congelador y los recordatorios de cada noche. El pescado se cocina siempre el día que se come.
 - **`SEGUIMIENTO.md`**: Tabla para que anotes tu progreso semanal.
 - **`SUPLEMENTACION.md`**: Recomendaciones opcionales para complementar tu dieta.

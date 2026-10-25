@@ -29,7 +29,7 @@ Estos alimentos no aparecerán en tus recetas ni listas de la compra.
     *   Lubina (43)
     *   Almejas (41)
 *   **Legumbres:**
-    *   Alubias (47) - *Garbanzos, lentejas y soja/tofu sí están bien.*
+    *   Alubias (47) - *Garbanzos, lentejas y soja/tofu sí están bien. Las judías verdes (de la misma planta, pero sin valor en el test) también: decisión tuya del 25/10/2026.*
 *   **Cereales:**
     *   Escanda (42), mijo (41) y "otras gramíneas" (45) - *Avena, trigo, maíz, arroz y espelta salen bien.*
 *   **Verduras y Hortalizas (nivel alto y excluidas por precaución):**

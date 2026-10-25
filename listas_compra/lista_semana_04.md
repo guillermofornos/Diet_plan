@@ -9,37 +9,36 @@
 - 12 Kiwis (desayunos y meriendas)
 - 1 trozo Piña natural (unos 60 g)
 - 3 Aguacates (unos 400 g de pulpa)
-- 540 g Pimientos rojos o de colores
-- 230 g Pimientos verdes italianos
-- 1,18 kg Cebollas (incluye cebolleta y morada)
-- 300 g Calabacines
-- 500 g Zanahorias
+- 440 g Pimientos rojos o de colores
+- 130 g Pimientos verdes italianos
+- 1,26 kg Cebollas (incluye cebolleta y morada)
+- 620 g Zanahorias
 - 880 g Tomates (incluye cherrys)
-- 950 g Patatas
+- 1,65 kg Patatas
 - 600 g Calabaza (pelada)
-- 1 bolsa Rúcula o canónigos (unos 120 g)
+- 200 g Acelgas
+- 2 bolsas Rúcula o canónigos (unos 180 g)
 - Cilantro
 - Limas
 - Limones
 - Perejil
 
 ## Carne, huevos y tofu
-- 2 docenas y media Huevos (se usan 25)
+- 2 docenas y media Huevos (se usan 27)
 - 1,3 L Claras de huevo pasteurizadas
 - 600 g Pechuga de pollo
 - 460 g Solomillos de pollo
 - 600 g Pechuga o solomillo de pavo
 - 140 g Taquitos de jamón serrano
-- 500 g Tofu firme (2 bloques de 400 g)
+- 340 g Ternera en una pieza para escalfar (redondo, tapa o contra)
 
 ## Pescado
 - 340 g Merluza congelada (lomos o filetes)
-- 400 g Tacos de atún congelados
 
 ## Lácteos
 - 10 Yogures naturales sin azúcar (de 125 g)
 - 14 Natillas +Proteínas (4 packs de 4)
-- 2 bolas Mozzarella fresca (se usan 220 g)
+- 2 bolas Mozzarella fresca (se usan 160 g)
 - 1 bola Mozzarella fresca light (se usan 60 g)
 - 60 ml Leche o bebida de soja sin azúcar
 
@@ -51,21 +50,23 @@
 
 ## Despensa
 - 320 g Lenteja pardina
-- 240 g Arroz integral
-- 90 g Espaguetis integrales o normales (mira si os quedan del paquete)
+- 400 g Garbanzos cocidos (escurridos, unos 2 botes)
+- 160 g Arroz integral
 - 200 g Copos de avena
 - 80 g Copos de maíz sin azúcar (para los rebozados)
 - 210 g Pipas de calabaza sin sal
-- 500 g Tomate triturado natural
-- 1 Salsa de soja baja en sodio (si no te queda)
+- 200 g Tomate triturado natural
+- 1 Tomate concentrado (tubo o lata pequeña; si no te queda)
 - 1 Salsa barbacoa sin azúcar (si no te queda)
+- 1 Vinagre balsámico (si no te queda; no crema de balsámico)
+- 1 brik de 1 L Caldo de verduras bajo en sal (se usan 800 ml)
 - 130 ml Aceite de oliva virgen extra (se usan esta semana)
 
 ## Congelados
 - 800 g Guisantes finos congelados
 
 ## Especias y condimentos
-- Chipotle o pimentón picante, Comino, Curry en polvo, Pimentón de la Vera, Pimentón dulce (revisa lo que tienes)
+- Chipotle o pimentón picante, Comino, Curry en polvo, Laurel, Pimentón de la Vera, Pimentón dulce (revisa lo que tienes)
 - Sal, pimienta, ajo en polvo y cebolla en polvo (básicos)
 
 ## Opcional: Big Mac en casa el sábado (x2)
