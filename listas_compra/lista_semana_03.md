@@ -9,10 +9,9 @@
 - 12 Kiwis (desayunos y meriendas)
 - 1 Granada (se usan 80 g de granos)
 - 2 Aguacates (unos 260 g de pulpa)
-- 750 g Pimientos rojos o de colores
+- 990 g Pimientos rojos o de colores
 - 360 g Pimientos verdes italianos
 - 990 g Cebollas (incluye cebolleta y morada)
-- 240 g Calabacines
 - 200 g Zanahorias
 - 720 g Tomates (incluye cherrys)
 - 2,3 kg Patatas

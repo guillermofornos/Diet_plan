@@ -31,9 +31,9 @@
 | Hora | Dónde | Qué hacer |
 | :--- | :--- | :--- |
 | 0:00 | Preparación | Prensa el tofu entre papel de cocina con un peso encima. Lava las lentejas. Precalienta el horno a 200 °C. |
-| 0:05 | Robot y tabla | Trocea en el robot, por tandas, la cebolla, la zanahoria, los pimientos y el puerro de las lentejas y de la tofuloñesa (4–5 s/vel 5), y guarda cada verdura aparte. A cuchillo: el calabacín, el tomate, la juliana de pimientos y cebolla de las fajitas, la verdura de la fajicesta y el pimiento y la cebolla de la pizza (estas tres, en táperes). |
+| 0:05 | Robot y tabla | Trocea en el robot, por tandas, la cebolla, la zanahoria, los pimientos y el puerro de las lentejas y de la tofuloñesa (4–5 s/vel 5), y guarda cada verdura aparte. A cuchillo: el tomate, la juliana de pimientos y cebolla de las fajitas, la verdura de la fajicesta y el pimiento y la cebolla de la pizza (estas tres, en táperes). |
 | 0:20 | Horno | Marina la pechuga de las fajitas con la soja, la mostaza y las especias y hornéala 25–30 minutos. |
-| 0:20 | Fuego 1 · olla a presión | Dora el pollo de las lentejas 1 minuto por lado y resérvalo en la nevera. En la misma olla, sofrito: cebolla y zanahoria 10 minutos, pimiento, puerro y calabacín 10 más, y el tomate con las especias. |
+| 0:20 | Fuego 1 · olla a presión | Dora el pollo de las lentejas 1 minuto por lado y resérvalo en la nevera. En la misma olla, sofrito: cebolla y zanahoria 10 minutos, pimientos y puerro 10 más, y el tomate con las especias. |
 | 0:25 | Fuego 2 · sartén | Tofuloñesa: mezcla el tofu rallado con las especias; pocha la cebolla y los pimientos 10 minutos, añade el tofu 6–8 minutos y el tomate 8–10. |
 | 0:45 | Fuego 1 · olla a presión | Añade las lentejas, la patata y el agua, cierra y cuece 12–15 minutos desde que suba la válvula. Deja que baje la presión sola. |
 | 0:50 | Horno | Saca la pechuga, deja que temple, desmenúzala y guárdala. Apaga el horno. |

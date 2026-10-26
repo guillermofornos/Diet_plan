@@ -145,7 +145,7 @@ Revisado contra el PDF del test (`Intolerancias GUILLERMO FORNOS.pdf`) y `PERFIL
 4. **Hornear:** 20-25 min, hasta que estén dorados y se despeguen solos.
 5. **Rellenar:** Unta el yogur, pon la rúcula, el pollo y el aguacate. Dobla como un taco (quedan flexibles) o cómelos abiertos, tipo tostada.
 
-*Variante:* la base también sale con calabacín rallado (escúrrelo muy bien) o con boniato rallado.
+*Variante:* la base también sale con boniato rallado.
 
 *Batch cooking:* el pollo, asado y desmenuzado en el batch del domingo, y la zanahoria, rallada (robot, 5–6 s/vel 5). El día que los comas, solo haces las bases y montas.
 

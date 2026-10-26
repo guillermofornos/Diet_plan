@@ -11,7 +11,7 @@
 ## Comidas
 
 ### Lentejas estofadas con pollo y verduras
-*Fuente: Eric Lahuerta · ≈ 679 kcal · 60 g proteína · 73 g HC · 13 g grasa · por persona*
+*Fuente: Eric Lahuerta · ≈ 686 kcal · 60 g proteína · 74 g HC · 13 g grasa · por persona*
 
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=7aLt6GAkC2s>
 
@@ -22,7 +22,7 @@
 - 100 g de zanahoria.
 - 80 g de pimiento verde.
 - 80 g de puerro.
-- 100 g de calabacín.
+- 100 g de pimiento rojo.
 - 150 g de tomate maduro.
 - 200 g de patata chascada (día de entreno).
 - 20 ml de AOVE.
@@ -30,16 +30,16 @@
 - 1000 ml de agua (700 ml en olla exprés).
 
 **Instrucciones:**
-1. Lava las lentejas (la pardina no necesita remojo). Pica fino la cebolla, la zanahoria, el pimiento, el puerro y el calabacín, y ralla el tomate.
+1. Lava las lentejas (la pardina no necesita remojo). Pica fino la cebolla, la zanahoria, los pimientos y el puerro, y ralla el tomate.
 2. Dora los dados de pollo 1 minuto por lado con la mitad del aceite (por dentro quedan crudos) y resérvalos en la nevera.
-3. En la misma olla, con el resto del aceite, pocha la cebolla y la zanahoria 10 minutos; añade el pimiento 5–8 minutos y luego el puerro y el calabacín otros 5. Si se pega, una cucharada de agua en vez de más aceite.
+3. En la misma olla, con el resto del aceite, pocha la cebolla y la zanahoria 10 minutos; añade los pimientos 5–8 minutos y luego el puerro otros 5. Si se pega, una cucharada de agua en vez de más aceite.
 4. Añade el tomate y deja que reduzca. Echa el pimentón, el comino y el laurel y remueve 1 minuto.
 5. Añade las lentejas, la patata chascada (clava el cuchillo y rompe el trozo) y el agua y cuece tapado a fuego suave 45–55 minutos (olla exprés: 12–15 minutos desde que sube la válvula).
 6. Mete el pollo los últimos 5–6 minutos, rectifica de sal y deja reposar tapado 5–10 minutos.
 
 *Tupper:* 3 días en la nevera; se congelan 2–3 meses (mejor sin el pollo).
 *Batch cooking:* Entera en el batch: 3 días en la nevera o al congelador.
-*Cambios respecto a la fuente:* Solomillos en vez de contramuslo, mucho menos aceite y sin chorizo; la patata es el extra para días de entreno.
+*Cambios respecto a la fuente:* Solomillos en vez de contramuslo, mucho menos aceite y sin chorizo; pimiento rojo en vez de calabacín; la patata es el extra para días de entreno.
 
 ---
 
@@ -453,7 +453,7 @@
 ---
 
 ### Fajicesta de huevo, verduras y pavo
-*Fuente: Lara Ibarra · ≈ 588 kcal · 45 g proteína · 57 g HC · 19 g grasa · por persona*
+*Fuente: Lara Ibarra · ≈ 590 kcal · 45 g proteína · 57 g HC · 19 g grasa · por persona*
 
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=Ng9gXmVFJVs&t=19s>
 
@@ -462,8 +462,7 @@
 - 2 huevos.
 - 200 ml de claras.
 - 100 g de yogur +Proteínas natural.
-- 40 g de calabacín.
-- 50 g de pimiento rojo y verde.
+- 90 g de pimiento rojo y verde.
 - 30 g de cebolla.
 - 80 g de pechuga de pavo en lonchas (92 % carne).
 - 60 g de mozzarella fresca light.
@@ -478,7 +477,7 @@
 
 *Tupper:* 1 día; recalentar en airfryer.
 *Batch cooking:* En el batch, las verduras picadas; se monta y se hace al momento.
-*Cambios respecto a la fuente:* Yogur +Proteínas en vez de cottage y un huevo cambiado por claras.
+*Cambios respecto a la fuente:* Yogur +Proteínas en vez de cottage, un huevo cambiado por claras y sin calabacín (más pimiento).
 
 ---
 

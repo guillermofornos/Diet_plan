@@ -43,6 +43,7 @@ Estos alimentos no aparecerán en tus recetas ni listas de la compra.
     *   Alcachofa (41)
     *   Espinacas (41) - *Sustituidas por canónigos o rúcula.*
     *   Lechuga (41) - *Sustituida por canónigos o rúcula.*
+    *   Calabacín - *No sale en el test, pero te sienta fatal (26/10/2026): fuera de todas las recetas; en su lugar, pimiento, zanahoria o judías verdes.*
 
 ### ✅ ALIMENTOS PERMITIDOS (A pesar de nivel >40)
 Has decidido mantener estos alimentos. Se usarán de forma moderada en el plan.
@@ -52,7 +53,7 @@ Has decidido mantener estos alimentos. Se usarán de forma moderada en el plan.
 *   Tomate (42)
 *   Patata (42)
 *   Berenjena (41)
-*   Zanahoria, Calabacín, Cebolla, Pimiento.
+*   Zanahoria, Cebolla, Pimiento.
 
 ### 🌟 ALIMENTOS PRIORITARIOS
 Estos alimentos se han incluido activamente en el plan según tus preferencias:

@@ -8,9 +8,9 @@
 - 300g de arándanos frescos
 - 2 Granadas
 - 4-6 Aguacates
-- 800g de Pimientos (rojos y verdes)
+- 1,3 kg de Pimientos (rojos y verdes; incluye 500 g de rojo en vez del calabacín)
 - 400g de Cebollas
-- 800g de Calabacines
+- 760g de Judías verdes (frescas o congeladas, en vez del calabacín)
 - 400g de Zanahorias
 - 500g de Tomate natural para ensaladas
 - Limones y Ajos

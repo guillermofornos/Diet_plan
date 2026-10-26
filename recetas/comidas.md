@@ -1,6 +1,6 @@
 # Recetas de Comidas Principales (Originales del PDF)
 
-*Nota: cantidades para **2 personas**, porque los dos coméis lo mismo.*
+*Nota: cantidades para **2 personas**, porque los dos coméis lo mismo. Sin calabacín, que te sienta mal: va cambiado por judías verdes o pimiento.*
 
 ---
 
@@ -12,7 +12,7 @@
 - 40g de copos de maíz sin azúcar.
 - Sal, ajo en polvo, perejil y la ralladura de 1 limón.
 - 120g de arroz integral (en crudo).
-- 200g de calabacín.
+- 200g de judías verdes (frescas o congeladas).
 - 200g de zanahoria.
 - 100g de cebolla.
 - 200g de pimiento.
@@ -24,7 +24,7 @@
 1. Precalienta el horno a 200 °C. Seca muy bien la merluza con papel de cocina: la humedad impide que el rebozado cruja.
 2. Bate el huevo con la sal, el ajo en polvo, el perejil y la ralladura de limón. Tritura los copos de maíz en una bolsa (que queden trocitos, sin llegar a harina).
 3. Pasa la merluza por el huevo y después por los copos, apretando para que se peguen. Colócala sobre papel de horno, rocíala con el aceite en spray y hornea 12–15 minutos sin darle la vuelta (en airfryer: 190 °C, 8–10 minutos).
-4. Mientras, cocina el arroz integral según las instrucciones del paquete y saltea en una sartén con el resto del aceite el calabacín, la zanahoria, la cebolla y el pimiento picados, 5–7 minutos.
+4. Mientras, cocina el arroz integral según las instrucciones del paquete y saltea en una sartén con el resto del aceite las judías verdes troceadas, la zanahoria, la cebolla y el pimiento picados, 8–10 minutos.
 5. Sirve la merluza rebozada sobre el arroz y las verduras, con el aguacate en rodajas y unas gotas de limón.
 
 *El rebozado suma unas 110 kcal por persona (≈700 kcal la ración). En días de descanso, si quieres compensar, baja el arroz a 90g (45g por persona).*
@@ -35,7 +35,7 @@
 **Ingredientes:**
 - 540g de tofu (Mercadona).
 - 120g de arroz integral (en crudo).
-- 200g de calabacín.
+- 200g de judías verdes (frescas o congeladas).
 - 100g de cebolla.
 - 200g de pimiento.
 - 20 ml de AOVE.
@@ -43,7 +43,7 @@
 
 **Instrucciones:**
 1. Corta el tofu en cubos y marínalo 10 min con jengibre, ajo y salsa de soja.
-2. Calienta el aceite en una sartén y saltea el calabacín, cebolla y pimiento durante 5–7 minutos.
+2. Calienta el aceite en una sartén y saltea las judías verdes troceadas, la cebolla y el pimiento durante 8–10 minutos.
 3. Incorpora el tofu y cocina junto con las verduras otros 5–7 minutos.
 4. Sirve sobre el arroz integral previamente cocido.
 
@@ -55,28 +55,28 @@
 - 160g de zanahoria.
 - 100g de cebolla.
 - 100g de pimiento (a la plancha o asado).
-- 160g de calabacín.
+- 160g de judías verdes cocidas.
 - 1 aguacate (100g).
 - 10 ml de AOVE, jugo de limón, orégano.
 
 **Instrucciones:**
 1. Enjuaga bien los garbanzos si son de bote.
-2. En un bol grande, mezcla los garbanzos con la zanahoria (rallada o cubos), cebolla picada, pimiento y calabacín en cubos (puedes saltear ligeramente las verduras antes si lo prefieres).
+2. En un bol grande, mezcla los garbanzos con la zanahoria (rallada o cubos), cebolla picada, pimiento y las judías verdes cocidas y troceadas (puedes saltear ligeramente las verduras antes si lo prefieres).
 3. Agrega el aguacate en cubos. Aliña con aceite, limón, sal y orégano.
 
 ---
 
-### 4. Pechuga de Pollo al Horno con Zanahorias, Calabacín y Arroz Integral
+### 4. Pechuga de Pollo al Horno con Zanahorias, Pimiento y Arroz Integral
 **Ingredientes:**
 - 400g de pechuga de pollo.
 - 200g de zanahorias en bastones.
-- 200g de calabacín en rodajas o cubos.
+- 200g de pimiento rojo en tiras.
 - 120g de arroz integral (en crudo).
 - 20 ml de AOVE, sal, pimienta, ajo.
 
 **Instrucciones:**
 1. Precalienta el horno a 180 °C.
-2. Sazona el pollo con sal, pimienta y ajo. Colócalo en una bandeja junto con las zanahorias y el calabacín. Rocía con el aceite.
+2. Sazona el pollo con sal, pimienta y ajo. Colócalo en una bandeja junto con las zanahorias y el pimiento. Rocía con el aceite.
 3. Hornea durante 20–25 minutos.
 4. Sirve junto con el arroz integral cocido.
 
@@ -100,7 +100,7 @@
 ### 6. Receta Vegana – Cuscús con Garbanzos Crujientes y Queso Cottage (Sábados)
 *(Adaptado del PDF original: se usa queso cottage)*
 **Ingredientes:**
-- 100g de calabacín.
+- 100g de pimiento rojo.
 - 100g de tomate natural.
 - 100g de garbanzos cocidos.
 - 80g de cuscús perlado.
@@ -111,7 +111,7 @@
 
 **Instrucciones:**
 1. Precalienta el horno a 220 °C.
-2. En una bandeja de horno, pon a un lado el calabacín y tomate picados, aderezados con aceite, sal, pimienta y tomillo.
+2. En una bandeja de horno, pon a un lado el pimiento y el tomate picados, aderezados con aceite, sal, pimienta y tomillo.
 3. Al otro lado de la bandeja, pon los garbanzos secos, espolvorea pimentón ahumado y un chorrito de aceite. Hornea todo 20-25 minutos hasta que los garbanzos estén dorados/crujientes.
 4. En una sartén, saltea el ajo picado en una gota de aceite. Añade el cuscús perlado y remueve 1 minuto. Añade el agua y el caldo vegetal y cuécelo 8-10 minutos como una pasta; escurre el líquido que sobre.
 5. Sirve el cuscús, pon encima las verduras y garbanzos, y corona con el queso cottage.
