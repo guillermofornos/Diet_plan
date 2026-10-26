@@ -221,3 +221,73 @@
 *Tupper:* Mejor recién hecho; 1 día en la nevera (al recalentar, un chorrito de caldo).
 *Batch cooking:* Se hace al momento en el robot (30 minutos). En el batch, la pechuga va cruda al congelador y se pasa a la nevera la noche antes.
 *Cambios respecto a la fuente:* Con pollo; sin mantequilla (45) ni parmesano (queso curado 55): un poco de mozzarella fresca al final; sin vino; más puerro y setas (no champiñón, 43 en tu test); menos jamón y caldo bajo en sal.
+
+---
+
+### Crema de calabaza con pipas y tortilla de claras con pavo
+*Fuente: Recetas Cecotec (web) · ≈ 421 kcal · 38 g proteína · 27 g HC · 17 g grasa · por persona*
+
+📄 **Receta escrita:** <https://cecotec.es/recetas/cremas-y-sopas/crema-de-calabaza-2>
+
+**Ingredientes (Crema de calabaza):**
+- 300 g de calabaza pelada.
+- 80 g de puerro.
+- 50 g de cebolla.
+- 120 g de patata.
+- 10 ml de AOVE (en vez de mantequilla).
+- 380 ml de agua.
+- Sal y pimienta.
+- 20 g de pipas de calabaza para servir.
+
+**Ingredientes (Tortilla de claras con pavo):**
+- 2 huevos.
+- 300 ml de claras.
+- 80 g de pechuga de pavo en lonchas (92 % carne), en tiras.
+- Un poco de AOVE en spray.
+
+**Instrucciones:**
+1. Trocea en el robot el puerro y la cebolla: 6 segundos a velocidad 6.
+2. Añade el aceite y sofríe 4 minutos a 120 °C y velocidad 1 (en el Cecotec, potencia de calor 7).
+3. Añade la calabaza y la patata en trozos, el agua, la sal y la pimienta: 20 minutos a 110 °C, sin movimiento (velocidad 0).
+4. Cierra bien el cubilete y tritura 1 minuto a velocidad 7. Rectifica de sal.
+5. Tortilla: bate el huevo con las claras, la sal y el pavo en tiras y cuájala en una sartén con spray, 2–3 minutos por lado (una por persona).
+6. Sirve la crema con las pipas por encima y la tortilla de segundo.
+
+*Tupper:* La crema, 3 días en la nevera (se congela bien); la tortilla, al momento.
+*Batch cooking:* La crema puede hacerse en el robot al terminar el batch (25 minutos); la tortilla, al momento.
+*Cambios respecto a la fuente:* AOVE en vez de mantequilla (45 en tu test); pipas de calabaza por encima y una tortilla de claras con pavo de segundo para llegar a la proteína. La web no dice raciones: cantidades calculadas para 4 y pasadas a 2.
+
+---
+
+### Crema de zanahoria con gambas salteadas
+*Fuente: Recetas Cecotec (web) · ≈ 402 kcal · 37 g proteína · 34 g HC · 11 g grasa · por persona*
+
+📄 **Receta escrita:** <https://cecotec.es/recetas/cremas-y-sopas/crema-de-zanahoria>
+
+**Ingredientes (Crema de zanahoria):**
+- 250 g de zanahoria.
+- 80 g de patata.
+- 50 g de puerro.
+- 50 g de cebolla.
+- 10 ml de AOVE.
+- 300 ml de caldo de verduras bajo en sal.
+- 50 ml de leche (en vez de leche evaporada).
+- Sal y pimienta.
+
+**Ingredientes (Gambas salteadas):**
+- 300 g de gambas o langostinos pelados (congelados).
+- 6 ml de AOVE.
+- 1 diente de ajo y perejil picado.
+- 60 g de pan integral para acompañar.
+
+**Instrucciones:**
+1. Trocea en el robot el puerro y la cebolla: 6 segundos a velocidad 6.
+2. Añade el aceite y sofríe 3 minutos a 120 °C y velocidad 1 (en el Cecotec, potencia de calor 7).
+3. Añade la patata chascada, la zanahoria en trozos, el caldo, la sal y la pimienta: 24 minutos a 110 °C, sin movimiento (velocidad 0) y sin el cubilete.
+4. Pon el cubilete, añade la leche y tritura 1 minuto a velocidad 8.
+5. Gambas: descongélalas y sécalas bien; saltéalas en una sartén muy caliente con el aceite, el ajo picado y el perejil, 2–3 minutos.
+6. Sirve la crema con las gambas por encima y el pan tostado.
+
+*Tupper:* La crema, 3 días en la nevera; las gambas, al momento.
+*Batch cooking:* La crema, en el robot (30 minutos) el mismo día o en el batch; las gambas, siempre al momento.
+*Cambios respecto a la fuente:* Leche normal en vez de evaporada; caldo bajo en sal; gambas salteadas por encima para llegar a la proteína. La web no dice raciones: cantidades calculadas para 4 y pasadas a 2.

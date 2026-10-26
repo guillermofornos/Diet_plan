@@ -10,19 +10,20 @@
 - 3 Aguacates (unos 420 g de pulpa)
 - 560 g Pimientos rojos o de colores
 - 400 g Pimientos verdes italianos
-- 1,2 kg Cebollas (incluye cebolleta y morada)
-- 720 g Zanahorias
+- 1,15 kg Cebollas (incluye cebolleta y morada)
+- 970 g Zanahorias
 - 400 g Tomates (incluye cherrys)
-- 1,51 kg Patatas
+- 1,24 kg Patatas
 - 600 g Calabaza (pelada)
+- 50 g Puerros
 - 2 bolsas Rúcula o canónigos (unos 130 g)
 - Hierbabuena
 - Limones
 - Perejil
 
 ## Carne, huevos y tofu
-- docena y media Huevos (se usan 17)
-- 1,34 L Claras de huevo pasteurizadas
+- docena y media Huevos (se usan 13)
+- 940 ml Claras de huevo pasteurizadas
 - 900 g Pechuga de pollo
 - 660 g Solomillos de pollo
 - 600 g Pechuga o solomillo de pavo
@@ -32,6 +33,7 @@
 - 320 g Ternera para guisar en tacos (morcillo, aguja o llana, sin grasa visible)
 
 ## Pescado
+- 300 g Gambas o langostinos pelados congelados
 - 360 g Merluza congelada (lomos o filetes)
 
 ## Lácteos
@@ -40,9 +42,10 @@
 - 14 Natillas +Proteínas (4 packs de 4)
 - 2 bolas Mozzarella fresca (se usan 220 g)
 - 1 bola Mozzarella fresca light (se usan 120 g)
+- 50 ml Leche o bebida de soja sin azúcar
 
 ## Pan y tortillas
-- 580 g Pan integral (100% integral)
+- 640 g Pan integral (100% integral)
 - 2 Panes de pita (mejor integrales)
 - 4 Tortillas integrales (paquete de 10)
 
@@ -60,8 +63,8 @@
 - 1 Mostaza (si no te queda)
 - 1 Salsa barbacoa sin azúcar (si no te queda)
 - 1 brik de 1 L Caldo de pollo bajo en sal (se usan 700 ml)
-- 1 brik de 1 L Caldo de verduras bajo en sal (se usan 350 ml)
-- 160 ml Aceite de oliva virgen extra (se usan esta semana)
+- 1 brik de 1 L Caldo de verduras bajo en sal (se usan 650 ml)
+- 170 ml Aceite de oliva virgen extra (se usan esta semana)
 - Salsa picante (opcional)
 
 ## Congelados

@@ -10,7 +10,7 @@
 | **Jueves 19 nov (E)** | Batido proteico + tostada integral y kiwi | 🤖 Arroz caldoso con pollo y judías verdes | Natillas +Proteínas con plátano y pipas | 🎬 Pizza de avena y yogur proteico con jamón cocido | ≈1920 kcal · 122 g prot. |
 | **Viernes 20 nov (E)** | Batido de plátano, avena y claras + kiwi | 🎬 Espaguetis a la tofuloñesa | Natillas +Proteínas con plátano y pipas | **Cena fuera** + *cervezas* | ≈1349 kcal · 84 g prot. + cena fuera |
 | **Sábado 21 nov (D)** | Tostada integral con aguacate y huevo | 🎬 Fish & chips fit con tártara de yogur y guisantes a la hierbabuena | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1161 kcal · 77 g prot. + cena fuera |
-| **Domingo 22 nov (D)** | Tostada integral con aguacate y huevo + yogur | 🎬 Burritos crujientes de pollo con pimientos y barbacoa | Natillas +Proteínas con kiwi y pipas | 🎬 Tortilla de patata con claras | ≈1684 kcal · 124 g prot. |
+| **Domingo 22 nov (D)** | Tostada integral con aguacate y huevo + yogur | 🎬 Burritos crujientes de pollo con pimientos y barbacoa | Natillas +Proteínas con kiwi y pipas | 🤖 Crema de zanahoria con gambas salteadas | ≈1620 kcal · 121 g prot. |
 
 **Batch cooking del domingo 15 de noviembre:** 1 h 45 min, aproximadamente. Ese día, además, comes los tacos de merluza y cenas los fingers. Paso a paso en `recetas/batch_cooking.md`.
 - **A la nevera:** Lentejas al curry con pavo, 4 raciones con su arroz (lunes y martes); Ternera a la jardinera, 2 raciones (miércoles); Pechuga asada para los tacos (martes) y para las fajitas (miércoles); Zanahoria rallada (tacos) y juliana (fajitas); Pollo del kebab marinado y salsa blanca (lunes).

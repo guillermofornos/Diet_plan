@@ -77,33 +77,34 @@
 
 ---
 
-### Bacalao a la riojana con patata
-*Fuente: Karlos Arguiñano · ≈ 455 kcal · 39 g proteína · 47 g HC · 9 g grasa · por persona*
+### Bacalao al pil pil con patata y pimiento asado
+*Fuente: Karlos Arguiñano · ≈ 500 kcal · 35 g proteína · 32 g HC · 24 g grasa · por persona*
 
-▶ **Vídeo:** <https://www.youtube.com/watch?v=WF6ME_t0Pks>  
-📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/pescados-mariscos/bacalao-riojana-42529.html>
+▶ **Vídeo:** <https://www.youtube.com/watch?v=Fyjza6ex_ao>  
+📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/pescados-mariscos/201303/bacalao-tradicional-19145.html>
 
-**Ingredientes (Salsa riojana):**
-- 240 g de pimiento rojo (morrón) para asar.
-- 160 g de cebolla.
-- 1 diente de ajo, sal y perejil.
-- 400 g de tomate triturado natural.
-- 16 ml de AOVE.
+**Ingredientes (Bacalao al pil pil):**
+- 340 g de lomo de bacalao desalado, con piel (sin piel no liga).
+- 120 ml de AOVE para confitar (en la salsa se quedan unos 50 ml).
+- 2 dientes de ajo laminado y 1/2 guindilla.
 
-**Ingredientes (Bacalao y guarnición):**
-- 340 g de lomo de bacalao (desalado o fresco-congelado, descongelado).
+**Ingredientes (Guarnición):**
 - 360 g de patata.
+- 160 g de pimiento rojo para asar.
 
 **Instrucciones:**
-1. Pimientos: lávalos, úntalos con un poco del aceite y sal y ásalos en el horno a 180 °C 35–40 minutos (airfryer: 180 °C, 20–25 minutos), dándoles la vuelta a mitad. Cuando templen, pélalos, córtalos en tiras y guarda el jugo.
-2. Salsa: pocha la cebolla picada y el ajo con el resto del aceite 10 minutos, añade el tomate y la sal y cuece 25–30 minutos a fuego suave; tritúrala para que quede fina. En el robot: sofrito 10 min/120 °C/vel 1, tomate 25 min/100 °C/vel 1 y triturar 30 s a vel 7. Sin azúcar: si queda ácida, unos minutos más de fuego.
-3. Patata en dados de 2 cm, en un bol tapado con un poco de agua, 6–7 minutos de microondas.
-4. El día que lo comas: calienta la salsa en una cazuela, pon los lomos bien secos con la piel hacia arriba y cuécelos a fuego muy suave 5–6 minutos por lado (4 si son fresco-congelados), moviendo la cazuela en vaivén, sin remover.
-5. Añade las tiras de pimiento con su jugo y la patata, 2 minutos más, y perejil por encima.
+1. Seca muy bien los lomos con papel de cocina: el agua impide que la salsa ligue.
+2. En una cazuela baja de barro o de fondo grueso, justa para los lomos, dora a fuego medio el ajo laminado y la guindilla en el aceite; retíralos en cuanto empiecen a tomar color y resérvalos.
+3. Baja el fuego al mínimo, deja templar el aceite un par de minutos y pon los lomos con la piel hacia arriba: el aceite los cubre a medias y no debe hervir nunca (si burbujea, aparta la cazuela). Confítalos 4–5 minutos, dales la vuelta y 4–5 minutos más, moviendo la cazuela en vaivén para que suelten la gelatina.
+4. Saca los lomos a un plato, guardando el jugo blanco que suelten, y pasa el aceite a un vaso. Déjalo templar 5–10 minutos: si está caliente, la salsa se corta.
+5. Pon en la cazuela el jugo de los lomos y un chorrito del aceite templado y mueve con un colador en círculos, sin parar, hasta que empiece a espesar. Ve añadiendo el aceite en hilo fino hasta tener una salsa blanca y espesa (en la salsa quedan unos 50 ml de aceite; el que sobre, colado, sirve para cocinar otros días).
+6. Mete los lomos en la salsa y calienta a fuego muy suave, sin que hierva, moviendo la cazuela en vaivén 2–3 minutos. Pon por encima el ajo y la guindilla (o no, si quieres menos ajo).
+7. Guarnición: el pimiento, asado en la airfryer a 180 °C 20 minutos, y la patata en dados, 6–7 minutos de microondas. Pueden hacerse la noche antes.
+8. Si la salsa se corta: saca el bacalao, añade una cucharada de agua templada y vuelve a ligar con el colador, poco a poco.
 
-*Tupper:* La salsa con los pimientos y la patata, del batch (3 días en la nevera); el bacalao, el mismo día.
-*Batch cooking:* En el batch, los pimientos asados, la salsa y la patata, a la nevera. El día que lo comas: calienta la salsa y cuece el bacalao dentro 5–6 minutos por lado.
-*Cambios respecto a la fuente:* Sin azúcar; la mitad de ajo y el aceite medido; una sola cebolla, en la salsa (Arguiñano rehoga otra aparte); con patata para que sea un plato completo de táper.
+*Tupper:* Se hace el mismo día; al recalentar, microondas a media potencia para que la salsa no se corte.
+*Batch cooking:* Pescado: se hace el mismo día (unos 25 minutos). La patata y el pimiento asado, la noche antes.
+*Cambios respecto a la fuente:* Menos aceite en la salsa (el que sobra, colado, sirve para cocinar), un diente de ajo por persona que puedes no comerte, y patata cocida y pimiento asado de guarnición, como lo sirve Arguiñano pero sin freír los pimientos.
 
 ---
 

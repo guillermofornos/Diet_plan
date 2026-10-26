@@ -9,9 +9,9 @@
 - 12 Kiwis (desayunos y meriendas)
 - 1 Granada (se usan 80 g de granos)
 - 2 Aguacates (unos 260 g de pulpa)
-- 990 g Pimientos rojos o de colores
+- 910 g Pimientos rojos o de colores
 - 360 g Pimientos verdes italianos
-- 990 g Cebollas (incluye cebolleta y morada)
+- 830 g Cebollas (incluye cebolleta y morada)
 - 200 g Zanahorias
 - 720 g Tomates (incluye cherrys)
 - 2,3 kg Patatas
@@ -54,20 +54,20 @@
 - 280 g Copos de avena
 - 110 g Copos de maíz sin azúcar (para los rebozados)
 - 210 g Pipas de calabaza sin sal
-- 800 g Tomate triturado natural
+- 400 g Tomate triturado natural
 - 1 bote Alcaparras (se usan 15 g)
 - 1 Salsa de soja baja en sodio (si no te queda)
 - 1 Mostaza (si no te queda)
 - 1 Salsa barbacoa sin azúcar (si no te queda)
 - 1 Vinagre balsámico (si no te queda; no crema de balsámico)
-- 180 ml Aceite de oliva virgen extra (se usan esta semana)
+- 220 ml Aceite de oliva virgen extra (se usan esta semana)
 - Salsa picante (opcional)
 
 ## Congelados
 - 600 g Guisantes finos congelados
 
 ## Especias y condimentos
-- Comino, Curry en polvo, Orégano, Pimentón dulce, Romero o tomillo (revisa lo que tienes)
+- Cayena o guindilla, Comino, Curry en polvo, Orégano, Pimentón dulce, Romero o tomillo (revisa lo que tienes)
 - Sal, pimienta, ajo en polvo y cebolla en polvo (básicos)
 
 ## Opcional: Big Mac en casa el sábado (x2)

@@ -12,7 +12,7 @@
 | **Sábado 14 nov (D)** | Tostada integral con aguacate y huevo | 🎬 Solomillos al adobo barbacoa con patatas y ensalada de granada | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1133 kcal · 85 g prot. + cena fuera |
 | **Domingo 15 nov (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Tacos de merluza crujiente con pico de gallo y salsa de yogur y lima | Natillas +Proteínas con kiwi y pipas | 🎬 Fingers de pollo crujientes con ensalada | ≈1625 kcal · 139 g prot. |
 
-**Batch cooking del domingo 8 de noviembre:** 1 h 30 min, aproximadamente. Ese día, además, comes los burritos y cenas la tortilla. Paso a paso en `recetas/batch_cooking.md`.
+**Batch cooking del domingo 8 de noviembre:** 1 h 30 min, aproximadamente. Ese día, además, comes los burritos y cenas la crema de calabaza (hazla en el robot al terminar el batch). Paso a paso en `recetas/batch_cooking.md`.
 - **A la nevera:** Lentejas con jamón, 4 raciones, y 4 huevos duros con cáscara (lunes y martes); Gratinado de patata y pollo al curry, 2 raciones (miércoles); Pimiento y cebolla en tiras para la pizza (lunes).
 - **Al congelador** (pásalo a la nevera la noche antes): Albóndigas en salsa con su arroz, 2 raciones (jueves); Salsa vizcaína con su arroz, 2 raciones (viernes; el bacalao se cuece el viernes); Solomillos del crispy en la leche (jueves); Pechuga cruda del risotto, en dados (martes); Solomillos crudos de la barbacoa (sábado) y de los fingers (domingo), en bolsas.
 

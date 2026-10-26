@@ -44,9 +44,9 @@
 | 1:25 | Táperes | Deja templar, reparte, etiqueta con el día y guarda: a la nevera lo de lunes a miércoles y al congelador lo de jueves y viernes. |
 
 **Recordatorios de la semana:**
-- **Lunes 26:** Compra 140 g de jamón cocido extra (o pechuga de pavo en lonchas) para la pizza del martes, que ya no lleva atún, y para el bacalao a la riojana del miércoles un bote de tomate triturado (400 g) y un pimiento rojo grande.
-- **Martes 27 por la noche:** Pasa el bacalao a la nevera. Haz la salsa riojana en el robot (unos 40 minutos), asa los pimientos en la airfryer (180 °C, 20–25 minutos) y cuece la patata en dados (6–7 minutos de microondas); todo a la nevera.
-- **Miércoles 28 por la mañana:** Calienta la salsa riojana en una cazuela y cuece dentro el bacalao 5–6 minutos por lado; añade los pimientos y la patata 2 minutos y a los táperes.
+- **Lunes 26:** Compra 140 g de jamón cocido extra (o pechuga de pavo en lonchas) para la pizza del martes, que ya no lleva atún. El pil pil del miércoles necesita bacalao con piel: los lomos al punto de sal congelados la llevan.
+- **Martes 27 por la noche:** Pasa el bacalao a la nevera. Asa el pimiento rojo en la airfryer (180 °C, 20 minutos) y cuece la patata en dados (6–7 minutos de microondas) para el pil pil; los dos, a la nevera.
+- **Miércoles 28 por la mañana:** Bacalao al pil pil (unos 25 minutos: confitado a fuego suave y la salsa ligada con un colador); con la patata y el pimiento, a los táperes. Al recalentarlo, microondas a media potencia.
 - **Miércoles 28 por la noche:** Pasa del congelador a la nevera la tofuloñesa (jueves) y el marinado del kebab.
 - **Jueves 29:** Kebab: pon las patatas en remojo al llegar a casa.
 - **Jueves 29 por la noche:** Pasa a la nevera los guisantes y los solomillos de la barbacoa; cuece 2 huevos 10 minutos y 300 g de patata en dados (5–6 minutos de microondas) y añádelos a los táperes del viernes.
@@ -102,7 +102,7 @@
 
 ## Semana 5 (9 – 15 nov) · Domingo 8 de noviembre
 
-*Duración: 1 h 30 min, aproximadamente. Ese día, además, comes los burritos y cenas la tortilla.*
+*Duración: 1 h 30 min, aproximadamente. Ese día, además, comes los burritos y cenas la crema de calabaza (hazla en el robot al terminar el batch).*
 
 **A la nevera:**
 - Lentejas con jamón, 4 raciones, y 4 huevos duros con cáscara (lunes y martes)

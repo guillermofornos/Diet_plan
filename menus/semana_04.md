@@ -10,7 +10,7 @@
 | **Jueves 5 nov (E)** | Batido proteico + tostada integral y kiwi | 🎬 Guisantes con jamón, patata y huevo (táper) | Natillas +Proteínas con plátano y pipas | 🎬 Crispy chicken burger con mayonesa proteica | ≈1922 kcal · 119 g prot. |
 | **Viernes 6 nov (E)** | Batido de plátano, avena y claras + kiwi | 🎬 Guisantes con jamón, patata y huevo (táper) | Natillas +Proteínas con plátano y pipas | **Cena fuera** + *cervezas* | ≈1157 kcal · 71 g prot. + cena fuera |
 | **Sábado 7 nov (D)** | Tostada integral con aguacate y huevo | 🎬 Tacos de merluza crujiente con pico de gallo y salsa de yogur y lima | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1066 kcal · 71 g prot. + cena fuera |
-| **Domingo 8 nov (D)** | Tostada integral con aguacate y huevo + yogur | 🎬 Burritos crujientes de pollo con pimientos y barbacoa | Natillas +Proteínas con kiwi y pipas | 🎬 Tortilla de patata con claras | ≈1684 kcal · 124 g prot. |
+| **Domingo 8 nov (D)** | Tostada integral con aguacate y huevo + yogur | 🎬 Burritos crujientes de pollo con pimientos y barbacoa | Natillas +Proteínas con kiwi y pipas | 🤖 Crema de calabaza con pipas y tortilla de claras con pavo | ≈1640 kcal · 122 g prot. |
 
 **Batch cooking del domingo 1 de noviembre:** 1 h 40 min, aproximadamente. Ese día, además, comes el fish & chips y cenas los fingers. Paso a paso en `recetas/batch_cooking.md`.
 - **A la nevera:** Lentejas al curry con pavo, 4 raciones con su arroz (lunes y martes); Ternera escalfada entera, en su salsa (cena del martes); Potaje de garbanzos con acelgas, 2 raciones, y 2 huevos duros con cáscara (miércoles); Pechuga asada y zanahoria rallada para los tacos (lunes); Pollo a la plancha para los tomates rellenos (miércoles).

@@ -11,11 +11,12 @@
 - 3 Aguacates (unos 400 g de pulpa)
 - 440 g Pimientos rojos o de colores
 - 130 g Pimientos verdes italianos
-- 1,26 kg Cebollas (incluye cebolleta y morada)
+- 1,21 kg Cebollas (incluye cebolleta y morada)
 - 620 g Zanahorias
 - 880 g Tomates (incluye cherrys)
-- 1,65 kg Patatas
-- 600 g Calabaza (pelada)
+- 1,42 kg Patatas
+- 900 g Calabaza (pelada)
+- 80 g Puerros
 - 200 g Acelgas
 - 2 bolsas Rúcula o canónigos (unos 180 g)
 - Cilantro
@@ -24,11 +25,12 @@
 - Perejil
 
 ## Carne, huevos y tofu
-- 2 docenas y media Huevos (se usan 27)
-- 1,3 L Claras de huevo pasteurizadas
+- 2 docenas y media Huevos (se usan 25)
+- 1,2 L Claras de huevo pasteurizadas
 - 600 g Pechuga de pollo
 - 460 g Solomillos de pollo
 - 600 g Pechuga o solomillo de pavo
+- 80 g Pechuga de pavo en lonchas (92 % carne)
 - 140 g Taquitos de jamón serrano
 - 340 g Ternera en una pieza para escalfar (redondo, tapa o contra)
 
@@ -54,7 +56,7 @@
 - 160 g Arroz integral
 - 200 g Copos de avena
 - 80 g Copos de maíz sin azúcar (para los rebozados)
-- 210 g Pipas de calabaza sin sal
+- 230 g Pipas de calabaza sin sal
 - 200 g Tomate triturado natural
 - 1 Tomate concentrado (tubo o lata pequeña; si no te queda)
 - 1 Salsa barbacoa sin azúcar (si no te queda)
