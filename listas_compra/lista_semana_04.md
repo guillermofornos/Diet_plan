@@ -1,8 +1,10 @@
 # Lista de la Compra - Semana 4 (2 – 8 nov)
 
-*Nota: cantidades para los dos (x2), calculadas sumando las recetas del menú de esta semana. La merienda también va x2: si tu novia no merienda, quita la mitad de natillas, plátanos y kiwis.*
+*Nota: cantidades para los dos (x2), calculadas sumando las recetas del menú de esta semana. La merienda también va para los dos: si un día merienda solo uno, sobra la mitad de natillas, plátanos y kiwis.*
 
 *Truco: compra el pescado congelado. Casi todo el pollo se cocina o se marina en el batch del domingo; el del fin de semana va crudo al congelador y se pasa a la nevera la noche antes (ver «Recordatorios de la semana» en el menú).*
+
+> **Ojo:** No compréis los garbanzos: os sobran de la semana pasada (ya no los lleva el bacalao).
 
 ## Fruta y verdura
 - 14 Plátanos (desayunos y meriendas)

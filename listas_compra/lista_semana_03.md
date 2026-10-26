@@ -1,8 +1,10 @@
 # Lista de la Compra - Semana 3 (26 oct – 1 nov)
 
-*Nota: cantidades para los dos (x2), calculadas sumando las recetas del menú de esta semana. La merienda también va x2: si tu novia no merienda, quita la mitad de natillas, plátanos y kiwis.*
+*Nota: cantidades para los dos (x2), calculadas sumando las recetas del menú de esta semana. La merienda también va para los dos: si un día merienda solo uno, sobra la mitad de natillas, plátanos y kiwis.*
 
 *Truco: compra el pescado congelado. Casi todo el pollo se cocina o se marina en el batch del domingo; el del fin de semana va crudo al congelador y se pasa a la nevera la noche antes (ver «Recordatorios de la semana» en el menú).*
+
+> **Ojo:** La compra de esta semana ya está hecha (sábado 24). Con los cambios solo falta: 140 g de jamón cocido extra para la pizza del martes, un pimiento rojo para el pil pil y la fajicesta y una guindilla o cayena si no tenéis. Os sobran 2 latas de atún y 400 g de garbanzos (los garbanzos, para el potaje del miércoles 4).
 
 ## Fruta y verdura
 - 12 Plátanos (desayunos y meriendas)
