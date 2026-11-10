@@ -10,7 +10,7 @@
 | **Jueves 12 nov (E)** | Batido de plátano, avena y claras + kiwi | 🤖 Albóndigas caseras en salsa de tomate con arroz integral | Natillas +Proteínas con plátano y pipas | 🎬 Crispy chicken burger con mayonesa proteica | ≈1915 kcal · 139 g prot. |
 | **Viernes 13 nov (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🎬 Bacalao a la vizcaína ligero con arroz | Natillas +Proteínas con plátano y pipas | **Cena fuera** + *cervezas* | ≈1288 kcal · 77 g prot. + cena fuera |
 | **Sábado 14 nov (D)** | Tostada integral con aguacate y huevo | 🎬 Solomillos al adobo barbacoa con patatas y ensalada de granada | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1133 kcal · 85 g prot. + cena fuera |
-| **Domingo 15 nov (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Tacos de merluza crujiente con pico de gallo y salsa de yogur y lima | Natillas +Proteínas con kiwi y pipas | 🎬 Fingers de pollo crujientes con ensalada | ≈1625 kcal · 139 g prot. |
+| **Domingo 15 nov (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Arroz meloso con gambones | Natillas +Proteínas con kiwi y pipas | 🎬 Fingers de pollo crujientes con ensalada | ≈1559 kcal · 129 g prot. |
 
 **Batch cooking del domingo 8 de noviembre:** 1 h 30 min, aproximadamente. Ese día, además, comes los burritos y cenas la crema de calabaza (hazla en el robot al terminar el batch). Paso a paso en `recetas/batch_cooking.md`.
 - **A la nevera:** Lentejas con jamón, 4 raciones, y 4 huevos duros con cáscara (lunes y martes); Gratinado de patata y pollo al curry, 2 raciones (miércoles); Pimiento y cebolla en tiras para la pizza (lunes).
@@ -23,7 +23,7 @@
 - **Jueves 12 por la noche:** Pasa a la nevera la salsa vizcaína con su arroz, el bacalao y los solomillos de la barbacoa.
 - **Viernes 13 por la mañana:** Calienta la salsa y cuece dentro el bacalao 10–12 minutos; con el arroz, a los táperes.
 - **Viernes 13 por la noche:** Deja los solomillos del sábado en el adobo barbacoa y pasa a la nevera los de los fingers.
-- **Sábado 14 por la noche:** Pasa la merluza a la nevera (tacos del domingo), haz el pico de gallo y la salsa de yogur y deja marinando los fingers.
+- **Sábado 14 por la noche:** Pasa los gambones del congelador a la nevera (arroz del domingo) y deja marinando los fingers.
 
 **Dónde está cada receta:**
 - Desayunos: `recetas/desayunos.md` · Meriendas: `recetas/meriendas.md`

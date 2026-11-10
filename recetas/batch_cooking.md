@@ -142,13 +142,13 @@
 - **Jueves 12 por la noche:** Pasa a la nevera la salsa vizcaína con su arroz, el bacalao y los solomillos de la barbacoa.
 - **Viernes 13 por la mañana:** Calienta la salsa y cuece dentro el bacalao 10–12 minutos; con el arroz, a los táperes.
 - **Viernes 13 por la noche:** Deja los solomillos del sábado en el adobo barbacoa y pasa a la nevera los de los fingers.
-- **Sábado 14 por la noche:** Pasa la merluza a la nevera (tacos del domingo), haz el pico de gallo y la salsa de yogur y deja marinando los fingers.
+- **Sábado 14 por la noche:** Pasa los gambones del congelador a la nevera (arroz del domingo) y deja marinando los fingers.
 
 ---
 
 ## Semana 6 (16 – 22 nov) · Domingo 15 de noviembre
 
-*Duración: 1 h 45 min, aproximadamente. Ese día, además, comes los tacos de merluza y cenas los fingers.*
+*Duración: 1 h 45 min, aproximadamente. Ese día, además, comes el arroz meloso con gambones (unos 50 minutos, al terminar) y cenas los fingers.*
 
 **A la nevera:**
 - Lentejas al curry con pavo, 4 raciones con su arroz (lunes y martes)
@@ -179,11 +179,11 @@
 | 1:00 | Fuego 1 · olla | Aparta la olla de las lentejas y pon agua para la pasta: 130 g de espaguetis; mézclalos con la tofuloñesa. |
 | 1:10 | Encimera | Kebab del lunes: marina los solomillos con las especias y el yogur y haz la salsa blanca (yogur, especias y limón); las dos cosas a la nevera. El pollo de los burritos, en una bolsa al congelador. |
 | 1:25 | Robot | El guiso ya está: prueba la carne (si sigue dura, 10 minutos más) y rectifica de sal. |
-| 1:30 | Táperes | Deja templar (el arroz, extendido en una fuente para que se enfríe rápido), reparte y etiqueta: nevera de lunes a miércoles; congelador el arroz con pollo y la tofuloñesa. Para comer: los tacos de merluza. |
+| 1:30 | Táperes | Deja templar (el arroz, extendido en una fuente para que se enfríe rápido), reparte y etiqueta: nevera de lunes a miércoles; congelador el arroz con pollo y la tofuloñesa. Para comer: el arroz meloso con gambones. |
 
 **Recordatorios de la semana:**
 - **Lunes 16:** Kebab: pon las patatas en remojo al llegar a casa.
 - **Miércoles 18 por la noche:** Pasa el arroz con pollo del jueves a la nevera.
 - **Jueves 19 por la noche:** Pasa la tofuloñesa del viernes a la nevera.
 - **Viernes 20 por la noche:** Pasa la merluza a la nevera y haz la tártara (fish & chips del sábado).
-- **Sábado 21 por la noche:** Pasa a la nevera el pollo de los burritos (comida del domingo).
+- **Sábado 21 por la noche:** Pasa a la nevera el pollo de los burritos (comida del domingo) y el calamar de la crema (cena).

@@ -4,6 +4,8 @@
 
 *Truco: compra el pescado congelado. Casi todo el pollo se cocina o se marina en el batch del domingo; el del fin de semana va crudo al congelador y se pasa a la nevera la noche antes (ver «Recordatorios de la semana» en el menú).*
 
+> **Ojo:** Si comprasteis la merluza de los tacos de la semana pasada (340 g), no compréis más: os vale para el fish & chips del sábado 21.
+
 ## Fruta y verdura
 - 14 Plátanos (desayunos y meriendas)
 - 12 Kiwis (desayunos y meriendas)
@@ -33,8 +35,8 @@
 - 320 g Ternera para guisar en tacos (morcillo, aguja o llana, sin grasa visible)
 
 ## Pescado
-- 300 g Gambas o langostinos pelados congelados
 - 360 g Merluza congelada (lomos o filetes)
+- 340 g Calamar limpio congelado (tubos o tiras)
 
 ## Lácteos
 - 11 Yogures naturales sin azúcar (de 125 g)

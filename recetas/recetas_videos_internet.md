@@ -188,6 +188,44 @@
 
 ---
 
+### Arroz meloso con gambones
+*Fuente: Directo al Paladar (Mesa Cero Chefs y Jaime de las Heras) · ≈ 507 kcal · 32 g proteína · 66 g HC · 11 g grasa · por persona*
+
+📄 **Receta escrita:** <https://www.directoalpaladar.com/recetas-de-arroces/arroz-meloso-gambas-langostinos-receta-fiesta-sencilla-que-crees>
+
+**Ingredientes (Fumet de las cabezas):**
+- Las cabezas y las cáscaras de los gambones.
+- 40 g de puerro (vale la parte verde).
+- 60 g de tomate.
+- Una ramita de perejil.
+- 800 ml de agua y una pizca de sal.
+
+**Ingredientes (Arroz):**
+- 500 g de gambones crudos congelados, enteros (unos 12).
+- 140 g de arroz bomba (o redondo).
+- 100 g de cebolla.
+- 60 g de pimiento rojo.
+- 60 g de pimiento verde.
+- 120 g de tomate triturado natural.
+- 20 ml de AOVE.
+- 1 diente de ajo, 1/2 cucharadita de pimentón dulce, 1 hoja de laurel, unas hebras de azafrán y sal.
+
+**Instrucciones:**
+1. Los gambones, a la nevera la noche antes para que se descongelen.
+2. Pela las colas, quítales el hilo negro si lo tienen y guárdalas en la nevera; las cabezas y las cáscaras son para el fumet. Pica fino la cebolla, el ajo y los pimientos.
+3. Fumet: en una olla, dora las cabezas y las cáscaras 2–3 minutos con unas gotas del aceite, aplastándolas para que suelten el jugo. Añade el puerro, el tomate, el perejil, el agua y la sal y cuece 20 minutos a fuego suave. Cuélalo apretando bien las cabezas y mantenlo caliente: tienen que quedar unos 600 ml.
+4. Mientras, en una paellera o cazuela baja, marca las colas 1 minuto a fuego fuerte con un poco del aceite (por dentro, crudas) y resérvalas.
+5. En el mismo recipiente, con el resto del aceite, pocha a fuego medio el ajo y la cebolla 5 minutos; añade los pimientos y el laurel, 10 minutos, y el tomate, 10 minutos más, hasta que el sofrito quede seco.
+6. Añade el pimentón y remueve unos segundos, sin que se queme. Echa el arroz, remueve 1 minuto y añade el fumet caliente y el azafrán. Prueba de sal.
+7. Cuece 17–18 minutos a fuego medio, removiendo de vez en cuando, hasta que el arroz esté casi hecho pero todavía con caldo. Si se seca antes, un poco de agua caliente.
+8. Los últimos 2 minutos, pon las colas encima para que se terminen de hacer con el calor. Sírvelo enseguida, meloso.
+
+*Tupper:* Se hace y se come el mismo día: el arroz meloso no aguanta recalentado.
+*Batch cooking:* Marisco: se hace el mismo día (unos 50 minutos; el fumet, mientras pochas el sofrito). Los gambones, a la nevera la noche antes.
+*Cambios respecto a la fuente:* Gambones enteros en vez de colas peladas, para hacer el fumet con sus cabezas (lo que propone la receta si no tienes caldo); 70 g de arroz por persona en vez de 100 y el aceite medido.
+
+---
+
 ### Espaguetis a la tofuloñesa
 *Fuente: Lara Ibarra · ≈ 705 kcal · 45 g proteína · 59 g HC · 29 g grasa · por persona*
 

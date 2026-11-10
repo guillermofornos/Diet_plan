@@ -1,0 +1,577 @@
+<title>Menú de Noviembre</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Barlow+Condensed:wght@500;600;700&display=swap">
+<style>
+/* Layout: una sola columna pensada para el móvil. Selector de semana arriba y pestañas fijas (Menú / Batch / Compra).
+   Menú: una tarjeta por día con el total de kcal y proteína, lo que hay que dejar preparado y las 4 comidas desplegables.
+   Batch: el batch cooking del domingo como lista de pasos con hora y fuego, para ir marcando mientras cocinas.
+   Compra: lista de la semana por secciones, con la cantidad a la izquierda como una etiqueta de mercado. */
+:root{
+  --bg:#F3F5F2;
+  --surface:#FFFFFF;
+  --ink:#1B2320;
+  --muted:#59675F;
+  --line:#D9E1DC;
+  --accent:#9B1F47;       /* remolacha */
+  --accent-soft:#F6E3EA;
+  --ok:#3B7A22;           /* kiwi */
+  --ok-soft:#E2EFD8;
+  --font-display:"Barlow Condensed","Arial Narrow","Roboto Condensed",sans-serif;
+  --font-body:"Atkinson Hyperlegible",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#101412;--surface:#19201C;--ink:#E5EBE7;--muted:#9BA9A2;--line:#2A3430;
+    --accent:#F07DA2;--accent-soft:#3A1F2A;--ok:#8FC86D;--ok-soft:#21301B;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#101412;--surface:#19201C;--ink:#E5EBE7;--muted:#9BA9A2;--line:#2A3430;
+  --accent:#F07DA2;--accent-soft:#3A1F2A;--ok:#8FC86D;--ok-soft:#21301B;
+  color-scheme:dark;
+}
+*,*::before,*::after{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--font-body);font-size:16px;line-height:1.45;-webkit-text-size-adjust:100%}
+.wrap{max-width:640px;margin:0 auto;padding-inline:16px}
+.intro{padding-block:22px 12px}
+.eyebrow{margin:0;font-family:var(--font-display);font-weight:600;font-size:.92rem;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+h1{margin:4px 0 0;font-family:var(--font-display);font-weight:700;font-size:2.15rem;line-height:1.02;text-wrap:balance}
+.status{margin:8px 0 0;color:var(--muted);max-width:60ch}
+.weeks{display:flex;gap:6px;margin:14px 0 0;overflow-x:auto;padding-bottom:2px;scrollbar-width:none}
+.weeks::-webkit-scrollbar{display:none}
+.weeks button{flex:1 0 auto;appearance:none;-webkit-appearance:none;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:10px;padding:7px 12px 6px;cursor:pointer;text-align:left;font:inherit;min-width:74px}
+.weeks button span{display:block;font-family:var(--font-display);font-weight:600;font-size:.72rem;letter-spacing:.07em;text-transform:uppercase;color:var(--muted)}
+.weeks button b{font-family:var(--font-display);font-weight:700;font-size:1.1rem}
+.weeks button[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.weeks button[aria-pressed="true"] span{color:var(--bg);opacity:.75}
+.weeks button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+.tabs-bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line);margin-top:12px}
+.tabs{display:flex;gap:4px}
+.tab{flex:1 1 0;appearance:none;-webkit-appearance:none;border:0;border-bottom:3px solid transparent;background:none;color:var(--muted);font-family:var(--font-display);font-weight:600;font-size:1.2rem;letter-spacing:.05em;text-transform:uppercase;padding:12px 8px 9px;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:8px}
+.tab[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.tab:focus-visible{outline:2px solid var(--accent);outline-offset:-3px}
+.count{font-family:var(--font-body);font-size:.78rem;font-weight:700;letter-spacing:0;text-transform:none;background:var(--line);color:var(--ink);border-radius:999px;padding:1px 8px;font-variant-numeric:tabular-nums}
+.count.full{background:var(--ok);color:var(--bg)}
+
+main{padding-block:16px 40px}
+.toolbar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px 16px;margin-bottom:14px}
+.legend{margin:0;color:var(--muted);font-size:.9rem;max-width:34ch}
+.seg{display:inline-flex;align-items:center;gap:8px;font-size:.9rem;color:var(--muted)}
+.seg-btns{display:inline-flex;border:1px solid var(--line);border-radius:999px;padding:3px;background:var(--surface)}
+.seg-btns button{appearance:none;-webkit-appearance:none;border:0;background:none;color:var(--muted);font:inherit;font-weight:700;min-width:44px;min-height:34px;padding:4px 12px;border-radius:999px;cursor:pointer}
+.seg-btns button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.seg-btns button:focus-visible,.btn:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+.before{margin:0 0 14px;padding:12px 14px;border-radius:12px;background:var(--accent-soft);font-size:.93rem}
+.before b{display:block;font-family:var(--font-display);font-weight:700;font-size:.9rem;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);margin-bottom:2px}
+.before p{margin:0}
+.before .btn{margin-top:10px;background:var(--surface)}
+.days{display:grid;gap:14px}
+.day{background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.day.is-today{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent)}
+.day-head{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;padding:14px 16px 10px}
+.day-head h2{margin:0;font-family:var(--font-display);font-weight:700;font-size:1.6rem;line-height:1}
+.day-head h2 span{color:var(--muted);font-weight:500}
+.pill{font-family:var(--font-display);font-weight:600;font-size:.85rem;letter-spacing:.06em;text-transform:uppercase;border-radius:999px;padding:3px 10px 2px;line-height:1.2}
+.pill-e{background:var(--accent-soft);color:var(--accent)}
+.pill-d{background:var(--line);color:var(--muted)}
+.pill-today{background:var(--ink);color:var(--bg)}
+.target{margin-left:auto;font-size:.88rem;color:var(--muted);font-variant-numeric:tabular-nums;text-align:right}
+.target b{color:var(--ink)}
+.prep{margin:0;padding:0 16px 12px;font-size:.9rem;color:var(--muted)}
+.prep strong{color:var(--ink)}
+
+.meals{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+.meals>li+li{border-top:1px solid var(--line)}
+.meal>summary{list-style:none;display:grid;grid-template-columns:5.4rem minmax(0,1fr) 14px;gap:10px;align-items:baseline;padding:12px 16px;cursor:pointer}
+.meal>summary::-webkit-details-marker{display:none}
+.meal>summary:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+.slot{font-family:var(--font-display);font-weight:600;font-size:.86rem;letter-spacing:.07em;text-transform:uppercase;color:var(--muted)}
+.dish{min-width:0}
+.dish small{display:block;color:var(--muted);font-size:.86rem}
+.pill-video{display:inline-block;margin-left:8px;vertical-align:2px;background:none;border:1px solid var(--accent);color:var(--accent);font-size:.72rem;padding:1px 7px 0}
+.chev{justify-self:end;width:9px;height:9px;border-right:2px solid var(--muted);border-bottom:2px solid var(--muted);transform:translateY(-3px) rotate(45deg);transition:transform .15s ease}
+.meal[open]>summary .chev{transform:translateY(1px) rotate(225deg)}
+
+.recipe{display:grid;gap:12px;padding:0 16px 16px}
+.recipe h3{margin:0 0 4px;font-family:var(--font-display);font-weight:600;font-size:.86rem;letter-spacing:.07em;text-transform:uppercase;color:var(--accent)}
+.recipe ul,.recipe ol{margin:0;padding-left:1.25em}
+.recipe li{margin:3px 0}
+.recipe li::marker{color:var(--muted)}
+.meta{margin:0;font-size:.9rem;color:var(--muted)}
+.links{margin:0;display:flex;flex-wrap:wrap;gap:4px 14px;align-items:baseline;font-size:.95rem}
+.links .src{color:var(--muted);font-size:.88rem}
+.vlink{color:var(--accent);font-weight:700;text-underline-offset:3px}
+.rnote{margin:0;padding:10px 12px;border-radius:10px;background:var(--accent-soft);font-size:.93rem}
+.small{margin:0;font-size:.88rem;color:var(--muted)}
+.small strong{color:var(--ink)}
+.alt{border-top:1px dashed var(--line);padding-top:12px;display:grid;gap:12px}
+.alt-title{margin:0;font-family:var(--font-display);font-weight:700;font-size:1.2rem;line-height:1.15}
+
+.tips{display:grid;gap:6px;margin:0 0 16px;padding:12px 14px;border-radius:12px;background:var(--accent-soft);font-size:.93rem}
+.tips p{margin:0}
+.progress{display:flex;align-items:center;gap:12px;margin-bottom:16px}
+.bar{flex:1;height:8px;border-radius:999px;background:var(--line);overflow:hidden}
+.bar>span{display:block;height:100%;width:0;background:var(--ok);transition:width .2s ease}
+.progress-txt{font-variant-numeric:tabular-nums;font-weight:700;font-size:.95rem;white-space:nowrap}
+.shop-sec{margin-bottom:18px}
+.shop-sec h3{margin:0 0 6px;font-family:var(--font-display);font-weight:700;font-size:1.1rem;letter-spacing:.06em;text-transform:uppercase}
+.sec-note{margin:0 0 8px;color:var(--muted);font-size:.9rem}
+.shop-sec.optional h3{color:var(--accent)}
+.items{list-style:none;margin:0;padding:0;background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.shop-sec.optional .items{border-style:dashed}
+.items>li+li{border-top:1px solid var(--line)}
+.item{display:grid;grid-template-columns:26px 5.2rem minmax(0,1fr);gap:10px;align-items:start;padding:12px 14px;cursor:pointer}
+.item input,.step input{appearance:none;-webkit-appearance:none;margin:1px 0 0;width:24px;height:24px;border:2px solid var(--muted);border-radius:7px;display:grid;place-items:center;cursor:pointer;background:var(--surface)}
+.item input::after,.step input::after{content:"";width:6px;height:11px;border-right:2.5px solid var(--bg);border-bottom:2.5px solid var(--bg);transform:translate(0,-1px) rotate(45deg);opacity:0}
+.item input:checked,.step input:checked{background:var(--ok);border-color:var(--ok)}
+.item input:checked::after,.step input:checked::after{opacity:1}
+.item input:focus-visible,.step input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.qty{font-family:var(--font-display);font-weight:600;font-size:1.05rem;line-height:1.35;font-variant-numeric:tabular-nums;min-width:0;overflow-wrap:anywhere}
+.what{min-width:0}
+.what small{display:block;color:var(--muted);font-size:.85rem}
+.item.done .qty,.item.done .name{color:var(--muted);text-decoration:line-through;text-decoration-thickness:1.5px}
+.actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:4px}
+.btn{appearance:none;-webkit-appearance:none;border:1px solid var(--line);background:var(--surface);color:var(--ink);font:inherit;font-weight:700;border-radius:999px;padding:9px 16px;cursor:pointer}
+.btn.armed{border-color:var(--accent);color:var(--accent)}
+.copy-msg{margin:8px 0 0;color:var(--muted);font-size:.9rem;min-height:1.2em}
+#copy-fallback{width:100%;margin-top:8px;font:inherit;font-size:.9rem;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:10px}
+
+.batch-head{margin:0 0 14px}
+.batch-title{margin:2px 0 0;font-family:var(--font-display);font-weight:700;font-size:1.85rem;line-height:1.05;text-wrap:balance}
+.batch-head .small{margin-top:4px}
+.sec-h{margin:0 0 8px;font-family:var(--font-display);font-weight:700;font-size:1.1rem;letter-spacing:.06em;text-transform:uppercase}
+.store{display:grid;gap:12px;margin-bottom:18px}
+.store-box{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.store-box .sec-h{margin-bottom:4px}
+.store-box ul{margin:0;padding-left:1.15em}
+.store-box li{margin:4px 0}
+.store-box li::marker{color:var(--muted)}
+.steps{list-style:none;margin:0 0 12px;padding:0;background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.steps>li+li{border-top:1px solid var(--line)}
+.step{display:grid;grid-template-columns:26px 2.6rem minmax(0,1fr);gap:10px;align-items:start;padding:12px 14px;cursor:pointer}
+.when{font-family:var(--font-display);font-weight:700;font-size:1.1rem;line-height:1.3;font-variant-numeric:tabular-nums}
+.step .what{min-width:0}
+.where{display:block;font-family:var(--font-display);font-weight:600;font-size:.84rem;letter-spacing:.07em;text-transform:uppercase;color:var(--accent);margin-bottom:1px}
+.step.done .when,.step.done .txt,.step.done .where{color:var(--muted)}
+.steps-foot{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;margin-bottom:22px}
+.reminders{list-style:none;margin:0 0 8px;padding:0;background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.reminders>li{padding:11px 14px;font-size:.95rem}
+.reminders>li+li{border-top:1px solid var(--line)}
+.reminders strong{display:block;font-family:var(--font-display);font-weight:600;font-size:.86rem;letter-spacing:.07em;text-transform:uppercase;color:var(--muted)}
+
+.foot{margin-top:24px;padding-top:14px;border-top:1px solid var(--line);color:var(--muted);font-size:.88rem;display:grid;gap:6px}
+.foot p{margin:0}
+
+@media (min-width:560px){
+  h1{font-size:2.5rem}
+  .recipe{padding-left:calc(16px + 5.4rem + 10px)}
+  .store{grid-template-columns:1fr 1fr}
+}
+@media (prefers-reduced-motion: reduce){
+  *{transition:none!important}
+}
+</style>
+
+<div class="wrap intro">
+  <p class="eyebrow">Semanas 3 a 6 · Plan 91 → 81 kg</p>
+  <h1>Del 26 de octubre al 22 de noviembre</h1>
+  <p class="status" id="status">Empiezas el lunes 26.</p>
+  <div class="weeks" id="weeks" role="group" aria-label="Semana"></div>
+</div>
+
+<div class="tabs-bar">
+  <div class="wrap">
+    <div class="tabs" role="tablist" aria-label="Secciones" id="tablist">
+      <button class="tab" type="button" role="tab" id="tab-menu" aria-controls="panel-menu" aria-selected="true">Menú</button>
+      <button class="tab" type="button" role="tab" id="tab-batch" aria-controls="panel-batch" aria-selected="false" tabindex="-1">Batch</button>
+      <button class="tab" type="button" role="tab" id="tab-compra" aria-controls="panel-compra" aria-selected="false" tabindex="-1">Compra <span class="count" id="count">0/0</span></button>
+    </div>
+  </div>
+</div>
+
+<main class="wrap">
+  <section id="panel-menu" role="tabpanel" aria-labelledby="tab-menu">
+    <div class="toolbar">
+      <p class="legend">Toca una comida para ver la receta. Las de vídeo llevan la etiqueta VÍDEO; las de una receta escrita en internet, WEB, y las del robot Cecotec, ROBOT, todas con su enlace.</p>
+      <div class="seg" role="group" aria-label="Cantidades de las recetas">
+        <span>Cantidades para</span>
+        <span class="seg-btns">
+          <button type="button" id="srv-1" aria-pressed="false">1</button>
+          <button type="button" id="srv-2" aria-pressed="true">2</button>
+        </span>
+      </div>
+    </div>
+    <div id="before"></div>
+    <div class="days" id="days"></div>
+  </section>
+
+  <section id="panel-batch" role="tabpanel" aria-labelledby="tab-batch" hidden>
+    <div id="batch"></div>
+  </section>
+
+  <section id="panel-compra" role="tabpanel" aria-labelledby="tab-compra" hidden>
+    <div class="tips">
+      <p>Haz la compra el sábado: el domingo toca el batch cooking y muchos súper cierran.</p>
+      <p>Pescado congelado. El pollo del fin de semana va crudo al congelador en el batch y se pasa a la nevera la noche antes.</p>
+      <p>Cantidades para los dos. Si un día merienda solo uno, sobra la mitad de natillas, plátanos y kiwis.</p>
+    </div>
+    <div class="progress">
+      <div class="bar" aria-hidden="true"><span id="bar"></span></div>
+      <span class="progress-txt" id="progress-txt">0 de 0</span>
+    </div>
+    <div id="shop"></div>
+    <div class="actions">
+      <button class="btn" type="button" id="copy">Copiar lo que falta</button>
+      <button class="btn" type="button" id="reset">Desmarcar todo</button>
+    </div>
+    <p class="copy-msg" id="copy-msg" role="status"></p>
+    <textarea id="copy-fallback" rows="8" readonly hidden aria-label="Lista para copiar"></textarea>
+  </section>
+
+  <footer class="foot">
+    <p>Objetivo diario: unas 1950 kcal en días de entreno y 1600 en descanso. Los totales de cada día son aproximados y no cuentan la cena fuera.</p>
+    <p>Noches de cervezas: un vaso de agua por cada cerveza, y nunca justo después de entrenar.</p>
+    <p>Las recetas salen para dos, porque coméis lo mismo; con el selector de arriba puedes verlas para una persona.</p>
+    <p>El pescado se cocina siempre el día que se come: en el batch solo se deja hecha la base o la salsa.</p>
+  </footer>
+</main>
+
+<script>
+(function () {
+  "use strict";
+  var DATA = /*__DATA__*/null;
+  var R = DATA.recetas, W = DATA.semanas;
+  var P = "menu-nov:";
+  var store = {
+    get: function (k) { try { return window.localStorage.getItem(k); } catch (e) { return null; } },
+    set: function (k, v) { try { window.localStorage.setItem(k, v); } catch (e) {} },
+    del: function (k) { try { window.localStorage.removeItem(k); } catch (e) {} }
+  };
+
+  function el(tag, attrs) {
+    var n = document.createElement(tag);
+    if (attrs) Object.keys(attrs).forEach(function (k) {
+      if (k === "class") n.className = attrs[k];
+      else if (k === "text") n.textContent = attrs[k];
+      else n.setAttribute(k, attrs[k]);
+    });
+    for (var i = 2; i < arguments.length; i++) if (arguments[i] != null) n.append(arguments[i]);
+    return n;
+  }
+  function toNum(s) { if (s.indexOf("/") >= 0) { var p = s.split("/"); return Number(p[0]) / Number(p[1]); } return Number(s); }
+  function fmt(v) {
+    var r = Math.round(v);
+    if (Math.abs(v - r) < 0.02) return String(r);
+    var whole = Math.floor(v), frac = v - whole;
+    var F = [[1 / 4, "1/4"], [1 / 3, "1/3"], [1 / 2, "1/2"], [2 / 3, "2/3"], [3 / 4, "3/4"]];
+    for (var i = 0; i < F.length; i++) if (Math.abs(frac - F[i][0]) < 0.02) return whole ? whole + " y " + F[i][1] : F[i][1];
+    return String(Math.round(v * 10) / 10).replace(".", ",");
+  }
+  function scale(text, k) {
+    return text.replace(/\{([\d.\/]+)(?:\|([^|}]+)\|([^}]+))?\}/g, function (_, num, sing, plur) {
+      var v = toNum(num) * k; var s = fmt(v);
+      return sing ? s + " " + (v > 1.001 ? plur : sing) : s;
+    });
+  }
+
+  var servings = store.get(P + "srv") === "1" ? 1 : 2;
+  var now = new Date();
+  var t0 = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  function pad(n) { return String(n).padStart(2, "0"); }
+  var today = t0.getFullYear() + "-" + pad(t0.getMonth() + 1) + "-" + pad(t0.getDate());
+
+  var week = 0;
+  for (var wi = 0; wi < W.length; wi++) { week = wi; if (W[wi].fin >= today) break; }
+  var hash = (window.location.hash || "").slice(1);
+  W.forEach(function (w, i) { if (hash === "s" + w.num) week = i; });
+
+  // ---------- Recetas ----------
+  function list(items, ordered) {
+    var l = el(ordered ? "ol" : "ul");
+    items.forEach(function (t) { l.append(el("li", { "data-t": t, text: scale(t, servings) })); });
+    return l;
+  }
+  function recipeParts(r, box) {
+    box.append(el("p", { class: "meta" }, "≈" + r.kcal + " kcal y " + r.prot + " g de proteína por persona"));
+    if (r.url) {
+      var links = el("p", { class: "links" }, el("a", { class: "vlink", href: r.url, target: "_blank", rel: "noopener", text: "▶ Ver el vídeo" }));
+      if (r.url2) links.append(el("a", { class: "vlink", href: r.url2, target: "_blank", rel: "noopener", text: /youtube\.com/.test(r.url2) ? "▶ Otro vídeo" : "Receta escrita" }));
+      if (r.fuente) links.append(el("span", { class: "src", text: r.fuente }));
+      box.append(links);
+    } else if (r.robot) {
+      var rl = el("p", { class: "links" });
+      if (r.url2) rl.append(el("a", { class: "vlink", href: r.url2, target: "_blank", rel: "noopener", text: "Receta escrita" }));
+      rl.append(el("span", { class: "src", text: "📖 " + r.fuente + (r.libro ? ", " + r.libro : "") }));
+      box.append(rl);
+    } else if (r.url2) {
+      var wl = el("p", { class: "links" }, el("a", { class: "vlink", href: r.url2, target: "_blank", rel: "noopener", text: "Ver la receta" }));
+      if (r.fuente) wl.append(el("span", { class: "src", text: r.fuente }));
+      box.append(wl);
+    }
+    if (r.nota) box.append(el("p", { class: "rnote", "data-t": r.nota, text: scale(r.nota, servings) }));
+    r.grupos.forEach(function (g) { box.append(el("div", null, el("h3", { text: g[0] }), list(g[1]))); });
+    box.append(el("div", null, el("h3", { text: "Preparación" }), list(r.pasos, true)));
+    if (r.tupper) box.append(el("p", { class: "small" }, el("strong", { text: "Tupper: " }), r.tupper + "."));
+    if (r.batch) box.append(el("p", { class: "small" }, el("strong", { text: "Batch cooking: " }), r.batch));
+    if (r.cambios) box.append(el("p", { class: "small" }, el("strong", { text: "Cambios respecto a la fuente: " }), r.cambios));
+  }
+  function outBody(sabado) {
+    var box = el("div", { class: "recipe" });
+    box.append(el("p", { class: "rnote", text: "Con cervezas, mejor una cena de proteína y verdura, sin pan ni patatas, y un vaso de agua por cada cerveza." }));
+    if (sabado) {
+      var a = R.FF2, alt = el("div", { class: "alt" });
+      alt.append(el("p", { class: "alt-title", text: "Opción en casa: " + a.nombre }));
+      recipeParts(a, alt);
+      box.append(alt);
+    }
+    return box;
+  }
+
+  // ---------- Menú ----------
+  function renderWeeks() {
+    var host = document.getElementById("weeks"); host.textContent = "";
+    W.forEach(function (w, i) {
+      var b = el("button", { type: "button", "aria-pressed": String(i === week) }, el("span", { text: "Semana " + w.num }), el("b", { text: w.corto }));
+      b.addEventListener("click", function () { week = i; renderAll(); });
+      host.append(b);
+    });
+  }
+  function renderDays() {
+    var w = W[week];
+    var before = document.getElementById("before"); before.textContent = "";
+    var box = el("div", { class: "before" }, el("b", { text: "Batch cooking · " + w.batch.dia }));
+    box.append(el("p", { text: "Las comidas de lunes a viernes, en táper, y lo que se adelanta de las cenas: " + w.batch.duracion + "." }));
+    w.antes.forEach(function (t) { box.append(el("p", { text: t })); });
+    var go = el("button", { class: "btn", type: "button", text: "Ver el paso a paso" });
+    go.addEventListener("click", function () { show("batch"); window.scrollTo(0, 0); });
+    box.append(go);
+    before.append(box);
+    var host = document.getElementById("days"); host.textContent = "";
+    w.dias.forEach(function (d, i) {
+      var sec = el("section", { class: "day", "aria-labelledby": "h-" + d.fecha });
+      var head = el("div", { class: "day-head" },
+        el("h2", { id: "h-" + d.fecha }, d.nombre + " ", el("span", { text: d.n + " " + d.mes })),
+        el("span", { class: "pill " + (d.tipo === "E" ? "pill-e" : "pill-d"), text: d.tipo === "E" ? "Entreno" : "Descanso" }));
+      if (d.fecha === today) { sec.classList.add("is-today"); head.append(el("span", { class: "pill pill-today", text: "Hoy" })); }
+      var tgt = el("span", { class: "target" }, el("b", { text: "≈" + d.kcal + " kcal" }), " · " + d.prot + " g prot." + (d.fuera ? " + cena fuera" : ""));
+      head.append(tgt);
+      sec.append(head);
+      d.prep.forEach(function (t) { sec.append(el("p", { class: "prep" }, el("strong", { text: "Preparación: " }), t)); });
+      var ul = el("ul", { class: "meals" });
+      d.comidas.forEach(function (m) {
+        var sum, body;
+        if (m[1] === "FUERA") {
+          var sab = d.nombre === "Sábado";
+          var dish = el("span", { class: "dish" }, sab ? "Cena fuera: hamburguesa + cervezas" : "Cena fuera + cervezas");
+          if (sab) dish.append(el("span", { class: "pill pill-video", text: "Vídeo" }));
+          dish.append(el("small", { text: sab ? "O la Big Mac del vídeo en casa" : "El plan le asigna unas 1100 kcal" }));
+          sum = el("summary", null, el("span", { class: "slot", text: m[0] }), dish, el("span", { class: "chev", "aria-hidden": "true" }));
+          body = outBody(sab);
+        } else {
+          var r = R[m[1]];
+          var dish2 = el("span", { class: "dish" }, r.nombre);
+          if (r.url) dish2.append(el("span", { class: "pill pill-video", text: "Vídeo" }));
+          else if (r.robot) dish2.append(el("span", { class: "pill pill-video", text: "Robot" }));
+          else if (r.url2) dish2.append(el("span", { class: "pill pill-video", text: "Web" }));
+          sum = el("summary", null, el("span", { class: "slot", text: m[0] }), dish2, el("span", { class: "chev", "aria-hidden": "true" }));
+          body = el("div", { class: "recipe" }); recipeParts(r, body);
+        }
+        ul.append(el("li", null, el("details", { class: "meal" }, sum, body)));
+      });
+      sec.append(ul);
+      host.append(sec);
+    });
+  }
+  function setServings(n) {
+    servings = n; store.set(P + "srv", String(n));
+    document.getElementById("srv-1").setAttribute("aria-pressed", String(n === 1));
+    document.getElementById("srv-2").setAttribute("aria-pressed", String(n === 2));
+    document.querySelectorAll("[data-t]").forEach(function (li) { li.textContent = scale(li.getAttribute("data-t"), n); });
+  }
+
+  // ---------- Batch ----------
+  function stepKey(i) { return P + "b" + W[week].num + ":" + i; }
+  function renderBatch() {
+    var w = W[week], b = w.batch, host = document.getElementById("batch"); host.textContent = "";
+    if (w.fin === today && week + 1 < W.length) {
+      var nx = week + 1, jump = el("button", { class: "btn", type: "button", text: "Ver el batch de hoy" });
+      jump.addEventListener("click", function () { week = nx; renderAll(); });
+      host.append(el("div", { class: "before" }, el("b", { text: "Hoy toca el de la semana siguiente" }),
+        el("p", { text: "Este es el batch de la semana del " + w.corto + ". El de hoy es para la semana del " + W[nx].corto + "." }), jump));
+    }
+    host.append(el("div", { class: "batch-head" }, el("p", { class: "eyebrow", text: "Para la semana del " + w.corto }),
+      el("h2", { class: "batch-title", text: b.dia }), el("p", { class: "small", text: "Duración: " + b.duracion + "." })));
+    var tips = el("div", { class: "tips" });
+    DATA.normas.forEach(function (n) { tips.append(el("p", { text: n })); });
+    host.append(tips);
+    var store2 = el("div", { class: "store" });
+    [["A la nevera", b.nevera, null], ["Al congelador", b.congelador, "Pásalo a la nevera la noche antes."]].forEach(function (c) {
+      var bx = el("section", { class: "store-box" }, el("h3", { class: "sec-h", text: c[0] }));
+      if (c[2]) bx.append(el("p", { class: "sec-note", text: c[2] }));
+      var ul = el("ul"); c[1].forEach(function (x) { ul.append(el("li", { text: x })); });
+      bx.append(ul); store2.append(bx);
+    });
+    host.append(store2);
+    host.append(el("h3", { class: "sec-h", text: "Paso a paso" }));
+    var ol = el("ol", { class: "steps" });
+    b.pasos.forEach(function (s, i) {
+      var id = "st-" + w.num + "-" + i, input = el("input", { type: "checkbox", id: id });
+      input.checked = store.get(stepKey(i)) === "1";
+      var lab = el("label", { class: "step" + (input.checked ? " done" : ""), for: id }, input, el("span", { class: "when", text: s[0] }),
+        el("span", { class: "what" }, el("span", { class: "where", text: s[1] }), el("span", { class: "txt", text: s[2] })));
+      input.addEventListener("change", function () {
+        lab.classList.toggle("done", input.checked);
+        if (input.checked) store.set(stepKey(i), "1"); else store.del(stepKey(i));
+        updateSteps();
+      });
+      ol.append(el("li", null, lab));
+    });
+    host.append(ol);
+    var clear = el("button", { class: "btn", type: "button", text: "Desmarcar los pasos" });
+    clear.addEventListener("click", function () {
+      document.querySelectorAll("#batch .step input").forEach(function (inp, i) { inp.checked = false; inp.closest(".step").classList.remove("done"); store.del(stepKey(i)); });
+      updateSteps();
+    });
+    host.append(el("div", { class: "steps-foot" }, el("span", { class: "progress-txt", id: "steps-txt" }), clear));
+    host.append(el("h3", { class: "sec-h", text: "Recordatorios de la semana" }));
+    var rl = el("ul", { class: "reminders" });
+    b.recordatorios.forEach(function (r) { rl.append(el("li", null, el("strong", { text: r[0] }), r[1])); });
+    host.append(rl);
+    updateSteps();
+  }
+  function updateSteps() {
+    var all = document.querySelectorAll("#batch .step input"), done = 0;
+    all.forEach(function (i) { if (i.checked) done++; });
+    var t = document.getElementById("steps-txt");
+    if (t) t.textContent = done === all.length ? "Batch terminado" : done + " de " + all.length + " pasos";
+  }
+
+  // ---------- Compra ----------
+  function key(id) { return P + "s" + W[week].num + ":" + id; }
+  function renderShop() {
+    var host = document.getElementById("shop"); host.textContent = "";
+    if (W[week].nota_compra) host.append(el("div", { class: "before" }, el("b", { text: "Ojo con esta compra" }), el("p", { text: W[week].nota_compra })));
+    var secs = W[week].compra.concat([{ h: "Opcional · Big Mac en casa el sábado", items: W[week].opcional, opt: true,
+      note: "Solo si el sábado cenáis en casa en vez de fuera. La carne picada, cómprala el mismo día que la vayas a cocinar." }]);
+    secs.forEach(function (s) {
+      var sec = el("section", { class: "shop-sec" + (s.opt ? " optional" : "") }, el("h3", { text: s.h }));
+      if (s.note) sec.append(el("p", { class: "sec-note", text: s.note }));
+      var ul = el("ul", { class: "items" });
+      s.items.forEach(function (it) {
+        var cid = "c-" + W[week].num + "-" + it.id.replace(/[^\w-]/g, "_");
+        var input = el("input", { type: "checkbox", id: cid });
+        if (!s.opt) input.setAttribute("data-base", "1");
+        input.checked = store.get(key(it.id)) === "1";
+        var what = el("span", { class: "what" }, el("span", { class: "name", text: it.nombre }));
+        if (it.nota) what.append(el("small", { text: it.nota }));
+        var lab = el("label", { class: "item" + (input.checked ? " done" : ""), for: cid }, input, el("span", { class: "qty", text: it.cant }), what);
+        input.addEventListener("change", function () {
+          lab.classList.toggle("done", input.checked);
+          if (input.checked) store.set(key(it.id), "1"); else store.del(key(it.id));
+          updateProgress();
+        });
+        input.setAttribute("data-key", key(it.id));
+        ul.append(el("li", null, lab));
+      });
+      sec.append(ul); host.append(sec);
+    });
+  }
+  function updateProgress() {
+    var base = Array.prototype.slice.call(document.querySelectorAll("#shop input[data-base]"));
+    var done = base.filter(function (i) { return i.checked; }).length, total = base.length;
+    document.getElementById("bar").style.width = (total ? (done / total) * 100 : 0) + "%";
+    document.getElementById("progress-txt").textContent = done + " de " + total;
+    var c = document.getElementById("count"); c.textContent = done + "/" + total;
+    c.classList.toggle("full", total > 0 && done === total);
+  }
+  function pendingText() {
+    var out = ["Compra semana " + W[week].num + " (" + W[week].titulo + ", para 2)"];
+    document.querySelectorAll("#shop .shop-sec").forEach(function (sec) {
+      var rows = Array.prototype.slice.call(sec.querySelectorAll(".item")).filter(function (l) { return !l.querySelector("input").checked; });
+      if (!rows.length) return;
+      out.push("", sec.querySelector("h3").textContent);
+      rows.forEach(function (l) {
+        var q = l.querySelector(".qty").textContent, n = l.querySelector(".name").textContent;
+        out.push("- " + (q && q !== "—" ? q + " " : "") + n);
+      });
+    });
+    return out.join("\n");
+  }
+
+  // ---------- Estado ----------
+  function updateStatus() {
+    var first = W[0].inicio, last = W[W.length - 1].fin, s = "";
+    var start = new Date(first + "T00:00:00"), diff = Math.round((start - t0) / 864e5);
+    if (today < first) {
+      s = diff === 2 ? "Empiezas el lunes 26. Haz hoy la compra: mañana domingo toca el batch cooking."
+        : diff === 1 ? "Empiezas mañana, lunes 26. Hoy toca el batch cooking: lo tienes paso a paso en la pestaña Batch."
+        : "Empiezas el lunes 26.";
+    } else if (today <= last) {
+      var d = null;
+      W.forEach(function (w) { w.dias.forEach(function (x) { if (x.fecha === today) d = x; }); });
+      if (d) {
+        s = "Hoy es " + d.nombre.toLowerCase() + " " + d.n + ", día de " + (d.tipo === "E" ? "entreno" : "descanso") + ".";
+        var idx = W.findIndex(function (w) { return w.inicio > today; });
+        if (d.nombre === "Sábado" && idx >= 0) s += " Toca la compra de la semana del " + W[idx].corto + ".";
+        if (d.nombre === "Domingo" && idx >= 0) s += " Toca el batch cooking de la semana del " + W[idx].corto + " (pestaña Batch).";
+      }
+    } else s = "Mes terminado. Toca preparar las semanas siguientes.";
+    document.getElementById("status").textContent = s;
+  }
+
+  // ---------- Pestañas ----------
+  var tabMenu = document.getElementById("tab-menu"), tabBatch = document.getElementById("tab-batch"), tabCompra = document.getElementById("tab-compra");
+  var panels = { menu: [tabMenu, document.getElementById("panel-menu")], batch: [tabBatch, document.getElementById("panel-batch")],
+                 compra: [tabCompra, document.getElementById("panel-compra")] };
+  var order = [tabMenu, tabBatch, tabCompra];
+  function show(name) {
+    Object.keys(panels).forEach(function (k) {
+      var on = k === name;
+      panels[k][0].setAttribute("aria-selected", String(on)); panels[k][0].tabIndex = on ? 0 : -1; panels[k][1].hidden = !on;
+    });
+    store.set(P + "tab", name);
+  }
+  tabMenu.addEventListener("click", function () { show("menu"); });
+  tabBatch.addEventListener("click", function () { show("batch"); });
+  tabCompra.addEventListener("click", function () { show("compra"); });
+  document.getElementById("tablist").addEventListener("keydown", function (e) {
+    if (e.key !== "ArrowRight" && e.key !== "ArrowLeft") return;
+    var i = order.indexOf(document.activeElement); if (i < 0) return;
+    var next = order[(i + (e.key === "ArrowRight" ? 1 : order.length - 1)) % order.length]; next.focus(); next.click();
+  });
+
+  function renderAll() { renderWeeks(); renderDays(); renderBatch(); renderShop(); updateProgress(); setServings(servings); }
+  renderAll();
+  updateStatus();
+  var saved = store.get(P + "tab");
+  show(hash === "compra" || hash === "batch" ? hash : (saved === "compra" || saved === "batch" ? saved : "menu"));
+  document.getElementById("srv-1").addEventListener("click", function () { setServings(1); });
+  document.getElementById("srv-2").addEventListener("click", function () { setServings(2); });
+
+  var msg = document.getElementById("copy-msg"), fb = document.getElementById("copy-fallback");
+  document.getElementById("copy").addEventListener("click", function () {
+    var text = pendingText();
+    function ok() { fb.hidden = true; msg.textContent = "Lista copiada. Pégala en WhatsApp o en las notas."; }
+    function fail() { fb.value = text; fb.hidden = false; fb.focus(); fb.select(); msg.textContent = "No se pudo copiar sola: la tienes seleccionada aquí debajo para copiarla."; }
+    try { navigator.clipboard.writeText(text).then(ok, fail); } catch (e) { fail(); }
+  });
+  var reset = document.getElementById("reset"), armTimer = null;
+  function disarm() { clearTimeout(armTimer); reset.classList.remove("armed"); reset.textContent = "Desmarcar todo"; }
+  reset.addEventListener("click", function () {
+    if (!reset.classList.contains("armed")) {
+      reset.classList.add("armed"); reset.textContent = "Toca otra vez para desmarcar";
+      armTimer = setTimeout(disarm, 3500); return;
+    }
+    disarm();
+    document.querySelectorAll("#shop input[type=checkbox]").forEach(function (i) {
+      i.checked = false; i.closest(".item").classList.remove("done"); store.del(i.getAttribute("data-key"));
+    });
+    updateProgress();
+  });
+})();
+</script>

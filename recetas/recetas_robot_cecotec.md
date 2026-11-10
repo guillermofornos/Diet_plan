@@ -259,8 +259,8 @@
 
 ---
 
-### Crema de zanahoria con gambas salteadas
-*Fuente: Recetas Cecotec (web) · ≈ 402 kcal · 37 g proteína · 34 g HC · 11 g grasa · por persona*
+### Crema de zanahoria con calamar a la plancha
+*Fuente: Recetas Cecotec (web) · ≈ 423 kcal · 33 g proteína · 39 g HC · 12 g grasa · por persona*
 
 📄 **Receta escrita:** <https://cecotec.es/recetas/cremas-y-sopas/crema-de-zanahoria>
 
@@ -274,8 +274,8 @@
 - 50 ml de leche (en vez de leche evaporada).
 - Sal y pimienta.
 
-**Ingredientes (Gambas salteadas):**
-- 300 g de gambas o langostinos pelados (congelados).
+**Ingredientes (Calamar a la plancha):**
+- 340 g de calamar limpio congelado, en tiras o anillas.
 - 6 ml de AOVE.
 - 1 diente de ajo y perejil picado.
 - 60 g de pan integral para acompañar.
@@ -285,9 +285,9 @@
 2. Añade el aceite y sofríe 3 minutos a 120 °C y velocidad 1 (en el Cecotec, potencia de calor 7).
 3. Añade la patata chascada, la zanahoria en trozos, el caldo, la sal y la pimienta: 24 minutos a 110 °C, sin movimiento (velocidad 0) y sin el cubilete.
 4. Pon el cubilete, añade la leche y tritura 1 minuto a velocidad 8.
-5. Gambas: descongélalas y sécalas bien; saltéalas en una sartén muy caliente con el aceite, el ajo picado y el perejil, 2–3 minutos.
-6. Sirve la crema con las gambas por encima y el pan tostado.
+5. Calamar: descongélalo y sécalo muy bien con papel de cocina. A la plancha o en una sartén muy caliente con el aceite, 2–3 minutos, sin moverlo mucho, y al final el ajo picado y el perejil (si lo haces más, se pone duro).
+6. Sirve la crema con el calamar por encima y el pan tostado.
 
-*Tupper:* La crema, 3 días en la nevera; las gambas, al momento.
-*Batch cooking:* La crema, en el robot (30 minutos) el mismo día o en el batch; las gambas, siempre al momento.
-*Cambios respecto a la fuente:* Leche normal en vez de evaporada; caldo bajo en sal; gambas salteadas por encima para llegar a la proteína. La web no dice raciones: cantidades calculadas para 4 y pasadas a 2.
+*Tupper:* La crema, 3 días en la nevera; el calamar, al momento.
+*Batch cooking:* La crema, en el robot (30 minutos) el mismo día o en el batch; el calamar, siempre al momento.
+*Cambios respecto a la fuente:* Leche normal en vez de evaporada; caldo bajo en sal; calamar a la plancha por encima para llegar a la proteína (en vez de gambas, que ya hay el domingo anterior). La web no dice raciones: cantidades calculadas para 4 y pasadas a 2.

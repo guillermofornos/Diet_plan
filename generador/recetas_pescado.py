@@ -1,0 +1,132 @@
+YT = "https://www.youtube.com/watch?v="
+R = {
+ "MERTAC": dict(tipo="cena", nombre="Tacos de merluza crujiente con pico de gallo y salsa de yogur y lima",
+   fuente="Jordi Roca (YouTube) y Directo al Paladar", url=YT + "hf4LhGH-SlM",
+   url2="https://www.directoalpaladar.com/recetas-de-pescados-y-mariscos/tacos-de-merluza-con-salsa-picante-de-queso-fresco-receta",
+   tupper="Montado no; por partes, la merluza 1 día (reaviva en airfryer)",
+   grupos=[("Merluza rebozada", [("merluza", 170, "{170} g de merluza en tiras (descongelada y bien seca)"), ("huevo", 27.5, "{1/2|huevo|huevos}"),
+       ("copos_maiz", 20, "{20} g de copos de maíz sin azúcar"), ("x:Lima", 0, "Pimentón de la Vera, comino, ralladura de lima y sal"),
+       ("aove", 3, "{3} ml de AOVE en spray")]),
+     ("Tacos", [("tortilla_maiz", 78, "{3} tortillas de maíz ({78} g)"), ("hojas", 15, "{15} g de canónigos"), ("aguacate", 30, "{30} g de aguacate en láminas")]),
+     ("Pico de gallo", [("tomate", 90, "{90} g de tomate"), ("pina", 30, "{30} g de piña natural"), ("pim_verde", 15, "{15} g de pimiento verde"),
+       ("cebolla", 20, "{20} g de cebolla morada"), ("x:Cilantro", 0, "Cilantro o perejil, guindilla (opcional), zumo de lima y sal")]),
+     ("Salsa de yogur y lima", [("yogur", 60, "{60} g de yogur natural"), ("x:Chipotle o pimentón picante", 0, "Zumo y ralladura de lima, cilantro y una pizca de chipotle")])],
+   pasos=["Corta la merluza seca en tiras de 2–3 cm y sálala.",
+          "Bate el huevo con el pimentón, el comino y la ralladura de lima; tritura los copos en una bolsa (trocitos, no polvo). Pasa cada tira por el huevo y por los copos apretando.",
+          "Rocía con el spray y airfryer a 190 °C 7–8 minutos (horno: 200 °C 10–12 minutos sin darles la vuelta).",
+          "Pico de gallo: tomate en dados sin la parte acuosa, piña, pimiento verde, cebolla morada muy picada y cilantro, aliñado con lima y sal; deja reposar 10 minutos.",
+          "Salsa: mezcla el yogur con el zumo y la ralladura de lima, el cilantro, el chipotle y sal.",
+          "Calienta las tortillas 30–40 segundos por lado en sartén sin aceite y monta: salsa, canónigos, merluza, pico de gallo y aguacate."]),
+ "FISHCHIPS": dict(tipo="comida", nombre="Fish & chips fit con tártara de yogur y guisantes a la hierbabuena",
+   fuente="Las Recetas de MJ (YouTube) y La cocina de María y Miki", url=YT + "CSBvpy16wvg", url2=YT + "0jzDq5TupPI",
+   tupper="Regular: la merluza y las patatas, recalentadas en airfryer",
+   grupos=[("Merluza rebozada", [("merluza", 180, "{180} g de lomo de merluza (descongelado y bien seco)"), ("huevo", 27.5, "{1/2|huevo|huevos}"),
+       ("mostaza", 3, "{3} g de mostaza"), ("copos_maiz", 25, "{25} g de copos de maíz sin azúcar"),
+       ("x:Limones", 0, "Ralladura de limón, pimentón dulce, pimienta y sal"), ("aove", 3, "{3} ml de AOVE en spray")]),
+     ("Patatas", [("patata", 250, "{250} g de patata con piel bien lavada"), ("aove", 5, "{5} ml de AOVE"),
+       ("x:Romero o tomillo", 0, "Pimentón dulce, romero o tomillo, una pizca de ajo en polvo y sal")]),
+     ("Guisantes machacados", [("guisantes", 100, "{100} g de guisantes congelados"), ("aove", 2, "{2} ml de AOVE"),
+       ("x:Hierbabuena", 0, "Hierbabuena (unas 8 hojas), zumo de limón, sal y pimienta")]),
+     ("Tártara de yogur", [("yogur", 60, "{60} g de yogur natural"), ("alcaparras", 8, "{8} g de alcaparras picadas"),
+       ("cebolla", 10, "{10} g de cebolleta"), ("mostaza", 2, "{2} g de mostaza"), ("x:Perejil", 0, "Perejil, limón y pimienta")])],
+   pasos=["Patatas en bastones o gajos de 1–1,5 cm, 15 minutos en agua fría, bien secas y mezcladas con el aceite y las especias. Airfryer a 200 °C 20–25 minutos removiendo cada 8 (horno: 220 °C 30–35 minutos).",
+          "Guisantes en un cazo con el aceite, {30} ml de agua, la hierbabuena picada y sal; tapa 8–10 minutos, añade el limón y aplástalos con un tenedor.",
+          "Tártara: mezcla el yogur con las alcaparras, la cebolleta, el perejil, la mostaza, el limón y pimienta (se puede hacer la víspera).",
+          "Merluza seca y salada: pásala por el huevo batido con la mostaza y por los copos triturados con la ralladura y el pimentón, y rocíala con el spray.",
+          "Airfryer a 190 °C 10–12 minutos (lomo de unos 3 cm) u horno a 200 °C 14–16 minutos.",
+          "Emplata las patatas, la merluza y los guisantes, con la tártara para mojar."]),
+ "GARBAC": dict(tipo="comida", nombre="Garbanzos con bacalao (potaje rápido)", fuente="Las Recetas de MJ", url=YT + "2WiScz6MVQg",
+   url2="https://lasrecetasdemj.com/2024/10/garbanzos-con-bacalao.html",
+   tupper="Excelente: 3 días en la nevera (congélalo sin la patata)",
+   grupos=[("Ingredientes", [("bacalao", 170, "{170} g de lomo de bacalao en tacos (descongelado)"),
+       ("garbanzos", 200, "{200} g de garbanzos cocidos, escurridos y enjuagados"), ("patata", 120, "{120} g de patata"),
+       ("cebolla", 60, "{60} g de cebolla"), ("pimiento", 40, "{40} g de pimiento rojo"), ("pim_verde", 40, "{40} g de pimiento verde"),
+       ("tomate_trit", 30, "{30} g de tomate triturado natural"), ("aove", 10, "{10} ml de AOVE"),
+       ("x:Laurel", 0, "{1/2|diente|dientes} de ajo, pimentón dulce, {1/2|hoja|hojas} de laurel y perejil"),
+       (None, 0, "Unos {300} ml de agua (o caldo de pescado sin azúcar)")])],
+   pasos=["Dora el ajo picado 30 segundos en el aceite, añade la cebolla con una pizca de sal 5 minutos y después los pimientos en dados otros 5.",
+          "Fuera del fuego, añade el pimentón; echa el tomate y cocina 2–3 minutos. Si quieres la salsa más fina, tritura el sofrito con un poco de agua.",
+          "Añade la patata chascada (clava el cuchillo y rompe el trozo para que suelte almidón) y el laurel, cubre con el agua y cuece 20 minutos a fuego medio.",
+          "Añade los garbanzos y el bacalao y cuece 5 minutos sin remover, moviendo la cazuela en vaivén (4 minutos si el bacalao es fresco-congelado).",
+          "Rectifica de sal (si el bacalao es «punto de sal», prueba antes), reposa 5 minutos y sirve con perejil."]),
+ "VIZCA": dict(tipo="comida", nombre="Bacalao a la vizcaína ligero con patata", fuente="Las Recetas de MJ (receta de Berasategui)", url=YT + "GOU9ho8pQc0",
+   url2="https://lasrecetasdemj.com/2016/03/bacalao-la-vizcaina-videoreceta.html",
+   tupper="Excelente: la salsa aguanta 4 días y se congela; haz el doble",
+   grupos=[("Salsa vizcaína", [("cebolla", 120, "{120} g de cebolla morada"), ("puerro", 40, "{40} g de puerro (parte blanca)"),
+       ("pim_verde", 60, "{60} g de pimiento verde italiano"), ("tomate", 80, "{80} g de tomate maduro rallado"),
+       ("choricero", 20, "{20} g de carne de pimiento choricero (o {3} choriceros secos)"), ("pan_pueblo", 10, "{10} g de pan del día anterior"),
+       ("aove", 10, "{10} ml de AOVE"), ("x:Caldo de pescado", 0, "{1/2|diente|dientes} de ajo, sal y pimienta"),
+       ("caldo", 250, "{250} ml de caldo de pescado sin azúcar (o agua)")]),
+     ("Bacalao y guarnición", [("bacalao", 180, "{180} g de lomo de bacalao (descongelado)"), ("patata", 220, "{220} g de patata")])],
+   pasos=["Si usas choriceros secos, remójalos 1 hora en agua tibia y raspa la carne con una cucharilla.",
+          "Dora el ajo 30 segundos en el aceite, añade la cebolla, el puerro y el pimiento picados con una pizca de sal, tapa y pocha a fuego bajo 30–35 minutos (1–2 cucharadas de agua si se agarra).",
+          "Añade el pan, el tomate y el choricero y rehoga 2 minutos; echa {150} ml de caldo y cuece 15 minutos; añade el resto y 5 minutos más.",
+          "Tritura y pasa por un colador; debe quedar como una crema ligera.",
+          "Mete los lomos en la salsa a fuego muy suave: 10–12 minutos si son desalados y gruesos, 6–8 si son fresco-congelados, dándoles la vuelta a mitad.",
+          "Mientras, cuece la patata en rodajas (12–15 minutos en agua con sal o 6–8 en el microondas) y sirve con mucha salsa."]),
+}
+import copy
+# Norma: el pescado cocinado o al horno se hace el mismo día que se come.
+R["GARBAC"]["batch"] = "En el batch, el potaje sin el bacalao (pasos 1–3 y los garbanzos), a la nevera. El día que lo comas: calienta una ración y cuece el bacalao dentro 5 minutos."
+R["FISHCHIPS"]["batch"] = "Pescado: se hace el mismo día. La tártara puede hacerse la víspera."
+R["MERTAC"]["batch"] = "Pescado: se hace el mismo día. El pico de gallo y la salsa pueden hacerse la víspera."
+R["VIZCA_A"] = copy.deepcopy(R["VIZCA"])
+v = R["VIZCA_A"]
+v["nombre"] = "Bacalao a la vizcaína ligero con arroz"
+v["grupos"][1] = ("Bacalao y guarnición", [("bacalao", 180, "{180} g de lomo de bacalao (descongelado)"), ("arroz_int", 70, "{70} g de arroz integral (en crudo)")])
+v["pasos"] = v["pasos"][:4] + [
+    "El día que lo comas: calienta la salsa en una cazuela pequeña a fuego muy suave y cuece dentro los lomos 10–12 minutos si son desalados y gruesos (6–8 si son fresco-congelados), dándoles la vuelta a mitad.",
+    "Sirve con el arroz integral, cocido en el batch."]
+v["tupper"] = "La salsa y el arroz, del batch (se congelan); el bacalao, el mismo día"
+v["batch"] = "En el batch, la salsa (pasos 1–4) y el arroz, al congelador. El día que lo comas: calienta la salsa y cuece el bacalao dentro 10–12 minutos."
+
+R["RIOJ"] = dict(tipo="comida", nombre="Bacalao a la riojana con patata", fuente="Karlos Arguiñano", url=YT + "WF6ME_t0Pks",
+   url2="https://www.hogarmania.com/cocina/recetas/pescados-mariscos/bacalao-riojana-42529.html",
+   tupper="La salsa con los pimientos y la patata, del batch (3 días en la nevera); el bacalao, el mismo día",
+   grupos=[("Salsa riojana", [("pimiento", 120, "{120} g de pimiento rojo (morrón) para asar"), ("cebolla", 80, "{80} g de cebolla"),
+       ("x:Perejil", 0, "{1/2|diente|dientes} de ajo, sal y perejil"),
+       ("tomate_trit", 200, "{200} g de tomate triturado natural"), ("aove", 8, "{8} ml de AOVE")]),
+     ("Bacalao y guarnición", [("bacalao", 170, "{170} g de lomo de bacalao (desalado o fresco-congelado, descongelado)"),
+       ("patata", 180, "{180} g de patata")])],
+   pasos=["Pimientos: lávalos, úntalos con un poco del aceite y sal y ásalos en el horno a 180 °C 35–40 minutos (airfryer: 180 °C, 20–25 minutos), dándoles la vuelta a mitad. Cuando templen, pélalos, córtalos en tiras y guarda el jugo.",
+          "Salsa: pocha la cebolla picada y el ajo con el resto del aceite 10 minutos, añade el tomate y la sal y cuece 25–30 minutos a fuego suave; tritúrala para que quede fina. En el robot: sofrito 10 min/120 °C/vel 1, tomate 25 min/100 °C/vel 1 y triturar 30 s a vel 7. Sin azúcar: si queda ácida, unos minutos más de fuego.",
+          "Patata en dados de 2 cm, en un bol tapado con un poco de agua, 6–7 minutos de microondas.",
+          "El día que lo comas: calienta la salsa en una cazuela, pon los lomos bien secos con la piel hacia arriba y cuécelos a fuego muy suave 5–6 minutos por lado (4 si son fresco-congelados), moviendo la cazuela en vaivén, sin remover.",
+          "Añade las tiras de pimiento con su jugo y la patata, 2 minutos más, y perejil por encima."])
+R["RIOJ"]["batch"] = "En el batch, los pimientos asados, la salsa y la patata, a la nevera. El día que lo comas: calienta la salsa y cuece el bacalao dentro 5–6 minutos por lado."
+
+R["PILPIL"] = dict(tipo="comida", nombre="Bacalao al pil pil con patata y pimiento asado", fuente="Karlos Arguiñano", url=YT + "Fyjza6ex_ao",
+   url2="https://www.hogarmania.com/cocina/recetas/pescados-mariscos/201303/bacalao-tradicional-19145.html",
+   tupper="Se hace el mismo día; al recalentar, microondas a media potencia para que la salsa no se corte",
+   grupos=[("Bacalao al pil pil", [("bacalao", 170, "{170} g de lomo de bacalao desalado, con piel (sin piel no liga)"),
+       ("aove", 25, "{60} ml de AOVE para confitar (en la salsa se quedan unos {25} ml)"),
+       ("x:Cayena o guindilla", 0, "{1|diente|dientes} de ajo laminado y {1/4|guindilla|guindillas}")]),
+     ("Guarnición", [("patata", 180, "{180} g de patata"), ("pimiento", 80, "{80} g de pimiento rojo para asar")])],
+   pasos=["Seca muy bien los lomos con papel de cocina: el agua impide que la salsa ligue.",
+          "En una cazuela baja de barro o de fondo grueso, justa para los lomos, dora a fuego medio el ajo laminado y la guindilla en el aceite; retíralos en cuanto empiecen a tomar color y resérvalos.",
+          "Baja el fuego al mínimo, deja templar el aceite un par de minutos y pon los lomos con la piel hacia arriba: el aceite los cubre a medias y no debe hervir nunca (si burbujea, aparta la cazuela). Confítalos 4–5 minutos, dales la vuelta y 4–5 minutos más, moviendo la cazuela en vaivén para que suelten la gelatina.",
+          "Saca los lomos a un plato, guardando el jugo blanco que suelten, y pasa el aceite a un vaso. Déjalo templar 5–10 minutos: si está caliente, la salsa se corta.",
+          "Pon en la cazuela el jugo de los lomos y un chorrito del aceite templado y mueve con un colador en círculos, sin parar, hasta que empiece a espesar. Ve añadiendo el aceite en hilo fino hasta tener una salsa blanca y espesa (en la salsa quedan unos {25} ml de aceite; el que sobre, colado, sirve para cocinar otros días).",
+          "Mete los lomos en la salsa y calienta a fuego muy suave, sin que hierva, moviendo la cazuela en vaivén 2–3 minutos. Pon por encima el ajo y la guindilla (o no, si quieres menos ajo).",
+          "Guarnición: el pimiento, asado en la airfryer a 180 °C 20 minutos, y la patata en dados, 6–7 minutos de microondas. Pueden hacerse la noche antes.",
+          "Si la salsa se corta: saca el bacalao, añade una cucharada de agua templada y vuelve a ligar con el colador, poco a poco."])
+R["PILPIL"]["batch"] = "Pescado: se hace el mismo día (unos 25 minutos). La patata y el pimiento asado, la noche antes."
+
+R["ARRGAMB"] = dict(tipo="comida", nombre="Arroz meloso con gambones", fuente="Directo al Paladar (Mesa Cero Chefs y Jaime de las Heras)", url=None,
+   url2="https://www.directoalpaladar.com/recetas-de-arroces/arroz-meloso-gambas-langostinos-receta-fiesta-sencilla-que-crees",
+   tupper="Se hace y se come el mismo día: el arroz meloso no aguanta recalentado",
+   grupos=[("Fumet de las cabezas", [(None, 0, "Las cabezas y las cáscaras de los gambones"), ("puerro", 20, "{20} g de puerro (vale la parte verde)"),
+       ("tomate", 30, "{30} g de tomate"), ("x:Perejil", 0, "Una ramita de perejil"), (None, 0, "{400} ml de agua y una pizca de sal")]),
+     ("Arroz", [("gambones", 250, "{250} g de gambones crudos congelados, enteros (unos {6})"), ("arroz", 70, "{70} g de arroz bomba (o redondo)"),
+       ("cebolla", 50, "{50} g de cebolla"), ("pimiento", 30, "{30} g de pimiento rojo"), ("pim_verde", 30, "{30} g de pimiento verde"),
+       ("tomate_trit", 60, "{60} g de tomate triturado natural"), ("aove", 10, "{10} ml de AOVE"),
+       ("x:Azafrán", 0, "{1/2|diente|dientes} de ajo, {1/4|cucharadita|cucharaditas} de pimentón dulce, {1/2|hoja|hojas} de laurel, unas hebras de azafrán y sal")])],
+   pasos=["Los gambones, a la nevera la noche antes para que se descongelen.",
+          "Pela las colas, quítales el hilo negro si lo tienen y guárdalas en la nevera; las cabezas y las cáscaras son para el fumet. Pica fino la cebolla, el ajo y los pimientos.",
+          "Fumet: en una olla, dora las cabezas y las cáscaras 2–3 minutos con unas gotas del aceite, aplastándolas para que suelten el jugo. Añade el puerro, el tomate, el perejil, el agua y la sal y cuece 20 minutos a fuego suave. Cuélalo apretando bien las cabezas y mantenlo caliente: tienen que quedar unos {300} ml.",
+          "Mientras, en una paellera o cazuela baja, marca las colas 1 minuto a fuego fuerte con un poco del aceite (por dentro, crudas) y resérvalas.",
+          "En el mismo recipiente, con el resto del aceite, pocha a fuego medio el ajo y la cebolla 5 minutos; añade los pimientos y el laurel, 10 minutos, y el tomate, 10 minutos más, hasta que el sofrito quede seco.",
+          "Añade el pimentón y remueve unos segundos, sin que se queme. Echa el arroz, remueve 1 minuto y añade el fumet caliente y el azafrán. Prueba de sal.",
+          "Cuece 17–18 minutos a fuego medio, removiendo de vez en cuando, hasta que el arroz esté casi hecho pero todavía con caldo. Si se seca antes, un poco de agua caliente.",
+          "Los últimos 2 minutos, pon las colas encima para que se terminen de hacer con el calor. Sírvelo enseguida, meloso."])
+R["ARRGAMB"]["batch"] = "Marisco: se hace el mismo día (unos 50 minutos; el fumet, mientras pochas el sofrito). Los gambones, a la nevera la noche antes."
