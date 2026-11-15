@@ -291,3 +291,34 @@
 *Tupper:* La crema, 3 días en la nevera; el calamar, al momento.
 *Batch cooking:* La crema, en el robot (30 minutos) el mismo día o en el batch; el calamar, siempre al momento.
 *Cambios respecto a la fuente:* Leche normal en vez de evaporada; caldo bajo en sal; calamar a la plancha por encima para llegar a la proteína (en vez de gambas, que ya hay el domingo anterior). La web no dice raciones: cantidades calculadas para 4 y pasadas a 2.
+
+---
+
+### Sopa cremosa de pollo con huevo pochado
+*Fuente: Receta de Instagram (código MAYDEN), pasada a vuestra Mambo · ≈ 564 kcal · 56 g proteína · 57 g HC · 8 g grasa · por persona*
+
+**Ingredientes (Sopa):**
+- 360 g de pechuga de pollo entera (sale media pechuga grande por persona).
+- 500 g de patata en trozos.
+- 350 g de cebolla en cuartos.
+- 2 zanahorias (120 g) en trozos.
+- 700 ml de agua.
+- Sal, pimienta, 1/2 cucharadita de cúrcuma y 1 hoja de laurel (la receta dice «especias»).
+
+**Ingredientes (Para servir):**
+- 2 huevos para pochar.
+- Un chorrito de vinagre para el agua del huevo.
+
+**Instrucciones:**
+1. Pela y trocea la patata, la cebolla y la zanahoria en trozos medianos.
+2. Pon la mariposa en el robot y echa las verduras, las pechugas enteras, el agua, la sal, la pimienta, la cúrcuma y el laurel: 30 minutos a 100 °C y velocidad 1, con giro inverso (así la pechuga no se rompe).
+3. Saca las pechugas y el laurel. Comprueba que la pechuga está hecha por dentro; si no, 5 minutos más.
+4. Quita la mariposa, pon el cubilete y tritura las verduras con su caldo 1 minuto subiendo poco a poco de velocidad 5 a 10. Si queda muy espesa, añade un poco de agua caliente.
+5. Desmiga la pechuga con dos tenedores, vuelve a echarla y calienta 2 minutos a 90 °C, velocidad 1 y giro inverso. Rectifica de sal.
+6. Huevo pochado (uno por persona): en un cazo con agua a punto de hervir y el vinagre, haz un remolino con una cuchara y echa el huevo en el centro; 3 minutos y sácalo con una espumadera. En el microondas: el huevo en una taza con agua que lo cubra, tapado, unos 60 segundos a 800 W.
+7. Sirve la sopa con el huevo encima y pimienta recién molida.
+8. Sin robot (como la receta original): todo en una olla cubierto de agua, 30 minutos a fuego medio; saca la pechuga, tritura las verduras con la batidora, desmiga la pechuga y vuelve a echarla.
+
+*Tupper:* La sopa, 3 días en la nevera o congelada (sin el huevo); el huevo pochado, siempre al momento.
+*Batch cooking:* La sopa, en el robot (unos 40 minutos) al terminar el batch o el mismo día; se guarda 3 días en la nevera. El huevo pochado, al momento.
+*Cambios respecto a la fuente:* Pasada a vuestra Mambo (la original se hace en una olla); un huevo pochado por persona en vez de uno para los dos; la pechuga, pesada (unos 180 g por persona) y las especias, concretadas.

@@ -24,9 +24,9 @@ Estos alimentos no aparecerán en tus recetas ni listas de la compra.
     *   Avellanas (47)
 *   **Pescados y Marisco:**
     *   Caballa (45)
-    *   Salmón (45)
+    *   Salmón (45) - *Decisión tuya del 15/11/2026: sí, con moderación, unas 2 semanas al mes.*
     *   Sardinas (45)
-    *   Lubina (43)
+    *   Lubina (43) - *Decisión tuya del 15/11/2026: sí, una lubina a la sal al mes.*
     *   Almejas (41)
 *   **Legumbres:**
     *   Alubias (47) - *Garbanzos, lentejas y soja/tofu sí están bien. Las judías verdes (de la misma planta, pero sin valor en el test) también: decisión tuya del 25/10/2026.*

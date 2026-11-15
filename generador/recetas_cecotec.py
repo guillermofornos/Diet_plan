@@ -143,3 +143,20 @@ R["CREMZAN"] = dict(tipo="cena", nombre="Crema de zanahoria con calamar a la pla
           "Sirve la crema con el calamar por encima y el pan tostado."])
 R["CREMCAL"]["batch"] = "La crema puede hacerse en el robot al terminar el batch (25 minutos); la tortilla, al momento."
 R["CREMZAN"]["batch"] = "La crema, en el robot (30 minutos) el mismo día o en el batch; el calamar, siempre al momento."
+
+R["SOPA"] = dict(tipo="cena", nombre="Sopa cremosa de pollo con huevo pochado", fuente="Receta de Instagram (código MAYDEN), pasada a vuestra Mambo", robot=True,
+   tupper="La sopa, 3 días en la nevera o congelada (sin el huevo); el huevo pochado, siempre al momento",
+   grupos=[("Sopa", [("pechuga", 180, "{180} g de pechuga de pollo entera (sale media pechuga grande por persona)"),
+       ("patata", 250, "{250} g de patata en trozos"), ("cebolla", 175, "{175} g de cebolla en cuartos"),
+       ("zanahoria", 60, "{1|zanahoria|zanahorias} ({60} g) en trozos"), (None, 0, "{350} ml de agua"),
+       ("x:Cúrcuma", 0, "Sal, pimienta, {1/4|cucharadita|cucharaditas} de cúrcuma y {1/2|hoja|hojas} de laurel (la receta dice «especias»)")]),
+     ("Para servir", [("huevo", 55, "{1|huevo|huevos} para pochar"), ("x:Vinagre", 0, "Un chorrito de vinagre para el agua del huevo")])],
+   pasos=["Pela y trocea la patata, la cebolla y la zanahoria en trozos medianos.",
+          "Pon la mariposa en el robot y echa las verduras, las pechugas enteras, el agua, la sal, la pimienta, la cúrcuma y el laurel: 30 minutos a 100 °C y velocidad 1, con giro inverso (así la pechuga no se rompe).",
+          "Saca las pechugas y el laurel. Comprueba que la pechuga está hecha por dentro; si no, 5 minutos más.",
+          "Quita la mariposa, pon el cubilete y tritura las verduras con su caldo 1 minuto subiendo poco a poco de velocidad 5 a 10. Si queda muy espesa, añade un poco de agua caliente.",
+          "Desmiga la pechuga con dos tenedores, vuelve a echarla y calienta 2 minutos a 90 °C, velocidad 1 y giro inverso. Rectifica de sal.",
+          "Huevo pochado (uno por persona): en un cazo con agua a punto de hervir y el vinagre, haz un remolino con una cuchara y echa el huevo en el centro; 3 minutos y sácalo con una espumadera. En el microondas: el huevo en una taza con agua que lo cubra, tapado, unos 60 segundos a 800 W.",
+          "Sirve la sopa con el huevo encima y pimienta recién molida.",
+          "Sin robot (como la receta original): todo en una olla cubierto de agua, 30 minutos a fuego medio; saca la pechuga, tritura las verduras con la batidora, desmiga la pechuga y vuelve a echarla."])
+R["SOPA"]["batch"] = "La sopa, en el robot (unos 40 minutos) al terminar el batch o el mismo día; se guarda 3 días en la nevera. El huevo pochado, al momento."

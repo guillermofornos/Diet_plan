@@ -143,6 +143,97 @@
 
 ---
 
+### Bacalao a la riojana con patata
+*Fuente: Karlos Arguiñano · ≈ 455 kcal · 39 g proteína · 47 g HC · 9 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=WF6ME_t0Pks>  
+📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/pescados-mariscos/bacalao-riojana-42529.html>
+
+**Ingredientes (Salsa riojana):**
+- 240 g de pimiento rojo (morrón) para asar.
+- 160 g de cebolla.
+- 1 diente de ajo, sal y perejil.
+- 400 g de tomate triturado natural.
+- 16 ml de AOVE.
+
+**Ingredientes (Bacalao y guarnición):**
+- 340 g de lomo de bacalao (desalado o fresco-congelado, descongelado).
+- 360 g de patata.
+
+**Instrucciones:**
+1. Pimientos: lávalos, úntalos con un poco del aceite y sal y ásalos en el horno a 180 °C 35–40 minutos (airfryer: 180 °C, 20–25 minutos), dándoles la vuelta a mitad. Cuando templen, pélalos, córtalos en tiras y guarda el jugo.
+2. Salsa: pocha la cebolla picada y el ajo con el resto del aceite 10 minutos, añade el tomate y la sal y cuece 25–30 minutos a fuego suave; tritúrala para que quede fina. En el robot: sofrito 10 min/120 °C/vel 1, tomate 25 min/100 °C/vel 1 y triturar 30 s a vel 7. Sin azúcar: si queda ácida, unos minutos más de fuego.
+3. Patata en dados de 2 cm, en un bol tapado con un poco de agua, 6–7 minutos de microondas.
+4. El día que lo comas: calienta la salsa en una cazuela, pon los lomos bien secos con la piel hacia arriba y cuécelos a fuego muy suave 5–6 minutos por lado (4 si son fresco-congelados), moviendo la cazuela en vaivén, sin remover.
+5. Añade las tiras de pimiento con su jugo y la patata, 2 minutos más, y perejil por encima.
+
+*Tupper:* La salsa con los pimientos y la patata, del batch (3 días en la nevera); el bacalao, el mismo día.
+*Batch cooking:* En el batch, los pimientos asados, la salsa y la patata, a la nevera. El día que lo comas: calienta la salsa y cuece el bacalao dentro 5–6 minutos por lado.
+*Cambios respecto a la fuente:* Sin azúcar; la mitad de ajo y el aceite medido; una sola cebolla, en la salsa (Arguiñano rehoga otra aparte); con patata para que sea un plato completo de táper.
+
+---
+
+### Marmitako de rape (guiso de rape y patata)
+*Fuente: Karlos Arguiñano · ≈ 448 kcal · 34 g proteína · 42 g HC · 13 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=7Xcrf8nUM1Q>  
+📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/pescados-mariscos/marmitako-37242.html>
+
+**Ingredientes:**
+- 360 g de rape limpio congelado (cola o medallones).
+- 400 g de patata.
+- 60 g de puerro.
+- 80 g de cebolleta.
+- 60 g de pimiento verde.
+- 40 g de pimiento rojo.
+- 80 g de tomate.
+- 16 g de carne de pimiento choricero (de bote, o 1/2 pimiento choricero en remojo).
+- 20 ml de AOVE.
+- 750 ml de caldo de pescado bajo en sal.
+- 1 diente de ajo, perejil y sal.
+
+**Instrucciones:**
+1. Descongela el rape en la nevera desde la noche antes. Calienta el caldo con el puerro troceado y una ramita de perejil 15–20 minutos y cuélalo. (En la receta, el caldo se hace con la cabeza y la espina del rape; con el rape ya limpio, mejor de brik.)
+2. En una cazuela, con el aceite, rehoga el ajo, la cebolleta y los pimientos en daditos (el rojo, pelado) con sal, 15 minutos a fuego medio. Añade el tomate rallado, 5 minutos, y la carne del choricero.
+3. Pela las patatas, trocéalas cascándolas, añádelas y cúbrelas con el caldo. Pon a punto de sal y cuece 30–35 minutos.
+4. Corta el rape en trozos de bocado, sálalo y añádelo: un par de minutos y apaga el fuego. Termina con perejil picado.
+
+*Tupper:* Se hace y se come el mismo día.
+*Batch cooking:* Pescado: se hace el mismo día (unos 55 minutos). El rape, a la nevera la noche antes.
+*Cambios respecto a la fuente:* Rape limpio congelado y caldo de pescado de brik (la receta hace el caldo con la cabeza y la espina); el aceite, medido, y la mitad de ajo. La receta es para 4: cantidades pasadas a 2.
+
+---
+
+### Guiso de sepia con patatas y guisantes
+*Fuente: Karlos Arguiñano · ≈ 457 kcal · 40 g proteína · 41 g HC · 11 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=IasO0oBQUFU>  
+📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/guiso-de-sepia-con-patatas-y-guisantes.html>
+
+**Ingredientes:**
+- 400 g de sepia limpia congelada (4 sepias pequeñas).
+- 360 g de patata.
+- 120 g de guisantes congelados.
+- 100 g de cebolla.
+- 80 g de tomate triturado natural (en vez de salsa de tomate).
+- 20 ml de AOVE.
+- 1 diente de ajo, 1/2 cucharada de pimentón, un trocito de guindilla, sal, pimienta y perejil.
+- Agua: la justa para cubrir las patatas.
+
+**Instrucciones:**
+1. Descongela la sepia en la nevera desde la noche antes. Si quieres que quede más tierna, déjala 1 hora en leche antes de cocinarla y sécala bien.
+2. En una cazuela, con tres cuartas partes del aceite, rehoga el ajo y la cebolla picados a fuego suave-medio 6–8 minutos. Añade la guindilla, el pimentón y el tomate.
+3. Pela las patatas, trocéalas cascándolas y añádelas. Cubre con agua y sala.
+4. En una sartén muy caliente, con el resto del aceite, dora la sepia salpimentada a fuego fuerte 2–3 minutos.
+5. Pasa la sepia a la cazuela, tapa y cuece 30 minutos a fuego medio.
+6. Añade los guisantes y 10 minutos más. Rectifica de sal y sirve con perejil.
+
+*Tupper:* Se hace y se come el mismo día.
+*Batch cooking:* Pescado: se hace el mismo día (unos 50 minutos). La sepia, a la nevera la noche antes.
+*Cambios respecto a la fuente:* Sin vino; tomate triturado natural en vez de salsa de tomate; la mitad de aceite y de ajo. La receta es para 4: cantidades pasadas a 2.
+
+---
+
 ### Fish & chips fit con tártara de yogur y guisantes a la hierbabuena
 *Fuente: Las Recetas de MJ (YouTube) y La cocina de María y Miki · ≈ 667 kcal · 49 g proteína · 73 g HC · 16 g grasa · por persona*
 
@@ -185,6 +276,129 @@
 *Tupper:* Regular: la merluza y las patatas, recalentadas en airfryer.
 *Batch cooking:* Pescado: se hace el mismo día. La tártara puede hacerse la víspera.
 *Cambios respecto a la fuente:* Merluza rebozada al horno o airfryer en vez de frita con cerveza; tártara de yogur con alcaparras (sin pepinillos); guisantes con AOVE en vez de mantequilla.
+
+---
+
+### Dorada al horno con patatas y cebolla
+*Fuente: Recetas de Cocina Casera · ≈ 486 kcal · 40 g proteína · 43 g HC · 15 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=3CR4AcwFKww>  
+📄 **Receta escrita:** <https://cocina-casera.com/dorada-al-horno-con-patatas/>
+
+**Ingredientes:**
+- 2 doradas de ración (unos 800 g), limpia y abierta.
+- 500 g de patata.
+- 120 g de cebolla.
+- 20 ml de AOVE.
+- 100 ml de agua o caldo de pescado (en vez del vino blanco).
+- 1 limón, 1 diente de ajo, perejil, sal y pimienta.
+
+**Instrucciones:**
+1. Horno a 200 °C. Pela la patata y córtala en láminas finas; la cebolla, en juliana.
+2. Unta una fuente con un poco del aceite, haz una cama con la patata y la cebolla, sala y riégalas con otro poco de aceite y el agua.
+3. Tapa con papel de aluminio y hornea 25 minutos, hasta que la patata esté casi hecha.
+4. Mientras, maja el ajo con sal, pimienta, el perejil, el zumo de medio limón (de cada limón) y el resto del aceite.
+5. Rellena la dorada con el aliño, hazle unos cortes por fuera y mete en cada uno media rodaja de limón.
+6. Destapa la fuente, pon la dorada sobre las patatas y hornea 20–25 minutos más. Sirve enseguida.
+
+*Tupper:* Se hace y se come el mismo día.
+*Batch cooking:* Pescado: se hace el mismo día (unos 55 minutos, casi todo de horno).
+*Cambios respecto a la fuente:* Agua o caldo de pescado en vez del vino blanco; una dorada de ración por persona y más patata (la receta pone 500 g de dorada para los dos); la mitad de aceite y de ajo.
+
+---
+
+### Lubina a la sal con pisto y patata
+*Fuente: Karlos Arguiñano · ≈ 496 kcal · 39 g proteína · 43 g HC · 16 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=wqehNKLIEKE>  
+📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/pescados-mariscos/lubina-pisto-29471.html>
+
+**Ingredientes (Lubina a la sal):**
+- 2 lubinas de ración (unos 700 g), vaciada pero con escamas.
+- Unos 2 kg de sal gruesa (para las dos) y un poco de agua.
+- Romero, tomillo y eneldo picados y unas pimientas variadas machacadas, para la sal.
+
+**Ingredientes (Pisto (sin calabacín)):**
+- 120 g de pimiento verde.
+- 120 g de pimiento rojo.
+- 100 g de cebolla (en vez del calabacín).
+- 200 g de tomate.
+- 20 ml de AOVE (y unas gotas para la lubina).
+- Sal y perejil.
+
+**Ingredientes (Guarnición):**
+- 400 g de patata.
+
+**Instrucciones:**
+1. Horno a 200 °C. Mezcla la sal gruesa con las hierbas picadas y las pimientas machacadas y humedécela un poco con agua.
+2. Haz una cama de sal en una bandeja, pon las lubinas sin escamar y cúbrelas por completo con el resto de la sal, apretando.
+3. Hornea unos 20 minutos (en la receta, 20 minutos por kilo de pescado; para lubinas de ración, 18–20).
+4. Pisto: pocha a fuego medio el pimiento verde en dados con el aceite 5 minutos; añade el pimiento rojo pelado y la cebolla, también en dados, 10 minutos; sala y añade el tomate pelado en dados, 10 minutos más, hasta que esté hecho.
+5. Patata: en dados, en un bol tapado con un poco de agua, 6–7 minutos de microondas.
+6. Rompe la costra de sal, quita la piel y saca los lomos. Unas gotas de aceite por encima y sirve con el pisto, la patata y perejil.
+
+*Tupper:* Se hace y se come el mismo día.
+*Batch cooking:* Pescado: se hace el mismo día (unos 30 minutos; el pisto, mientras la lubina está en el horno).
+*Cambios respecto a la fuente:* Pisto sin calabacín (te sienta mal): con cebolla, pimientos y tomate, y el aceite medido; patata cocida para que sea un plato completo; una lubina de ración por persona. La receta es para 4: cantidades pasadas a 2.
+
+---
+
+### Pulpo a la gallega con cachelos
+*Fuente: Bruno Oteiza (Hogarmanía) · ≈ 434 kcal · 37 g proteína · 41 g HC · 11 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=2YvyEvZE28I>  
+📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/aperitivos/pulpo-gallega-patatas-16305.html>
+
+**Ingredientes:**
+- 400 g de patas de pulpo ya cocido (envasadas).
+- 500 g de patata, mejor gallega o para cocer.
+- 20 ml de AOVE.
+- Pimentón dulce y picante, y sal gruesa (o Maldon).
+
+**Instrucciones:**
+1. Lava las patatas, córtalas por la mitad y cuécelas con piel en agua con sal unos 20 minutos, hasta que se pinchen bien. Pélalas y córtalas en 4 (son los cachelos).
+2. El pulpo ya viene cocido: los últimos 2 minutos, mete las patas en el agua de las patatas para templarlas (o 1 minuto de microondas, tapadas). Si compras pulpo crudo, la receta lo «asusta» 3 veces en agua hirviendo y lo cuece 40 minutos.
+3. Corta el pulpo con unas tijeras en rodajas de 1–2 cm.
+4. Pon los cachelos en una tabla o en el plato, el pulpo encima, el aceite, el pimentón y la sal gruesa. Sírvelo templado.
+
+*Tupper:* Al momento: el pulpo, recién templado.
+*Batch cooking:* Se hace el mismo día, en 25 minutos (el pulpo ya viene cocido).
+*Cambios respecto a la fuente:* Con pulpo ya cocido (envasado) en vez de cocer uno entero: 25 minutos en total; el aceite, medido. La receta es para 4: cantidades pasadas a 2.
+
+---
+
+### Guiso de calamares con patatas y ajos frescos
+*Fuente: Karlos Arguiñano · ≈ 483 kcal · 37 g proteína · 44 g HC · 15 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=VoeInPzA3d0>  
+📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/pescados-mariscos/calamares-patatas-ajos-frescos-karlos.html>
+
+**Ingredientes (Guiso):**
+- 400 g de calamar limpio congelado (cuerpos y tentáculos).
+- 400 g de patata.
+- 100 g de cebolleta.
+- 100 g de pimiento verde.
+- 20 g de carne de pimiento choricero (de bote; o 1 pimiento choricero y 1 ñora hidratados).
+- 20 ml de AOVE.
+- 500 ml de agua, aproximadamente (lo justo para cubrir).
+- 1 diente de ajo, un trocito de guindilla o cayena, cebollino, perejil y sal.
+
+**Ingredientes (Para servir):**
+- 4 ajos frescos (30 g), en trozos de 2 cm.
+- 6 ml de AOVE.
+
+**Instrucciones:**
+1. Descongela el calamar en la nevera desde la noche antes y sécalo. Corta los cuerpos en aros, los tentáculos por la mitad y las aletas en tiras.
+2. En la olla exprés, con el aceite, rehoga a fuego medio el ajo laminado, la cebolleta y el pimiento verde en dados, con sal, 8–10 minutos.
+3. Añade el calamar, sala y cocínalo 2–3 minutos. Añade la carne del choricero y la guindilla.
+4. Pela la patata, trocéala cascándola (clava el cuchillo y rompe el trozo) y añádela. Cubre justo con agua, prueba de sal, cierra la olla y cuece 5 minutos desde que suba la válvula. Deja que baje la presión sola.
+5. Mientras, dora los ajos frescos en una sartén con el aceite 3–4 minutos y escúrrelos en papel de cocina.
+6. Sirve el guiso con los ajos frescos por encima, el cebollino picado y unas hojas de perejil.
+7. Sin olla exprés: en una cazuela tapada, 25–30 minutos a fuego suave, hasta que la patata y el calamar estén tiernos.
+
+*Tupper:* Se hace y se come el mismo día (en la olla exprés son 5 minutos).
+*Batch cooking:* Marisco: se hace el mismo día (unos 30 minutos en la olla exprés). El calamar, a la nevera la noche antes.
+*Cambios respecto a la fuente:* Sin vermut (alcohol 51 en tu test): un poco más de agua; carne de choricero de bote en vez de choriceros y ñoras en remojo (valen si los tienes); 2 ajos frescos por persona en vez de 3 (ajo 43) y el aceite medido; algo más de calamar y de patata para que sea un plato completo. La receta es para 4: cantidades pasadas a 2.
 
 ---
 
@@ -429,6 +643,90 @@
 *Tupper:* Montado no; por partes, la merluza 1 día (reaviva en airfryer).
 *Batch cooking:* Pescado: se hace el mismo día. El pico de gallo y la salsa pueden hacerse la víspera.
 *Cambios respecto a la fuente:* Rebozado al horno en vez de frito; yogur en vez de queso fresco; canónigos en vez de col.
+
+---
+
+### Salmón a la plancha con patatas al ajo y limón
+*Fuente: Karlos Arguiñano · ≈ 556 kcal · 35 g proteína · 31 g HC · 30 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=bA3E2HxbvZ0>  
+📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/pescados-mariscos/salmon-a-la-plancha-con-patatas-al-ajo-y-limon.html>
+
+**Ingredientes:**
+- 300 g de salmón (lomo o rodajas).
+- 400 g de patatas pequeñas (unas 6).
+- 22 ml de AOVE.
+- 1 limón, 1 diente de ajo con piel, tomillo, perejil, sal y pimienta.
+
+**Instrucciones:**
+1. Cuece las patatas con piel en agua con sal 15–20 minutos y escúrrelas.
+2. En una sartén grande, con casi todo el aceite, saltea el ajo con su piel 1–2 minutos. Añade las patatas en mitades, salpimienta y saltéalas a fuego fuerte 4–5 minutos.
+3. Añade el zumo de limón y deja que se evapore. Espolvorea el tomillo picado y saltea un momento.
+4. Calienta una plancha con el resto del aceite. Corta el salmón en trozos, salpimiéntalo y hazlo 1–2 minutos por lado.
+5. Sirve el salmón con las patatas y perejil picado.
+
+*Tupper:* Al momento.
+*Batch cooking:* Pescado: se hace al momento (unos 25 minutos). El salmón, a la nevera la noche antes si es congelado.
+*Cambios respecto a la fuente:* Medio diente de ajo por persona en vez de uno y medio (ajo 43 en tu test) y el aceite medido. Salmón: 45 en tu test, lo comes con moderación (decisión tuya del 15 de noviembre). La receta es para 4: cantidades pasadas a 2.
+
+---
+
+### Salmón en papillote con verduras y patata
+*Fuente: El Mundo En Recetas · ≈ 560 kcal · 35 g proteína · 35 g HC · 28 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=2KHoXNxdMTc>  
+📄 **Receta escrita:** <https://elmundoenrecetas.com/receta/salmon-en-papillote>
+
+**Ingredientes:**
+- 2 lomos de salmón (unos 300 g).
+- 300 g de patata en láminas finas.
+- 120 g de zanahoria en tiras finas (en vez del calabacín).
+- 120 g de pimiento rojo en tiras finas.
+- 120 g de cebolla en juliana.
+- 16 ml de AOVE.
+- 1 diente de ajo laminado, sal y pimienta.
+
+**Instrucciones:**
+1. Horno a 200 °C. Si quieres la patata más tierna, dale antes 3 minutos de microondas en un bol tapado.
+2. Para cada papillote, pon sobre papel de horno o de aluminio un poco del aceite, la patata, la zanahoria, el pimiento, la cebolla y el ajo, con sal y pimienta.
+3. Pon el salmón encima, salpimiéntalo, riega con el resto del aceite y cierra el papel en un paquete bien sellado.
+4. Hornea en una bandeja 12–15 minutos y ábrelo en la mesa.
+
+*Tupper:* Al momento.
+*Batch cooking:* Pescado: se hace al momento (unos 20 minutos). El salmón, a la nevera la noche antes si es congelado.
+*Cambios respecto a la fuente:* Zanahoria en tiras en vez de calabacín y medio diente de ajo; el salmón, pesado (150 g por persona; la receta no lo dice). Salmón: 45 en tu test, con moderación. La receta es para 1: cantidades pasadas a 2.
+
+---
+
+### Dorada a la sal con patatas y ensalada de tomate
+*Fuente: Joseba y Karlos Arguiñano · ≈ 560 kcal · 44 g proteína · 55 g HC · 16 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=HgsVRio4OC8>  
+📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/pescados-mariscos/dorada-a-la-sal.html>
+
+**Ingredientes (Dorada a la sal):**
+- 2 doradas de ración (unos 800 g), vaciada y sin agallas pero con escamas.
+- Unos 2 kg de sal gruesa (para las dos) y un poco de agua.
+
+**Ingredientes (Guarnición):**
+- 500 g de patata.
+- 20 ml de AOVE.
+- 200 g de tomate.
+- 40 g de canónigos.
+- 60 g de pan integral.
+- Pimentón dulce, perejil y sal.
+
+**Instrucciones:**
+1. Horno a 190 °C (para doradas de menos de medio kilo; las grandes, a 220 °C).
+2. Haz una cama de sal gruesa humedecida con un poco de agua en una bandeja y pon encima las doradas.
+3. Mezcla el resto de la sal con un poco de agua para que se compacte y cubre bien el pescado.
+4. Hornea unos 20 minutos (la receta calcula 25–30 minutos por kilo).
+5. Mientras, la patata en dados en un bol tapado con un poco de agua, 7–8 minutos de microondas, con la mitad del aceite, pimentón y sal. La ensalada: tomate y canónigos con el resto del aceite.
+6. Rompe la costra con una espátula, quita la sal que quede, abre la dorada de la cola a la cabeza, quita la piel y saca los lomos. Perejil por encima y a la mesa.
+
+*Tupper:* Se hace y se come el mismo día.
+*Batch cooking:* Pescado: se hace el mismo día (unos 30 minutos, casi todo de horno).
+*Cambios respecto a la fuente:* Doradas de ración (una por persona) en vez de una pieza de 2 kg, a 190 °C como recomienda la receta para piezas pequeñas; sin mayonesa ni alioli: patata cocida con AOVE y una ensalada de tomate para que sea un plato completo.
 
 ---
 

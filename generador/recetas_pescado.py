@@ -130,3 +130,140 @@ R["ARRGAMB"] = dict(tipo="comida", nombre="Arroz meloso con gambones", fuente="D
           "Cuece 17–18 minutos a fuego medio, removiendo de vez en cuando, hasta que el arroz esté casi hecho pero todavía con caldo. Si se seca antes, un poco de agua caliente.",
           "Los últimos 2 minutos, pon las colas encima para que se terminen de hacer con el calor. Sírvelo enseguida, meloso."])
 R["ARRGAMB"]["batch"] = "Marisco: se hace el mismo día (unos 50 minutos; el fumet, mientras pochas el sofrito). Los gambones, a la nevera la noche antes."
+
+ARG = "Karlos Arguiñano"
+R["GCAL"] = dict(tipo="comida", nombre="Guiso de calamares con patatas y ajos frescos", fuente=ARG, url=YT + "VoeInPzA3d0",
+   url2="https://www.hogarmania.com/cocina/recetas/pescados-mariscos/calamares-patatas-ajos-frescos-karlos.html",
+   nota="En el vídeo (un programa entero), los calamares empiezan en el minuto 1:26.",
+   tupper="Se hace y se come el mismo día (en la olla exprés son 5 minutos)",
+   grupos=[("Guiso", [("calamar", 200, "{200} g de calamar limpio congelado (cuerpos y tentáculos)"),
+       ("patata", 200, "{200} g de patata"), ("cebolla", 50, "{50} g de cebolleta"), ("pim_verde", 50, "{50} g de pimiento verde"),
+       ("choricero", 10, "{10} g de carne de pimiento choricero (de bote; o {1/2|pimiento choricero|pimientos choriceros} y {1/2|ñora|ñoras} hidratados)"),
+       ("aove", 10, "{10} ml de AOVE"), (None, 0, "{250} ml de agua, aproximadamente (lo justo para cubrir)"),
+       ("x:Guindilla", 0, "{1/2|diente|dientes} de ajo, un trocito de guindilla o cayena, cebollino, perejil y sal")]),
+     ("Para servir", [("ajetes", 15, "{2|ajo fresco|ajos frescos} ({15} g), en trozos de 2 cm"), ("aove", 3, "{3} ml de AOVE")])],
+   pasos=["Descongela el calamar en la nevera desde la noche antes y sécalo. Corta los cuerpos en aros, los tentáculos por la mitad y las aletas en tiras.",
+          "En la olla exprés, con el aceite, rehoga a fuego medio el ajo laminado, la cebolleta y el pimiento verde en dados, con sal, 8–10 minutos.",
+          "Añade el calamar, sala y cocínalo 2–3 minutos. Añade la carne del choricero y la guindilla.",
+          "Pela la patata, trocéala cascándola (clava el cuchillo y rompe el trozo) y añádela. Cubre justo con agua, prueba de sal, cierra la olla y cuece 5 minutos desde que suba la válvula. Deja que baje la presión sola.",
+          "Mientras, dora los ajos frescos en una sartén con el aceite 3–4 minutos y escúrrelos en papel de cocina.",
+          "Sirve el guiso con los ajos frescos por encima, el cebollino picado y unas hojas de perejil.",
+          "Sin olla exprés: en una cazuela tapada, 25–30 minutos a fuego suave, hasta que la patata y el calamar estén tiernos."])
+R["GCAL"]["batch"] = "Marisco: se hace el mismo día (unos 30 minutos en la olla exprés). El calamar, a la nevera la noche antes."
+
+R["PULPO"] = dict(tipo="comida", nombre="Pulpo a la gallega con cachelos", fuente="Bruno Oteiza (Hogarmanía)", url=YT + "2YvyEvZE28I",
+   url2="https://www.hogarmania.com/cocina/recetas/aperitivos/pulpo-gallega-patatas-16305.html",
+   tupper="Al momento: el pulpo, recién templado",
+   grupos=[("Ingredientes", [("pulpo", 200, "{200} g de patas de pulpo ya cocido (envasadas)"),
+       ("patata", 250, "{250} g de patata, mejor gallega o para cocer"), ("aove", 10, "{10} ml de AOVE"),
+       ("x:Pimentón dulce", 0, "Pimentón dulce y picante, y sal gruesa (o Maldon)")])],
+   pasos=["Lava las patatas, córtalas por la mitad y cuécelas con piel en agua con sal unos 20 minutos, hasta que se pinchen bien. Pélalas y córtalas en 4 (son los cachelos).",
+          "El pulpo ya viene cocido: los últimos 2 minutos, mete las patas en el agua de las patatas para templarlas (o 1 minuto de microondas, tapadas). Si compras pulpo crudo, la receta lo «asusta» 3 veces en agua hirviendo y lo cuece 40 minutos.",
+          "Corta el pulpo con unas tijeras en rodajas de 1–2 cm.",
+          "Pon los cachelos en una tabla o en el plato, el pulpo encima, el aceite, el pimentón y la sal gruesa. Sírvelo templado."])
+R["PULPO"]["batch"] = "Se hace el mismo día, en 25 minutos (el pulpo ya viene cocido)."
+
+R["SEPIA"] = dict(tipo="comida", nombre="Guiso de sepia con patatas y guisantes", fuente=ARG, url=YT + "IasO0oBQUFU",
+   url2="https://www.hogarmania.com/cocina/recetas/guiso-de-sepia-con-patatas-y-guisantes.html",
+   tupper="Se hace y se come el mismo día",
+   grupos=[("Ingredientes", [("sepia", 200, "{200} g de sepia limpia congelada ({2|sepia pequeña|sepias pequeñas})"),
+       ("patata", 180, "{180} g de patata"), ("guisantes", 60, "{60} g de guisantes congelados"),
+       ("cebolla", 50, "{50} g de cebolla"), ("tomate_trit", 40, "{40} g de tomate triturado natural (en vez de salsa de tomate)"),
+       ("aove", 10, "{10} ml de AOVE"),
+       ("x:Pimentón dulce", 0, "{1/2|diente|dientes} de ajo, {1/4|cucharada|cucharadas} de pimentón, un trocito de guindilla, sal, pimienta y perejil"),
+       (None, 0, "Agua: la justa para cubrir las patatas")])],
+   pasos=["Descongela la sepia en la nevera desde la noche antes. Si quieres que quede más tierna, déjala 1 hora en leche antes de cocinarla y sécala bien.",
+          "En una cazuela, con tres cuartas partes del aceite, rehoga el ajo y la cebolla picados a fuego suave-medio 6–8 minutos. Añade la guindilla, el pimentón y el tomate.",
+          "Pela las patatas, trocéalas cascándolas y añádelas. Cubre con agua y sala.",
+          "En una sartén muy caliente, con el resto del aceite, dora la sepia salpimentada a fuego fuerte 2–3 minutos.",
+          "Pasa la sepia a la cazuela, tapa y cuece 30 minutos a fuego medio.",
+          "Añade los guisantes y 10 minutos más. Rectifica de sal y sirve con perejil."])
+R["SEPIA"]["batch"] = "Pescado: se hace el mismo día (unos 50 minutos). La sepia, a la nevera la noche antes."
+
+R["DORADA"] = dict(tipo="comida", nombre="Dorada al horno con patatas y cebolla", fuente="Recetas de Cocina Casera", url=YT + "3CR4AcwFKww",
+   url2="https://cocina-casera.com/dorada-al-horno-con-patatas/",
+   tupper="Se hace y se come el mismo día",
+   grupos=[("Ingredientes", [("dorada", 400, "{1|dorada de ración|doradas de ración} (unos {400} g), limpia y abierta"),
+       ("patata", 250, "{250} g de patata"), ("cebolla", 60, "{60} g de cebolla"), ("aove", 10, "{10} ml de AOVE"),
+       (None, 0, "{50} ml de agua o caldo de pescado (en vez del vino blanco)"),
+       ("x:Limones", 0, "{1/2|limón|limones}, {1/2|diente|dientes} de ajo, perejil, sal y pimienta")])],
+   pasos=["Horno a 200 °C. Pela la patata y córtala en láminas finas; la cebolla, en juliana.",
+          "Unta una fuente con un poco del aceite, haz una cama con la patata y la cebolla, sala y riégalas con otro poco de aceite y el agua.",
+          "Tapa con papel de aluminio y hornea 25 minutos, hasta que la patata esté casi hecha.",
+          "Mientras, maja el ajo con sal, pimienta, el perejil, el zumo de medio limón (de cada limón) y el resto del aceite.",
+          "Rellena la dorada con el aliño, hazle unos cortes por fuera y mete en cada uno media rodaja de limón.",
+          "Destapa la fuente, pon la dorada sobre las patatas y hornea 20–25 minutos más. Sirve enseguida."])
+R["DORADA"]["batch"] = "Pescado: se hace el mismo día (unos 55 minutos, casi todo de horno)."
+
+R["RAPE"] = dict(tipo="comida", nombre="Marmitako de rape (guiso de rape y patata)", fuente=ARG, url=YT + "7Xcrf8nUM1Q",
+   url2="https://www.hogarmania.com/cocina/recetas/pescados-mariscos/marmitako-37242.html",
+   tupper="Se hace y se come el mismo día",
+   grupos=[("Ingredientes", [("rape", 180, "{180} g de rape limpio congelado (cola o medallones)"),
+       ("patata", 200, "{200} g de patata"), ("puerro", 30, "{30} g de puerro"), ("cebolla", 40, "{40} g de cebolleta"),
+       ("pim_verde", 30, "{30} g de pimiento verde"), ("pimiento", 20, "{20} g de pimiento rojo"), ("tomate", 40, "{40} g de tomate"),
+       ("choricero", 8, "{8} g de carne de pimiento choricero (de bote, o {1/4|pimiento choricero|pimientos choriceros} en remojo)"),
+       ("aove", 10, "{10} ml de AOVE"), ("caldo_pesc", 375, "{375} ml de caldo de pescado bajo en sal"),
+       ("x:Perejil", 0, "{1/2|diente|dientes} de ajo, perejil y sal")])],
+   pasos=["Descongela el rape en la nevera desde la noche antes. Calienta el caldo con el puerro troceado y una ramita de perejil 15–20 minutos y cuélalo. (En la receta, el caldo se hace con la cabeza y la espina del rape; con el rape ya limpio, mejor de brik.)",
+          "En una cazuela, con el aceite, rehoga el ajo, la cebolleta y los pimientos en daditos (el rojo, pelado) con sal, 15 minutos a fuego medio. Añade el tomate rallado, 5 minutos, y la carne del choricero.",
+          "Pela las patatas, trocéalas cascándolas, añádelas y cúbrelas con el caldo. Pon a punto de sal y cuece 30–35 minutos.",
+          "Corta el rape en trozos de bocado, sálalo y añádelo: un par de minutos y apaga el fuego. Termina con perejil picado."])
+R["RAPE"]["batch"] = "Pescado: se hace el mismo día (unos 55 minutos). El rape, a la nevera la noche antes."
+
+R["LUBSAL"] = dict(tipo="comida", nombre="Lubina a la sal con pisto y patata", fuente=ARG, url=YT + "wqehNKLIEKE",
+   url2="https://www.hogarmania.com/cocina/recetas/pescados-mariscos/lubina-pisto-29471.html",
+   tupper="Se hace y se come el mismo día",
+   grupos=[("Lubina a la sal", [("lubina", 350, "{1|lubina de ración|lubinas de ración} (unos {350} g), vaciada pero con escamas"),
+       ("x:Sal gruesa", 0, "Unos 2 kg de sal gruesa (para las dos) y un poco de agua"),
+       ("x:Romero", 0, "Romero, tomillo y eneldo picados y unas pimientas variadas machacadas, para la sal")]),
+     ("Pisto (sin calabacín)", [("pim_verde", 60, "{60} g de pimiento verde"), ("pimiento", 60, "{60} g de pimiento rojo"),
+       ("cebolla", 50, "{50} g de cebolla (en vez del calabacín)"), ("tomate", 100, "{100} g de tomate"),
+       ("aove", 10, "{10} ml de AOVE (y unas gotas para la lubina)"), ("x:Perejil", 0, "Sal y perejil")]),
+     ("Guarnición", [("patata", 200, "{200} g de patata")])],
+   pasos=["Horno a 200 °C. Mezcla la sal gruesa con las hierbas picadas y las pimientas machacadas y humedécela un poco con agua.",
+          "Haz una cama de sal en una bandeja, pon las lubinas sin escamar y cúbrelas por completo con el resto de la sal, apretando.",
+          "Hornea unos 20 minutos (en la receta, 20 minutos por kilo de pescado; para lubinas de ración, 18–20).",
+          "Pisto: pocha a fuego medio el pimiento verde en dados con el aceite 5 minutos; añade el pimiento rojo pelado y la cebolla, también en dados, 10 minutos; sala y añade el tomate pelado en dados, 10 minutos más, hasta que esté hecho.",
+          "Patata: en dados, en un bol tapado con un poco de agua, 6–7 minutos de microondas.",
+          "Rompe la costra de sal, quita la piel y saca los lomos. Unas gotas de aceite por encima y sirve con el pisto, la patata y perejil."])
+R["LUBSAL"]["batch"] = "Pescado: se hace el mismo día (unos 30 minutos; el pisto, mientras la lubina está en el horno)."
+
+R["DORSAL"] = dict(tipo="cena", nombre="Dorada a la sal con patatas y ensalada de tomate", fuente="Joseba y Karlos Arguiñano", url=YT + "HgsVRio4OC8",
+   url2="https://www.hogarmania.com/cocina/recetas/pescados-mariscos/dorada-a-la-sal.html",
+   tupper="Se hace y se come el mismo día",
+   grupos=[("Dorada a la sal", [("dorada_sal", 400, "{1|dorada de ración|doradas de ración} (unos {400} g), vaciada y sin agallas pero con escamas"),
+       ("x:Sal gruesa", 0, "Unos 2 kg de sal gruesa (para las dos) y un poco de agua")]),
+     ("Guarnición", [("patata", 250, "{250} g de patata"), ("aove", 10, "{10} ml de AOVE"),
+       ("tomate", 100, "{100} g de tomate"), ("hojas", 20, "{20} g de canónigos"), ("pan_int", 30, "{30} g de pan integral"), ("x:Perejil", 0, "Pimentón dulce, perejil y sal")])],
+   pasos=["Horno a 190 °C (para doradas de menos de medio kilo; las grandes, a 220 °C).",
+          "Haz una cama de sal gruesa humedecida con un poco de agua en una bandeja y pon encima las doradas.",
+          "Mezcla el resto de la sal con un poco de agua para que se compacte y cubre bien el pescado.",
+          "Hornea unos 20 minutos (la receta calcula 25–30 minutos por kilo).",
+          "Mientras, la patata en dados en un bol tapado con un poco de agua, 7–8 minutos de microondas, con la mitad del aceite, pimentón y sal. La ensalada: tomate y canónigos con el resto del aceite.",
+          "Rompe la costra con una espátula, quita la sal que quede, abre la dorada de la cola a la cabeza, quita la piel y saca los lomos. Perejil por encima y a la mesa."])
+R["DORSAL"]["batch"] = "Pescado: se hace el mismo día (unos 30 minutos, casi todo de horno)."
+
+R["SALM1"] = dict(tipo="cena", nombre="Salmón a la plancha con patatas al ajo y limón", fuente=ARG, url=YT + "bA3E2HxbvZ0",
+   url2="https://www.hogarmania.com/cocina/recetas/pescados-mariscos/salmon-a-la-plancha-con-patatas-al-ajo-y-limon.html",
+   tupper="Al momento",
+   grupos=[("Ingredientes", [("salmon", 150, "{150} g de salmón (lomo o rodajas)"), ("patata", 200, "{200} g de patatas pequeñas (unas {3})"),
+       ("aove", 11, "{11} ml de AOVE"), ("x:Limones", 0, "{1/2|limón|limones}, {1/2|diente|dientes} de ajo con piel, tomillo, perejil, sal y pimienta")])],
+   pasos=["Cuece las patatas con piel en agua con sal 15–20 minutos y escúrrelas.",
+          "En una sartén grande, con casi todo el aceite, saltea el ajo con su piel 1–2 minutos. Añade las patatas en mitades, salpimienta y saltéalas a fuego fuerte 4–5 minutos.",
+          "Añade el zumo de limón y deja que se evapore. Espolvorea el tomillo picado y saltea un momento.",
+          "Calienta una plancha con el resto del aceite. Corta el salmón en trozos, salpimiéntalo y hazlo 1–2 minutos por lado.",
+          "Sirve el salmón con las patatas y perejil picado."])
+R["SALM1"]["batch"] = "Pescado: se hace al momento (unos 25 minutos). El salmón, a la nevera la noche antes si es congelado."
+
+R["SALM2"] = dict(tipo="cena", nombre="Salmón en papillote con verduras y patata", fuente="El Mundo En Recetas", url=YT + "2KHoXNxdMTc",
+   url2="https://elmundoenrecetas.com/receta/salmon-en-papillote",
+   tupper="Al momento",
+   grupos=[("Ingredientes", [("salmon", 150, "{1|lomo de salmón|lomos de salmón} (unos {150} g)"), ("patata", 150, "{150} g de patata en láminas finas"),
+       ("zanahoria", 60, "{60} g de zanahoria en tiras finas (en vez del calabacín)"), ("pimiento", 60, "{60} g de pimiento rojo en tiras finas"),
+       ("cebolla", 60, "{60} g de cebolla en juliana"), ("aove", 8, "{8} ml de AOVE"),
+       ("x:Ajo", 0, "{1/2|diente|dientes} de ajo laminado, sal y pimienta")])],
+   pasos=["Horno a 200 °C. Si quieres la patata más tierna, dale antes 3 minutos de microondas en un bol tapado.",
+          "Para cada papillote, pon sobre papel de horno o de aluminio un poco del aceite, la patata, la zanahoria, el pimiento, la cebolla y el ajo, con sal y pimienta.",
+          "Pon el salmón encima, salpimiéntalo, riega con el resto del aceite y cierra el papel en un paquete bien sellado.",
+          "Hornea en una bandeja 12–15 minutos y ábrelo en la mesa."])
+R["SALM2"]["batch"] = "Pescado: se hace al momento (unos 20 minutos). El salmón, a la nevera la noche antes si es congelado."

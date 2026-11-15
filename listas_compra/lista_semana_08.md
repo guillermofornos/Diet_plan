@@ -1,52 +1,84 @@
-# Lista de la Compra - Semana 8
+# Lista de la Compra - Semana 8 (30 nov – 6 dic)
 
-*Nota: Todas las cantidades están **multiplicadas por 2** para ti y tu novia.*
+*Nota: cantidades para los dos (x2), calculadas sumando las recetas del menú de esta semana. La merienda también va para los dos: si un día merienda solo uno, sobra la mitad de natillas, plátanos y kiwis.*
 
-## Frutería / Verdulería
-- 8 Kiwis grandes
-- 6-8 Plátanos
-- 300g de arándanos frescos
-- 2 Granadas
-- 4-6 Aguacates
-- 1,3 kg de Pimientos (rojos y verdes; incluye 500 g de rojo en vez del calabacín)
-- 400g de Cebollas
-- 760g de Judías verdes (frescas o congeladas, en vez del calabacín)
-- 400g de Zanahorias
-- 500g de Tomate natural para ensaladas
-- Limones y Ajos
+*Truco: compra el pescado congelado. Casi todo el pollo se cocina o se marina en el batch del domingo; el del fin de semana va crudo al congelador y se pasa a la nevera la noche antes (ver «Recordatorios de la semana» en el menú).*
 
-## Ensaladas / Verdura Envasada
-- 3 Bolsas de canónigos y rúcula combinadas
+> **Ojo:** Las 2 doradas de la cena del jueves 3 se hacen a la sal: enteras y sin escamar. Mejor frescas, compradas el miércoles o el jueves; si no, congeladas enteras, y a la nevera la noche antes.
 
-## Proteínas (Carnes, Pescados, Huevos, Vegetal)
-- 2 docenas de Huevos
-- 2 botes pequeños (o 1 grande) de Claras de Huevo pasteurizadas
-- 400g de Pechuga de Pollo
-- 300g de Filetes de Merluza
-- 200g de Lomo de Bacalao
-- 540g de Tofu firme (2 paquetes Mercadona)
+## Fruta y verdura
+- 14 Plátanos (desayunos y meriendas)
+- 14 Kiwis (desayunos y meriendas)
+- 1 trozo Piña natural (unos 60 g)
+- 2 Aguacates (unos 260 g de pulpa)
+- 700 g Pimientos rojos o de colores
+- 450 g Pimientos verdes italianos
+- 740 g Cebollas (incluye cebolleta y morada)
+- 420 g Zanahorias
+- 1,74 kg Tomates (incluye cherrys)
+- 1,76 kg Patatas
+- 40 g Puerros
+- 200 g Acelgas
+- 2 bolsas Rúcula o canónigos (unos 200 g)
+- 1 paquete Remolacha cocida (se usan 100 g)
+- Cilantro
+- Limas
+- Limones
+- Perejil
 
-## Lácteos y Similares
-- 2 Bolas de Mozzarella fresca (aprox. 250g total)
-- 1 Tarrina de Queso Cottage (Mercadona)
-- 1.8 kg de Yogur natural sin azúcar
+## Carne, huevos y tofu
+- 2 docenas Huevos (se usan 22)
+- 940 ml Claras de huevo pasteurizadas
+- 300 g Pechuga de pollo
+- 1,22 kg Solomillos de pollo
+- 200 g Taquitos de jamón serrano
+- 320 g Ternera para guisar en tacos (morcillo, aguja o llana, sin grasa visible)
 
-## Despensa (Cereales, Legumbres, Otros)
-- Pan integral (revisar existencias)
-- Copos de Avena (revisar existencias)
-- Arroz integral (revisar existencias)
-- Cuscús perlado (revisar existencias)
-- 1 Bote grande de Garbanzos cocidos
-- Pipas de calabaza (revisar existencias)
-- Cacao puro en polvo (revisar existencias)
-- 1 Bote de Pimientos asados
-- 1 Paquete de Copos de maíz sin azúcar (para rebozar la merluza; se usan 80g)
+## Pescado
+- 340 g Merluza congelada (lomos o filetes)
+- 500 g Gambones crudos congelados, enteros (unos 12)
+- 2 Doradas de ración, enteras y sin escamar (de unos 400 g cada una; que te las vacíen, pero con escamas)
 
-## Opcional: Cena fast food en casa — Kebab de pollo con patatas y salsa blanca (x2)
-*Solo si una noche del finde cenáis en casa en vez de fuera (receta 6 de `recetas/fast_food_saludable.md`).*
-- 360g de Solomillos de pollo
+## Lácteos
+- 8 Yogures naturales sin azúcar (de 125 g)
+- 14 Natillas +Proteínas (4 packs de 4)
+- 1 bola Mozzarella fresca light (se usan 60 g)
+
+## Pan y tortillas
+- 820 g Pan integral (100% integral)
 - 2 Panes de pita (mejor integrales)
-- 300g de Patatas
-- 2 Yogures naturales sin azúcar extra (marinado + salsa blanca)
-- Tomate, canónigos/rúcula y granada: de la lista
-- Despensa: comino, curry, orégano, cebolla en polvo, chipotle o cayena, ajo en polvo
+- 6 Tortillas de maíz (paquete de 8)
+
+## Despensa
+- 360 g Lenteja pardina
+- 400 g Garbanzos cocidos (escurridos, unos 2 botes)
+- 280 g Arroz redondo
+- 180 g Copos de avena
+- 100 g Copos de maíz sin azúcar (para los rebozados)
+- 210 g Pipas de calabaza sin sal
+- 120 g Tomate triturado natural
+- 1 Tomate concentrado (tubo o lata pequeña; si no te queda)
+- 1 Salsa de soja baja en sodio (si no te queda)
+- 1 Mostaza (si no te queda)
+- 1 brik de 1 L Caldo de pollo bajo en sal (se usan 700 ml)
+- 2 briks de 1 L Caldo de verduras bajo en sal (se usan 1,85 L)
+- 200 ml Aceite de oliva virgen extra (se usan esta semana)
+- Sal gruesa (unos 2 kg para la costra; si no os queda)
+- Salsa picante (opcional)
+
+## Congelados
+- 100 g Guisantes finos congelados
+- 200 g Judías verdes troceadas congeladas
+
+## Especias y condimentos
+- Ajo, Azafrán, Chipotle o pimentón picante, Comino, Curry en polvo, Laurel, Pimentón dulce (revisa lo que tienes)
+- Sal, pimienta, ajo en polvo y cebolla en polvo (básicos)
+
+## Opcional: Big Mac en casa el sábado (x2)
+*Solo si el sábado cenáis en casa en vez de fuera (receta en `recetas/fast_food_saludable.md`).*
+- 300 g Patatas
+- 300 g Carne picada de ternera magra (carnicería: tapilla o babilla; cómprala el día que la cocines)
+- 2 Panes de hamburguesa 100% integrales
+- 1 Ketchup sin azúcar (si no te queda)
+- 1 bote Guindillas en vinagre
+- Yogur, mozzarella, cebolla, canónigos y mostaza (de la lista: añade 1 yogur y 40 g de mozzarella)

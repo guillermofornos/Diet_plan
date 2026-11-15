@@ -5,7 +5,11 @@ from plan import R, SEMANAS, DIAS, TIPO, FUERA, CAMBIOS, PREP, BATCH, NORMAS, NO
 from shop import lista, opcional_bigmac
 from lib import macros_receta
 
-MESES = {"10": "oct", "11": "nov"}
+MESES = {"10": "oct", "11": "nov", "12": "dic"}
+MES_LARGO = {"10": "octubre", "11": "noviembre", "12": "diciembre"}
+# La página lleva la semana en curso y el mes nuevo: así el enlace de Indi sirve siempre (se publica en la misma URL).
+PAGINA = [5, 6, 7, 8, 9, 10]
+SEMANAS = [s for s in SEMANAS if s["num"] in PAGINA]
 usadas = set()
 for s in SEMANAS:
     for fila in s["filas"]: usadas |= {c for c in fila if c != FUERA}
@@ -37,7 +41,12 @@ for s in SEMANAS:
 data = dict(recetas=recetas, semanas=semanas, normas=NORMAS)
 AQUI = Path(__file__).resolve().parent
 plantilla = (AQUI / "plantilla.html").read_text()
-html = plantilla.replace("/*__DATA__*/null", json.dumps(data, ensure_ascii=False))
+def largo(f): _, m, d = f.split("-"); return f"{int(d)} de {MES_LARGO[m]}"
+ini, fin = SEMANAS[0]["fechas"][0], SEMANAS[-1]["fechas"][-1]
+html = (plantilla.replace("/*__DATA__*/null", json.dumps(data, ensure_ascii=False))
+        .replace("__EYEBROW__", f"Semanas {SEMANAS[0]['num']} a {SEMANAS[-1]['num']} · Plan 91 → 81 kg")
+        .replace("__TITULO__", f"Del {largo(ini)} al {largo(fin)}")
+        .replace("__INICIO__", str(int(ini.split("-")[2]))))
 SALIDA = AQUI / "salida"; SALIDA.mkdir(exist_ok=True)
-(SALIDA / "menu_noviembre.html").write_text(html)
+(SALIDA / "menu_mes.html").write_text(html)
 print("OK", len(recetas), "recetas,", sum(len(s["dias"]) for s in semanas), "días,", len(html.encode()) // 1024, "KB")

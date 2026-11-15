@@ -28,6 +28,7 @@ M = {
  "zanahoria": ("Fruta y verdura", "Zanahorias", lambda v: (g(v), "")),
  "tomate": ("Fruta y verdura", "Tomates", lambda v: (g(v), "incluye cherrys")),
  "patata": ("Fruta y verdura", "Patatas", lambda v: (g(v), "")),
+ "ajetes": ("Fruta y verdura", "Ajos frescos (ajetes)", lambda v: (g(v), "un manojo pequeño")),
  "calabaza": ("Fruta y verdura", "Calabaza", lambda v: (g(v), "pelada")),
  "puerro": ("Fruta y verdura", "Puerros", lambda v: (g(v), "")),
  "acelgas": ("Fruta y verdura", "Acelgas", lambda v: (g(v), "")),
@@ -51,6 +52,13 @@ M = {
  "merluza": ("Pescado", "Merluza congelada (lomos o filetes)", lambda v: (g(v), "")),
  "gambones": ("Pescado", "Gambones crudos congelados, enteros", lambda v: (g(v), f"unos {round(v / 42)}")),
  "calamar": ("Pescado", "Calamar limpio congelado (tubos o tiras)", lambda v: (g(v), "")),
+ "pulpo": ("Pescado", "Patas de pulpo ya cocido (envasadas, en la nevera del súper)", lambda v: (g(v), "")),
+ "sepia": ("Pescado", "Sepia limpia congelada (o sepias pequeñas)", lambda v: (g(v), "")),
+ "dorada": ("Pescado", "Doradas de ración, limpias y sin escamas", lambda v: (f"{ud(v, 400)}", "de unos 400 g cada una; pídelas abiertas para rellenar")),
+ "rape": ("Pescado", "Rape limpio congelado (cola o medallones, sin espina)", lambda v: (g(v), "")),
+ "salmon": ("Pescado", "Lomos de salmón (frescos o congelados)", lambda v: (g(v), "")),
+ "lubina": ("Pescado", "Lubinas de ración, enteras y sin escamar", lambda v: (f"{ud(v, 350)}", "de unos 350–400 g cada una; que te las vacíen, pero con escamas")),
+ "dorada_sal": ("Pescado", "Doradas de ración, enteras y sin escamar", lambda v: (f"{ud(v, 400)}", "de unos 400 g cada una; que te las vacíen, pero con escamas")),
  "bacalao": ("Pescado", "Lomos de bacalao congelados", lambda v: (g(v), "mira si son desalados")),
  "atun_fresco": ("Pescado", "Tacos de atún congelados", lambda v: (g(v), "")),
  "atun": ("Pescado", "Latas de atún al natural", lambda v: (f"{ud(v,60)}", f"{g(v)} escurrido")),
@@ -84,6 +92,7 @@ M = {
  "alcaparras": ("Despensa", "Alcaparras", lambda v: ("1 bote", f"se usan {g(v)}")),
  "aceitunas": ("Despensa", "Aceitunas negras", lambda v: ("1 lata", f"se usan {g(v)}")),
  "guisantes": ("Congelados", "Guisantes finos congelados", lambda v: (g(v), "")),
+ "caldo_pesc": ("Despensa", "Caldo de pescado bajo en sal", lambda v: (f"{ud(v,1000)} brik{'s' if ud(v,1000) > 1 else ''} de 1 L", f"se usan {ml(v)}")),
  "judias_verdes": ("Congelados", "Judías verdes troceadas congeladas", lambda v: (g(v), "")),
  "soja": ("Despensa", "Salsa de soja baja en sodio", lambda v: ("1", "si no te queda")),
  "mostaza": ("Despensa", "Mostaza", lambda v: ("1", "si no te queda")),
@@ -95,7 +104,7 @@ M = {
  "aove": ("Despensa", "Aceite de oliva virgen extra", lambda v: (ml(v), "se usan esta semana")),
 }
 FRESCOS = {"Limones": "Limones", "Lima": "Limas", "Perejil": "Perejil", "Cilantro": "Cilantro", "Hierbabuena": "Hierbabuena"}
-DESPENSA_X = {"Salsa picante": "Salsa picante (opcional)", "Caldo de pescado": None}
+DESPENSA_X = {"Salsa picante": "Salsa picante (opcional)", "Caldo de pescado": None, "Sal gruesa": "Sal gruesa (unos 2 kg para la costra; si no os queda)"}
 NORMAL = {"Curry": "Curry en polvo", "Sal": None}
 
 def lista(semana, claves=None):

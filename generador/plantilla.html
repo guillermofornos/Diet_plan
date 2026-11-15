@@ -1,4 +1,4 @@
-<title>Menú de Noviembre</title>
+<title>Menú del mes</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Barlow+Condensed:wght@500;600;700&display=swap">
@@ -178,9 +178,9 @@ main{padding-block:16px 40px}
 </style>
 
 <div class="wrap intro">
-  <p class="eyebrow">Semanas 3 a 6 · Plan 91 → 81 kg</p>
-  <h1>Del 26 de octubre al 22 de noviembre</h1>
-  <p class="status" id="status">Empiezas el lunes 26.</p>
+  <p class="eyebrow">__EYEBROW__</p>
+  <h1>__TITULO__</h1>
+  <p class="status" id="status">Empiezas el lunes __INICIO__.</p>
   <div class="weeks" id="weeks" role="group" aria-label="Semana"></div>
 </div>
 
@@ -508,9 +508,9 @@ main{padding-block:16px 40px}
     var first = W[0].inicio, last = W[W.length - 1].fin, s = "";
     var start = new Date(first + "T00:00:00"), diff = Math.round((start - t0) / 864e5);
     if (today < first) {
-      s = diff === 2 ? "Empiezas el lunes 26. Haz hoy la compra: mañana domingo toca el batch cooking."
-        : diff === 1 ? "Empiezas mañana, lunes 26. Hoy toca el batch cooking: lo tienes paso a paso en la pestaña Batch."
-        : "Empiezas el lunes 26.";
+      s = diff === 2 ? "Empiezas el lunes " + W[0].dias[0].n + ". Haz hoy la compra: mañana domingo toca el batch cooking."
+        : diff === 1 ? "Empiezas mañana, lunes " + W[0].dias[0].n + ". Hoy toca el batch cooking: lo tienes paso a paso en la pestaña Batch."
+        : "Empiezas el lunes " + W[0].dias[0].n + ".";
     } else if (today <= last) {
       var d = null;
       W.forEach(function (w) { w.dias.forEach(function (x) { if (x.fecha === today) d = x; }); });

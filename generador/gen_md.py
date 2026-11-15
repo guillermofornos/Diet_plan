@@ -5,10 +5,10 @@ from shop import lista, opcional_bigmac
 from lib import texto, macros_receta
 
 REPO = Path(__file__).resolve().parent.parent   # el repositorio Diet_plan
-MESES = {"10": "oct", "11": "nov"}
-COMIDAS = ["LENT1", "LENT2", "PILPIL", "VIZCA_A", "FISHCHIPS", "ARRGAMB", "TOFU", "GUIS_T", "BBQ", "CURRY", "BURR"]
-CENAS = ["MERTAC", "TOR", "PZA", "FCE", "TOM", "FPZ", "BEX"]   # sin atún: fuera los tacos de atún y la ensaladilla
-ROBOT = ["LENTJ", "POTG", "JARD", "ARRPOL", "ALBON", "TERESC", "RISOT", "CREMCAL", "CREMZAN"]
+MESES = {"10": "oct", "11": "nov", "12": "dic"}
+COMIDAS = ["LENT1", "LENT2", "PILPIL", "VIZCA_A", "RIOJ", "RAPE", "SEPIA", "FISHCHIPS", "DORADA", "LUBSAL", "PULPO", "GCAL", "ARRGAMB", "TOFU", "GUIS_T", "BBQ", "CURRY", "BURR"]
+CENAS = ["MERTAC", "SALM1", "SALM2", "DORSAL", "TOR", "PZA", "FCE", "TOM", "FPZ", "BEX"]   # sin atún: fuera los tacos de atún y la ensaladilla
+ROBOT = ["LENTJ", "POTG", "JARD", "ARRPOL", "ALBON", "TERESC", "RISOT", "CREMCAL", "CREMZAN", "SOPA"]
 VARIANTES = {"TOFU": "TOFU_D"}
 FICHERO = {**{k: "recetas_videos_internet.md" for k in COMIDAS + CENAS + ["TOFU_D"]},
            **{k: "fast_food_saludable.md" for k in ["TAC", "CRI", "FAJ", "KEB", "FIN", "FF2"]},
@@ -133,4 +133,4 @@ if __name__ == "__main__":
     for s in SEMANAS:
         (REPO / "menus" / f"semana_{s['num']:02d}.md").write_text(menu_md(s))
         (REPO / "listas_compra" / f"lista_semana_{s['num']:02d}.md").write_text(lista_md(s))
-    print("Escritos: batch_cooking.md, recetas_videos_internet.md, recetas_robot_cecotec.md, semana_03..06.md, lista_semana_03..06.md")
+    print(f"Escritos: batch_cooking.md, recetas_videos_internet.md, recetas_robot_cecotec.md y el menú y la lista de las semanas {SEMANAS[0]['num']} a {SEMANAS[-1]['num']}")

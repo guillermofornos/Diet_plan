@@ -24,6 +24,18 @@ SEMANAS = [
  dict(num=6, titulo="16 – 22 nov", fechas=["2026-11-16","2026-11-17","2026-11-18","2026-11-19","2026-11-20","2026-11-21","2026-11-22"],
    filas=[("D3","LENT2","ME_E","KEB"), ("D4L","LENT2","ME_E","TAC"), ("D2","JARD","ME_D","FAJ"), ("D1","ARRPOL","ME_E","PZA"),
           ("D3","TOFU","ME_E",FUERA), ("D4S","FISHCHIPS","ME_D",FUERA), ("D4L","BURR","ME_D","CREMZAN")]),
+ dict(num=7, titulo="23 – 29 nov", fechas=["2026-11-23","2026-11-24","2026-11-25","2026-11-26","2026-11-27","2026-11-28","2026-11-29"],
+   filas=[("D4L","LENT1","ME_E","FCE"), ("D3","LENT1","ME_E","SALM1"), ("D2","CURRY","ME_D","CREMCAL"), ("D3","ALBON","ME_E","CRI"),
+          ("D4","GUIS_T","ME_E",FUERA), ("D4S","BBQ","ME_D",FUERA), ("D2","PULPO","ME_D","SOPA")]),
+ dict(num=8, titulo="30 nov – 6 dic", fechas=["2026-11-30","2026-12-01","2026-12-02","2026-12-03","2026-12-04","2026-12-05","2026-12-06"],
+   filas=[("D1","LENTJ","ME_E","FAJ"), ("D3","LENTJ","ME_E","KEB"), ("D2","JARD","ME_D","TOM"), ("D1","POTG","ME_E","DORSAL"),
+          ("D4","ARRPOL","ME_E",FUERA), ("D4S","MERTAC","ME_D",FUERA), ("D2","ARRGAMB","ME_D","FIN")]),
+ dict(num=9, titulo="7 – 13 dic", fechas=["2026-12-07","2026-12-08","2026-12-09","2026-12-10","2026-12-11","2026-12-12","2026-12-13"],
+   filas=[("D4L","LENT2","ME_E","TAC"), ("D3","LENT2","ME_E","RISOT"), ("D4S","CURRY","ME_D","TERESC"), ("D4","TOFU","ME_E","SALM2"),
+          ("D4","GUIS_T","ME_E",FUERA), ("D4S","SEPIA","ME_D",FUERA), ("D2","LUBSAL","ME_D","CREMCAL")]),
+ dict(num=10, titulo="14 – 20 dic", fechas=["2026-12-14","2026-12-15","2026-12-16","2026-12-17","2026-12-18","2026-12-19","2026-12-20"],
+   filas=[("D4","LENT1","ME_E","PZA"), ("D1","LENT1","ME_E","TOR"), ("D2","JARD","ME_D","DORADA"), ("D1","ALBON","ME_E","FAJ"),
+          ("D4","ARRPOL","ME_E",FUERA), ("D4S","GCAL","ME_D",FUERA), ("D2","RAPE","ME_D","FCE")]),
 ]
 def total_dia(fila):
     k = p = 0
@@ -32,7 +44,8 @@ def total_dia(fila):
             kc, pr, _, _ = macros_receta(R[clave]); k += kc; p += pr
     return k, p
 PESCADOS = {"merluza": "merluza", "bacalao": "bacalao", "gambas": "gambas", "gambones": "gambas", "calamar": "calamar",
-            "sepia": "sepia", "pulpo": "pulpo", "atun": "atún", "atun_fresco": "atún"}
+            "sepia": "sepia", "pulpo": "pulpo", "dorada": "dorada", "rape": "rape", "salmon": "salmón", "lubina": "lubina", "dorada_sal": "dorada", "atun": "atún", "atun_fresco": "atún"}
+PLATOS = ("comida", "cena")
 def pescados_semana(s):
     out = set()
     for fila in s["filas"]:
@@ -41,17 +54,32 @@ def pescados_semana(s):
                 out |= {PESCADOS[c] for _, ings in R[clave]["grupos"] for c, _q, _t in ings if c in PESCADOS}
     return out
 def comprobar_pescados():
-    """Errores de la norma: merluza y bacalao nunca en la misma semana; ningún pescado ni marisco dos semanas seguidas."""
+    """Errores de la norma: merluza y bacalao nunca en la misma semana, y entre una y otra, al menos una semana sin ninguna de las dos; ningún pescado ni marisco dos semanas seguidas."""
     errores, previa = [], None
     for s in SEMANAS:
         p = pescados_semana(s)
         if {"merluza", "bacalao"} <= p: errores.append(f"Semana {s['num']}: merluza y bacalao en la misma semana")
         if previa is not None and p & previa: errores.append(f"Semanas {s['num'] - 1} y {s['num']}: {', '.join(sorted(p & previa))} dos semanas seguidas")
+        mb = {"merluza", "bacalao"}
+        if previa is not None and p & mb and previa & mb and not (p & previa & mb):
+            errores.append(f"Semanas {s['num'] - 1} y {s['num']}: merluza y bacalao sin una semana de por medio")
         previa = p
+    return errores
+def platos_semana(s):
+    """Comidas y cenas de una semana (sin desayunos ni meriendas, que se repiten a propósito)."""
+    return {c for fila in s["filas"] for c in fila if c != FUERA and R[c]["tipo"] in PLATOS}
+def comprobar_repeticiones(desde=6):
+    """Desde la semana `desde`: ninguna comida ni cena se repite de una semana a la siguiente, y en el mes nuevo (7 a 10)
+       el pescado ya lo vigila comprobar_pescados (nunca el mismo dos semanas seguidas)."""
+    errores = []
+    for a, b in zip(SEMANAS, SEMANAS[1:]):
+        if a["num"] < desde: continue
+        rep = platos_semana(a) & platos_semana(b)
+        if rep: errores.append(f"Semanas {a['num']} y {b['num']}: se repite {', '.join(R[c]['nombre'] for c in sorted(rep))}")
     return errores
 if __name__ == "__main__":
     for s in SEMANAS: print(f"Semana {s['num']}: {', '.join(sorted(pescados_semana(s))) or '—'}")
-    for e in comprobar_pescados(): print("  NORMA:", e)
+    for e in comprobar_pescados() + comprobar_repeticiones(): print("  NORMA:", e)
     for s in SEMANAS:
         print(f"\nSemana {s['num']} ({s['titulo']})")
         for i, fila in enumerate(s["filas"]):
@@ -94,6 +122,16 @@ CAMBIOS = {
  "CREMCAL": "AOVE en vez de mantequilla (45 en tu test); pipas de calabaza por encima y una tortilla de claras con pavo de segundo para llegar a la proteína. La web no dice raciones: cantidades calculadas para 4 y pasadas a 2.",
  "CREMZAN": "Leche normal en vez de evaporada; caldo bajo en sal; calamar a la plancha por encima para llegar a la proteína (en vez de gambas, que ya hay el domingo anterior). La web no dice raciones: cantidades calculadas para 4 y pasadas a 2.",
  "ARRGAMB": "Gambones enteros en vez de colas peladas, para hacer el fumet con sus cabezas (lo que propone la receta si no tienes caldo); 70 g de arroz por persona en vez de 100 y el aceite medido.",
+ "GCAL": "Sin vermut (alcohol 51 en tu test): un poco más de agua; carne de choricero de bote en vez de choriceros y ñoras en remojo (valen si los tienes); 2 ajos frescos por persona en vez de 3 (ajo 43) y el aceite medido; algo más de calamar y de patata para que sea un plato completo. La receta es para 4: cantidades pasadas a 2.",
+ "PULPO": "Con pulpo ya cocido (envasado) en vez de cocer uno entero: 25 minutos en total; el aceite, medido. La receta es para 4: cantidades pasadas a 2.",
+ "SEPIA": "Sin vino; tomate triturado natural en vez de salsa de tomate; la mitad de aceite y de ajo. La receta es para 4: cantidades pasadas a 2.",
+ "DORADA": "Agua o caldo de pescado en vez del vino blanco; una dorada de ración por persona y más patata (la receta pone 500 g de dorada para los dos); la mitad de aceite y de ajo.",
+ "RAPE": "Rape limpio congelado y caldo de pescado de brik (la receta hace el caldo con la cabeza y la espina); el aceite, medido, y la mitad de ajo. La receta es para 4: cantidades pasadas a 2.",
+ "LUBSAL": "Pisto sin calabacín (te sienta mal): con cebolla, pimientos y tomate, y el aceite medido; patata cocida para que sea un plato completo; una lubina de ración por persona. La receta es para 4: cantidades pasadas a 2.",
+ "DORSAL": "Doradas de ración (una por persona) en vez de una pieza de 2 kg, a 190 °C como recomienda la receta para piezas pequeñas; sin mayonesa ni alioli: patata cocida con AOVE y una ensalada de tomate para que sea un plato completo.",
+ "SALM1": "Medio diente de ajo por persona en vez de uno y medio (ajo 43 en tu test) y el aceite medido. Salmón: 45 en tu test, lo comes con moderación (decisión tuya del 15 de noviembre). La receta es para 4: cantidades pasadas a 2.",
+ "SALM2": "Zanahoria en tiras en vez de calabacín y medio diente de ajo; el salmón, pesado (150 g por persona; la receta no lo dice). Salmón: 45 en tu test, con moderación. La receta es para 1: cantidades pasadas a 2.",
+ "SOPA": "Pasada a vuestra Mambo (la original se hace en una olla); un huevo pochado por persona en vez de uno para los dos; la pechuga, pesada (unos 180 g por persona) y las especias, concretadas.",
  "RISOT": "Con pollo; sin mantequilla (45) ni parmesano (queso curado 55): un poco de mozzarella fresca al final; sin vino; más puerro y setas (no champiñón, 43 en tu test); menos jamón y caldo bajo en sal.",
 }
 from batch import BATCH, NORMAS
@@ -101,6 +139,9 @@ NOTA_COMPRA = {
  3: "La compra de esta semana ya está hecha (sábado 24). Con los cambios solo falta: 140 g de jamón cocido extra para la pizza del martes, un pimiento rojo para el pil pil y la fajicesta y una guindilla o cayena si no tenéis. Os sobran 2 latas de atún y 400 g de garbanzos (los garbanzos, para el potaje del miércoles 4).",
  4: "No compréis los garbanzos: os sobran de la semana pasada (ya no los lleva el bacalao).",
  5: "La compra de esta semana ya está hecha. El domingo 15 ya no hay tacos de merluza, sino arroz meloso con gambones: el sábado 14, con la compra de la semana 6, añadid 500 g de gambones crudos congelados (unos 12), 140 g de arroz bomba (o redondo, si os queda), 60 g más de pimiento rojo y 30 g de verde, media cebolla, un trozo de puerro (40 g), 120 g de tomate triturado y azafrán si no tenéis. Si ya comprasteis la merluza (340 g), dejadla en el congelador para el fish & chips del sábado 21; las tortillas de maíz, la piña y la lima os sobran.",
+ 8: "Las 2 doradas de la cena del jueves 3 se hacen a la sal: enteras y sin escamar. Mejor frescas, compradas el miércoles o el jueves; si no, congeladas enteras, y a la nevera la noche antes.",
+ 9: "Las 2 lubinas de la comida del domingo 13 se hacen a la sal: enteras y sin escamar. Mejor frescas: no las compréis hoy, sino el sábado 12 con la compra de la semana siguiente.",
+ 10: "Las 2 doradas de la cena del miércoles 16, mejor frescas: compradlas el lunes o el martes; si no, congeladas, y a la nevera la noche antes.",
  6: "Si comprasteis la merluza de los tacos de la semana pasada (340 g), no compréis más: os vale para el fish & chips del sábado 21.",
 }
 PREP = {n: b['recordatorios'] for n, b in BATCH.items()}

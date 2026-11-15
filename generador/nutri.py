@@ -11,6 +11,15 @@ T = {
  "gambas":       dict(n=(90, 20.0, 1.0, 0.0)),
  "gambones":     dict(n=(45, 10.0, 0.5, 0.0)),   # enteros y crudos, con cabeza y cáscara (≈50 % comestible)
  "calamar":      dict(n=(92, 15.6, 1.4, 3.1)),   # limpio, crudo (USDA)
+ "pulpo":        dict(n=(80, 16.0, 1.0, 1.0)),   # patas de pulpo ya cocido, envasadas
+ "sepia":        dict(n=(79, 16.2, 0.7, 0.8)),   # limpia, cruda (USDA)
+ "dorada":       dict(n=(47, 8.7, 1.4, 0.0)),    # entera de ración, limpia (≈50 % comestible; BEDCA)
+ "rape":         dict(n=(76, 14.5, 1.5, 0.0)),   # limpio, crudo (USDA)
+ "salmon":       dict(n=(208, 20.4, 13.4, 0.0)), # lomo de salmón atlántico, crudo (USDA)
+ "lubina":       dict(n=(55, 9.2, 1.9, 0.0)),    # entera de ración, sin limpiar (≈50 % comestible)
+ "dorada_sal":   dict(n=(47, 8.7, 1.4, 0.0)),    # como "dorada", pero entera y sin escamar (para hacerla a la sal)
+ "caldo_pesc":   dict(n=(5, 0.5, 0.1, 0.3)),
+ "ajetes":       dict(n=(30, 1.8, 0.2, 5.0)),    # ajos frescos
  "atun":         dict(n=(105, 24.0, 1.0, 0.0)),
  "tofu":         dict(n=(110, 11.1, 6.5, 1.0)),   # tofu firme Hacendado (OFF)
  "huevo":        dict(n=(143, 12.6, 9.5, 0.7), ud=55),

@@ -7,7 +7,7 @@ from lib import texto, macros_receta
 e = html.escape
 PAGINA = "https://claude.ai/artifact/6jMeaqcEyCZSnsCG5ZEGRA"
 ENLACE = f'<p>📱 <b>Página del mes</b> (menú de cada día, batch paso a paso y lista con casillas): <a href="{PAGINA}">{PAGINA}</a></p>'
-MESES = {"10": "oct", "11": "nov"}
+MESES = {"10": "oct", "11": "nov", "12": "dic"}
 def fecha(f): _, m, d = f.split("-"); return f"{int(d)} {MESES[m]}"
 
 def doc_lista(s):

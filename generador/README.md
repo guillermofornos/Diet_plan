@@ -1,8 +1,8 @@
-# Generador de los menús (semanas 3 a 6)
+# Generador de los menús (semanas 3 a 10)
 
-Programa en Python que genera, a partir de las recetas y del plan semanal, todo lo de las semanas 3 a 6:
+Programa en Python que genera, a partir de las recetas y del plan semanal, todo lo de las semanas 3 a 10 (26 oct – 20 dic):
 
-- los menús (`menus/semana_03..06.md`) y las listas de la compra (`listas_compra/lista_semana_03..06.md`);
+- los menús (`menus/semana_03..10.md`) y las listas de la compra (`listas_compra/lista_semana_03..10.md`);
 - `recetas/recetas_videos_internet.md`, `recetas/recetas_robot_cecotec.md` y `recetas/batch_cooking.md`;
 - la página del mes (el artifact que ve Indi en el móvil);
 - el HTML de los Google Docs de cada semana (lista de la compra, y menú con las recetas).
@@ -16,7 +16,7 @@ Desde esta carpeta:
 ```bash
 python3 plan.py          # kcal y proteína de cada día, y la comprobación de pescados
 python3 gen_md.py        # escribe los .md del repositorio
-python3 gen_page.py      # página del mes en salida/menu_noviembre.html
+python3 gen_page.py      # página del mes en salida/menu_mes.html (semanas de PAGINA, en gen_page.py)
 python3 gen_docs.py 5    # HTML de los Google Docs de la semana 5 en salida/docs/
 ```
 
@@ -37,5 +37,8 @@ python3 gen_docs.py 5    # HTML de los Google Docs de la semana 5 en salida/docs
 - Nunca pollo en la comida y en la cena del mismo día.
 - Ni atún (tampoco bonito) ni calabacín. Merluza siempre rebozada. Solomillos de pollo en vez de contramuslos.
 - El pescado y el marisco se cocinan el día que se comen; en el batch solo se deja la base o la salsa.
-- Nunca merluza y bacalao en la misma semana, ni el mismo pescado o marisco dos semanas seguidas (`python3 plan.py` lo comprueba).
+- Nunca merluza y bacalao en la misma semana, y entre una y otra, al menos una semana sin ninguna de las dos.
+- Nunca el mismo pescado o marisco dos semanas seguidas, ni la misma comida o cena dos semanas seguidas (desde la semana 6).
+- Salmón unas 2 semanas al mes, y al menos una dorada a la sal y una lubina a la sal al mes, sin quitar guisos ni marmitakos para meterlos.
+- `python3 plan.py` comprueba las normas de pescado y de repetición.
 - Comidas de lunes a viernes en táper, hechas el domingo, con un solo robot (la Mambo de Cecotec) y 3 fuegos.

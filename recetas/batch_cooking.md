@@ -187,3 +187,183 @@
 - **Jueves 19 por la noche:** Pasa la tofuloñesa del viernes a la nevera.
 - **Viernes 20 por la noche:** Pasa la merluza a la nevera y haz la tártara (fish & chips del sábado).
 - **Sábado 21 por la noche:** Pasa a la nevera el pollo de los burritos (comida del domingo) y el calamar de la crema (cena).
+
+---
+
+## Semana 7 (23 – 29 nov) · Domingo 22 de noviembre
+
+*Duración: 1 h 35 min, aproximadamente. Ese día, además, comes los burritos y cenas la crema de zanahoria con calamar (la crema, en el robot al terminar).*
+
+**A la nevera:**
+- Lentejas con pollo, 4 raciones (lunes y martes)
+- Gratinado de patata y pollo al curry, 2 raciones (miércoles)
+- Crema de calabaza, 2 raciones (cena del miércoles)
+- Verduras picadas de la fajicesta (lunes)
+
+**Al congelador** (pásalo a la nevera la noche antes):
+- Albóndigas en salsa con su arroz, 2 raciones (jueves)
+- Guisantes con jamón, 2 raciones (viernes; la patata y el huevo, la noche antes)
+- Solomillos del crispy en la leche (jueves)
+- Solomillos crudos de la barbacoa (sábado), en bolsa
+
+**Paso a paso:**
+
+| Hora | Dónde | Qué hacer |
+| :--- | :--- | :--- |
+| 0:00 | Preparación | Lava las lentejas (la pardina no necesita remojo) y el arroz integral. Precalienta el horno a 200 °C. |
+| 0:05 | Robot y tabla | Mezcla de las albóndigas en el robot: cebolla, ajo, pan, leche, huevo y perejil 6 s/vel 6, y la carne con la sal 15–20 s/vel 5; a la nevera. Luego trocea, por tandas, la cebolla, la zanahoria y los pimientos de las lentejas, la cebolla, la zanahoria y el pimiento de la salsa de las albóndigas y la cebolleta de los guisantes (4–5 s/vel 5), y guarda cada cosa aparte. A cuchillo: el puerro y el tomate rallado de las lentejas, las verduras de la fajicesta (muy picadas, a un táper) y la calabaza, el puerro y la patata de la crema. |
+| 0:20 | Fuego 1 · olla a presión | Lentejas con pollo (4 raciones): dora los dados de pollo (600 g) 1 minuto por lado y resérvalos en la nevera. En la misma olla, sofrito: cebolla y zanahoria 10 minutos, pimientos 5–8 y puerro 5; luego el tomate, el pimentón, el comino y el laurel. |
+| 0:25 | Fuego 2 · olla | Arroz integral de las albóndigas: 120 g, el tiempo del paquete. |
+| 0:30 | Fuego 3 · sartén | Salsa de las albóndigas: sofríe sus verduras con el aceite 8 minutos y añade el tomate y el laurel, 10 minutos. |
+| 0:35 | Fuego 1 · olla a presión | Añade las lentejas, la patata chascada y el agua (1,4 L), cierra y cuece 12–15 minutos desde que suba la válvula. Deja que baje la presión sola. |
+| 0:35 | Airfryer | Haz las albóndigas (unas 12, del tamaño de una nuez) y ponlas a 190 °C 8–10 minutos, en dos tandas si no caben. |
+| 0:50 | Horno | Gratinado al curry en una fuente: la patata (500 g) en rodajas finas, con spray y sal, 20 minutos. |
+| 0:55 | Fuego 3 · sartén | Quita el laurel de la salsa, mete las albóndigas y cuécelas 10 minutos a fuego suave. |
+| 0:55 | Robot | Crema de calabaza: puerro y cebolla 6 s/vel 6, sofrito 4 min/120 °C/vel 1 y la calabaza, la patata y el agua, 20 min/110 °C/vel 0. |
+| 1:00 | Fuego 2 · sartén | Escurre el arroz y repártelo con las albóndigas. En ese fuego, guisantes con jamón (2 raciones): dora el jamón 1–2 minutos, pocha la cebolleta 4–5 y añade los guisantes congelados 5–7 minutos. Sin patata ni huevo: se ponen el jueves por la noche. |
+| 1:05 | Encimera | Crispy del jueves: los solomillos, un poco aplastados, con la leche, el pimentón y la sal, en una bolsa de congelación. Los solomillos de la barbacoa, crudos, en otra. |
+| 1:10 | Horno | Echa sobre la patata el pollo del curry mezclado con el huevo, la leche y el curry, 12–15 minutos; luego la mozzarella, 3–4 minutos. Apaga el horno. |
+| 1:15 | Fuego 1 | Abre la olla, mete el pollo de las lentejas 5–6 minutos a fuego suave y rectifica de sal. |
+| 1:20 | Robot | Tritura la crema 1 min/vel 7 y rectifica de sal. |
+| 1:25 | Táperes | Deja templar, reparte y etiqueta: nevera las lentejas, el gratinado, la crema y las verduras de la fajicesta; congelador las albóndigas con su arroz, los guisantes, el crispy y los solomillos de la barbacoa. Para comer: los burritos. |
+
+**Recordatorios de la semana:**
+- **Lunes 23 por la noche:** Pasa el salmón a la nevera (cena del martes).
+- **Miércoles 25 por la noche:** Pasa a la nevera las albóndigas y el crispy del jueves; cuece 1 huevo y haz la mayonesa proteica (robot, 15 s/vel 5).
+- **Jueves 26 por la noche:** Pasa a la nevera los guisantes del viernes y los solomillos de la barbacoa; añade a los guisantes la patata (300 g en dados, 5–6 minutos de microondas con un poco de agua) y 2 huevos cocidos (10 minutos).
+- **Viernes 27 por la noche:** Deja los solomillos del sábado en el adobo barbacoa.
+- **Sábado 28:** Mira la fecha del pulpo cocido (comida del domingo): si caduca antes, cómpralo hoy con la compra de la semana siguiente.
+
+---
+
+## Semana 8 (30 nov – 6 dic) · Domingo 29 de noviembre
+
+*Duración: 1 h 35 min, aproximadamente. Ese día, además, comes el pulpo y cenas la sopa cremosa de pollo (en el robot, unos 40 minutos, al terminar el guiso).*
+
+**A la nevera:**
+- Lentejas con jamón, 4 raciones, y 6 huevos duros con cáscara (4 para las lentejas y 2 para el potaje)
+- Ternera a la jardinera, 2 raciones (miércoles)
+- Pechuga asada y desmenuzada y juliana para las fajitas (lunes)
+- Pollo del kebab marinado y salsa blanca (martes)
+- Pollo a la plancha desmenuzado para los tomates rellenos (miércoles)
+
+**Al congelador** (pásalo a la nevera la noche antes):
+- Potaje de garbanzos con acelgas, 2 raciones (jueves; congelado, la patata queda algo más harinosa)
+- Arroz con pollo y judías verdes, 2 raciones (viernes)
+- Solomillos crudos de los fingers (domingo 6), en bolsa
+
+**Paso a paso:**
+
+| Hora | Dónde | Qué hacer |
+| :--- | :--- | :--- |
+| 0:00 | Preparación | Por la mañana, deja la lenteja pardina en remojo 2–4 horas. Lava el arroz. Precalienta el horno a 200 °C. |
+| 0:05 | Robot y tabla | Trocea en el robot, por tandas, el ajo, el tomate, la zanahoria, el pimiento y la cebolla de las lentejas, la cebolla del potaje y los pimientos y el tomate del arroz con pollo (4–5 s/vel 5); guarda cada cosa aparte. A cuchillo: las acelgas en tiras, la juliana de las fajitas y el pollo del arroz en dados. |
+| 0:20 | Robot | Ternera a la jardinera: la cebolla, el ajo, la zanahoria en trozos y el aceite, 5 s/vel 5; el jamón, 8 min/120 °C/vel 1; la carne, el caldo y la sal, 30 min/100 °C/vel 1/giro inverso; la patata, la zanahoria en rodajas y los guisantes, 20–25 min/100 °C/vel 0. |
+| 0:20 | Horno | Pechuga de las fajitas (300 g) con la soja, la mostaza y las especias, 25–30 minutos. |
+| 0:20 | Fuego 1 · olla a presión | Lentejas con jamón (4 raciones): sofríe sus verduras con el aceite 10 minutos. |
+| 0:25 | Fuego 3 · olla | Potaje de garbanzos (2 raciones): sofríe la cebolla y el ajo con el aceite 5 minutos; añade la patata chascada, el caldo, el tomate concentrado, el pimentón y el laurel, 20 minutos; luego los garbanzos y las acelgas, 10 minutos más. |
+| 0:30 | Fuego 1 · olla a presión | Añade las lentejas escurridas, el jamón, la patata chascada, el caldo, el pimentón y el laurel: presión 12–15 minutos y que baje sola. |
+| 0:30 | Fuego 2 · sartén | Solomillo de los tomates rellenos (160 g) a la plancha 6–7 minutos; desmenúzalo. |
+| 0:40 | Fuego 2 · cazo | Cuece 6 huevos 10 minutos (4 para las lentejas y 2 para el potaje); guárdalos con cáscara. |
+| 0:50 | Horno | Saca la pechuga y desmenúzala. Apaga el horno. |
+| 1:00 | Fuego 3 · cazuela | Aparta el potaje. Arroz con pollo (2 raciones): dora el pollo 4–5 minutos, añade los pimientos y el tomate 5 minutos y luego las judías y el caldo; cuando hierva, el arroz redondo (140 g) 15–17 minutos, sin remover. |
+| 1:05 | Fuego 1 | Abre la olla y rectifica de sal las lentejas. |
+| 1:10 | Encimera | Kebab del martes: marina los solomillos con las especias y el yogur y haz la salsa blanca (yogur, especias y limón); las dos cosas, a la nevera. Los solomillos de los fingers, crudos, en una bolsa al congelador. |
+| 1:25 | Robot | El guiso ya está: prueba la carne (si sigue dura, 10 minutos más) y rectifica de sal. |
+| 1:30 | Táperes | Deja templar (el arroz, extendido en una fuente para que se enfríe rápido), reparte y etiqueta: nevera las lentejas, los huevos, la jardinera y lo de las cenas; congelador el potaje, el arroz con pollo y los fingers. Para cenar: la sopa cremosa de pollo, en el robot. |
+
+**Recordatorios de la semana:**
+- **Martes 1:** Kebab: pon las patatas en remojo al llegar a casa.
+- **Miércoles 2 por la noche:** Pasa el potaje del jueves a la nevera (y las doradas, si las compraste congeladas).
+- **Jueves 3 por la noche:** Pasa el arroz con pollo del viernes a la nevera.
+- **Viernes 4 por la noche:** Pasa la merluza y los solomillos de los fingers a la nevera y deja hechos el pico de gallo y la salsa de yogur (tacos de merluza del sábado).
+- **Sábado 5 por la noche:** Pasa los gambones del congelador a la nevera (arroz del domingo) y deja marinando los fingers.
+
+---
+
+## Semana 9 (7 – 13 dic) · Domingo 6 de diciembre
+
+*Duración: 1 h 30 min, aproximadamente. Ese día, además, comes el arroz meloso con gambones (unos 50 minutos, al terminar) y cenas los fingers.*
+
+**A la nevera:**
+- Lentejas al curry con pavo, 4 raciones con su arroz (lunes y martes)
+- Gratinado de patata y pollo al curry, 2 raciones (miércoles)
+- Ternera escalfada entera, en su salsa (cena del miércoles)
+- Pechuga asada y desmenuzada y zanahoria rallada para los tacos (lunes)
+
+**Al congelador** (pásalo a la nevera la noche antes):
+- Espaguetis a la tofuloñesa, 2 raciones (jueves)
+- Guisantes con jamón, 2 raciones (viernes; la patata y el huevo, la noche antes)
+- Pechuga cruda del risotto, en dados (martes)
+
+**Paso a paso:**
+
+| Hora | Dónde | Qué hacer |
+| :--- | :--- | :--- |
+| 0:00 | Preparación | Prensa el tofu entre papel de cocina con un peso encima. Lava las lentejas y el arroz integral. Salpimienta la pieza de ternera. Precalienta el horno a 200 °C. |
+| 0:05 | Robot y tabla | Ralla en el robot la zanahoria de los tacos (500 g, por tandas de 5–6 s/vel 5) y guárdala. Trocea la cebolla de las lentejas, la cebolla y los pimientos de la tofuloñesa y la cebolleta de los guisantes (4–5 s/vel 5). A cuchillo: la calabaza en dados, la cebolla y la zanahoria de la ternera en cuartos y la pechuga del risotto en dados (a una bolsa, al congelador). |
+| 0:20 | Robot | Ternera escalfada: la pieza (340 g) con la zanahoria y la cebolla en cuartos, el ajo, el laurel, el caldo y el balsámico: 95 °C, 1 hora, sin movimiento (vel 0). Dale la vuelta a la media hora. |
+| 0:20 | Horno | En la parte de arriba, la pechuga de los tacos (300 g) untada con aceite y especias, 25 minutos. En la de abajo, el gratinado al curry: la patata (500 g) en rodajas finas en una fuente, con spray y sal, 20 minutos. |
+| 0:20 | Fuego 1 · olla a presión | Lentejas al curry (4 raciones): sofrito de cebolla y tomate 6–8 minutos y calabaza 2–3; añade las lentejas, el agua, la sal y el curry, cierra y cuece 12–15 minutos desde que suba la válvula. |
+| 0:25 | Fuego 2 · olla | Arroz integral de las lentejas: 160 g, el tiempo del paquete. |
+| 0:25 | Fuego 3 · sartén | Tofuloñesa: pocha la cebolla y los pimientos 10 minutos, añade el tofu rallado con las especias 6–8 minutos y el tomate 8–10. |
+| 0:45 | Horno | Saca la pechuga y desmenúzala. Echa sobre la patata el pollo del curry mezclado con el huevo, la leche y el curry, 12–15 minutos; luego la mozzarella, 3–4 minutos. Apaga el horno. |
+| 0:50 | Fuego 1 | Cuando baje la presión, añade el pavo en dados y cuécelo 5–6 minutos a fuego suave. |
+| 0:55 | Fuego 2 · olla | Escurre el arroz y repártelo. En ese fuego, agua para la pasta: 130 g de espaguetis el tiempo del paquete; escúrrelos y mézclalos con la tofuloñesa. |
+| 1:00 | Fuego 3 · sartén | Guisantes con jamón (2 raciones): dora el jamón 1–2 minutos, pocha la cebolleta 4–5 y añade los guisantes congelados 5–7 minutos. Sin patata ni huevo: se ponen el jueves por la noche. |
+| 1:20 | Robot | Saca la ternera y el laurel y tritura las verduras con el jugo (30 s/vel 5–10): es la salsa. Guarda la carne entera, en su salsa. |
+| 1:25 | Táperes | Deja templar, reparte y etiqueta: nevera las lentejas con su arroz, el gratinado, la ternera y lo de los tacos; congelador la tofuloñesa, los guisantes y la pechuga del risotto. Para comer: el arroz meloso con gambones. |
+
+**Recordatorios de la semana:**
+- **Lunes 7 por la noche:** Pasa a la nevera la pechuga del risotto (cena del martes).
+- **Martes 8:** Risotto: en el robot, unos 30 minutos al llegar a casa.
+- **Miércoles 9 por la noche:** Pasa a la nevera la tofuloñesa del jueves y el salmón de la cena.
+- **Jueves 10 por la noche:** Pasa los guisantes del viernes a la nevera y añádeles la patata (300 g en dados, 5–6 minutos de microondas con un poco de agua) y 2 huevos cocidos (10 minutos).
+- **Viernes 11 por la noche:** Pasa la sepia a la nevera (guiso del sábado). Si la quieres más tierna, mañana déjala 1 hora en leche antes de cocinarla.
+- **Sábado 12:** Con la compra de la semana siguiente, coge las 2 lubinas frescas, enteras y sin escamar, para la comida del domingo. Haz la crema de calabaza en el robot (25 minutos) para la cena del domingo y guárdala en la nevera.
+
+---
+
+## Semana 10 (14 – 20 dic) · Domingo 13 de diciembre
+
+*Duración: 1 h 40 min, aproximadamente, con la lubina a la sal de la comida en el horno al final. Esa noche cenas la crema de calabaza (hecha el sábado).*
+
+**A la nevera:**
+- Lentejas con pollo, 4 raciones (lunes y martes)
+- Ternera a la jardinera, 2 raciones (miércoles)
+- Pimiento y cebolla en tiras para la pizza (lunes)
+
+**Al congelador** (pásalo a la nevera la noche antes):
+- Albóndigas en salsa con su arroz, 2 raciones (jueves)
+- Arroz con pollo y judías verdes, 2 raciones (viernes)
+- Pechuga asada y desmenuzada para las fajitas (jueves)
+
+**Paso a paso:**
+
+| Hora | Dónde | Qué hacer |
+| :--- | :--- | :--- |
+| 0:00 | Preparación | Lava las lentejas (la pardina no necesita remojo) y el arroz integral. Precalienta el horno a 200 °C. |
+| 0:05 | Robot y tabla | Mezcla de las albóndigas en el robot: cebolla, ajo, pan, leche, huevo y perejil 6 s/vel 6, y la carne con la sal 15–20 s/vel 5; a la nevera. Luego trocea, por tandas, la cebolla, la zanahoria y los pimientos de las lentejas, la cebolla, la zanahoria y el pimiento de la salsa de las albóndigas y los pimientos y el tomate del arroz con pollo (4–5 s/vel 5), y guarda cada cosa aparte. A cuchillo: el puerro y el tomate rallado de las lentejas, el pimiento y la cebolla de la pizza (a un táper), el pollo del arroz en dados y los pimientos, la cebolla y el tomate del pisto, en dados. |
+| 0:20 | Robot | Ternera a la jardinera: la cebolla, el ajo, la zanahoria en trozos y el aceite, 5 s/vel 5; el jamón, 8 min/120 °C/vel 1; la carne, el caldo y la sal, 30 min/100 °C/vel 1/giro inverso; la patata, la zanahoria en rodajas y los guisantes, 20–25 min/100 °C/vel 0. |
+| 0:20 | Horno | Pechuga de las fajitas (300 g) con la soja, la mostaza y las especias, 25–30 minutos. |
+| 0:20 | Fuego 1 · olla a presión | Lentejas con pollo (4 raciones): dora los dados de pollo (600 g) 1 minuto por lado y resérvalos en la nevera. En la misma olla, sofrito: cebolla y zanahoria 10 minutos, pimientos 5–8 y puerro 5; luego el tomate, el pimentón, el comino y el laurel. |
+| 0:25 | Fuego 2 · olla | Arroz integral de las albóndigas: 120 g, el tiempo del paquete. |
+| 0:30 | Fuego 3 · sartén | Salsa de las albóndigas: sofríe sus verduras con el aceite 8 minutos y añade el tomate y el laurel, 10 minutos. |
+| 0:35 | Fuego 1 · olla a presión | Añade las lentejas, la patata chascada y el agua (1,4 L), cierra y cuece 12–15 minutos desde que suba la válvula. Deja que baje la presión sola. |
+| 0:35 | Airfryer | Haz las albóndigas (unas 12, del tamaño de una nuez) y ponlas a 190 °C 8–10 minutos, en dos tandas si no caben. |
+| 0:50 | Horno | Saca la pechuga y desmenúzala. Deja el horno encendido a 200 °C para la lubina. |
+| 0:55 | Fuego 3 · sartén | Quita el laurel de la salsa, mete las albóndigas y cuécelas 10 minutos a fuego suave. |
+| 1:00 | Fuego 2 | Escurre el arroz y repártelo con las albóndigas. |
+| 1:05 | Fuego 3 · cazuela | Arroz con pollo (2 raciones): dora el pollo 4–5 minutos, añade los pimientos y el tomate 5 minutos y luego las judías y el caldo; cuando hierva, el arroz redondo (140 g) 15–17 minutos, sin remover. |
+| 1:10 | Fuego 1 | Abre la olla, mete el pollo de las lentejas 5–6 minutos a fuego suave y rectifica de sal. |
+| 1:15 | Horno | Lubinas a la sal: mezcla la sal gruesa con las hierbas y las pimientas, humedécela, haz una cama en una bandeja, pon las lubinas sin escamar y cúbrelas bien; 18–20 minutos. |
+| 1:15 | Fuego 1 · sartén | Aparta la olla de las lentejas. Pisto: pimiento verde 5 minutos, pimiento rojo y cebolla 10 y tomate 10 más. La patata de la lubina, en dados, 6–7 minutos de microondas. |
+| 1:25 | Robot | El guiso ya está: prueba la carne (si sigue dura, 10 minutos más) y rectifica de sal. |
+| 1:30 | Táperes | Deja templar (el arroz, extendido en una fuente para que se enfríe rápido), reparte y etiqueta: nevera las lentejas, la jardinera y lo de la pizza; congelador las albóndigas con su arroz, el arroz con pollo y la pechuga de las fajitas. Para comer: la lubina a la sal con el pisto. |
+
+**Recordatorios de la semana:**
+- **Martes 15 por la noche:** Pasa las doradas a la nevera si las compraste congeladas (cena del miércoles: unos 55 minutos, casi todo de horno).
+- **Miércoles 16 por la noche:** Pasa a la nevera las albóndigas y la pechuga de las fajitas (jueves) y corta la juliana de pimientos y cebolla.
+- **Jueves 17 por la noche:** Pasa el arroz con pollo del viernes a la nevera.
+- **Viernes 18 por la noche:** Pasa el calamar a la nevera (guiso del sábado).
+- **Sábado 19 por la noche:** Pasa el rape a la nevera (marmitako del domingo).
