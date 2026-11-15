@@ -286,7 +286,7 @@
 📄 **Receta escrita:** <https://cocina-casera.com/dorada-al-horno-con-patatas/>
 
 **Ingredientes:**
-- 2 doradas de ración (unos 800 g), limpia y abierta.
+- 2 doradas de ración de unos 400 g cada una, limpias y abiertas para rellenar.
 - 500 g de patata.
 - 120 g de cebolla.
 - 20 ml de AOVE.
@@ -314,7 +314,7 @@
 📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/pescados-mariscos/lubina-pisto-29471.html>
 
 **Ingredientes (Lubina a la sal):**
-- 2 lubinas de ración (unos 700 g), vaciada pero con escamas.
+- 2 lubinas de ración de unos 350 g cada una, con escamas (solo vaciadas).
 - Unos 2 kg de sal gruesa (para las dos) y un poco de agua.
 - Romero, tomillo y eneldo picados y unas pimientas variadas machacadas, para la sal.
 
@@ -705,7 +705,7 @@
 📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/pescados-mariscos/dorada-a-la-sal.html>
 
 **Ingredientes (Dorada a la sal):**
-- 2 doradas de ración (unos 800 g), vaciada y sin agallas pero con escamas.
+- 2 doradas de ración de unos 400 g cada una, con escamas (solo vaciadas y sin agallas).
 - Unos 2 kg de sal gruesa (para las dos) y un poco de agua.
 
 **Ingredientes (Guarnición):**
