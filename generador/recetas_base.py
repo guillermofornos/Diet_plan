@@ -126,3 +126,20 @@ R["FAJ"]["batch"] = "El pollo, asado y desmenuzado en el batch del domingo, y la
 R["KEB"]["batch"] = "En el batch, el pollo en su marinado (al congelador si es para el jueves o el viernes; a la nevera si es para el lunes) y la salsa blanca. Las patatas y la plancha, al momento."
 R["FIN"]["batch"] = "Se marinan la noche antes; el rebozado y la airfryer, al momento."
 R["FF2"]["batch"] = "Al momento, con la carne picada comprada el mismo día."
+
+R["ARRSEC"] = dict(tipo="comida", nombre="Arroz meloso con secreto ibérico", fuente="Receta de Instagram (Arroz Dacsa), con secreto en vez de carrilleras, como la hicisteis el 16 de noviembre",
+   tupper="Se hace y se come el mismo día: el arroz meloso no aguanta recalentado",
+   grupos=[("Ingredientes", [("secreto", 100, "{100} g de secreto ibérico, en tiras (en vez de las carrilleras)"),
+       ("arroz", 70, "{70} g de arroz redondo o bomba (mejor D.O. Valencia)"),
+       ("zanahoria", 80, "{1|zanahoria|zanahorias} ({80} g), picada fina"), ("pimiento", 25, "{25} g de pimiento rojo picado fino"),
+       ("ajetes", 25, "{25} g de ajos tiernos (ajetes) en rodajas"), ("tomate", 60, "{1/2|tomate pera|tomates pera} ({60} g), rallado"),
+       ("aove", 8, "{8} ml de AOVE"), ("caldo_carne", 300, "{300} ml de caldo de carne bajo en sal, caliente"),
+       ("balsamico", 5, "{1|cucharadita|cucharaditas} de vinagre balsámico de Módena (en vez del Pedro Ximénez y el vino tinto)"),
+       ("x:Azafrán", 0, "{1/2|cucharadita|cucharaditas} de pimentón dulce, una pizca de azafrán molido, sal y pimienta negra")])],
+   pasos=["Pon la olla de hierro (la Le Creuset) a fuego fuerte con la mitad del aceite. Salpimienta el secreto y dóralo 3–4 minutos, hasta que esté tostado por fuera; sácalo y resérvalo. Suelta grasa: no hace falta más aceite.",
+          "Baja a fuego medio y, en la misma olla, con el resto del aceite, sofríe la zanahoria, el pimiento y los ajetes 8–10 minutos, hasta que estén tiernos.",
+          "Añade el tomate rallado, 5 minutos, y luego el pimentón y el balsámico, removiendo 30 segundos para que no se queme el pimentón.",
+          "Echa el arroz y nácaralo 1 minuto. Añade el caldo caliente (unas 4 medidas de caldo por 1 de arroz) y el azafrán, y prueba de sal.",
+          "5–6 minutos a fuego fuerte y el resto a fuego moderado, hasta 16 minutos en total. Remueve sin prisa pero sin pausa: así suelta el almidón y queda meloso.",
+          "Los últimos 3 minutos, vuelve a meter el secreto. Apaga, tapa y deja reposar 2 minutos antes de servir."])
+R["ARRSEC"]["batch"] = "Plato de fin de semana: se hace el mismo día en la Le Creuset (unos 40 minutos). El secreto, al congelador en el batch y a la nevera la noche antes."

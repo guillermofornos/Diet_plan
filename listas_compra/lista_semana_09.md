@@ -12,12 +12,13 @@
 - 3 Aguacates (unos 380 g de pulpa)
 - 440 g Pimientos rojos o de colores
 - 220 g Pimientos verdes italianos
-- 1,29 kg Cebollas (incluye cebolleta y morada)
+- 1,36 kg Cebollas (incluye cebolleta y morada)
 - 740 g Zanahorias
 - 360 g Tomates (incluye cherrys)
-- 2,48 kg Patatas
-- 900 g Calabaza (pelada)
-- 200 g Puerros
+- 2,36 kg Patatas
+- 300 g Boniatos
+- 600 g Calabaza (pelada)
+- 360 g Puerros
 - 120 g Setas de cardo u ostra (no champiñón)
 - 2 bolsas Rúcula o canónigos (unos 150 g)
 - Limones
@@ -25,11 +26,10 @@
 
 ## Carne, huevos y tofu
 - 2 docenas Huevos (se usan 20)
-- 800 ml Claras de huevo pasteurizadas
-- 580 g Pechuga de pollo
+- 500 ml Claras de huevo pasteurizadas
+- 940 g Pechuga de pollo
 - 360 g Solomillos de pollo
 - 600 g Pechuga o solomillo de pavo
-- 80 g Pechuga de pavo en lonchas (92 % carne)
 - 90 g Taquitos de jamón serrano
 - 500 g Tofu firme (2 bloques de 400 g)
 - 340 g Ternera en una pieza para escalfar (redondo, tapa o contra)
@@ -54,19 +54,19 @@
 - 120 g Arroz redondo
 - 130 g Espaguetis integrales o normales (mira si os quedan del paquete)
 - 60 g Copos de avena
-- 230 g Pipas de calabaza sin sal
+- 210 g Pipas de calabaza sin sal
 - 500 g Tomate triturado natural
 - 1 Vinagre balsámico (si no te queda; no crema de balsámico)
 - 1 brik de 1 L Caldo de pollo bajo en sal (se usan 600 ml)
 - 1 brik de 1 L Caldo de verduras bajo en sal (se usan 300 ml)
-- 160 ml Aceite de oliva virgen extra (se usan esta semana)
+- 150 ml Aceite de oliva virgen extra (se usan esta semana)
 - Sal gruesa (unos 2 kg para la costra; si no os queda)
 
 ## Congelados
 - 520 g Guisantes finos congelados
 
 ## Especias y condimentos
-- Ajo, Chipotle o pimentón picante, Curry en polvo, Laurel, Pimentón dulce, Romero (revisa lo que tienes)
+- Ajo, Chipotle o pimentón picante, Curry en polvo, Laurel, Pimentón dulce, Romero, Vinagre (revisa lo que tienes)
 - Sal, pimienta, ajo en polvo y cebolla en polvo (básicos)
 
 ## Opcional: Big Mac en casa el sábado (x2)

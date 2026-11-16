@@ -440,6 +440,35 @@
 
 ---
 
+### Arroz meloso con secreto ibérico
+*Fuente: Receta de Instagram (Arroz Dacsa), con secreto en vez de carrilleras, como la hicisteis el 16 de noviembre · ≈ 689 kcal · 24 g proteína · 66 g HC · 34 g grasa · por persona*
+
+**Ingredientes:**
+- 200 g de secreto ibérico, en tiras (en vez de las carrilleras).
+- 140 g de arroz redondo o bomba (mejor D.O. Valencia).
+- 2 zanahorias (160 g), picada fina.
+- 50 g de pimiento rojo picado fino.
+- 50 g de ajos tiernos (ajetes) en rodajas.
+- 1 tomate pera (120 g), rallado.
+- 16 ml de AOVE.
+- 600 ml de caldo de carne bajo en sal, caliente.
+- 2 cucharaditas de vinagre balsámico de Módena (en vez del Pedro Ximénez y el vino tinto).
+- 1 cucharadita de pimentón dulce, una pizca de azafrán molido, sal y pimienta negra.
+
+**Instrucciones:**
+1. Pon la olla de hierro (la Le Creuset) a fuego fuerte con la mitad del aceite. Salpimienta el secreto y dóralo 3–4 minutos, hasta que esté tostado por fuera; sácalo y resérvalo. Suelta grasa: no hace falta más aceite.
+2. Baja a fuego medio y, en la misma olla, con el resto del aceite, sofríe la zanahoria, el pimiento y los ajetes 8–10 minutos, hasta que estén tiernos.
+3. Añade el tomate rallado, 5 minutos, y luego el pimentón y el balsámico, removiendo 30 segundos para que no se queme el pimentón.
+4. Echa el arroz y nácaralo 1 minuto. Añade el caldo caliente (unas 4 medidas de caldo por 1 de arroz) y el azafrán, y prueba de sal.
+5. 5–6 minutos a fuego fuerte y el resto a fuego moderado, hasta 16 minutos en total. Remueve sin prisa pero sin pausa: así suelta el almidón y queda meloso.
+6. Los últimos 3 minutos, vuelve a meter el secreto. Apaga, tapa y deja reposar 2 minutos antes de servir.
+
+*Tupper:* Se hace y se come el mismo día: el arroz meloso no aguanta recalentado.
+*Batch cooking:* Plato de fin de semana: se hace el mismo día en la Le Creuset (unos 40 minutos). El secreto, al congelador en el batch y a la nevera la noche antes.
+*Cambios respecto a la fuente:* Secreto ibérico en vez de carrilleras (en tiras y dorado al principio, así no necesita 1 hora); sin Pedro Ximénez ni vino tinto (alcohol 51 en tu test): caldo y un poco de balsámico; 70 g de arroz por persona en vez de 90 y el aceite medido; la mitad de ajos tiernos (ajo 43).
+
+---
+
 ### Espaguetis a la tofuloñesa
 *Fuente: Lara Ibarra · ≈ 705 kcal · 45 g proteína · 59 g HC · 29 g grasa · por persona*
 

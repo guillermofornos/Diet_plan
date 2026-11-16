@@ -12,7 +12,7 @@
 | **Sábado 19 dic (D)** | Tostada integral con aguacate y huevo | 🎬 Guiso de calamares con patatas y ajos frescos | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈977 kcal · 65 g prot. + cena fuera |
 | **Domingo 20 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Marmitako de rape (guiso de rape y patata) | Natillas +Proteínas con kiwi y pipas | 🎬 Fajicesta de huevo, verduras y pavo | ≈1638 kcal · 120 g prot. |
 
-**Batch cooking del domingo 13 de diciembre:** 1 h 40 min, aproximadamente, con la lubina a la sal de la comida en el horno al final. Esa noche cenas la crema de calabaza (hecha el sábado). Paso a paso en `recetas/batch_cooking.md`.
+**Batch cooking del domingo 13 de diciembre:** 1 h 40 min, aproximadamente, con la lubina a la sal de la comida en el horno al final. Esa noche cenas la crema de boniato con pollo (hecha el sábado). Paso a paso en `recetas/batch_cooking.md`.
 - **A la nevera:** Lentejas con pollo, 4 raciones (lunes y martes); Ternera a la jardinera, 2 raciones (miércoles); Pimiento y cebolla en tiras para la pizza (lunes).
 - **Al congelador** (pásalo a la nevera la noche antes): Albóndigas en salsa con su arroz, 2 raciones (jueves); Arroz con pollo y judías verdes, 2 raciones (viernes); Pechuga asada y desmenuzada para las fajitas (jueves).
 

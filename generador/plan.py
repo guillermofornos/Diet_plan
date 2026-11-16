@@ -26,13 +26,13 @@ SEMANAS = [
           ("D3","TOFU","ME_E",FUERA), ("D4S","FISHCHIPS","ME_D",FUERA), ("D4L","BURR","ME_D","CREMZAN")]),
  dict(num=7, titulo="23 – 29 nov", fechas=["2026-11-23","2026-11-24","2026-11-25","2026-11-26","2026-11-27","2026-11-28","2026-11-29"],
    filas=[("D4L","LENT1","ME_E","FCE"), ("D3","LENT1","ME_E","SALM1"), ("D2","CURRY","ME_D","CREMCAL"), ("D3","ALBON","ME_E","CRI"),
-          ("D4","GUIS_T","ME_E",FUERA), ("D4S","BBQ","ME_D",FUERA), ("D2","PULPO","ME_D","SOPA")]),
+          ("D4","GUIS_T","ME_E",FUERA), ("D4S","ARRSEC","ME_D",FUERA), ("D2","PULPO","ME_D","SOPA")]),
  dict(num=8, titulo="30 nov – 6 dic", fechas=["2026-11-30","2026-12-01","2026-12-02","2026-12-03","2026-12-04","2026-12-05","2026-12-06"],
    filas=[("D1","LENTJ","ME_E","FAJ"), ("D3","LENTJ","ME_E","KEB"), ("D2","JARD","ME_D","TOM"), ("D1","POTG","ME_E","DORSAL"),
           ("D4","ARRPOL","ME_E",FUERA), ("D4S","MERTAC","ME_D",FUERA), ("D2","ARRGAMB","ME_D","FIN")]),
  dict(num=9, titulo="7 – 13 dic", fechas=["2026-12-07","2026-12-08","2026-12-09","2026-12-10","2026-12-11","2026-12-12","2026-12-13"],
    filas=[("D4L","LENT2","ME_E","TAC"), ("D3","LENT2","ME_E","RISOT"), ("D4S","CURRY","ME_D","TERESC"), ("D4","TOFU","ME_E","SALM2"),
-          ("D4","GUIS_T","ME_E",FUERA), ("D4S","SEPIA","ME_D",FUERA), ("D2","LUBSAL","ME_D","CREMCAL")]),
+          ("D4","GUIS_T","ME_E",FUERA), ("D4S","SEPIA","ME_D",FUERA), ("D2","LUBSAL","ME_D","CASTA")]),
  dict(num=10, titulo="14 – 20 dic", fechas=["2026-12-14","2026-12-15","2026-12-16","2026-12-17","2026-12-18","2026-12-19","2026-12-20"],
    filas=[("D4","LENT1","ME_E","PZA"), ("D1","LENT1","ME_E","TOR"), ("D2","JARD","ME_D","DORADA"), ("D1","ALBON","ME_E","FAJ"),
           ("D4","ARRPOL","ME_E",FUERA), ("D4S","GCAL","ME_D",FUERA), ("D2","RAPE","ME_D","FCE")]),
@@ -76,7 +76,17 @@ def comprobar_repeticiones(desde=6):
         if a["num"] < desde: continue
         rep = platos_semana(a) & platos_semana(b)
         if rep: errores.append(f"Semanas {a['num']} y {b['num']}: se repite {', '.join(R[c]['nombre'] for c in sorted(rep))}")
+    # Cada mes (bloques de 4 semanas desde la 7): arroz con secreto en la Le Creuset, dorada y lubina a la sal y salmón 2 semanas
+    for ini in range(7, max(s["num"] for s in SEMANAS) + 1, 4):
+        mes = [s for s in SEMANAS if ini <= s["num"] < ini + 4]
+        if len(mes) < 4: continue
+        platos = set().union(*(platos_semana(s) for s in mes))
+        for k in MENSUALES:
+            if k not in platos: errores.append(f"Semanas {ini}–{ini + 3}: falta {R[k]['nombre']} (una vez al mes)")
+        n_salmon = sum("salmón" in pescados_semana(s) for s in mes)
+        if n_salmon < 2: errores.append(f"Semanas {ini}–{ini + 3}: salmón solo {n_salmon} semana(s); tienen que ser 2")
     return errores
+MENSUALES = ["ARRSEC", "DORSAL", "LUBSAL"]
 if __name__ == "__main__":
     for s in SEMANAS: print(f"Semana {s['num']}: {', '.join(sorted(pescados_semana(s))) or '—'}")
     for e in comprobar_pescados() + comprobar_repeticiones(): print("  NORMA:", e)
@@ -132,6 +142,7 @@ CAMBIOS = {
  "SALM1": "Medio diente de ajo por persona en vez de uno y medio (ajo 43 en tu test) y el aceite medido. Salmón: 45 en tu test, lo comes con moderación (decisión tuya del 15 de noviembre). La receta es para 4: cantidades pasadas a 2.",
  "SALM2": "Zanahoria en tiras en vez de calabacín y medio diente de ajo; el salmón, pesado (150 g por persona; la receta no lo dice). Salmón: 45 en tu test, con moderación. La receta es para 1: cantidades pasadas a 2.",
  "CASTA": "Boniato en vez de castañas (se encuentra todo el año en Mercadona y da la misma crema dulce y espesa, con menos kcal); menos agua (2 L para dos no caben en el vaso del robot); un huevo pochado por persona en vez de uno para los dos. El boniato no sale en tu test.",
+ "ARRSEC": "Secreto ibérico en vez de carrilleras (en tiras y dorado al principio, así no necesita 1 hora); sin Pedro Ximénez ni vino tinto (alcohol 51 en tu test): caldo y un poco de balsámico; 70 g de arroz por persona en vez de 90 y el aceite medido; la mitad de ajos tiernos (ajo 43).",
  "SOPA": "Pasada a vuestra Mambo (la original se hace en una olla); un huevo pochado por persona en vez de uno para los dos; la pechuga, pesada (unos 180 g por persona) y las especias, concretadas.",
  "RISOT": "Con pollo; sin mantequilla (45) ni parmesano (queso curado 55): un poco de mozzarella fresca al final; sin vino; más puerro y setas (no champiñón, 43 en tu test); menos jamón y caldo bajo en sal.",
 }

@@ -7,17 +7,17 @@
 ## Fruta y verdura
 - 12 Plátanos (desayunos y meriendas)
 - 12 Kiwis (desayunos y meriendas)
-- 1 Granada (se usan 80 g de granos)
 - 2 Aguacates (unos 180 g de pulpa)
-- 570 g Pimientos rojos o de colores
+- 620 g Pimientos rojos o de colores
 - 160 g Pimientos verdes italianos
-- 1,09 kg Cebollas (incluye cebolleta y morada)
-- 400 g Zanahorias
-- 620 g Tomates (incluye cherrys)
-- 3,16 kg Patatas
+- 1,05 kg Cebollas (incluye cebolleta y morada)
+- 560 g Zanahorias
+- 580 g Tomates (incluye cherrys)
+- 2,72 kg Patatas
+- 50 g Ajos frescos (ajetes) (un manojo pequeño)
 - 300 g Calabaza (pelada)
 - 240 g Puerros
-- 2 bolsas Rúcula o canónigos (unos 170 g)
+- 1 bolsa Rúcula o canónigos (unos 90 g)
 - Limones
 - Perejil
 
@@ -25,7 +25,8 @@
 - 2 docenas Huevos (se usan 23)
 - 1,5 L Claras de huevo pasteurizadas
 - 360 g Pechuga de pollo
-- 1,62 kg Solomillos de pollo
+- 1,26 kg Solomillos de pollo
+- 200 g Secreto ibérico
 - 160 g Pechuga de pavo en lonchas (92 % carne)
 - 70 g Taquitos de jamón serrano
 - 320 g Carne picada magra, mitad ternera y mitad cerdo (pídela en la carnicería y cocínala en 24 horas)
@@ -38,7 +39,7 @@
 - 5 Yogures naturales sin azúcar (de 125 g)
 - 1 Yogur +Proteínas natural (vasitos de 120 g, en packs de 4)
 - 14 Natillas +Proteínas (4 packs de 4)
-- 2 bolas Mozzarella fresca (se usan 160 g)
+- 1 bola Mozzarella fresca (se usan 80 g)
 - 1 bola Mozzarella fresca light (se usan 60 g)
 - 160 ml Leche o bebida de soja sin azúcar
 
@@ -50,19 +51,20 @@
 ## Despensa
 - 320 g Lenteja pardina
 - 120 g Arroz integral
+- 140 g Arroz redondo
 - 140 g Copos de avena
 - 40 g Copos de maíz sin azúcar (para los rebozados)
 - 230 g Pipas de calabaza sin sal
 - 300 g Tomate triturado natural
-- 1 Salsa barbacoa sin azúcar (si no te queda)
+- 1 brik de 1 L Caldo de carne bajo en sal (se usan 600 ml)
 - 1 Vinagre balsámico (si no te queda; no crema de balsámico)
-- 180 ml Aceite de oliva virgen extra (se usan esta semana)
+- 170 ml Aceite de oliva virgen extra (se usan esta semana)
 
 ## Congelados
 - 400 g Guisantes finos congelados
 
 ## Especias y condimentos
-- Comino, Curry en polvo, Cúrcuma, Laurel, Pimentón de la Vera, Pimentón dulce, Vinagre (revisa lo que tienes)
+- Azafrán, Comino, Curry en polvo, Cúrcuma, Laurel, Pimentón de la Vera, Pimentón dulce, Vinagre (revisa lo que tienes)
 - Sal, pimienta, ajo en polvo y cebolla en polvo (básicos)
 
 ## Opcional: Big Mac en casa el sábado (x2)

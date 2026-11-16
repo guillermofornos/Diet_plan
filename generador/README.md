@@ -40,5 +40,6 @@ python3 gen_docs.py 5    # HTML de los Google Docs de la semana 5 en salida/docs
 - Nunca merluza y bacalao en la misma semana, y entre una y otra, al menos una semana sin ninguna de las dos.
 - Nunca el mismo pescado o marisco dos semanas seguidas, ni la misma comida o cena dos semanas seguidas (desde la semana 6).
 - Salmón unas 2 semanas al mes, y al menos una dorada a la sal y una lubina a la sal al mes, sin quitar guisos ni marmitakos para meterlos.
-- `python3 plan.py` comprueba las normas de pescado y de repetición.
+- Una vez al mes, como mínimo, el arroz meloso con secreto ibérico en la Le Creuset.
+- `python3 plan.py` comprueba las normas de pescado, de repetición y las mensuales.
 - Comidas de lunes a viernes en táper, hechas el domingo, con un solo robot (la Mambo de Cecotec) y 3 fuegos.

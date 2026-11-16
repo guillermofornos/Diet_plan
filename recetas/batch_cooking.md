@@ -3,7 +3,7 @@
 *El domingo se cocinan de una vez las comidas de lunes a viernes, que van en táper, y se adelanta lo que se pueda de las cenas. Cantidades para los dos (x2): son las de las recetas multiplicadas por las raciones de cada plato.*
 
 **Normas:**
-- Equipo: olla a presión, olla, sartén, 3 fuegos, horno, airfryer y robot de cocina (vuestra Mambo de Cecotec).
+- Equipo: olla a presión, olla, la Le Creuset, sartén, 3 fuegos, horno, airfryer y robot de cocina (vuestra Mambo de Cecotec).
 - Táperes de lunes a miércoles, a la nevera; los de jueves y viernes, al congelador, y se pasan a la nevera la noche antes.
 - El pescado cocinado se hace el mismo día que se come: en el batch se deja la base o la salsa, y el pescado se cuece ese día.
 - Deja templar la comida antes de guardarla, pero nunca más de 2 horas fuera de la nevera. Etiqueta cada táper con el día.
@@ -204,7 +204,7 @@
 - Albóndigas en salsa con su arroz, 2 raciones (jueves)
 - Guisantes con jamón, 2 raciones (viernes; la patata y el huevo, la noche antes)
 - Solomillos del crispy en la leche (jueves)
-- Solomillos crudos de la barbacoa (sábado), en bolsa
+- Secreto ibérico crudo del arroz del sábado, en bolsa
 
 **Paso a paso:**
 
@@ -221,17 +221,17 @@
 | 0:55 | Fuego 3 · sartén | Quita el laurel de la salsa, mete las albóndigas y cuécelas 10 minutos a fuego suave. |
 | 0:55 | Robot | Crema de calabaza: puerro y cebolla 6 s/vel 6, sofrito 4 min/120 °C/vel 1 y la calabaza, la patata y el agua, 20 min/110 °C/vel 0. |
 | 1:00 | Fuego 2 · sartén | Escurre el arroz y repártelo con las albóndigas. En ese fuego, guisantes con jamón (2 raciones): dora el jamón 1–2 minutos, pocha la cebolleta 4–5 y añade los guisantes congelados 5–7 minutos. Sin patata ni huevo: se ponen el jueves por la noche. |
-| 1:05 | Encimera | Crispy del jueves: los solomillos, un poco aplastados, con la leche, el pimentón y la sal, en una bolsa de congelación. Los solomillos de la barbacoa, crudos, en otra. |
+| 1:05 | Encimera | Crispy del jueves: los solomillos, un poco aplastados, con la leche, el pimentón y la sal, en una bolsa de congelación. El secreto del arroz del sábado, crudo, en otra. |
 | 1:10 | Horno | Echa sobre la patata el pollo del curry mezclado con el huevo, la leche y el curry, 12–15 minutos; luego la mozzarella, 3–4 minutos. Apaga el horno. |
 | 1:15 | Fuego 1 | Abre la olla, mete el pollo de las lentejas 5–6 minutos a fuego suave y rectifica de sal. |
 | 1:20 | Robot | Tritura la crema 1 min/vel 7 y rectifica de sal. |
-| 1:25 | Táperes | Deja templar, reparte y etiqueta: nevera las lentejas, el gratinado, la crema y las verduras de la fajicesta; congelador las albóndigas con su arroz, los guisantes, el crispy y los solomillos de la barbacoa. Para comer: los burritos. |
+| 1:25 | Táperes | Deja templar, reparte y etiqueta: nevera las lentejas, el gratinado, la crema y las verduras de la fajicesta; congelador las albóndigas con su arroz, los guisantes, el crispy y el secreto. Para comer: los burritos. |
 
 **Recordatorios de la semana:**
 - **Lunes 23 por la noche:** Pasa el salmón a la nevera (cena del martes).
 - **Miércoles 25 por la noche:** Pasa a la nevera las albóndigas y el crispy del jueves; cuece 1 huevo y haz la mayonesa proteica (robot, 15 s/vel 5).
-- **Jueves 26 por la noche:** Pasa a la nevera los guisantes del viernes y los solomillos de la barbacoa; añade a los guisantes la patata (300 g en dados, 5–6 minutos de microondas con un poco de agua) y 2 huevos cocidos (10 minutos).
-- **Viernes 27 por la noche:** Deja los solomillos del sábado en el adobo barbacoa.
+- **Jueves 26 por la noche:** Pasa a la nevera los guisantes del viernes; añade a los guisantes la patata (300 g en dados, 5–6 minutos de microondas con un poco de agua) y 2 huevos cocidos (10 minutos).
+- **Viernes 27 por la noche:** Pasa el secreto ibérico a la nevera (arroz meloso del sábado, en la Le Creuset).
 - **Sábado 28:** Mira la fecha del pulpo cocido (comida del domingo): si caduca antes, cómpralo hoy con la compra de la semana siguiente.
 
 ---
@@ -320,13 +320,13 @@
 - **Miércoles 9 por la noche:** Pasa a la nevera la tofuloñesa del jueves y el salmón de la cena.
 - **Jueves 10 por la noche:** Pasa los guisantes del viernes a la nevera y añádeles la patata (300 g en dados, 5–6 minutos de microondas con un poco de agua) y 2 huevos cocidos (10 minutos).
 - **Viernes 11 por la noche:** Pasa la sepia a la nevera (guiso del sábado). Si la quieres más tierna, mañana déjala 1 hora en leche antes de cocinarla.
-- **Sábado 12:** Con la compra de la semana siguiente, coge las 2 lubinas frescas, enteras y sin escamar, para la comida del domingo. Haz la crema de calabaza en el robot (25 minutos) para la cena del domingo y guárdala en la nevera.
+- **Sábado 12:** Con la compra de la semana siguiente, coge las 2 lubinas frescas, enteras y sin escamar, para la comida del domingo. Haz la crema de boniato con el pollo en el robot (unos 40 minutos) para la cena del domingo y guárdala en la nevera; el huevo pochado, al momento.
 
 ---
 
 ## Semana 10 (14 – 20 dic) · Domingo 13 de diciembre
 
-*Duración: 1 h 40 min, aproximadamente, con la lubina a la sal de la comida en el horno al final. Esa noche cenas la crema de calabaza (hecha el sábado).*
+*Duración: 1 h 40 min, aproximadamente, con la lubina a la sal de la comida en el horno al final. Esa noche cenas la crema de boniato con pollo (hecha el sábado).*
 
 **A la nevera:**
 - Lentejas con pollo, 4 raciones (lunes y martes)

@@ -9,18 +9,18 @@
 | **Miércoles 25 nov (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Gratinado de patata y pollo al curry | Natillas +Proteínas con kiwi y pipas | 🤖 Crema de calabaza con pipas y tortilla de claras con pavo | ≈1671 kcal · 143 g prot. |
 | **Jueves 26 nov (E)** | Batido de plátano, avena y claras + kiwi | 🤖 Albóndigas caseras en salsa de tomate con arroz integral | Natillas +Proteínas con plátano y pipas | 🎬 Crispy chicken burger con mayonesa proteica | ≈1915 kcal · 139 g prot. |
 | **Viernes 27 nov (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🎬 Guisantes con jamón, patata y huevo (táper) | Natillas +Proteínas con plátano y pipas | **Cena fuera** + *cervezas* | ≈1189 kcal · 66 g prot. + cena fuera |
-| **Sábado 28 nov (D)** | Tostada integral con aguacate y huevo | 🎬 Solomillos al adobo barbacoa con patatas y ensalada de granada | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1133 kcal · 85 g prot. + cena fuera |
+| **Sábado 28 nov (D)** | Tostada integral con aguacate y huevo | Arroz meloso con secreto ibérico | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1182 kcal · 53 g prot. + cena fuera |
 | **Domingo 29 nov (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Pulpo a la gallega con cachelos | Natillas +Proteínas con kiwi y pipas | 🤖 Sopa cremosa de pollo con huevo pochado | ≈1598 kcal · 134 g prot. |
 
 **Batch cooking del domingo 22 de noviembre:** 1 h 35 min, aproximadamente. Ese día, además, comes los burritos y cenas la crema de zanahoria con calamar (la crema, en el robot al terminar). Paso a paso en `recetas/batch_cooking.md`.
 - **A la nevera:** Lentejas con pollo, 4 raciones (lunes y martes); Gratinado de patata y pollo al curry, 2 raciones (miércoles); Crema de calabaza, 2 raciones (cena del miércoles); Verduras picadas de la fajicesta (lunes).
-- **Al congelador** (pásalo a la nevera la noche antes): Albóndigas en salsa con su arroz, 2 raciones (jueves); Guisantes con jamón, 2 raciones (viernes; la patata y el huevo, la noche antes); Solomillos del crispy en la leche (jueves); Solomillos crudos de la barbacoa (sábado), en bolsa.
+- **Al congelador** (pásalo a la nevera la noche antes): Albóndigas en salsa con su arroz, 2 raciones (jueves); Guisantes con jamón, 2 raciones (viernes; la patata y el huevo, la noche antes); Solomillos del crispy en la leche (jueves); Secreto ibérico crudo del arroz del sábado, en bolsa.
 
 **Recordatorios de la semana:**
 - **Lunes 23 por la noche:** Pasa el salmón a la nevera (cena del martes).
 - **Miércoles 25 por la noche:** Pasa a la nevera las albóndigas y el crispy del jueves; cuece 1 huevo y haz la mayonesa proteica (robot, 15 s/vel 5).
-- **Jueves 26 por la noche:** Pasa a la nevera los guisantes del viernes y los solomillos de la barbacoa; añade a los guisantes la patata (300 g en dados, 5–6 minutos de microondas con un poco de agua) y 2 huevos cocidos (10 minutos).
-- **Viernes 27 por la noche:** Deja los solomillos del sábado en el adobo barbacoa.
+- **Jueves 26 por la noche:** Pasa a la nevera los guisantes del viernes; añade a los guisantes la patata (300 g en dados, 5–6 minutos de microondas con un poco de agua) y 2 huevos cocidos (10 minutos).
+- **Viernes 27 por la noche:** Pasa el secreto ibérico a la nevera (arroz meloso del sábado, en la Le Creuset).
 - **Sábado 28:** Mira la fecha del pulpo cocido (comida del domingo): si caduca antes, cómpralo hoy con la compra de la semana siguiente.
 
 **Dónde está cada receta:**
