@@ -28,6 +28,7 @@ M = {
  "zanahoria": ("Fruta y verdura", "Zanahorias", lambda v: (g(v), "")),
  "tomate": ("Fruta y verdura", "Tomates", lambda v: (g(v), "incluye cherrys")),
  "patata": ("Fruta y verdura", "Patatas", lambda v: (g(v), "")),
+ "boniato": ("Fruta y verdura", "Boniatos", lambda v: (g(v), "")),
  "ajetes": ("Fruta y verdura", "Ajos frescos (ajetes)", lambda v: (g(v), "un manojo pequeño")),
  "calabaza": ("Fruta y verdura", "Calabaza", lambda v: (g(v), "pelada")),
  "puerro": ("Fruta y verdura", "Puerros", lambda v: (g(v), "")),

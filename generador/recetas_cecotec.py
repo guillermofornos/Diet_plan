@@ -161,18 +161,18 @@ R["SOPA"] = dict(tipo="cena", nombre="Sopa cremosa de pollo con huevo pochado", 
           "Sin robot (como la receta original): todo en una olla cubierto de agua, 30 minutos a fuego medio; saca la pechuga, tritura las verduras con la batidora, desmiga la pechuga y vuelve a echarla."])
 R["SOPA"]["batch"] = "La sopa, en el robot (unos 40 minutos) al terminar el batch o el mismo día; se guarda 3 días en la nevera. El huevo pochado, al momento."
 
-R["CASTA"] = dict(tipo="cena", nombre="Crema de castañas y puerro con pollo y huevo pochado", fuente="Receta de Instagram (código MAYDEN), pasada a vuestra Mambo", robot=True,
+R["CASTA"] = dict(tipo="cena", nombre="Crema de boniato y puerro con pollo y huevo pochado", fuente="Receta de Instagram (código MAYDEN), pasada a vuestra Mambo", robot=True,
    tupper="La crema, 3 días en la nevera o congelada (sin el huevo); el huevo pochado, siempre al momento",
    grupos=[("Crema", [("cebolla", 60, "{60} g de cebolla"), ("puerro", 120, "{120} g de puerro (la parte blanca y algo de la verde; unos {2|puerro|puerros})"),
-       ("aove", 3, "{3} ml de AOVE (unas pulverizaciones de spray)"), ("castanas", 75, "{75} g de castañas asadas y peladas"),
+       ("aove", 3, "{3} ml de AOVE (unas pulverizaciones de spray)"), ("boniato", 150, "{150} g de boniato pelado, en dados (en vez de las castañas; si encuentras castañas asadas y peladas, {75} g)"),
        ("pechuga", 180, "{180} g de pechuga de pollo entera"), (None, 0, "{450} ml de agua"), ("x:Sal", 0, "Sal y pimienta")]),
      ("Para servir", [("huevo", 55, "{1|huevo|huevos} para pochar"), ("x:Vinagre", 0, "Un chorrito de vinagre para el agua del huevo")])],
    pasos=["Trocea en el robot la cebolla y el puerro: 5 segundos a velocidad 5. Añade el aceite y pocha 8 minutos a 120 °C y velocidad 1.",
-          "Añade las castañas: 3 minutos a 120 °C y velocidad 1.",
-          "Pon la mariposa y añade las pechugas enteras, la sal, la pimienta y el agua: 20–25 minutos a 100 °C y velocidad 1, con giro inverso. Comprueba que la pechuga está hecha por dentro.",
+          "Añade el boniato: 3 minutos a 120 °C y velocidad 1.",
+          "Pon la mariposa y añade las pechugas enteras, la sal, la pimienta y el agua: 20–25 minutos a 100 °C y velocidad 1, con giro inverso. Comprueba que la pechuga está hecha por dentro y el boniato, tierno.",
           "Saca las pechugas, quita la mariposa, pon el cubilete y tritura la crema 1 minuto subiendo de velocidad 5 a 10. Si queda muy espesa, un poco de agua caliente.",
           "Corta la pechuga en tiras (o desmígala) para servirla con la crema.",
           "Huevo pochado (uno por persona): en un cazo con agua a punto de hervir y el vinagre, haz un remolino y echa el huevo en el centro; 3 minutos y sácalo con una espumadera. En el microondas: en una taza con agua que lo cubra, tapado, unos 60 segundos a 800 W.",
           "Sirve la crema con el pollo y el huevo encima.",
-          "Sin robot (como la receta original): pocha la cebolla y el puerro en una olla, añade las castañas unos minutos, luego la pechuga, las especias y el agua, 20 minutos a fuego medio-fuerte; saca la pechuga y tritura."])
+          "Sin robot (como la receta original): pocha la cebolla y el puerro en una olla, añade el boniato (o las castañas) unos minutos, luego la pechuga, las especias y el agua, 20 minutos a fuego medio-fuerte; saca la pechuga y tritura."])
 R["CASTA"]["batch"] = "La crema con la pechuga, en el robot (unos 40 minutos) el día antes o el mismo día; se guarda 3 días en la nevera. El huevo pochado, al momento."
