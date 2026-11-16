@@ -19,6 +19,7 @@ T = {
  "lubina":       dict(n=(55, 9.2, 1.9, 0.0)),    # entera de ración, sin limpiar (≈50 % comestible)
  "dorada_sal":   dict(n=(47, 8.7, 1.4, 0.0)),    # como "dorada", pero entera y sin escamar (para hacerla a la sal)
  "caldo_pesc":   dict(n=(5, 0.5, 0.1, 0.3)),
+ "castanas":     dict(n=(245, 3.2, 2.2, 53.0)),  # castañas asadas y peladas (USDA)
  "ajetes":       dict(n=(30, 1.8, 0.2, 5.0)),    # ajos frescos
  "atun":         dict(n=(105, 24.0, 1.0, 0.0)),
  "tofu":         dict(n=(110, 11.1, 6.5, 1.0)),   # tofu firme Hacendado (OFF)

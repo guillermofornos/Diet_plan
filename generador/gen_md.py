@@ -8,7 +8,7 @@ REPO = Path(__file__).resolve().parent.parent   # el repositorio Diet_plan
 MESES = {"10": "oct", "11": "nov", "12": "dic"}
 COMIDAS = ["LENT1", "LENT2", "PILPIL", "VIZCA_A", "RIOJ", "RAPE", "SEPIA", "FISHCHIPS", "DORADA", "LUBSAL", "PULPO", "GCAL", "ARRGAMB", "TOFU", "GUIS_T", "BBQ", "CURRY", "BURR"]
 CENAS = ["MERTAC", "SALM1", "SALM2", "DORSAL", "TOR", "PZA", "FCE", "TOM", "FPZ", "BEX"]   # sin atún: fuera los tacos de atún y la ensaladilla
-ROBOT = ["LENTJ", "POTG", "JARD", "ARRPOL", "ALBON", "TERESC", "RISOT", "CREMCAL", "CREMZAN", "SOPA"]
+ROBOT = ["LENTJ", "POTG", "JARD", "ARRPOL", "ALBON", "TERESC", "RISOT", "CREMCAL", "CREMZAN", "SOPA", "CASTA"]
 VARIANTES = {"TOFU": "TOFU_D"}
 FICHERO = {**{k: "recetas_videos_internet.md" for k in COMIDAS + CENAS + ["TOFU_D"]},
            **{k: "fast_food_saludable.md" for k in ["TAC", "CRI", "FAJ", "KEB", "FIN", "FF2"]},

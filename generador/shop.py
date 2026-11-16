@@ -92,6 +92,7 @@ M = {
  "alcaparras": ("Despensa", "Alcaparras", lambda v: ("1 bote", f"se usan {g(v)}")),
  "aceitunas": ("Despensa", "Aceitunas negras", lambda v: ("1 lata", f"se usan {g(v)}")),
  "guisantes": ("Congelados", "Guisantes finos congelados", lambda v: (g(v), "")),
+ "castanas": ("Despensa", "Castañas asadas y peladas (envasadas)", lambda v: (g(v), "")),
  "caldo_pesc": ("Despensa", "Caldo de pescado bajo en sal", lambda v: (f"{ud(v,1000)} brik{'s' if ud(v,1000) > 1 else ''} de 1 L", f"se usan {ml(v)}")),
  "judias_verdes": ("Congelados", "Judías verdes troceadas congeladas", lambda v: (g(v), "")),
  "soja": ("Despensa", "Salsa de soja baja en sodio", lambda v: ("1", "si no te queda")),

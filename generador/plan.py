@@ -131,6 +131,7 @@ CAMBIOS = {
  "DORSAL": "Doradas de ración (una por persona) en vez de una pieza de 2 kg, a 190 °C como recomienda la receta para piezas pequeñas; sin mayonesa ni alioli: patata cocida con AOVE y una ensalada de tomate para que sea un plato completo.",
  "SALM1": "Medio diente de ajo por persona en vez de uno y medio (ajo 43 en tu test) y el aceite medido. Salmón: 45 en tu test, lo comes con moderación (decisión tuya del 15 de noviembre). La receta es para 4: cantidades pasadas a 2.",
  "SALM2": "Zanahoria en tiras en vez de calabacín y medio diente de ajo; el salmón, pesado (150 g por persona; la receta no lo dice). Salmón: 45 en tu test, con moderación. La receta es para 1: cantidades pasadas a 2.",
+ "CASTA": "Pasada a vuestra Mambo; la mitad de castañas y menos agua (2 L para dos no caben en el vaso y la crema quedaba en unas 800 kcal por persona); un huevo pochado por persona en vez de uno para los dos. Las castañas no salen en tu test (los frutos secos que evitas son nueces, almendras y avellanas).",
  "SOPA": "Pasada a vuestra Mambo (la original se hace en una olla); un huevo pochado por persona en vez de uno para los dos; la pechuga, pesada (unos 180 g por persona) y las especias, concretadas.",
  "RISOT": "Con pollo; sin mantequilla (45) ni parmesano (queso curado 55): un poco de mozzarella fresca al final; sin vino; más puerro y setas (no champiñón, 43 en tu test); menos jamón y caldo bajo en sal.",
 }

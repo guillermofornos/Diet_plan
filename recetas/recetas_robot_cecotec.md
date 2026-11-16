@@ -322,3 +322,35 @@
 *Tupper:* La sopa, 3 días en la nevera o congelada (sin el huevo); el huevo pochado, siempre al momento.
 *Batch cooking:* La sopa, en el robot (unos 40 minutos) al terminar el batch o el mismo día; se guarda 3 días en la nevera. El huevo pochado, al momento.
 *Cambios respecto a la fuente:* Pasada a vuestra Mambo (la original se hace en una olla); un huevo pochado por persona en vez de uno para los dos; la pechuga, pesada (unos 180 g por persona) y las especias, concretadas.
+
+---
+
+### Crema de castañas y puerro con pollo y huevo pochado
+*Fuente: Receta de Instagram (código MAYDEN), pasada a vuestra Mambo · ≈ 582 kcal · 53 g proteína · 59 g HC · 13 g grasa · por persona*
+
+**Ingredientes (Crema):**
+- 120 g de cebolla.
+- 240 g de puerro (la parte blanca y algo de la verde; unos 4 puerros).
+- 6 ml de AOVE (unas pulverizaciones de spray).
+- 150 g de castañas asadas y peladas.
+- 360 g de pechuga de pollo entera.
+- 900 ml de agua.
+- Sal y pimienta.
+
+**Ingredientes (Para servir):**
+- 2 huevos para pochar.
+- Un chorrito de vinagre para el agua del huevo.
+
+**Instrucciones:**
+1. Trocea en el robot la cebolla y el puerro: 5 segundos a velocidad 5. Añade el aceite y pocha 8 minutos a 120 °C y velocidad 1.
+2. Añade las castañas: 3 minutos a 120 °C y velocidad 1.
+3. Pon la mariposa y añade las pechugas enteras, la sal, la pimienta y el agua: 20–25 minutos a 100 °C y velocidad 1, con giro inverso. Comprueba que la pechuga está hecha por dentro.
+4. Saca las pechugas, quita la mariposa, pon el cubilete y tritura la crema 1 minuto subiendo de velocidad 5 a 10. Si queda muy espesa, un poco de agua caliente.
+5. Corta la pechuga en tiras (o desmígala) para servirla con la crema.
+6. Huevo pochado (uno por persona): en un cazo con agua a punto de hervir y el vinagre, haz un remolino y echa el huevo en el centro; 3 minutos y sácalo con una espumadera. En el microondas: en una taza con agua que lo cubra, tapado, unos 60 segundos a 800 W.
+7. Sirve la crema con el pollo y el huevo encima.
+8. Sin robot (como la receta original): pocha la cebolla y el puerro en una olla, añade las castañas unos minutos, luego la pechuga, las especias y el agua, 20 minutos a fuego medio-fuerte; saca la pechuga y tritura.
+
+*Tupper:* La crema, 3 días en la nevera o congelada (sin el huevo); el huevo pochado, siempre al momento.
+*Batch cooking:* La crema con la pechuga, en el robot (unos 40 minutos) el día antes o el mismo día; se guarda 3 días en la nevera. El huevo pochado, al momento.
+*Cambios respecto a la fuente:* Pasada a vuestra Mambo; la mitad de castañas y menos agua (2 L para dos no caben en el vaso y la crema quedaba en unas 800 kcal por persona); un huevo pochado por persona en vez de uno para los dos. Las castañas no salen en tu test (los frutos secos que evitas son nueces, almendras y avellanas).

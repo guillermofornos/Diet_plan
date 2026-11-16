@@ -20,5 +20,8 @@ Dado que quieres perder peso rápidamente (10 kg en 2 meses) y conservar múscul
 *   **Tipo:** Bisglicinato de Magnesio (evita el óxido de magnesio que actúa como laxante).
 
 ### 4. Omega 3
-*   **Por qué:** Antiinflamatorio natural, protege el corazón y mejora la salud cognitiva. Ya que hemos quitado nueces y semillas ricas en Omega 3 de tu dieta por intolerancia, y el salmón, las sardinas y la caballa también te salen altos en el test (45), suplementar es buena idea (si prefieres no tomar nada de pescado, existe omega 3 de algas).
-*   **Dosis:** 1-2 perlas al día con alguna comida que contenga algo de grasa.
+*   **Por qué:** Antiinflamatorio natural, bueno para el corazón y los triglicéridos (no ayuda a perder grasa ni a ganar músculo por sí solo). Lo que cuenta es el EPA + DHA: se recomiendan unos 250–500 mg al día, lo que darían 1–2 raciones de pescado azul a la semana. Comes salmón una vez cada dos semanas (desde el 15/11/2026; sale 45 en tu test y lo tomas con moderación), y sardinas y caballa no, así que con la dieta te quedas en unos 150–200 mg al día.
+*   **Cuál:** Omega 3 de MyProtein: cada cápsula blanda lleva 300 mg de omega 3 (180 mg de EPA y 120 mg de DHA). Si un día notas que te sienta mal (el aceite sale de pescados como la sardina o la anchoa, aunque refinado apenas lleva proteína), existe omega 3 de algas.
+*   **Dosis:** 1 cápsula al día las semanas que comes salmón y 2 las semanas que no (o 2 siempre: son 600 mg, muy por debajo de cualquier límite).
+*   **Cuándo:** con la comida o la cena (algo de grasa ayuda a absorberlo y repite menos). Si te repite, guarda el bote en la nevera.
+*   **Ojo:** si tomas aspirina o anticoagulantes, coméntalo antes con tu médico.
