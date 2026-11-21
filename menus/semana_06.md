@@ -4,8 +4,8 @@
 
 | Día | Desayuno | Comida | Merienda | Cena | Total del día |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Lunes 16 nov (E)** | Batido de plátano, avena y claras + kiwi | 🎬 Lentejas con calabaza al curry y pavo | Natillas +Proteínas con plátano y pipas | 🎬 Kebab de pollo con patatas y salsa blanca | ≈1958 kcal · 156 g prot. |
-| **Martes 17 nov (E)** | Tostada integral con aguacate y huevo + yogur | 🎬 Lentejas con calabaza al curry y pavo | Natillas +Proteínas con plátano y pipas | 🎬 Tacos de zanahoria con pollo | ≈1906 kcal · 150 g prot. |
+| **Lunes 16 nov (E)** | Batido de plátano, avena y claras + kiwi | 🎬 Lentejas con calabaza al curry y huevo cocido | Natillas +Proteínas con plátano y pipas | 🎬 Kebab de pollo con patatas y salsa blanca | ≈1958 kcal · 134 g prot. |
+| **Martes 17 nov (E)** | Tostada integral con aguacate y huevo + yogur | 🎬 Lentejas con calabaza al curry y huevo cocido | Natillas +Proteínas con plátano y pipas | 🎬 Tacos de zanahoria con pollo | ≈1906 kcal · 128 g prot. |
 | **Miércoles 18 nov (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🤖 Ternera a la jardinera (guiso con patata, zanahoria y guisantes) | Natillas +Proteínas con kiwi y pipas | 🎬 Fajitas de pollo con pan nube | ≈1671 kcal · 141 g prot. |
 | **Jueves 19 nov (E)** | Batido proteico + tostada integral y kiwi | 🤖 Arroz caldoso con pollo y judías verdes | Natillas +Proteínas con plátano y pipas | 🎬 Pizza de avena y yogur proteico con jamón cocido | ≈1920 kcal · 122 g prot. |
 | **Viernes 20 nov (E)** | Batido de plátano, avena y claras + kiwi | 🎬 Espaguetis a la tofuloñesa | Natillas +Proteínas con plátano y pipas | **Cena fuera** + *cervezas* | ≈1349 kcal · 84 g prot. + cena fuera |

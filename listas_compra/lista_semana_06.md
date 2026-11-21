@@ -24,11 +24,10 @@
 - Perejil
 
 ## Carne, huevos y tofu
-- docena y media Huevos (se usan 13)
+- 2 docenas Huevos (se usan 21)
 - 940 ml Claras de huevo pasteurizadas
 - 900 g Pechuga de pollo
 - 660 g Solomillos de pollo
-- 600 g Pechuga o solomillo de pavo
 - 40 g Taquitos de jamón serrano
 - 140 g Jamón cocido extra
 - 500 g Tofu firme (2 bloques de 400 g)

@@ -1,7 +1,7 @@
 """HTML sencillo (sin CSS) para crear Google Docs: lista de la compra y menú+recetas de una semana."""
 import html, re, sys
 from pathlib import Path
-from plan import R, SEMANAS, DIAS, TIPO, FUERA, CAMBIOS, PREP, BATCH, NORMAS, NOTA_COMPRA, total_dia
+from plan import R, SEMANAS, DIAS, TIPO, FUERA, LIBRE, CAMBIOS, PREP, BATCH, NORMAS, NOTA_COMPRA, total_dia
 from shop import lista, opcional_bigmac
 from lib import texto, macros_receta
 e = html.escape
@@ -47,9 +47,11 @@ def doc_recetas(s):
     orden = []
     for i, fila in enumerate(s["filas"]):
         kc, p = total_dia(fila)
-        b.append(f"<h3>{DIAS[i]} {fecha(s['fechas'][i])} ({TIPO[i]}) · ≈{kc:.0f} kcal, {p:.0f} g prot.{' + cena fuera' if fila[3] == FUERA else ''}</h3><ul>")
+        b.append(f"<h3>{DIAS[i]} {fecha(s['fechas'][i])} ({TIPO[i]}) · ≈{kc:.0f} kcal, {p:.0f} g prot.{' + cena fuera' if fila[3] == FUERA else ' + comida y cena libres' if fila[3] == LIBRE else ''}</h3><ul>")
         for slot, k in zip(["Desayuno", "Comida", "Merienda", "Cena"], fila):
-            if k == FUERA:
+            if k == LIBRE:
+                b.append(f"<li><b>{slot}:</b> libre</li>")
+            elif k == FUERA:
                 b.append(f"<li><b>{slot}:</b> cena fuera + cervezas" + (" (o en casa: Big Mac Fit)" if i == 5 else "") + "</li>")
                 if i == 5 and "FF2" not in orden: orden.append("FF2")
             else:

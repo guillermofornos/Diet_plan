@@ -4,7 +4,7 @@
 
 | Día | Desayuno | Comida | Merienda | Cena | Total del día |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Lunes 26 oct (E)** | Tostada integral con aguacate y huevo + yogur | 🎬 Lentejas estofadas con pollo y verduras | Natillas +Proteínas con plátano y pipas | 🎬 Fajicesta de huevo, verduras y pavo | ≈1891 kcal · 138 g prot. |
+| **Lunes 26 oct (E)** | Tostada integral con aguacate y huevo + yogur | 🎬 Lentejas estofadas con pollo y verduras | Natillas +Proteínas con plátano y pipas | 🎬 Fajicesta de huevo, verduras y jamón | ≈1893 kcal · 138 g prot. |
 | **Martes 27 oct (E)** | Batido proteico + tostada integral y kiwi | 🎬 Lentejas estofadas con pollo y verduras | Natillas +Proteínas con plátano y pipas | 🎬 Pizza de avena y yogur proteico con jamón cocido | ≈2036 kcal · 137 g prot. |
 | **Miércoles 28 oct (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Bacalao al pil pil con patata y pimiento asado | Natillas +Proteínas con kiwi y pipas | 🎬 Fajitas de pollo con pan nube | ≈1564 kcal · 129 g prot. |
 | **Jueves 29 oct (E)** | Batido de plátano, avena y claras + kiwi | 🎬 Espaguetis a la tofuloñesa | Natillas +Proteínas con plátano y pipas | 🎬 Kebab de pollo con patatas y salsa blanca | ≈1928 kcal · 138 g prot. |

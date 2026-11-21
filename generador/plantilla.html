@@ -89,6 +89,7 @@ main{padding-block:16px 40px}
 .meals>li+li{border-top:1px solid var(--line)}
 .meal>summary{list-style:none;display:grid;grid-template-columns:5.4rem minmax(0,1fr) 14px;gap:10px;align-items:baseline;padding:12px 16px;cursor:pointer}
 .meal>summary::-webkit-details-marker{display:none}
+.meal-free{display:grid;grid-template-columns:5.4rem minmax(0,1fr);gap:10px;align-items:baseline;padding:12px 16px}
 .meal>summary:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
 .slot{font-family:var(--font-display);font-weight:600;font-size:.86rem;letter-spacing:.07em;text-transform:uppercase;color:var(--muted)}
 .dish{min-width:0}
@@ -358,13 +359,18 @@ main{padding-block:16px 40px}
         el("h2", { id: "h-" + d.fecha }, d.nombre + " ", el("span", { text: d.n + " " + d.mes })),
         el("span", { class: "pill " + (d.tipo === "E" ? "pill-e" : "pill-d"), text: d.tipo === "E" ? "Entreno" : "Descanso" }));
       if (d.fecha === today) { sec.classList.add("is-today"); head.append(el("span", { class: "pill pill-today", text: "Hoy" })); }
-      var tgt = el("span", { class: "target" }, el("b", { text: "≈" + d.kcal + " kcal" }), " · " + d.prot + " g prot." + (d.fuera ? " + cena fuera" : ""));
+      var tgt = el("span", { class: "target" }, el("b", { text: "≈" + d.kcal + " kcal" }), " · " + d.prot + " g prot." + (d.fuera ? " + cena fuera" : d.libre ? " + comida y cena libres" : ""));
       head.append(tgt);
       sec.append(head);
       d.prep.forEach(function (t) { sec.append(el("p", { class: "prep" }, el("strong", { text: "Preparación: " }), t)); });
       var ul = el("ul", { class: "meals" });
       d.comidas.forEach(function (m) {
         var sum, body;
+        if (m[1] === "LIBRE") {
+          ul.append(el("li", null, el("div", { class: "meal meal-free" }, el("span", { class: "slot", text: m[0] }),
+            el("span", { class: "dish" }, "Libre", el("small", { text: "Sin plan: lo que os apetezca" })))));
+          return;
+        }
         if (m[1] === "FUERA") {
           var sab = d.nombre === "Sábado";
           var dish = el("span", { class: "dish" }, sab ? "Cena fuera: hamburguesa + cervezas" : "Cena fuera + cervezas");

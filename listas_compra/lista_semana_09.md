@@ -10,12 +10,12 @@
 - 10 Plátanos (desayunos y meriendas)
 - 12 Kiwis (desayunos y meriendas)
 - 3 Aguacates (unos 380 g de pulpa)
-- 540 g Pimientos rojos o de colores
+- 660 g Pimientos rojos o de colores
 - 220 g Pimientos verdes italianos
-- 1,3 kg Cebollas (incluye cebolleta y morada)
-- 840 g Zanahorias
-- 360 g Tomates (incluye cherrys)
-- 2,06 kg Patatas
+- 1,18 kg Cebollas (incluye cebolleta y morada)
+- 720 g Zanahorias
+- 960 g Tomates (incluye cherrys)
+- 1,76 kg Patatas
 - 300 g Boniatos
 - 600 g Calabaza (pelada)
 - 360 g Puerros
@@ -25,28 +25,27 @@
 - Perejil
 
 ## Carne, huevos y tofu
-- 2 docenas Huevos (se usan 18)
-- 500 ml Claras de huevo pasteurizadas
+- 3 docenas Huevos (se usan 30)
+- 600 ml Claras de huevo pasteurizadas
 - 940 g Pechuga de pollo
-- 700 g Solomillos de pollo
-- 600 g Pechuga o solomillo de pavo
+- 860 g Solomillos de pollo
 - 20 g Taquitos de jamón serrano
 - 500 g Tofu firme (2 bloques de 400 g)
 - 340 g Ternera en una pieza para escalfar (redondo, tapa o contra)
 
 ## Pescado
 - 400 g Sepia limpia congelada (o sepias pequeñas)
-- 300 g Lomos de salmón (frescos o congelados)
 - 2 Lubinas de ración, enteras y sin escamar (de unos 350–400 g cada una; que te las vacíen, pero con escamas)
 
 ## Lácteos
 - 9 Yogures naturales sin azúcar (de 125 g)
 - 14 Natillas +Proteínas (4 packs de 4)
 - 3 bolas Mozzarella fresca (se usan 260 g)
+- 1 bola Mozzarella fresca light (se usan 60 g)
 - 80 ml Leche o bebida de soja sin azúcar
 
 ## Pan y tortillas
-- 640 g Pan integral (100% integral)
+- 720 g Pan integral (100% integral)
 
 ## Despensa
 - 320 g Lenteja pardina
@@ -62,7 +61,7 @@
 - 1 Vinagre balsámico (si no te queda; no crema de balsámico)
 - 1 brik de 1 L Caldo de pollo bajo en sal (se usan 600 ml)
 - 1 brik de 1 L Caldo de verduras bajo en sal (se usan 300 ml)
-- 150 ml Aceite de oliva virgen extra (se usan esta semana)
+- 140 ml Aceite de oliva virgen extra (se usan esta semana)
 - Sal gruesa (unos 2 kg para la costra; si no os queda)
 
 ## Congelados
@@ -70,7 +69,7 @@
 - 140 g Judías verdes troceadas congeladas
 
 ## Especias y condimentos
-- Ajo, Chipotle o pimentón picante, Curry en polvo, Jengibre, Laurel, Pimentón dulce, Romero, Vinagre (revisa lo que tienes)
+- Chipotle o pimentón picante, Curry en polvo, Jengibre, Laurel, Pimentón dulce, Romero, Vinagre (revisa lo que tienes)
 - Sal, pimienta, ajo en polvo y cebolla en polvo (básicos)
 
 ## Opcional: Big Mac en casa el sábado (x2)

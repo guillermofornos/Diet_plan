@@ -22,6 +22,8 @@ Estos alimentos no aparecerán en tus recetas ni listas de la compra.
     *   Almendras (60) - *El valor más alto de todo el test. Ojo también con la bebida de almendras: para el porridge usa agua o bebida de soja/avena.*
     *   Nueces (48) - *Evitar del todo, también cuando vienen dentro de otros productos (pan con nueces, granola, mezclas de frutos secos).*
     *   Avellanas (47)
+*   **Carne:**
+    *   Pavo - *No sale en el test, pero no lo quieres en ningún plato, ni en comidas ni en cenas (decisión tuya del 21/11/2026).*
 *   **Pescados y Marisco:**
     *   Caballa (45)
     *   Salmón (45) - *Decisión tuya del 15/11/2026: sí, con moderación, unas 2 semanas al mes.*

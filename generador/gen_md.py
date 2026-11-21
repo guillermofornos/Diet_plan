@@ -1,14 +1,14 @@
 """Genera los Markdown del repo a partir del plan."""
 from pathlib import Path
-from plan import R, SEMANAS, DIAS, TIPO, FUERA, CAMBIOS, PREP, BATCH, NORMAS, NOTA_COMPRA, total_dia
+from plan import R, SEMANAS, DIAS, TIPO, FUERA, LIBRE, CAMBIOS, PREP, BATCH, NORMAS, NOTA_COMPRA, total_dia
 from shop import lista, opcional_bigmac
 from lib import texto, macros_receta
 
 REPO = Path(__file__).resolve().parent.parent   # el repositorio Diet_plan
 MESES = {"10": "oct", "11": "nov", "12": "dic"}
-COMIDAS = ["LENT1", "LENT2", "PILPIL", "VIZCA_A", "RIOJ", "RAPE", "SEPIA", "FISHCHIPS", "DORADA", "LUBSAL", "PULPO", "RODA", "GCAL", "ARRGAMB", "ARRSEC", "PAVOG", "TOFU", "GUIS_T", "BBQ", "CURRY", "TERI", "BURR"]
-CENAS = ["MERTAC", "SALM1", "SALM2", "DORSAL", "TOR", "PZA", "FCE", "TOM", "FPZ", "BEX"]   # sin atún: fuera los tacos de atún y la ensaladilla
-ROBOT = ["LENTJ", "POTG", "JARD", "ARRPOL", "ALBON", "TERESC", "RISOT", "CREMCAL", "CREMZAN", "SOPA", "CASTA"]
+COMIDAS = ["LENT1", "LENT2", "PILPIL", "VIZCA_A", "RIOJ", "RAPE", "SEPIA", "FISHCHIPS", "DORADA", "LUBSAL", "PULPO", "RODA", "GCAL", "ARRGAMB", "ARRSEC", "CARNEG", "TOFU", "GUIS_T", "BBQ", "CURRY", "TERI", "BURR"]
+CENAS = ["MERTAC", "SALM1", "SALM2", "DORSAL", "TOR", "PZA", "FCE", "TOM", "FPZ", "BEX", "CENAV"]   # sin atún: fuera los tacos de atún y la ensaladilla
+ROBOT = ["LENTJ", "POTG", "JARD", "ARRPOL", "ALBON", "TERESC", "RISOT", "CREMCAL", "CREMZAN", "CREMVER", "SOPA", "CASTA"]
 VARIANTES = {"TOFU": "TOFU_D"}
 FICHERO = {**{k: "recetas_videos_internet.md" for k in COMIDAS + CENAS + ["TOFU_D"]},
            **{k: "fast_food_saludable.md" for k in ["TAC", "CRI", "FAJ", "KEB", "FIN", "FF2"]},
@@ -80,9 +80,9 @@ def menu_md(s):
     for i, fila in enumerate(s["filas"]):
         d, c, m, ce = fila
         kc, p = total_dia(fila)
-        nom = lambda k: ("🎬 " if R[k].get("url") else "🤖 " if R[k].get("robot") else "🎬 " if R[k].get("url2") else "") + R[k]["nombre"]
+        nom = lambda k: "**Libre**" if k == LIBRE else ("🎬 " if R[k].get("url") else "🤖 " if R[k].get("robot") else "🎬 " if R[k].get("url2") else "") + R[k]["nombre"]
         cena = "**Cena fuera** + *cervezas*" + (" — o en casa: 🎬 Big Mac Fit" if i == 5 else "") if ce == FUERA else nom(ce)
-        tot = f"≈{kc:.0f} kcal · {p:.0f} g prot." + (" + cena fuera" if ce == FUERA else "")
+        tot = f"≈{kc:.0f} kcal · {p:.0f} g prot." + (" + cena fuera" if ce == FUERA else " + comida y cena libres" if ce == LIBRE else "")
         out.append(f"| **{DIAS[i]} {fecha(s['fechas'][i])} ({TIPO[i]})** | {nom(d)} | {nom(c)} | {nom(m)} | {cena} | {tot} |")
     b = BATCH[s["num"]]
     out += ["", f"**Batch cooking del {b['dia'].lower()}:** {b['duracion']}. Paso a paso en `recetas/batch_cooking.md`.",

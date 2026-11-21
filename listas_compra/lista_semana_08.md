@@ -11,12 +11,12 @@
 - 14 Kiwis (desayunos y meriendas)
 - 1 trozo Piña natural (unos 60 g)
 - 2 Aguacates (unos 260 g de pulpa)
-- 700 g Pimientos rojos o de colores
+- 460 g Pimientos rojos o de colores
 - 450 g Pimientos verdes italianos
 - 740 g Cebollas (incluye cebolleta y morada)
 - 420 g Zanahorias
-- 1,74 kg Tomates (incluye cherrys)
-- 1,76 kg Patatas
+- 1,14 kg Tomates (incluye cherrys)
+- 2 kg Patatas
 - 40 g Puerros
 - 200 g Acelgas
 - 2 bolsas Rúcula o canónigos (unos 200 g)
@@ -27,22 +27,22 @@
 - Perejil
 
 ## Carne, huevos y tofu
-- 2 docenas Huevos (se usan 22)
-- 940 ml Claras de huevo pasteurizadas
+- 2 docenas Huevos (se usan 18)
+- 840 ml Claras de huevo pasteurizadas
 - 300 g Pechuga de pollo
-- 1,22 kg Solomillos de pollo
+- 1,06 kg Solomillos de pollo
 - 200 g Taquitos de jamón serrano
 - 320 g Ternera para guisar en tacos (morcillo, aguja o llana, sin grasa visible)
 
 ## Pescado
 - 340 g Merluza congelada (lomos o filetes)
 - 500 g Gambones crudos congelados, enteros (unos 12)
+- 300 g Lomos de salmón (frescos o congelados)
 - 2 Doradas de ración, enteras y sin escamar (de unos 400 g cada una; que te las vacíen, pero con escamas)
 
 ## Lácteos
 - 8 Yogures naturales sin azúcar (de 125 g)
 - 14 Natillas +Proteínas (4 packs de 4)
-- 1 bola Mozzarella fresca light (se usan 60 g)
 
 ## Pan y tortillas
 - 820 g Pan integral (100% integral)
@@ -62,7 +62,7 @@
 - 1 Mostaza (si no te queda)
 - 1 brik de 1 L Caldo de pollo bajo en sal (se usan 700 ml)
 - 2 briks de 1 L Caldo de verduras bajo en sal (se usan 1,85 L)
-- 200 ml Aceite de oliva virgen extra (se usan esta semana)
+- 220 ml Aceite de oliva virgen extra (se usan esta semana)
 - Sal gruesa (unos 2 kg para la costra; si no os queda)
 - Salsa picante (opcional)
 

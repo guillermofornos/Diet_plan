@@ -144,20 +144,20 @@ R["ARRSEC"] = dict(tipo="comida", nombre="Arroz meloso con secreto ibérico", fu
           "Los últimos 3 minutos, vuelve a meter el secreto. Apaga, tapa y deja reposar 2 minutos antes de servir."])
 R["ARRSEC"]["batch"] = "Plato de fin de semana: se hace el mismo día en la Le Creuset (unos 40 minutos). El secreto, al congelador en el batch y a la nevera la noche antes."
 
-R["PAVOG"] = dict(tipo="comida", nombre="Guiso de pavo con patatas", fuente="Recetas Anita (YouTube)", url=YT + "2XMY8d-bVSI",
-   tupper="3 días en la nevera; también se congela (la patata queda algo más harinosa)",
-   grupos=[("Ingredientes", [("pavo", 200, "{200} g de pechuga o solomillo de pavo en dados grandes"),
-       ("patata", 300, "{300} g de patata, chascada en trozos"), ("cebolla", 50, "{50} g de cebolla"),
+R["CARNEG"] = dict(tipo="comida", nombre="Carne guisada con patatas", fuente="Karlos Arguiñano (YouTube)", url=YT + "rePFytVGR_w",
+   tupper="3 días en la nevera; se congela muy bien en su salsa",
+   grupos=[("Ingredientes", [("ternera_guiso", 170, "{170} g de ternera para guisar en tacos (morcillo, aguja o llana)"),
+       ("patata", 250, "{250} g de patata, chascada en trozos"), ("cebolla", 60, "{60} g de cebolla"),
        ("pim_verde", 40, "{40} g de pimiento verde"), ("zanahoria", 50, "{1/2|zanahoria|zanahorias} ({50} g) en rodajas"),
-       ("tomate", 60, "{1/2|tomate maduro|tomates maduros} ({60} g), rallado"), ("guisantes", 40, "{40} g de guisantes congelados"),
-       ("aove", 10, "{10} ml de AOVE"), ("caldo_pollo", 250, "{250} ml de caldo de pollo bajo en sal (en vez del vino blanco)"),
-       ("x:Laurel", 0, "{1/2|hoja|hojas} de laurel, una pizca de comino, nuez moscada, pimienta negra, sal y unas hebras de azafrán o colorante")]),
+       ("tomate", 60, "{1/2|tomate maduro|tomates maduros} ({60} g), rallado"), ("aove", 10, "{10} ml de AOVE"),
+       ("caldo_carne", 300, "{300} ml de caldo de carne bajo en sal (en vez del vino)"),
+       ("x:Laurel", 0, "{1/2|diente|dientes} de ajo, {1/2|hoja|hojas} de laurel, una pizca de pimentón dulce, sal y pimienta")]),
      ("Para mojar", [("pan_int", 40, "{40} g de pan integral")])],
-   pasos=["En una cazuela, con la mitad del aceite, dora el pavo salpimentado 3–4 minutos a fuego fuerte y sácalo (por dentro, todavía crudo).",
-          "Con el resto del aceite, pocha la cebolla, el pimiento y la zanahoria picados 8–10 minutos a fuego medio. Añade el tomate rallado y cocina 5 minutos más.",
-          "Añade el laurel, el comino, la nuez moscada y el azafrán, remueve 30 segundos y echa la patata chascada. Cubre con el caldo, sala un poco y cuece 15 minutos.",
-          "Vuelve a meter el pavo con su jugo y los guisantes y cuece 8–10 minutos más, hasta que la patata esté tierna y la salsa haya espesado. Rectifica de sal."])
-R["PAVOG"]["batch"] = "En el batch, en cazuela (unos 35 minutos); a la nevera para el martes."
+   pasos=["Salpimienta la carne y dórala en una cazuela con la mitad del aceite, a fuego fuerte, 4–5 minutos; sácala.",
+          "Con el resto del aceite, pocha a fuego medio la cebolla, el pimiento, el ajo y la zanahoria picados, 10 minutos. Añade el tomate rallado y cocina 5 minutos más.",
+          "Añade el pimentón, remueve 30 segundos y vuelve a meter la carne. Cubre con el caldo, pon el laurel, tapa y cuece a fuego suave 1 hora (25 minutos en olla a presión), hasta que la carne esté tierna.",
+          "Añade las patatas chascadas, con un poco más de caldo o agua si hace falta, y cuece 20 minutos más, destapado, hasta que estén hechas y la salsa espese. Rectifica de sal."])
+R["CARNEG"]["batch"] = "En el batch, en cazuela a fuego suave (1 h 20 min, casi todo sin tocarla); al congelador para el jueves."
 
 R["TERI"] = dict(tipo="comida", nombre="Pollo teriyaki con arroz y verduras salteadas", fuente="POLLO TERIYAKI con ingredientes de casa (YouTube)", url=YT + "nWumfBnjkYI",
    tupper="Se congela muy bien con su salsa y el arroz; en la nevera, 3 días",
@@ -174,3 +174,12 @@ R["TERI"] = dict(tipo="comida", nombre="Pollo teriyaki con arroz y verduras salt
           "Con el resto del aceite, saltea la cebolleta, la zanahoria, el pimiento y las judías 5–6 minutos: que queden al dente.",
           "Vuelve a meter el pollo, vierte la salsa y remueve 1–2 minutos, hasta que espese y brille. Sirve con el arroz (y unas semillas de sésamo, si quieres)."])
 R["TERI"]["batch"] = "En el batch, en la sartén grande (unos 20 minutos, con el arroz aparte); al congelador para el viernes y a la nevera la noche antes."
+
+R["CENAV"] = dict(tipo="cena", nombre="Bol de avena con leche, cereal y plátano", fuente="Cena sencilla, sin receta de internet",
+   tupper="Al momento (2 minutos)",
+   grupos=[("Ingredientes", [("avena", 80, "{80} g de copos de avena"), ("leche", 300, "{300} ml de leche semidesnatada (o bebida de soja sin azúcar)"),
+       ("copos_maiz", 30, "{30} g de copos de maíz sin azúcar (el cereal)"), ("platano", 120, "{1|plátano|plátanos}"),
+       ("yogur_prot", 120, "{1|yogur +Proteínas natural|yogures +Proteínas naturales}, para más proteína"),
+       ("x:Canela", 0, "Canela")])],
+   pasos=["Pon la avena en un bol con la leche. Si la quieres caliente, 2 minutos de microondas, removiendo a mitad; si no, fría, tal cual.",
+          "Añade el yogur por encima, el plátano en rodajas, los copos de maíz al final (para que crujan) y canela."])

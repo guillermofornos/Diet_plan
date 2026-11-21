@@ -43,14 +43,14 @@
 
 ---
 
-### Lentejas con calabaza al curry y pavo
-*Fuente: Simple Blending (dietista-nutricionista) · ≈ 735 kcal · 64 g proteína · 91 g HC · 10 g grasa · por persona*
+### Lentejas con calabaza al curry y huevo cocido
+*Fuente: Simple Blending (dietista-nutricionista) · ≈ 735 kcal · 42 g proteína · 91 g HC · 19 g grasa · por persona*
 
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=fUhWRSZiauI>
 
 **Ingredientes (Ingredientes):**
 - 160 g de lenteja pardina (en seco).
-- 300 g de pechuga o solomillo de pavo en dados.
+- 4 huevos cocidos por persona, en mitades.
 - 300 g de calabaza pelada.
 - 250 g de cebolla.
 - 60 g de tomate triturado natural.
@@ -64,16 +64,16 @@
 - 80 g de arroz integral (en crudo).
 
 **Instrucciones:**
-1. Pica la cebolla, corta la calabaza en dados de 1 cm y el pavo en dados de 2 cm. Lava las lentejas.
+1. Pica la cebolla, corta la calabaza en dados de 1 cm. Lava las lentejas.
 2. Sofríe la cebolla con el tomate y el aceite 6–8 minutos a fuego medio.
 3. Añade la calabaza y saltéala 2–3 minutos.
 4. Echa las lentejas, el agua, la sal y el curry: olla exprés 12–15 minutos, u olla normal tapada 35–45 minutos.
-5. Abre, añade el pavo y cuécelo 5–6 minutos a fuego suave, hasta que no quede rosa.
-6. Sirve con el arroz cocido aparte, el yogur y el perejil por encima.
+5. Cuece los huevos 10 minutos, pásalos por agua fría y pélalos.
+6. Sirve con el arroz cocido aparte, los huevos en mitades, el yogur y el perejil por encima.
 
 *Tupper:* 3 días en la nevera; se congelan bien (el yogur se pone al servir).
 *Batch cooking:* Entera en el batch, con el arroz aparte: 3 días en la nevera o al congelador. El yogur, al servir.
-*Cambios respecto a la fuente:* Pavo añadido (la original es vegana) y 80 g de lentejas en vez de 150; el arroz es el extra para días de entreno.
+*Cambios respecto a la fuente:* Huevo cocido añadido para la proteína (la original es vegana) y 80 g de lentejas en vez de 150; el arroz es el extra para días de entreno.
 
 ---
 
@@ -344,16 +344,19 @@
 ---
 
 ### Pulpo a la gallega con cachelos
-*Fuente: Bruno Oteiza (Hogarmanía) · ≈ 434 kcal · 37 g proteína · 41 g HC · 11 g grasa · por persona*
+*Fuente: Bruno Oteiza (Hogarmanía) · ≈ 560 kcal · 42 g proteína · 61 g HC · 13 g grasa · por persona*
 
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=2YvyEvZE28I>  
 📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/aperitivos/pulpo-gallega-patatas-16305.html>
 
-**Ingredientes:**
+**Ingredientes (Ingredientes):**
 - 400 g de patas de pulpo ya cocido (envasadas).
 - 500 g de patata, mejor gallega o para cocer.
 - 20 ml de AOVE.
 - Pimentón dulce y picante, y sal gruesa (o Maldon).
+
+**Ingredientes (Para acompañar):**
+- 100 g de pan integral.
 
 **Instrucciones:**
 1. Lava las patatas, córtalas por la mitad y cuécelas con piel en agua con sal unos 20 minutos, hasta que se pinchen bien. Pélalas y córtalas en 4 (son los cachelos).
@@ -495,35 +498,34 @@
 
 ---
 
-### Guiso de pavo con patatas
-*Fuente: Recetas Anita (YouTube) · ≈ 727 kcal · 63 g proteína · 78 g HC · 14 g grasa · por persona*
+### Carne guisada con patatas
+*Fuente: Karlos Arguiñano (YouTube) · ≈ 682 kcal · 47 g proteína · 67 g HC · 21 g grasa · por persona*
 
-▶ **Vídeo:** <https://www.youtube.com/watch?v=2XMY8d-bVSI>
+▶ **Vídeo:** <https://www.youtube.com/watch?v=rePFytVGR_w>
 
 **Ingredientes (Ingredientes):**
-- 400 g de pechuga o solomillo de pavo en dados grandes.
-- 600 g de patata, chascada en trozos.
-- 100 g de cebolla.
+- 340 g de ternera para guisar en tacos (morcillo, aguja o llana).
+- 500 g de patata, chascada en trozos.
+- 120 g de cebolla.
 - 80 g de pimiento verde.
 - 1 zanahoria (100 g) en rodajas.
 - 1 tomate maduro (120 g), rallado.
-- 80 g de guisantes congelados.
 - 20 ml de AOVE.
-- 500 ml de caldo de pollo bajo en sal (en vez del vino blanco).
-- 1 hoja de laurel, una pizca de comino, nuez moscada, pimienta negra, sal y unas hebras de azafrán o colorante.
+- 600 ml de caldo de carne bajo en sal (en vez del vino).
+- 1 diente de ajo, 1 hoja de laurel, una pizca de pimentón dulce, sal y pimienta.
 
 **Ingredientes (Para mojar):**
 - 80 g de pan integral.
 
 **Instrucciones:**
-1. En una cazuela, con la mitad del aceite, dora el pavo salpimentado 3–4 minutos a fuego fuerte y sácalo (por dentro, todavía crudo).
-2. Con el resto del aceite, pocha la cebolla, el pimiento y la zanahoria picados 8–10 minutos a fuego medio. Añade el tomate rallado y cocina 5 minutos más.
-3. Añade el laurel, el comino, la nuez moscada y el azafrán, remueve 30 segundos y echa la patata chascada. Cubre con el caldo, sala un poco y cuece 15 minutos.
-4. Vuelve a meter el pavo con su jugo y los guisantes y cuece 8–10 minutos más, hasta que la patata esté tierna y la salsa haya espesado. Rectifica de sal.
+1. Salpimienta la carne y dórala en una cazuela con la mitad del aceite, a fuego fuerte, 4–5 minutos; sácala.
+2. Con el resto del aceite, pocha a fuego medio la cebolla, el pimiento, el ajo y la zanahoria picados, 10 minutos. Añade el tomate rallado y cocina 5 minutos más.
+3. Añade el pimentón, remueve 30 segundos y vuelve a meter la carne. Cubre con el caldo, pon el laurel, tapa y cuece a fuego suave 1 hora (25 minutos en olla a presión), hasta que la carne esté tierna.
+4. Añade las patatas chascadas, con un poco más de caldo o agua si hace falta, y cuece 20 minutos más, destapado, hasta que estén hechas y la salsa espese. Rectifica de sal.
 
-*Tupper:* 3 días en la nevera; también se congela (la patata queda algo más harinosa).
-*Batch cooking:* En el batch, en cazuela (unos 35 minutos); a la nevera para el martes.
-*Cambios respecto a la fuente:* Pechuga o solomillo de pavo en dados en vez de "carne de pavo"; sin vino blanco (alcohol 51 en tu test): caldo de pollo; 10 ml de aceite por persona en vez de 100 ml para 4; sin clavo. La receta es para 4: cantidades pasadas a 2.
+*Tupper:* 3 días en la nevera; se congela muy bien en su salsa.
+*Batch cooking:* En el batch, en cazuela a fuego suave (1 h 20 min, casi todo sin tocarla); al congelador para el jueves.
+*Cambios respecto a la fuente:* Sin vino (alcohol 51 en tu test): caldo de carne; el aceite, medido; ternera de guisar magra. Cantidades para 2.
 
 ---
 
@@ -768,14 +770,14 @@
 ---
 
 ### Salmón a la plancha con patatas al ajo y limón
-*Fuente: Karlos Arguiñano · ≈ 556 kcal · 35 g proteína · 31 g HC · 30 g grasa · por persona*
+*Fuente: Karlos Arguiñano · ≈ 495 kcal · 33 g proteína · 19 g HC · 30 g grasa · por persona*
 
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=bA3E2HxbvZ0>  
 📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/pescados-mariscos/salmon-a-la-plancha-con-patatas-al-ajo-y-limon.html>
 
 **Ingredientes:**
 - 300 g de salmón (lomo o rodajas).
-- 400 g de patatas pequeñas (unas 6).
+- 240 g de patatas pequeñas (unas 4).
 - 22 ml de AOVE.
 - 1 limón, 1 diente de ajo con piel, tomillo, perejil, sal y pimienta.
 
@@ -891,7 +893,7 @@
 **Ingredientes (Encima):**
 - 100 g de tomate triturado natural.
 - 120 g de mozzarella fresca light.
-- 140 g de jamón cocido extra (o pechuga de pavo en lonchas).
+- 140 g de jamón cocido extra.
 - 60 g de pimiento rojo.
 - 40 g de cebolla.
 - 4 ml de AOVE para el borde.
@@ -910,8 +912,8 @@
 
 ---
 
-### Fajicesta de huevo, verduras y pavo
-*Fuente: Lara Ibarra · ≈ 590 kcal · 45 g proteína · 57 g HC · 19 g grasa · por persona*
+### Fajicesta de huevo, verduras y jamón
+*Fuente: Lara Ibarra · ≈ 592 kcal · 45 g proteína · 57 g HC · 19 g grasa · por persona*
 
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=Ng9gXmVFJVs&t=19s>
 
@@ -922,25 +924,25 @@
 - 100 g de yogur +Proteínas natural.
 - 90 g de pimiento rojo y verde.
 - 30 g de cebolla.
-- 80 g de pechuga de pavo en lonchas (92 % carne).
+- 80 g de jamón cocido extra.
 - 60 g de mozzarella fresca light.
 - Sal, pimienta y un poco de AOVE en spray.
 
 **Instrucciones:**
 1. Engrasa un recipiente redondo de 16–18 cm apto para airfryer y encaja la piadina formando una cesta.
 2. Echa dentro el huevo y las claras y bátelos ahí mismo con cuidado de no romper la piadina.
-3. Añade el yogur, las verduras muy picadas, el pavo en trocitos, sal y pimienta, y pon la mozzarella encima.
+3. Añade el yogur, las verduras muy picadas, el jamón en trocitos, sal y pimienta, y pon la mozzarella encima.
 4. Tapa con papel de aluminio y airfryer a 190–200 °C 25–30 minutos, hasta que cuaje (horno: 200 °C 30 minutos tapado).
 5. Destapa y 5–10 minutos más para que se dore el queso.
 
 *Tupper:* 1 día; recalentar en airfryer.
 *Batch cooking:* En el batch, las verduras picadas; se monta y se hace al momento.
-*Cambios respecto a la fuente:* Yogur +Proteínas en vez de cottage, un huevo cambiado por claras y sin calabacín (más pimiento).
+*Cambios respecto a la fuente:* Jamón cocido en vez de pavo; yogur +Proteínas en vez de cottage, un huevo cambiado por claras y sin calabacín (más pimiento).
 
 ---
 
 ### Tomates y pimientos rellenos de huevo, pollo y mozzarella
-*Fuente: Lara Ibarra · ≈ 420 kcal · 47 g proteína · 17 g HC · 17 g grasa · por persona*
+*Fuente: Lara Ibarra · ≈ 520 kcal · 51 g proteína · 34 g HC · 18 g grasa · por persona*
 
 ▶ **Vídeo:** <https://www.youtube.com/watch?v=k21RflDL2kw&t=603s>
 
@@ -952,6 +954,7 @@
 - 160 g de solomillo de pollo.
 - 60 g de mozzarella fresca light.
 - Cebollino, sal, pimienta y un poco de AOVE en spray.
+- 80 g de pan integral para acompañar.
 
 **Instrucciones:**
 1. Haz el pollo a la plancha 6–7 minutos y desmenúzalo.
@@ -975,7 +978,7 @@
 - 4 tortillas integrales (144 g).
 - 100 g de tomate triturado natural.
 - 120 g de mozzarella fresca light.
-- 100 g de jamón cocido extra o pavo.
+- 100 g de jamón cocido extra.
 - 120 g de solomillo de pollo.
 - 30 g de aceitunas negras en rodajas.
 - Orégano.
@@ -1018,3 +1021,22 @@
 *Tupper:* El relleno, 2 días; monta y tuesta al momento.
 *Batch cooking:* El pollo puede ir hecho del batch (2 días en la nevera); se montan y se tuestan al momento.
 *Cambios respecto a la fuente:* Canónigos en vez de lechuga; pollo en vez de carne picada sobrante.
+
+---
+
+### Bol de avena con leche, cereal y plátano
+*Fuente: Cena sencilla, sin receta de internet · ≈ 716 kcal · 36 g proteína · 114 g HC · 11 g grasa · por persona*
+
+**Ingredientes:**
+- 160 g de copos de avena.
+- 600 ml de leche semidesnatada (o bebida de soja sin azúcar).
+- 60 g de copos de maíz sin azúcar (el cereal).
+- 2 plátanos.
+- 2 yogures +Proteínas naturales, para más proteína.
+- Canela.
+
+**Instrucciones:**
+1. Pon la avena en un bol con la leche. Si la quieres caliente, 2 minutos de microondas, removiendo a mitad; si no, fría, tal cual.
+2. Añade el yogur por encima, el plátano en rodajas, los copos de maíz al final (para que crujan) y canela.
+
+*Tupper:* Al momento (2 minutos).

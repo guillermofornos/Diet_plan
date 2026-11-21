@@ -1,7 +1,7 @@
 """Lista de la compra semanal (x2) a partir del plan."""
 import math
 from collections import defaultdict, OrderedDict
-from plan import R, SEMANAS, FUERA
+from plan import R, SEMANAS, FUERA, NO_PLATO
 from nutri import T
 
 SECS = ["Fruta y verdura", "Carne, huevos y tofu", "Pescado", "Lácteos", "Pan y tortillas", "Despensa", "Congelados", "Especias y condimentos"]
@@ -119,7 +119,7 @@ def lista(semana, claves=None):
     todas = claves if claves is not None else [c for fila in semana["filas"] for c in fila]
     for fila in [todas]:
         for clave in fila:
-            if clave == FUERA: continue
+            if clave in NO_PLATO: continue
             for _, ings in R[clave]["grupos"]:
                 for c, q, _t in ings:
                     if not c: continue

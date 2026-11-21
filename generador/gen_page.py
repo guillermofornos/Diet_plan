@@ -1,7 +1,7 @@
 """Exporta los datos del plan a JSON y genera la página del mes."""
 import json, re
 from pathlib import Path
-from plan import R, SEMANAS, DIAS, TIPO, FUERA, CAMBIOS, PREP, BATCH, NORMAS, NOTA_COMPRA, total_dia
+from plan import R, SEMANAS, DIAS, TIPO, FUERA, LIBRE, NO_PLATO, CAMBIOS, PREP, BATCH, NORMAS, NOTA_COMPRA, total_dia
 from shop import lista, opcional_bigmac
 from lib import macros_receta
 
@@ -12,7 +12,7 @@ PAGINA = [5, 6, 7, 8, 9, 10]
 SEMANAS = [s for s in SEMANAS if s["num"] in PAGINA]
 usadas = set()
 for s in SEMANAS:
-    for fila in s["filas"]: usadas |= {c for c in fila if c != FUERA}
+    for fila in s["filas"]: usadas |= {c for c in fila if c not in NO_PLATO}
 usadas.add("FF2")
 recetas = {}
 for k in sorted(usadas):
@@ -33,7 +33,7 @@ for s in SEMANAS:
     for i, fila in enumerate(s["filas"]):
         kc, p = total_dia(fila); _, m, d = s["fechas"][i].split("-")
         dias.append(dict(nombre=DIAS[i], fecha=s["fechas"][i], n=int(d), mes=MESES[m], tipo=TIPO[i], kcal=round(kc), prot=round(p),
-                         fuera=fila[3] == FUERA, comidas=[["Desayuno", fila[0]], ["Comida", fila[1]], ["Merienda", fila[2]], ["Cena", fila[3]]],
+                         fuera=fila[3] == FUERA, libre=fila[3] == LIBRE, comidas=[["Desayuno", fila[0]], ["Comida", fila[1]], ["Merienda", fila[2]], ["Cena", fila[3]]],
                          prep=prep_dia[i]))
     compra = [dict(h=sec, items=items) for sec, items in lista(s).items()]
     semanas.append(dict(num=s["num"], titulo=s["titulo"], corto=f"{dias[0]['n']} {dias[0]['mes']}", inicio=s["fechas"][0], fin=s["fechas"][-1],

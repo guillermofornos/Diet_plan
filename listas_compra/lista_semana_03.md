@@ -29,9 +29,8 @@
 - 1,04 L Claras de huevo pasteurizadas
 - 300 g Pechuga de pollo
 - 1,72 kg Solomillos de pollo
-- 80 g Pechuga de pavo en lonchas (92 % carne)
 - 70 g Taquitos de jamón serrano
-- 140 g Jamón cocido extra
+- 220 g Jamón cocido extra
 - 500 g Tofu firme (2 bloques de 400 g)
 
 ## Pescado

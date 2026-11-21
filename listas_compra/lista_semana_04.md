@@ -27,13 +27,12 @@
 - Perejil
 
 ## Carne, huevos y tofu
-- 2 docenas y media Huevos (se usan 25)
+- 3 docenas Huevos (se usan 33)
 - 1,2 L Claras de huevo pasteurizadas
 - 600 g Pechuga de pollo
 - 460 g Solomillos de pollo
-- 600 g Pechuga o solomillo de pavo
-- 80 g Pechuga de pavo en lonchas (92 % carne)
 - 140 g Taquitos de jamón serrano
+- 80 g Jamón cocido extra
 - 340 g Ternera en una pieza para escalfar (redondo, tapa o contra)
 
 ## Pescado
@@ -47,7 +46,7 @@
 - 60 ml Leche o bebida de soja sin azúcar
 
 ## Pan y tortillas
-- 580 g Pan integral (100% integral)
+- 660 g Pan integral (100% integral)
 - 2 Panes de cristal (o de hamburguesa 100% integrales)
 - 4 Tortillas integrales (paquete de 10)
 - 6 Tortillas de maíz (paquete de 8)

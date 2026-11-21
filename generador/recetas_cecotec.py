@@ -112,19 +112,19 @@ R["ALBON"] = dict(tipo="comida", nombre="Albóndigas caseras en salsa de tomate 
 R["ALBON"]["batch"] = "En el batch: la mezcla en el robot, las bolitas a la airfryer y la salsa en la sartén; con la salsa y el arroz, al congelador."
 
 WEB = "Recetas Cecotec (web)"
-R["CREMCAL"] = dict(tipo="cena", nombre="Crema de calabaza con pipas y tortilla de claras con pavo", fuente=WEB, robot=True,
+R["CREMCAL"] = dict(tipo="cena", nombre="Crema de calabaza con pipas y tortilla de claras con jamón", fuente=WEB, robot=True,
    url2="https://cecotec.es/recetas/cremas-y-sopas/crema-de-calabaza-2",
    tupper="La crema, 3 días en la nevera (se congela bien); la tortilla, al momento",
    grupos=[("Crema de calabaza", [("calabaza", 150, "{150} g de calabaza pelada"), ("puerro", 40, "{40} g de puerro"),
        ("cebolla", 25, "{25} g de cebolla"), ("patata", 60, "{60} g de patata"), ("aove", 5, "{5} ml de AOVE (en vez de mantequilla)"),
        (None, 0, "{190} ml de agua"), ("x:Sal", 0, "Sal y pimienta"), ("pipas", 10, "{10} g de pipas de calabaza para servir")]),
-     ("Tortilla de claras con pavo", [("huevo", 55, "{1|huevo|huevos}"), ("clara", 150, "{150} ml de claras"),
-       ("pavo_fiambre", 40, "{40} g de pechuga de pavo en lonchas (92 % carne), en tiras"), ("aove", 1, "Un poco de AOVE en spray")])],
+     ("Tortilla de claras con jamón", [("huevo", 55, "{1|huevo|huevos}"), ("clara", 150, "{150} ml de claras"),
+       ("jamon_cocido", 40, "{40} g de jamón cocido extra, en tiras"), ("aove", 1, "Un poco de AOVE en spray")])],
    pasos=["Trocea en el robot el puerro y la cebolla: 6 segundos a velocidad 6.",
           "Añade el aceite y sofríe 4 minutos a 120 °C y velocidad 1 (en el Cecotec, potencia de calor 7).",
           "Añade la calabaza y la patata en trozos, el agua, la sal y la pimienta: 20 minutos a 110 °C, sin movimiento (velocidad 0).",
           "Cierra bien el cubilete y tritura 1 minuto a velocidad 7. Rectifica de sal.",
-          "Tortilla: bate el huevo con las claras, la sal y el pavo en tiras y cuájala en una sartén con spray, 2–3 minutos por lado (una por persona).",
+          "Tortilla: bate el huevo con las claras, la sal y el jamón en tiras y cuájala en una sartén con spray, 2–3 minutos por lado (una por persona).",
           "Sirve la crema con las pipas por encima y la tortilla de segundo."])
 R["CREMZAN"] = dict(tipo="cena", nombre="Crema de zanahoria con calamar a la plancha", fuente=WEB, robot=True,
    url2="https://cecotec.es/recetas/cremas-y-sopas/crema-de-zanahoria",
@@ -176,3 +176,19 @@ R["CASTA"] = dict(tipo="cena", nombre="Crema de boniato y puerro con pollo y hue
           "Sirve la crema con el pollo y el huevo encima.",
           "Sin robot (como la receta original): pocha la cebolla y el puerro en una olla, añade el boniato (o las castañas) unos minutos, luego la pechuga, las especias y el agua, 20 minutos a fuego medio-fuerte; saca la pechuga y tritura."])
 R["CASTA"]["batch"] = "La crema con la pechuga, en el robot (unos 40 minutos) el día antes o el mismo día; se guarda 3 días en la nevera. El huevo pochado, al momento."
+
+R["CREMVER"] = dict(tipo="cena", nombre="Crema de verduras con jamón crujiente y huevo cocido", fuente="Cecotec (Crema de verano en Mambo), sin calabacín", robot=True,
+   url2="https://cecotec.es/recetas/crema-de-verano-en-mambo/",
+   tupper="La crema, 3 días en la nevera (se congela bien); el jamón crujiente, al momento",
+   grupos=[("Crema", [("puerro", 60, "{60} g de puerro"), ("cebolla", 30, "{30} g de cebolla"), ("zanahoria", 70, "{70} g de zanahoria"),
+       ("judias_verdes", 60, "{60} g de judías verdes congeladas (en vez del calabacín)"), ("patata", 80, "{80} g de patata"),
+       ("aove", 5, "{5} ml de AOVE"), ("caldo_verd", 200, "{200} ml de caldo de verduras bajo en sal"),
+       ("x:Nuez moscada", 0, "Sal, pimienta y una pizca de nuez moscada")]),
+     ("Para servir", [("jamon_serrano", 20, "{20} g de taquitos de jamón serrano"), ("huevo", 110, "{2|huevo cocido|huevos cocidos} por persona"),
+       ("pan_int", 40, "{40} g de pan integral"), ("pipas", 10, "{10} g de pipas de calabaza"), ("x:Sésamo", 0, "Unas semillas de sésamo (opcional)")])],
+   pasos=["Trocea en el robot el puerro y la cebolla: 6 segundos a velocidad 6.",
+          "Añade el aceite y sofríe 3 minutos a 120 °C y velocidad 1.",
+          "Añade la zanahoria y la patata en trozos, las judías, el caldo, la sal, la pimienta y la nuez moscada: 20 minutos a 110 °C, sin movimiento (velocidad 0).",
+          "Tritura 30 segundos a velocidad 10, subiendo poco a poco. Rectifica de sal.",
+          "Al servir: dora los taquitos de jamón en una sartén sin aceite 2–3 minutos, hasta que crujan, y ponlos por encima con las pipas y el sésamo. Los huevos cocidos, en mitades, de segundo o dentro de la crema."])
+R["CREMVER"]["batch"] = "La crema, en el robot durante el batch (25 minutos), y los huevos cocidos; el jamón crujiente, al momento."

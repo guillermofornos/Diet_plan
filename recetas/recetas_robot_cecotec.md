@@ -224,8 +224,8 @@
 
 ---
 
-### Crema de calabaza con pipas y tortilla de claras con pavo
-*Fuente: Recetas Cecotec (web) · ≈ 421 kcal · 38 g proteína · 27 g HC · 17 g grasa · por persona*
+### Crema de calabaza con pipas y tortilla de claras con jamón
+*Fuente: Recetas Cecotec (web) · ≈ 423 kcal · 37 g proteína · 27 g HC · 17 g grasa · por persona*
 
 📄 **Receta escrita:** <https://cecotec.es/recetas/cremas-y-sopas/crema-de-calabaza-2>
 
@@ -239,10 +239,10 @@
 - Sal y pimienta.
 - 20 g de pipas de calabaza para servir.
 
-**Ingredientes (Tortilla de claras con pavo):**
+**Ingredientes (Tortilla de claras con jamón):**
 - 2 huevos.
 - 300 ml de claras.
-- 80 g de pechuga de pavo en lonchas (92 % carne), en tiras.
+- 80 g de jamón cocido extra, en tiras.
 - Un poco de AOVE en spray.
 
 **Instrucciones:**
@@ -250,12 +250,12 @@
 2. Añade el aceite y sofríe 4 minutos a 120 °C y velocidad 1 (en el Cecotec, potencia de calor 7).
 3. Añade la calabaza y la patata en trozos, el agua, la sal y la pimienta: 20 minutos a 110 °C, sin movimiento (velocidad 0).
 4. Cierra bien el cubilete y tritura 1 minuto a velocidad 7. Rectifica de sal.
-5. Tortilla: bate el huevo con las claras, la sal y el pavo en tiras y cuájala en una sartén con spray, 2–3 minutos por lado (una por persona).
+5. Tortilla: bate el huevo con las claras, la sal y el jamón en tiras y cuájala en una sartén con spray, 2–3 minutos por lado (una por persona).
 6. Sirve la crema con las pipas por encima y la tortilla de segundo.
 
 *Tupper:* La crema, 3 días en la nevera (se congela bien); la tortilla, al momento.
 *Batch cooking:* La crema puede hacerse en el robot al terminar el batch (25 minutos); la tortilla, al momento.
-*Cambios respecto a la fuente:* AOVE en vez de mantequilla (45 en tu test); pipas de calabaza por encima y una tortilla de claras con pavo de segundo para llegar a la proteína. La web no dice raciones: cantidades calculadas para 4 y pasadas a 2.
+*Cambios respecto a la fuente:* AOVE en vez de mantequilla (45 en tu test); pipas de calabaza por encima y una tortilla de claras con jamón cocido de segundo para llegar a la proteína. La web no dice raciones: cantidades calculadas para 4 y pasadas a 2.
 
 ---
 
@@ -291,6 +291,41 @@
 *Tupper:* La crema, 3 días en la nevera; el calamar, al momento.
 *Batch cooking:* La crema, en el robot (30 minutos) el mismo día o en el batch; el calamar, siempre al momento.
 *Cambios respecto a la fuente:* Leche normal en vez de evaporada; caldo bajo en sal; calamar a la plancha por encima para llegar a la proteína (en vez de gambas, que ya hay el domingo anterior). La web no dice raciones: cantidades calculadas para 4 y pasadas a 2.
+
+---
+
+### Crema de verduras con jamón crujiente y huevo cocido
+*Fuente: Cecotec (Crema de verano en Mambo), sin calabacín · ≈ 566 kcal · 32 g proteína · 48 g HC · 25 g grasa · por persona*
+
+📄 **Receta escrita:** <https://cecotec.es/recetas/crema-de-verano-en-mambo/>
+
+**Ingredientes (Crema):**
+- 120 g de puerro.
+- 60 g de cebolla.
+- 140 g de zanahoria.
+- 120 g de judías verdes congeladas (en vez del calabacín).
+- 160 g de patata.
+- 10 ml de AOVE.
+- 400 ml de caldo de verduras bajo en sal.
+- Sal, pimienta y una pizca de nuez moscada.
+
+**Ingredientes (Para servir):**
+- 40 g de taquitos de jamón serrano.
+- 4 huevos cocidos por persona.
+- 80 g de pan integral.
+- 20 g de pipas de calabaza.
+- Unas semillas de sésamo (opcional).
+
+**Instrucciones:**
+1. Trocea en el robot el puerro y la cebolla: 6 segundos a velocidad 6.
+2. Añade el aceite y sofríe 3 minutos a 120 °C y velocidad 1.
+3. Añade la zanahoria y la patata en trozos, las judías, el caldo, la sal, la pimienta y la nuez moscada: 20 minutos a 110 °C, sin movimiento (velocidad 0).
+4. Tritura 30 segundos a velocidad 10, subiendo poco a poco. Rectifica de sal.
+5. Al servir: dora los taquitos de jamón en una sartén sin aceite 2–3 minutos, hasta que crujan, y ponlos por encima con las pipas y el sésamo. Los huevos cocidos, en mitades, de segundo o dentro de la crema.
+
+*Tupper:* La crema, 3 días en la nevera (se congela bien); el jamón crujiente, al momento.
+*Batch cooking:* La crema, en el robot durante el batch (25 minutos), y los huevos cocidos; el jamón crujiente, al momento.
+*Cambios respecto a la fuente:* Judías verdes y zanahoria en vez del calabacín (te sienta mal); caldo de verduras; jamón crujiente como en la receta y huevos cocidos de segundo para que sea una cena completa. La receta es para 4: cantidades pasadas a 2.
 
 ---
 
