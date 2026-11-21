@@ -15,6 +15,7 @@ T = {
  "sepia":        dict(n=(79, 16.2, 0.7, 0.8)),   # limpia, cruda (USDA)
  "dorada":       dict(n=(47, 8.7, 1.4, 0.0)),    # entera de ración, limpia (≈50 % comestible; BEDCA)
  "rape":         dict(n=(76, 14.5, 1.5, 0.0)),   # limpio, crudo (USDA)
+ "rodaballo":    dict(n=(43, 7.2, 1.6, 0.0)),    # entero, limpio (≈45 % comestible; BEDCA: 95 kcal, 16 g prot. por 100 g de filete)
  "salmon":       dict(n=(208, 20.4, 13.4, 0.0)), # lomo de salmón atlántico, crudo (USDA)
  "lubina":       dict(n=(55, 9.2, 1.9, 0.0)),    # entera de ración, sin limpiar (≈50 % comestible)
  "dorada_sal":   dict(n=(47, 8.7, 1.4, 0.0)),    # como "dorada", pero entera y sin escamar (para hacerla a la sal)
@@ -40,6 +41,8 @@ T = {
  # Hidratos
  "arroz_int":    dict(n=(350, 7.5, 2.7, 72.0)),
  "arroz":        dict(n=(350, 7.0, 0.6, 78.0)),
+ "basmati":      dict(n=(350, 7.5, 0.8, 77.0)),
+ "miel":         dict(n=(304, 0.3, 0.0, 82.0)),
  "pasta_int":    dict(n=(350, 13.0, 2.5, 64.0)),
  "cuscus":       dict(n=(360, 12.0, 1.5, 72.0)),
  "patata":       dict(n=(77, 2.0, 0.1, 15.5)),

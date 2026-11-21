@@ -367,6 +367,32 @@
 
 ---
 
+### Rodaballo al horno con patatas y refrito
+*Fuente: Karlos Arguiñano, en Directo al Paladar, y vídeo de YouTube · ≈ 531 kcal · 45 g proteína · 39 g HC · 20 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=qhfH2eRg_rE>  
+📄 **Receta escrita:** <https://www.directoalpaladar.com/recetas-de-pescados-y-mariscos/rodaballo-al-horno-refrito-receta-karlos-arguinano-al-estilo-carnota-galicia>
+
+**Ingredientes:**
+- 1 rodaballo de 1–1,2 kg (para 2, uno), limpio y entero.
+- 440 g de patata.
+- 120 g de cebolla.
+- 24 ml de AOVE (la mitad, para el refrito).
+- 100 ml de caldo de pescado o agua (en vez del vino blanco).
+- 2 dientes de ajo, una cayena (opcional), un chorrito de vinagre de sidra, perejil y sal.
+
+**Instrucciones:**
+1. Horno a 200 °C. Pela la patata y córtala en rodajas de medio centímetro; la cebolla, en juliana. Ponlas en una fuente con un poco del aceite y sal, mézclalas y hornéalas 20 minutos.
+2. Sala el rodaballo por los dos lados, ponlo sobre las patatas con la piel oscura hacia arriba, riega con el caldo y hornea 20–25 minutos (hasta que la espina central se separe con facilidad).
+3. Refrito: en una sartén, el resto del aceite con el ajo en láminas y la cayena; cuando el ajo empiece a dorarse, aparta del fuego y añade el vinagre (con cuidado, salpica).
+4. Saca la fuente, vierte el jugo de la bandeja en la sartén del refrito, remueve y riega el rodaballo. Espolvorea perejil y sirve enseguida.
+
+*Tupper:* Se hace y se come el mismo día.
+*Batch cooking:* Pescado: se hace el mismo día (unos 50 minutos, casi todo de horno). Cómpralo fresco el viernes o el mismo sábado.
+*Cambios respecto a la fuente:* Sin vino blanco (alcohol 51 en tu test): caldo de pescado; el aceite, medido (la receta pone un buen chorro); un solo diente de ajo para los dos (ajo 43). Rodaballo: verde en tu test.
+
+---
+
 ### Guiso de calamares con patatas y ajos frescos
 *Fuente: Karlos Arguiñano · ≈ 483 kcal · 37 g proteína · 44 g HC · 15 g grasa · por persona*
 
@@ -466,6 +492,38 @@
 *Tupper:* Se hace y se come el mismo día: el arroz meloso no aguanta recalentado.
 *Batch cooking:* Plato de fin de semana: se hace el mismo día en la Le Creuset (unos 40 minutos). El secreto, al congelador en el batch y a la nevera la noche antes.
 *Cambios respecto a la fuente:* Secreto ibérico en vez de carrilleras (en tiras y dorado al principio, así no necesita 1 hora); sin Pedro Ximénez ni vino tinto (alcohol 51 en tu test): caldo y un poco de balsámico; 70 g de arroz por persona en vez de 90 y el aceite medido; la mitad de ajos tiernos (ajo 43).
+
+---
+
+### Guiso de pavo con patatas
+*Fuente: Recetas Anita (YouTube) · ≈ 727 kcal · 63 g proteína · 78 g HC · 14 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=2XMY8d-bVSI>
+
+**Ingredientes (Ingredientes):**
+- 400 g de pechuga o solomillo de pavo en dados grandes.
+- 600 g de patata, chascada en trozos.
+- 100 g de cebolla.
+- 80 g de pimiento verde.
+- 1 zanahoria (100 g) en rodajas.
+- 1 tomate maduro (120 g), rallado.
+- 80 g de guisantes congelados.
+- 20 ml de AOVE.
+- 500 ml de caldo de pollo bajo en sal (en vez del vino blanco).
+- 1 hoja de laurel, una pizca de comino, nuez moscada, pimienta negra, sal y unas hebras de azafrán o colorante.
+
+**Ingredientes (Para mojar):**
+- 80 g de pan integral.
+
+**Instrucciones:**
+1. En una cazuela, con la mitad del aceite, dora el pavo salpimentado 3–4 minutos a fuego fuerte y sácalo (por dentro, todavía crudo).
+2. Con el resto del aceite, pocha la cebolla, el pimiento y la zanahoria picados 8–10 minutos a fuego medio. Añade el tomate rallado y cocina 5 minutos más.
+3. Añade el laurel, el comino, la nuez moscada y el azafrán, remueve 30 segundos y echa la patata chascada. Cubre con el caldo, sala un poco y cuece 15 minutos.
+4. Vuelve a meter el pavo con su jugo y los guisantes y cuece 8–10 minutos más, hasta que la patata esté tierna y la salsa haya espesado. Rectifica de sal.
+
+*Tupper:* 3 días en la nevera; también se congela (la patata queda algo más harinosa).
+*Batch cooking:* En el batch, en cazuela (unos 35 minutos); a la nevera para el martes.
+*Cambios respecto a la fuente:* Pechuga o solomillo de pavo en dados en vez de "carne de pavo"; sin vino blanco (alcohol 51 en tu test): caldo de pollo; 10 ml de aceite por persona en vez de 100 ml para 4; sin clavo. La receta es para 4: cantidades pasadas a 2.
 
 ---
 
@@ -592,6 +650,40 @@
 *Tupper:* 2–3 días en la nevera; no se congela.
 *Batch cooking:* Entero en el batch: 2–3 días en la nevera (no se congela).
 *Cambios respecto a la fuente:* Mozzarella fresca en vez de rallada; sin nata ni leche de coco.
+
+---
+
+### Pollo teriyaki con arroz y verduras salteadas
+*Fuente: POLLO TERIYAKI con ingredientes de casa (YouTube) · ≈ 573 kcal · 49 g proteína · 69 g HC · 10 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=nWumfBnjkYI>
+
+**Ingredientes (Pollo teriyaki):**
+- 340 g de solomillos de pollo en dados.
+- 40 ml de salsa de soja baja en sal.
+- 2 cucharaditas de miel (16 g).
+- Jengibre fresco rallado (o en polvo), 1 diente de ajo rallado, 1 cucharadita de maicena y un chorrito de zumo de limón.
+- 16 ml de AOVE.
+
+**Ingredientes (Verduras):**
+- 140 g de judías verdes congeladas.
+- 1 zanahoria (100 g) en tiras.
+- 100 g de pimiento rojo en tiras.
+- 60 g de cebolleta en tiras.
+
+**Ingredientes (Guarnición):**
+- 130 g de arroz basmati (en crudo).
+
+**Instrucciones:**
+1. Salsa: mezcla la soja, la miel, el jengibre, el ajo, el zumo de limón, 3 cucharadas de agua (por persona) y la maicena disuelta.
+2. Cuece el arroz basmati el tiempo del paquete y escúrrelo.
+3. En una sartén grande o wok, con la mitad del aceite a fuego fuerte, dora el pollo 4–5 minutos y sácalo.
+4. Con el resto del aceite, saltea la cebolleta, la zanahoria, el pimiento y las judías 5–6 minutos: que queden al dente.
+5. Vuelve a meter el pollo, vierte la salsa y remueve 1–2 minutos, hasta que espese y brille. Sirve con el arroz (y unas semillas de sésamo, si quieres).
+
+*Tupper:* Se congela muy bien con su salsa y el arroz; en la nevera, 3 días.
+*Batch cooking:* En el batch, en la sartén grande (unos 20 minutos, con el arroz aparte); al congelador para el viernes y a la nevera la noche antes.
+*Cambios respecto a la fuente:* Sin mirin ni sake (alcohol 51 en tu test): agua y un chorrito de limón; miel medida (una cucharadita por persona) en vez de azúcar; soja baja en sal; solomillos en vez de pechuga o muslo; con judías verdes, zanahoria y pimiento salteados para que sea un plato completo de táper, y el arroz medido.
 
 ---
 

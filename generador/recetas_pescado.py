@@ -267,3 +267,17 @@ R["SALM2"] = dict(tipo="cena", nombre="Salmón en papillote con verduras y patat
           "Pon el salmón encima, salpimiéntalo, riega con el resto del aceite y cierra el papel en un paquete bien sellado.",
           "Hornea en una bandeja 12–15 minutos y ábrelo en la mesa."])
 R["SALM2"]["batch"] = "Pescado: se hace al momento (unos 20 minutos). El salmón, a la nevera la noche antes si es congelado."
+
+R["RODA"] = dict(tipo="comida", nombre="Rodaballo al horno con patatas y refrito", fuente="Karlos Arguiñano, en Directo al Paladar, y vídeo de YouTube",
+   url=YT + "qhfH2eRg_rE",
+   url2="https://www.directoalpaladar.com/recetas-de-pescados-y-mariscos/rodaballo-al-horno-refrito-receta-karlos-arguinano-al-estilo-carnota-galicia",
+   tupper="Se hace y se come el mismo día",
+   grupos=[("Ingredientes", [("rodaballo", 550, "{1/2|rodaballo|rodaballos} de 1–1,2 kg (para 2, uno), limpio y entero"),
+       ("patata", 220, "{220} g de patata"), ("cebolla", 60, "{60} g de cebolla"), ("aove", 12, "{12} ml de AOVE (la mitad, para el refrito)"),
+       ("caldo_pesc", 50, "{50} ml de caldo de pescado o agua (en vez del vino blanco)"),
+       ("x:Vinagre", 0, "{1|diente|dientes} de ajo, una cayena (opcional), un chorrito de vinagre de sidra, perejil y sal")])],
+   pasos=["Horno a 200 °C. Pela la patata y córtala en rodajas de medio centímetro; la cebolla, en juliana. Ponlas en una fuente con un poco del aceite y sal, mézclalas y hornéalas 20 minutos.",
+          "Sala el rodaballo por los dos lados, ponlo sobre las patatas con la piel oscura hacia arriba, riega con el caldo y hornea 20–25 minutos (hasta que la espina central se separe con facilidad).",
+          "Refrito: en una sartén, el resto del aceite con el ajo en láminas y la cayena; cuando el ajo empiece a dorarse, aparta del fuego y añade el vinagre (con cuidado, salpica).",
+          "Saca la fuente, vierte el jugo de la bandeja en la sartén del refrito, remueve y riega el rodaballo. Espolvorea perejil y sirve enseguida."])
+R["RODA"]["batch"] = "Pescado: se hace el mismo día (unos 50 minutos, casi todo de horno). Cómpralo fresco el viernes o el mismo sábado."

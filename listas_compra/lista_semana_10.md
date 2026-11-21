@@ -4,19 +4,19 @@
 
 *Truco: compra el pescado congelado. Casi todo el pollo se cocina o se marina en el batch del domingo; el del fin de semana va crudo al congelador y se pasa a la nevera la noche antes (ver «Recordatorios de la semana» en el menú).*
 
-> **Ojo:** Las 2 doradas de la cena del miércoles 16, mejor frescas: compradlas el lunes o el martes; si no, congeladas, y a la nevera la noche antes.
+> **Ojo:** Las 2 doradas de la cena del miércoles 16, mejor frescas: compradlas el lunes o el martes; si no, congeladas, y a la nevera la noche antes. El secreto ibérico del arroz del sábado 19 va al congelador en el batch del domingo 13.
 
 ## Fruta y verdura
 - 12 Plátanos (desayunos y meriendas)
 - 14 Kiwis (desayunos y meriendas)
 - 2 Aguacates (unos 260 g de pulpa)
-- 870 g Pimientos rojos o de colores
-- 520 g Pimientos verdes italianos
-- 1,21 kg Cebollas (incluye cebolleta y morada)
-- 500 g Zanahorias
-- 580 g Tomates (incluye cherrys)
-- 2,41 kg Patatas
-- 30 g Ajos frescos (ajetes) (un manojo pequeño)
+- 920 g Pimientos rojos o de colores
+- 420 g Pimientos verdes italianos
+- 1,11 kg Cebollas (incluye cebolleta y morada)
+- 660 g Zanahorias
+- 700 g Tomates (incluye cherrys)
+- 2,01 kg Patatas
+- 50 g Ajos frescos (ajetes) (un manojo pequeño)
 - 220 g Puerros
 - 1 bolsa Rúcula o canónigos (unos 30 g)
 - Limones
@@ -27,6 +27,7 @@
 - 1,14 L Claras de huevo pasteurizadas
 - 300 g Pechuga de pollo
 - 900 g Solomillos de pollo
+- 200 g Secreto ibérico
 - 80 g Pechuga de pavo en lonchas (92 % carne)
 - 40 g Taquitos de jamón serrano
 - 140 g Jamón cocido extra
@@ -34,7 +35,6 @@
 - 320 g Ternera para guisar en tacos (morcillo, aguja o llana, sin grasa visible)
 
 ## Pescado
-- 400 g Calamar limpio congelado (tubos o tiras)
 - 2 Doradas de ración, limpias y sin escamas (de unos 400 g cada una; pídelas abiertas para rellenar)
 - 360 g Rape limpio congelado (cola o medallones, sin espina)
 
@@ -52,17 +52,19 @@
 ## Despensa
 - 320 g Lenteja pardina
 - 120 g Arroz integral
-- 140 g Arroz redondo
+- 280 g Arroz redondo
 - 280 g Copos de avena
 - 210 g Pipas de calabaza sin sal
 - 400 g Tomate triturado natural
-- 1 bote Carne de pimiento choricero (se usan 35 g)
+- 1 bote Carne de pimiento choricero (se usan 15 g)
+- 1 brik de 1 L Caldo de carne bajo en sal (se usan 600 ml)
 - 1 brik de 1 L Caldo de pescado bajo en sal (se usan 750 ml)
 - 1 Salsa de soja baja en sodio (si no te queda)
 - 1 Mostaza (si no te queda)
+- 1 Vinagre balsámico (si no te queda; no crema de balsámico)
 - 1 brik de 1 L Caldo de pollo bajo en sal (se usan 700 ml)
 - 1 brik de 1 L Caldo de verduras bajo en sal (se usan 350 ml)
-- 210 ml Aceite de oliva virgen extra (se usan esta semana)
+- 200 ml Aceite de oliva virgen extra (se usan esta semana)
 - Salsa picante (opcional)
 
 ## Congelados
@@ -70,7 +72,7 @@
 - 200 g Judías verdes troceadas congeladas
 
 ## Especias y condimentos
-- Ajo, Comino, Guindilla, Laurel, Orégano, Pimentón dulce (revisa lo que tienes)
+- Ajo, Azafrán, Comino, Laurel, Orégano, Pimentón dulce (revisa lo que tienes)
 - Sal, pimienta, ajo en polvo y cebolla en polvo (básicos)
 
 ## Opcional: Big Mac en casa el sábado (x2)

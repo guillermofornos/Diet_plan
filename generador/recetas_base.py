@@ -143,3 +143,34 @@ R["ARRSEC"] = dict(tipo="comida", nombre="Arroz meloso con secreto ibérico", fu
           "5–6 minutos a fuego fuerte y el resto a fuego moderado, hasta 16 minutos en total. Remueve sin prisa pero sin pausa: así suelta el almidón y queda meloso.",
           "Los últimos 3 minutos, vuelve a meter el secreto. Apaga, tapa y deja reposar 2 minutos antes de servir."])
 R["ARRSEC"]["batch"] = "Plato de fin de semana: se hace el mismo día en la Le Creuset (unos 40 minutos). El secreto, al congelador en el batch y a la nevera la noche antes."
+
+R["PAVOG"] = dict(tipo="comida", nombre="Guiso de pavo con patatas", fuente="Recetas Anita (YouTube)", url=YT + "2XMY8d-bVSI",
+   tupper="3 días en la nevera; también se congela (la patata queda algo más harinosa)",
+   grupos=[("Ingredientes", [("pavo", 200, "{200} g de pechuga o solomillo de pavo en dados grandes"),
+       ("patata", 300, "{300} g de patata, chascada en trozos"), ("cebolla", 50, "{50} g de cebolla"),
+       ("pim_verde", 40, "{40} g de pimiento verde"), ("zanahoria", 50, "{1/2|zanahoria|zanahorias} ({50} g) en rodajas"),
+       ("tomate", 60, "{1/2|tomate maduro|tomates maduros} ({60} g), rallado"), ("guisantes", 40, "{40} g de guisantes congelados"),
+       ("aove", 10, "{10} ml de AOVE"), ("caldo_pollo", 250, "{250} ml de caldo de pollo bajo en sal (en vez del vino blanco)"),
+       ("x:Laurel", 0, "{1/2|hoja|hojas} de laurel, una pizca de comino, nuez moscada, pimienta negra, sal y unas hebras de azafrán o colorante")]),
+     ("Para mojar", [("pan_int", 40, "{40} g de pan integral")])],
+   pasos=["En una cazuela, con la mitad del aceite, dora el pavo salpimentado 3–4 minutos a fuego fuerte y sácalo (por dentro, todavía crudo).",
+          "Con el resto del aceite, pocha la cebolla, el pimiento y la zanahoria picados 8–10 minutos a fuego medio. Añade el tomate rallado y cocina 5 minutos más.",
+          "Añade el laurel, el comino, la nuez moscada y el azafrán, remueve 30 segundos y echa la patata chascada. Cubre con el caldo, sala un poco y cuece 15 minutos.",
+          "Vuelve a meter el pavo con su jugo y los guisantes y cuece 8–10 minutos más, hasta que la patata esté tierna y la salsa haya espesado. Rectifica de sal."])
+R["PAVOG"]["batch"] = "En el batch, en cazuela (unos 35 minutos); a la nevera para el martes."
+
+R["TERI"] = dict(tipo="comida", nombre="Pollo teriyaki con arroz y verduras salteadas", fuente="POLLO TERIYAKI con ingredientes de casa (YouTube)", url=YT + "nWumfBnjkYI",
+   tupper="Se congela muy bien con su salsa y el arroz; en la nevera, 3 días",
+   grupos=[("Pollo teriyaki", [("solomillo", 170, "{170} g de solomillos de pollo en dados"),
+       ("soja", 20, "{20} ml de salsa de soja baja en sal"), ("miel", 8, "{1|cucharadita|cucharaditas} de miel ({8} g)"),
+       ("x:Jengibre", 0, "Jengibre fresco rallado (o en polvo), {1/2|diente|dientes} de ajo rallado, {1/2|cucharadita|cucharaditas} de maicena y un chorrito de zumo de limón"),
+       ("aove", 8, "{8} ml de AOVE")]),
+     ("Verduras", [("judias_verdes", 70, "{70} g de judías verdes congeladas"), ("zanahoria", 50, "{1/2|zanahoria|zanahorias} ({50} g) en tiras"),
+       ("pimiento", 50, "{50} g de pimiento rojo en tiras"), ("cebolla", 30, "{30} g de cebolleta en tiras")]),
+     ("Guarnición", [("basmati", 65, "{65} g de arroz basmati (en crudo)")])],
+   pasos=["Salsa: mezcla la soja, la miel, el jengibre, el ajo, el zumo de limón, 3 cucharadas de agua (por persona) y la maicena disuelta.",
+          "Cuece el arroz basmati el tiempo del paquete y escúrrelo.",
+          "En una sartén grande o wok, con la mitad del aceite a fuego fuerte, dora el pollo 4–5 minutos y sácalo.",
+          "Con el resto del aceite, saltea la cebolleta, la zanahoria, el pimiento y las judías 5–6 minutos: que queden al dente.",
+          "Vuelve a meter el pollo, vierte la salsa y remueve 1–2 minutos, hasta que espese y brille. Sirve con el arroz (y unas semillas de sésamo, si quieres)."])
+R["TERI"]["batch"] = "En el batch, en la sartén grande (unos 20 minutos, con el arroz aparte); al congelador para el viernes y a la nevera la noche antes."

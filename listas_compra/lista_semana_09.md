@@ -10,12 +10,12 @@
 - 10 Plátanos (desayunos y meriendas)
 - 12 Kiwis (desayunos y meriendas)
 - 3 Aguacates (unos 380 g de pulpa)
-- 440 g Pimientos rojos o de colores
+- 540 g Pimientos rojos o de colores
 - 220 g Pimientos verdes italianos
-- 1,36 kg Cebollas (incluye cebolleta y morada)
-- 740 g Zanahorias
+- 1,3 kg Cebollas (incluye cebolleta y morada)
+- 840 g Zanahorias
 - 360 g Tomates (incluye cherrys)
-- 2,36 kg Patatas
+- 2,06 kg Patatas
 - 300 g Boniatos
 - 600 g Calabaza (pelada)
 - 360 g Puerros
@@ -25,12 +25,12 @@
 - Perejil
 
 ## Carne, huevos y tofu
-- 2 docenas Huevos (se usan 20)
+- 2 docenas Huevos (se usan 18)
 - 500 ml Claras de huevo pasteurizadas
 - 940 g Pechuga de pollo
-- 360 g Solomillos de pollo
+- 700 g Solomillos de pollo
 - 600 g Pechuga o solomillo de pavo
-- 90 g Taquitos de jamón serrano
+- 20 g Taquitos de jamón serrano
 - 500 g Tofu firme (2 bloques de 400 g)
 - 340 g Ternera en una pieza para escalfar (redondo, tapa o contra)
 
@@ -52,10 +52,13 @@
 - 320 g Lenteja pardina
 - 160 g Arroz integral
 - 120 g Arroz redondo
+- 130 g Arroz basmati
+- 1 bote Miel (si no te queda; se usan 15 g)
 - 130 g Espaguetis integrales o normales (mira si os quedan del paquete)
 - 60 g Copos de avena
 - 210 g Pipas de calabaza sin sal
 - 500 g Tomate triturado natural
+- 1 Salsa de soja baja en sodio (si no te queda)
 - 1 Vinagre balsámico (si no te queda; no crema de balsámico)
 - 1 brik de 1 L Caldo de pollo bajo en sal (se usan 600 ml)
 - 1 brik de 1 L Caldo de verduras bajo en sal (se usan 300 ml)
@@ -63,10 +66,11 @@
 - Sal gruesa (unos 2 kg para la costra; si no os queda)
 
 ## Congelados
-- 520 g Guisantes finos congelados
+- 120 g Guisantes finos congelados
+- 140 g Judías verdes troceadas congeladas
 
 ## Especias y condimentos
-- Ajo, Chipotle o pimentón picante, Curry en polvo, Laurel, Pimentón dulce, Romero, Vinagre (revisa lo que tienes)
+- Ajo, Chipotle o pimentón picante, Curry en polvo, Jengibre, Laurel, Pimentón dulce, Romero, Vinagre (revisa lo que tienes)
 - Sal, pimienta, ajo en polvo y cebolla en polvo (básicos)
 
 ## Opcional: Big Mac en casa el sábado (x2)
