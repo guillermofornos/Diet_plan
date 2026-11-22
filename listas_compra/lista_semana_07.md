@@ -27,7 +27,7 @@
 - 1,3 kg Solomillos de pollo
 - 40 g Taquitos de jamón serrano
 - 80 g Jamón cocido extra
-- 340 g Ternera para guisar en tacos (morcillo, aguja o llana, sin grasa visible)
+- 340 g Ternera para guisar en tacos (jarrete (morcillo), aguja o llana, sin grasa visible)
 
 ## Pescado
 - 400 g Patas de pulpo ya cocido (envasadas, en la nevera del súper)

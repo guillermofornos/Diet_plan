@@ -31,7 +31,7 @@
 - 40 g Taquitos de jamón serrano
 - 140 g Jamón cocido extra
 - 500 g Tofu firme (2 bloques de 400 g)
-- 320 g Ternera para guisar en tacos (morcillo, aguja o llana, sin grasa visible)
+- 320 g Ternera para guisar en tacos (jarrete (morcillo), aguja o llana, sin grasa visible)
 
 ## Pescado
 - 360 g Merluza congelada (lomos o filetes)

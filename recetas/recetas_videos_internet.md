@@ -529,6 +529,68 @@
 
 ---
 
+### Estofado de ternera con patatas y guisantes
+*Fuente: Receta de Threads (tu captura del 22 de noviembre); parecida, por escrito, en Directo al Paladar · ≈ 588 kcal · 45 g proteína · 48 g HC · 19 g grasa · por persona*
+
+📄 **Receta escrita:** <https://www.directoalpaladar.com/recetas-de-carnes-y-aves/receta-tradicional-jarrete-ternera-estofado>
+
+**Ingredientes:**
+- 340 g de jarrete (morcillo) de ternera, en dados.
+- 400 g de patata, chascada.
+- 140 g de cebolla.
+- 2 zanahorias pequeñas (120 g), en medias rodajas.
+- 80 g de tomate rallado.
+- 100 g de guisantes (congelados o cocidos).
+- 20 ml de AOVE.
+- 700 ml de caldo de carne o de huesos bajo en sal (lo justo para cubrir).
+- 2 cucharaditas de vinagre balsámico (en vez del vino tinto).
+- 1 diente de ajo, laurel, romero y tomillo, sal, pimienta y perejil picado.
+
+**Instrucciones:**
+1. Pela la zanahoria y córtala en medias rodajas; pica fina la cebolla y el ajo, y corta la carne en dados.
+2. En una olla (la Le Creuset va perfecta) con el aceite muy caliente, dora la ternera salpimentada; sácala y, en la misma grasa, pocha la cebolla, el ajo y la zanahoria 10 minutos a fuego medio.
+3. Añade el tomate rallado y sofríe hasta que reduzca. Echa el balsámico, vuelve a meter la carne, rehoga un par de minutos y cubre justo con el caldo; pon las hierbas y tapa.
+4. Cuece a fuego suave 1 h 30 min (hasta 2 horas), hasta que la carne esté tierna. En olla a presión, 30 minutos desde que suba la válvula.
+5. Añade la patata chascada (rota, no cortada, para que suelte fécula y espese el caldo) y cuece tapado unos 30 minutos (20–25 si la carne ya viene de la olla a presión); los últimos minutos, destapado si hace falta espesar. Mueve la olla de vez en cuando.
+6. Añade los guisantes, 2–3 minutos (5 si son congelados), rectifica de sal y termina con perejil picado.
+7. En la Mambo: con la carne dorada antes en una sartén, sofrito de cebolla, ajo y zanahoria 10 min/120 °C/vel 1 con la mariposa y el tomate 5 min; la carne, el balsámico, el caldo y las hierbas, 60–75 min/100 °C/vel 1/giro inverso; la patata, 25 min, y los guisantes, los últimos 5.
+
+*Tupper:* 3 días en la nevera; también se congela (la patata queda algo más harinosa).
+*Batch cooking:* Guiso de carne habitual. En el batch, en la olla a presión o en el robot (con la carne dorada antes en la sartén): 3 días en la nevera o al congelador.
+*Cambios respecto a la fuente:* Sin vino tinto (alcohol 51 en tu test): una cucharadita de balsámico; 340 g de carne para los dos en vez de 650 y algo menos de patata, para que cuadre con las kcal del día; un diente de ajo en vez de tres (ajo 43); el aceite, medido.
+
+---
+
+### Solomillo de cerdo en salsa de pimientos del piquillo con patatas
+*Fuente: Vídeo de YouTube (solomillo de cerdo en salsa de piquillos) · ≈ 665 kcal · 47 g proteína · 72 g HC · 18 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=BQVAwY-cA_U>
+
+**Ingredientes (Solomillo en salsa):**
+- 340 g de solomillo de cerdo, en medallones de 2–3 cm.
+- 8 pimientos del piquillo (unos 160 g, de bote).
+- 120 g de cebolla en juliana.
+- 20 ml de AOVE.
+- 200 ml de caldo de pollo bajo en sal.
+- 1 diente de ajo, sal y pimienta.
+
+**Ingredientes (Guarnición):**
+- 600 g de patata.
+- 80 g de pan integral.
+
+**Instrucciones:**
+1. Salpimienta los medallones y dóralos en una sartén con la mitad del aceite, 2 minutos por lado; sácalos (por dentro, aún rosados).
+2. En la misma sartén, con el resto del aceite, pocha la cebolla y el ajo 8–10 minutos a fuego medio.
+3. Añade los pimientos del piquillo y el caldo, 5 minutos, y tritúralo todo (batidora, o el robot 30 s/vel 7) hasta tener una salsa fina. Rectifica de sal y pimienta.
+4. Vuelve a meter los medallones en la salsa y cuécelos 4–5 minutos a fuego suave, no más, para que no se sequen.
+5. Patatas: pélalas, córtalas en rodajas o dados y hazlas 8–10 minutos en el microondas, tapadas con un poco de agua y sal (o cocidas). Sirve con la salsa y el pan.
+
+*Tupper:* 3 días en la nevera; recalienta tapado y a fuego suave (o microondas a media potencia) para que no se seque.
+*Batch cooking:* En el batch (unos 25 minutos): los medallones en su salsa y las patatas aparte; a la nevera.
+*Cambios respecto a la fuente:* La salsa, solo con cebolla, piquillos y caldo (sin nata ni vino); el aceite, medido; con patata y pan para que sea un plato completo de táper.
+
+---
+
 ### Espaguetis a la tofuloñesa
 *Fuente: Lara Ibarra · ≈ 705 kcal · 45 g proteína · 59 g HC · 29 g grasa · por persona*
 
@@ -618,7 +680,7 @@
 4. Monta la ensalada con los canónigos, los cherrys en mitades, la cebolla en juliana, la granada y la mozzarella, y alíñala al servir.
 
 *Tupper:* El pollo y las patatas, 3 días; la ensalada sin aliñar.
-*Batch cooking:* Plato de fin de semana: se hace el mismo día.
+*Batch cooking:* En fin de semana, se hace el mismo día. Entre semana, en el batch: los solomillos marinados y hechos en la airfryer, con sus patatas, a la nevera; la ensalada, al momento.
 *Cambios respecto a la fuente:* Solomillos en vez de alitas; mozzarella en vez de queso de cabra; granada en vez de higos.
 
 ---

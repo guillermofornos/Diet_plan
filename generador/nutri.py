@@ -108,6 +108,8 @@ T = {
  # Recetas del robot Cecotec
  "ternera_pieza":dict(n=(120, 21.5, 3.8, 0.0)),  # redondo, tapa o contra
  "ternera_guiso":dict(n=(135, 20.5, 5.5, 0.0)),  # morcillo, aguja o llana
+ "solomillo_cerdo":dict(n=(120, 21.0, 3.8, 0.0)), # solomillo de cerdo, crudo
+ "piquillo":     dict(n=(24, 1.0, 0.3, 4.5)),     # pimientos del piquillo en conserva
  "setas":        dict(n=(33, 3.3, 0.4, 4.0)),    # setas de cardo / ostra (USDA)
  "judias_verdes":dict(n=(25, 1.8, 0.2, 3.6)),
  "tomate_conc":  dict(n=(82, 4.3, 0.5, 13.0)),

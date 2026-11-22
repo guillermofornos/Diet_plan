@@ -5,15 +5,15 @@
 | Día | Desayuno | Comida | Merienda | Cena | Total del día |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Lunes 30 nov (E)** | Batido proteico + tostada integral y kiwi | 🤖 Lentejas con jamón y huevo duro | Natillas +Proteínas con plátano y pipas | 🎬 Fajitas de pollo con pan nube | ≈1946 kcal · 131 g prot. |
-| **Martes 1 dic (E)** | Batido de plátano, avena y claras + kiwi | 🤖 Lentejas con jamón y huevo duro | Natillas +Proteínas con plátano y pipas | 🎬 Kebab de pollo con patatas y salsa blanca | ≈1905 kcal · 138 g prot. |
-| **Miércoles 2 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🤖 Ternera a la jardinera (guiso con patata, zanahoria y guisantes) | Natillas +Proteínas con kiwi y pipas | 🎬 Salmón a la plancha con patatas al ajo y limón | ≈1701 kcal · 122 g prot. |
+| **Martes 1 dic (E)** | Batido de plátano, avena y claras + kiwi | 🤖 Albóndigas caseras en salsa de tomate con arroz integral | Natillas +Proteínas con plátano y pipas | 🎬 Kebab de pollo con patatas y salsa blanca | ≈1885 kcal · 139 g prot. |
+| **Miércoles 2 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Estofado de ternera con patatas y guisantes | Natillas +Proteínas con kiwi y pipas | 🎬 Salmón a la plancha con patatas al ajo y limón | ≈1682 kcal · 119 g prot. |
 | **Jueves 3 dic (E)** | Batido proteico + tostada integral y kiwi | 🤖 Potaje de garbanzos con acelgas y huevo | Natillas +Proteínas con plátano y pipas | 🎬 Dorada a la sal con patatas y ensalada de tomate | ≈1892 kcal · 104 g prot. |
 | **Viernes 4 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🤖 Arroz caldoso con pollo y judías verdes | Natillas +Proteínas con plátano y pipas | **Cena fuera** + *cervezas* | ≈1246 kcal · 79 g prot. + cena fuera |
 | **Sábado 5 dic (D)** | Tostada integral con aguacate y huevo | 🎬 Tacos de merluza crujiente con pico de gallo y salsa de yogur y lima | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1066 kcal · 71 g prot. + cena fuera |
 | **Domingo 6 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Arroz meloso con gambones | Natillas +Proteínas con kiwi y pipas | 🎬 Fingers de pollo crujientes con ensalada | ≈1559 kcal · 129 g prot. |
 
-**Batch cooking del domingo 29 de noviembre:** 1 h 30 min, aproximadamente. Ese día coméis y cenáis por libre. Paso a paso en `recetas/batch_cooking.md`.
-- **A la nevera:** Lentejas con jamón, 4 raciones, y 6 huevos duros con cáscara (4 para las lentejas y 2 para el potaje); Ternera a la jardinera, 2 raciones (miércoles); Pechuga asada y desmenuzada y juliana para las fajitas (lunes); Pollo del kebab marinado y salsa blanca (martes).
+**Batch cooking del domingo 29 de noviembre:** 1 h 45 min, aproximadamente. Ese día coméis y cenáis por libre. Paso a paso en `recetas/batch_cooking.md`.
+- **A la nevera:** Lentejas con jamón, 2 raciones, y 4 huevos duros con cáscara (2 para las lentejas y 2 para el potaje); Albóndigas en salsa con su arroz, 2 raciones (martes); Estofado de ternera, 2 raciones (miércoles); Pechuga asada y desmenuzada y juliana para las fajitas (lunes); Pollo del kebab marinado y salsa blanca (martes).
 - **Al congelador** (pásalo a la nevera la noche antes): Potaje de garbanzos con acelgas, 2 raciones (jueves; congelado, la patata queda algo más harinosa); Arroz con pollo y judías verdes, 2 raciones (viernes); Solomillos crudos de los fingers (domingo 6), en bolsa.
 
 **Recordatorios de la semana:**

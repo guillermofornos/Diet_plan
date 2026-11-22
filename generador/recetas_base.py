@@ -183,3 +183,38 @@ R["CENAV"] = dict(tipo="cena", nombre="Bol de avena con leche, cereal y plátano
        ("x:Canela", 0, "Canela")])],
    pasos=["Pon la avena en un bol con la leche. Si la quieres caliente, 2 minutos de microondas, removiendo a mitad; si no, fría, tal cual.",
           "Añade el yogur por encima, el plátano en rodajas, los copos de maíz al final (para que crujan) y canela."])
+
+R["ESTOF"] = dict(tipo="comida", nombre="Estofado de ternera con patatas y guisantes",
+   fuente="Receta de Threads (tu captura del 22 de noviembre); parecida, por escrito, en Directo al Paladar",
+   url2="https://www.directoalpaladar.com/recetas-de-carnes-y-aves/receta-tradicional-jarrete-ternera-estofado",
+   tupper="3 días en la nevera; también se congela (la patata queda algo más harinosa)",
+   grupos=[("Ingredientes", [("ternera_guiso", 170, "{170} g de jarrete (morcillo) de ternera, en dados"),
+       ("patata", 200, "{200} g de patata, chascada"), ("cebolla", 70, "{70} g de cebolla"),
+       ("zanahoria", 60, "{1|zanahoria pequeña|zanahorias pequeñas} ({60} g), en medias rodajas"),
+       ("tomate", 40, "{40} g de tomate rallado"), ("guisantes", 50, "{50} g de guisantes (congelados o cocidos)"),
+       ("aove", 10, "{10} ml de AOVE"), ("caldo_carne", 350, "{350} ml de caldo de carne o de huesos bajo en sal (lo justo para cubrir)"),
+       ("balsamico", 5, "{1|cucharadita|cucharaditas} de vinagre balsámico (en vez del vino tinto)"),
+       ("x:Laurel", 0, "{1/2|diente|dientes} de ajo, laurel, romero y tomillo, sal, pimienta y perejil picado")])],
+   pasos=["Pela la zanahoria y córtala en medias rodajas; pica fina la cebolla y el ajo, y corta la carne en dados.",
+          "En una olla (la Le Creuset va perfecta) con el aceite muy caliente, dora la ternera salpimentada; sácala y, en la misma grasa, pocha la cebolla, el ajo y la zanahoria 10 minutos a fuego medio.",
+          "Añade el tomate rallado y sofríe hasta que reduzca. Echa el balsámico, vuelve a meter la carne, rehoga un par de minutos y cubre justo con el caldo; pon las hierbas y tapa.",
+          "Cuece a fuego suave 1 h 30 min (hasta 2 horas), hasta que la carne esté tierna. En olla a presión, 30 minutos desde que suba la válvula.",
+          "Añade la patata chascada (rota, no cortada, para que suelte fécula y espese el caldo) y cuece tapado unos 30 minutos (20–25 si la carne ya viene de la olla a presión); los últimos minutos, destapado si hace falta espesar. Mueve la olla de vez en cuando.",
+          "Añade los guisantes, 2–3 minutos (5 si son congelados), rectifica de sal y termina con perejil picado.",
+          "En la Mambo: con la carne dorada antes en una sartén, sofrito de cebolla, ajo y zanahoria 10 min/120 °C/vel 1 con la mariposa y el tomate 5 min; la carne, el balsámico, el caldo y las hierbas, 60–75 min/100 °C/vel 1/giro inverso; la patata, 25 min, y los guisantes, los últimos 5."])
+R["ESTOF"]["batch"] = "Guiso de carne habitual. En el batch, en la olla a presión o en el robot (con la carne dorada antes en la sartén): 3 días en la nevera o al congelador."
+
+R["SOLPIQ"] = dict(tipo="comida", nombre="Solomillo de cerdo en salsa de pimientos del piquillo con patatas", fuente="Vídeo de YouTube (solomillo de cerdo en salsa de piquillos)",
+   url=YT + "BQVAwY-cA_U",
+   tupper="3 días en la nevera; recalienta tapado y a fuego suave (o microondas a media potencia) para que no se seque",
+   grupos=[("Solomillo en salsa", [("solomillo_cerdo", 170, "{170} g de solomillo de cerdo, en medallones de 2–3 cm"),
+       ("piquillo", 80, "{4|pimiento del piquillo|pimientos del piquillo} (unos {80} g, de bote)"), ("cebolla", 60, "{60} g de cebolla en juliana"),
+       ("aove", 10, "{10} ml de AOVE"), ("caldo_pollo", 100, "{100} ml de caldo de pollo bajo en sal"),
+       ("x:Ajo", 0, "{1/2|diente|dientes} de ajo, sal y pimienta")]),
+     ("Guarnición", [("patata", 300, "{300} g de patata"), ("pan_int", 40, "{40} g de pan integral")])],
+   pasos=["Salpimienta los medallones y dóralos en una sartén con la mitad del aceite, 2 minutos por lado; sácalos (por dentro, aún rosados).",
+          "En la misma sartén, con el resto del aceite, pocha la cebolla y el ajo 8–10 minutos a fuego medio.",
+          "Añade los pimientos del piquillo y el caldo, 5 minutos, y tritúralo todo (batidora, o el robot 30 s/vel 7) hasta tener una salsa fina. Rectifica de sal y pimienta.",
+          "Vuelve a meter los medallones en la salsa y cuécelos 4–5 minutos a fuego suave, no más, para que no se sequen.",
+          "Patatas: pélalas, córtalas en rodajas o dados y hazlas 8–10 minutos en el microondas, tapadas con un poco de agua y sal (o cocidas). Sirve con la salsa y el pan."])
+R["SOLPIQ"]["batch"] = "En el batch (unos 25 minutos): los medallones en su salsa y las patatas aparte; a la nevera."

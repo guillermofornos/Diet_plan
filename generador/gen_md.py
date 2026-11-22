@@ -6,7 +6,7 @@ from lib import texto, macros_receta
 
 REPO = Path(__file__).resolve().parent.parent   # el repositorio Diet_plan
 MESES = {"10": "oct", "11": "nov", "12": "dic"}
-COMIDAS = ["LENT1", "LENT2", "PILPIL", "VIZCA_A", "RIOJ", "RAPE", "SEPIA", "FISHCHIPS", "DORADA", "LUBSAL", "PULPO", "RODA", "GCAL", "ARRGAMB", "ARRSEC", "CARNEG", "TOFU", "GUIS_T", "BBQ", "CURRY", "TERI", "BURR"]
+COMIDAS = ["LENT1", "LENT2", "PILPIL", "VIZCA_A", "RIOJ", "RAPE", "SEPIA", "FISHCHIPS", "DORADA", "LUBSAL", "PULPO", "RODA", "GCAL", "ARRGAMB", "ARRSEC", "CARNEG", "ESTOF", "SOLPIQ", "TOFU", "GUIS_T", "BBQ", "CURRY", "TERI", "BURR"]
 CENAS = ["MERTAC", "SALM1", "SALM2", "DORSAL", "TOR", "PZA", "FCE", "TOM", "FPZ", "BEX", "CENAV"]   # sin atún: fuera los tacos de atún y la ensaladilla
 ROBOT = ["LENTJ", "POTG", "JARD", "ARRPOL", "ALBON", "TERESC", "RISOT", "CREMCAL", "CREMZAN", "CREMVER", "SOPA", "CASTA"]
 VARIANTES = {"TOFU": "TOFU_D"}

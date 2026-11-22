@@ -30,13 +30,13 @@ SEMANAS = [
    filas=[("D4L","LENT1","ME_E","CREMVER"), ("D3","PULPO","ME_E","CENAV"), ("D2","CURRY","ME_D","CREMCAL"), ("D3","CARNEG","ME_E","CRI"),
           ("D4","TERI","ME_E",FUERA), ("D4S","RODA","ME_D",FUERA), ("D2",LIBRE,"ME_D",LIBRE)]),
  dict(num=8, titulo="30 nov – 6 dic", fechas=["2026-11-30","2026-12-01","2026-12-02","2026-12-03","2026-12-04","2026-12-05","2026-12-06"],
-   filas=[("D1","LENTJ","ME_E","FAJ"), ("D3","LENTJ","ME_E","KEB"), ("D2","JARD","ME_D","SALM1"), ("D1","POTG","ME_E","DORSAL"),
+   filas=[("D1","LENTJ","ME_E","FAJ"), ("D3","ALBON","ME_E","KEB"), ("D2","ESTOF","ME_D","SALM1"), ("D1","POTG","ME_E","DORSAL"),
           ("D4","ARRPOL","ME_E",FUERA), ("D4S","MERTAC","ME_D",FUERA), ("D2","ARRGAMB","ME_D","FIN")]),
  dict(num=9, titulo="7 – 13 dic", fechas=["2026-12-07","2026-12-08","2026-12-09","2026-12-10","2026-12-11","2026-12-12","2026-12-13"],
-   filas=[("D4L","LENT2","ME_E","TAC"), ("D3","LENT2","ME_E","RISOT"), ("D4S","CURRY","ME_D","TERESC"), ("D4","TOFU","ME_E","TOM"),
+   filas=[("D4L","LENT2","ME_E","TAC"), ("D3","SOLPIQ","ME_E","RISOT"), ("D4S","CURRY","ME_D","TERESC"), ("D4","TOFU","ME_E","TOM"),
           ("D4","TERI","ME_E",FUERA), ("D4S","SEPIA","ME_D",FUERA), ("D2","LUBSAL","ME_D","CASTA")]),
  dict(num=10, titulo="14 – 20 dic", fechas=["2026-12-14","2026-12-15","2026-12-16","2026-12-17","2026-12-18","2026-12-19","2026-12-20"],
-   filas=[("D4","LENT1","ME_E","PZA"), ("D1","LENT1","ME_E","SALM2"), ("D2","JARD","ME_D","DORADA"), ("D1","ALBON","ME_E","FAJ"),
+   filas=[("D4","LENT1","ME_E","PZA"), ("D1","BBQ","ME_E","SALM2"), ("D2","ESTOF","ME_D","DORADA"), ("D1","ALBON","ME_E","FAJ"),
           ("D4","ARRPOL","ME_E",FUERA), ("D4S","ARRSEC","ME_D",FUERA), ("D2","RAPE","ME_D","TOR")]),
 ]
 def total_dia(fila):
@@ -78,6 +78,12 @@ def comprobar_repeticiones(desde=6):
         if a["num"] < desde: continue
         rep = platos_semana(a) & platos_semana(b)
         if rep: errores.append(f"Semanas {a['num']} y {b['num']}: se repite {', '.join(R[c]['nombre'] for c in sorted(rep))}")
+    # Desde la semana 7: ningún plato se repite dentro de la misma semana (las lentejas, un solo día; 22 de noviembre)
+    for s in SEMANAS:
+        if s["num"] >= 7:
+            vistos = [c for f in s["filas"] for c in (f[1], f[3]) if c not in NO_PLATO]
+            rep = sorted({c for c in vistos if vistos.count(c) > 1})
+            if rep: errores.append(f"Semana {s['num']}: se repite dentro de la semana: {', '.join(R[c]['nombre'] for c in rep)}")
     # Desde la semana 7: los guisantes con jamón no son plato principal (fuera del plan, 21 de noviembre)
     for s in SEMANAS:
         if s["num"] >= 7 and {"GUIS", "GUIS_D", "GUIS_T"} & platos_semana(s):
@@ -155,6 +161,8 @@ CAMBIOS = {
  "SALM2": "Zanahoria en tiras en vez de calabacín y medio diente de ajo; el salmón, pesado (150 g por persona; la receta no lo dice). Salmón: 45 en tu test, con moderación. La receta es para 1: cantidades pasadas a 2.",
  "CASTA": "Boniato en vez de castañas (se encuentra todo el año en Mercadona y da la misma crema dulce y espesa, con menos kcal); menos agua (2 L para dos no caben en el vaso del robot); un huevo pochado por persona en vez de uno para los dos. El boniato no sale en tu test.",
  "TERI": "Sin mirin ni sake (alcohol 51 en tu test): agua y un chorrito de limón; miel medida (una cucharadita por persona) en vez de azúcar; soja baja en sal; solomillos en vez de pechuga o muslo; con judías verdes, zanahoria y pimiento salteados para que sea un plato completo de táper, y el arroz medido.",
+ "ESTOF": "Sin vino tinto (alcohol 51 en tu test): una cucharadita de balsámico; 340 g de carne para los dos en vez de 650 y algo menos de patata, para que cuadre con las kcal del día; un diente de ajo en vez de tres (ajo 43); el aceite, medido.",
+ "SOLPIQ": "La salsa, solo con cebolla, piquillos y caldo (sin nata ni vino); el aceite, medido; con patata y pan para que sea un plato completo de táper.",
  "CARNEG": "Sin vino (alcohol 51 en tu test): caldo de carne; el aceite, medido; ternera de guisar magra. Cantidades para 2.",
  "CREMVER": "Judías verdes y zanahoria en vez del calabacín (te sienta mal); caldo de verduras; jamón crujiente como en la receta y huevos cocidos de segundo para que sea una cena completa. La receta es para 4: cantidades pasadas a 2.",
  "RODA": "Sin vino blanco (alcohol 51 en tu test): caldo de pescado; el aceite, medido (la receta pone un buen chorro); un solo diente de ajo para los dos (ajo 43). Rodaballo: verde en tu test.",

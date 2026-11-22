@@ -9,16 +9,17 @@
 ## Fruta y verdura
 - 12 Plátanos (desayunos y meriendas)
 - 14 Kiwis (desayunos y meriendas)
+- 1 Granada (se usan 80 g de granos)
 - 2 Aguacates (unos 260 g de pulpa)
-- 950 g Pimientos rojos o de colores
-- 420 g Pimientos verdes italianos
-- 1,2 kg Cebollas (incluye cebolleta y morada)
-- 780 g Zanahorias
-- 700 g Tomates (incluye cherrys)
-- 2,31 kg Patatas
+- 850 g Pimientos rojos o de colores
+- 340 g Pimientos verdes italianos
+- 1,12 kg Cebollas (incluye cebolleta y morada)
+- 580 g Zanahorias
+- 790 g Tomates (incluye cherrys)
+- 2,59 kg Patatas
 - 50 g Ajos frescos (ajetes) (un manojo pequeño)
-- 220 g Puerros
-- 1 bolsa Rúcula o canónigos (unos 30 g)
+- 140 g Puerros
+- 1 bolsa Rúcula o canónigos (unos 110 g)
 - Limones
 - Perejil
 
@@ -26,12 +27,11 @@
 - docena y media Huevos (se usan 17)
 - 940 ml Claras de huevo pasteurizadas
 - 300 g Pechuga de pollo
-- 900 g Solomillos de pollo
+- 960 g Solomillos de pollo
 - 200 g Secreto ibérico
-- 40 g Taquitos de jamón serrano
 - 140 g Jamón cocido extra
 - 320 g Carne picada magra, mitad ternera y mitad cerdo (pídela en la carnicería y cocínala en 24 horas)
-- 320 g Ternera para guisar en tacos (morcillo, aguja o llana, sin grasa visible)
+- 340 g Ternera para guisar en tacos (jarrete (morcillo), aguja o llana, sin grasa visible)
 
 ## Pescado
 - 2 Doradas de ración, limpias y sin escamas (de unos 400 g cada una; pídelas abiertas para rellenar)
@@ -42,6 +42,7 @@
 - 8 Yogures naturales sin azúcar (de 125 g)
 - 2 Yogur +Proteínas natural (vasitos de 120 g, en packs de 4)
 - 14 Natillas +Proteínas (4 packs de 4)
+- 1 bola Mozzarella fresca (se usan 80 g)
 - 1 bola Mozzarella fresca light (se usan 120 g)
 - 20 ml Leche o bebida de soja sin azúcar
 
@@ -49,21 +50,21 @@
 - 890 g Pan integral (100% integral)
 
 ## Despensa
-- 320 g Lenteja pardina
+- 160 g Lenteja pardina
 - 120 g Arroz integral
 - 280 g Arroz redondo
 - 280 g Copos de avena
 - 210 g Pipas de calabaza sin sal
 - 400 g Tomate triturado natural
 - 1 bote Carne de pimiento choricero (se usan 15 g)
-- 1 brik de 1 L Caldo de carne bajo en sal (se usan 600 ml)
+- 2 briks de 1 L Caldo de carne bajo en sal (se usan 1,3 L)
 - 1 brik de 1 L Caldo de pescado bajo en sal (se usan 750 ml)
 - 1 Salsa de soja baja en sodio (si no te queda)
 - 1 Mostaza (si no te queda)
+- 1 Salsa barbacoa sin azúcar (si no te queda)
 - 1 Vinagre balsámico (si no te queda; no crema de balsámico)
 - 1 brik de 1 L Caldo de pollo bajo en sal (se usan 700 ml)
-- 1 brik de 1 L Caldo de verduras bajo en sal (se usan 350 ml)
-- 210 ml Aceite de oliva virgen extra (se usan esta semana)
+- 220 ml Aceite de oliva virgen extra (se usan esta semana)
 - Salsa picante (opcional)
 
 ## Congelados

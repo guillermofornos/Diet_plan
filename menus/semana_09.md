@@ -5,15 +5,15 @@
 | Día | Desayuno | Comida | Merienda | Cena | Total del día |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Lunes 7 dic (E)** | Tostada integral con aguacate y huevo + yogur | 🎬 Lentejas con calabaza al curry y huevo cocido | Natillas +Proteínas con plátano y pipas | 🎬 Tacos de zanahoria con pollo | ≈1906 kcal · 128 g prot. |
-| **Martes 8 dic (E)** | Batido de plátano, avena y claras + kiwi | 🎬 Lentejas con calabaza al curry y huevo cocido | Natillas +Proteínas con plátano y pipas | 🤖 Risotto ligero de pollo, puerro y setas | ≈1937 kcal · 127 g prot. |
+| **Martes 8 dic (E)** | Batido de plátano, avena y claras + kiwi | 🎬 Solomillo de cerdo en salsa de pimientos del piquillo con patatas | Natillas +Proteínas con plátano y pipas | 🤖 Risotto ligero de pollo, puerro y setas | ≈1867 kcal · 133 g prot. |
 | **Miércoles 9 dic (D)** | Tostada integral con aguacate y huevo | 🎬 Gratinado de patata y pollo al curry | Natillas +Proteínas con kiwi y pipas | 🤖 Ternera escalfada con salsa de sus verduras y patata | ≈1649 kcal · 136 g prot. |
 | **Jueves 10 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🎬 Espaguetis a la tofuloñesa | Natillas +Proteínas con plátano y pipas | 🎬 Tomates y pimientos rellenos de huevo, pollo y mozzarella | ≈1900 kcal · 130 g prot. |
 | **Viernes 11 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🎬 Pollo teriyaki con arroz y verduras salteadas | Natillas +Proteínas con plátano y pipas | **Cena fuera** + *cervezas* | ≈1249 kcal · 83 g prot. + cena fuera |
 | **Sábado 12 dic (D)** | Tostada integral con aguacate y huevo | 🎬 Guiso de sepia con patatas y guisantes | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈951 kcal · 68 g prot. + cena fuera |
 | **Domingo 13 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Lubina a la sal con pisto y patata | Natillas +Proteínas con kiwi y pipas | 🤖 Crema de boniato y puerro con pollo y huevo pochado | ≈1623 kcal · 133 g prot. |
 
-**Batch cooking del domingo 6 de diciembre:** 1 h 30 min, aproximadamente. Ese día, además, comes el arroz meloso con gambones (unos 50 minutos, al terminar) y cenas los fingers. Paso a paso en `recetas/batch_cooking.md`.
-- **A la nevera:** Lentejas al curry, 4 raciones con su arroz y 8 huevos cocidos con cáscara (lunes y martes); Gratinado de patata y pollo al curry, 2 raciones (miércoles); Ternera escalfada entera, en su salsa (cena del miércoles); Pechuga asada y desmenuzada y zanahoria rallada para los tacos (lunes).
+**Batch cooking del domingo 6 de diciembre:** 1 h 35 min, aproximadamente. Ese día, además, comes el arroz meloso con gambones (unos 50 minutos, al terminar) y cenas los fingers. Paso a paso en `recetas/batch_cooking.md`.
+- **A la nevera:** Lentejas al curry, 2 raciones con su arroz y 4 huevos cocidos con cáscara (lunes); Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (martes); Gratinado de patata y pollo al curry, 2 raciones (miércoles); Ternera escalfada entera, en su salsa (cena del miércoles); Pechuga asada y desmenuzada y zanahoria rallada para los tacos (lunes).
 - **Al congelador** (pásalo a la nevera la noche antes): Espaguetis a la tofuloñesa, 2 raciones (jueves); Pollo teriyaki con su arroz y verduras, 2 raciones (viernes); Pechuga cruda del risotto, en dados (martes); Pollo asado y desmenuzado de los tomates rellenos (jueves).
 
 **Recordatorios de la semana:**

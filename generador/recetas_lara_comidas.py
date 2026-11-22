@@ -89,4 +89,5 @@ R["GUIS_T"] = dict(tipo="comida", nombre="Guisantes con jamón, patata y huevo (
 R["TOFU"]["batch"] = "Entera en el batch, con la pasta: 3 días en la nevera o al congelador."
 R["TOFU_D"]["batch"] = R["TOFU"]["batch"]
 R["CURRY"]["batch"] = "Entero en el batch: 2–3 días en la nevera (no se congela)."
-for k in ("BBQ", "BURR"): R[k]["batch"] = "Plato de fin de semana: se hace el mismo día."
+R["BURR"]["batch"] = "Plato de fin de semana: se hace el mismo día."
+R["BBQ"]["batch"] = "En fin de semana, se hace el mismo día. Entre semana, en el batch: los solomillos marinados y hechos en la airfryer, con sus patatas, a la nevera; la ensalada, al momento."
