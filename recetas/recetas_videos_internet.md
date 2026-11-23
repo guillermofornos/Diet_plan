@@ -396,6 +396,90 @@
 
 ---
 
+### Dorada a la sal con patatas y ensalada de tomate
+*Fuente: Joseba y Karlos Arguiñano · ≈ 560 kcal · 44 g proteína · 55 g HC · 16 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=HgsVRio4OC8>  
+📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/pescados-mariscos/dorada-a-la-sal.html>
+
+**Ingredientes (Dorada a la sal):**
+- 2 doradas de ración de unos 400 g cada una, con escamas (solo vaciadas y sin agallas).
+- Unos 2 kg de sal gruesa (para las dos) y un poco de agua.
+
+**Ingredientes (Guarnición):**
+- 500 g de patata.
+- 20 ml de AOVE.
+- 200 g de tomate.
+- 40 g de canónigos.
+- 60 g de pan integral.
+- Pimentón dulce, perejil y sal.
+
+**Instrucciones:**
+1. Horno a 190 °C (para doradas de menos de medio kilo; las grandes, a 220 °C).
+2. Haz una cama de sal gruesa humedecida con un poco de agua en una bandeja y pon encima las doradas.
+3. Mezcla el resto de la sal con un poco de agua para que se compacte y cubre bien el pescado.
+4. Hornea unos 20 minutos (la receta calcula 25–30 minutos por kilo).
+5. Mientras, la patata en dados en un bol tapado con un poco de agua, 7–8 minutos de microondas, con la mitad del aceite, pimentón y sal. La ensalada: tomate y canónigos con el resto del aceite.
+6. Rompe la costra con una espátula, quita la sal que quede, abre la dorada de la cola a la cabeza, quita la piel y saca los lomos. Perejil por encima y a la mesa.
+
+*Tupper:* Se hace y se come el mismo día.
+*Batch cooking:* Pescado: se hace el mismo día (unos 30 minutos, casi todo de horno).
+*Cambios respecto a la fuente:* Doradas de ración (una por persona) en vez de una pieza de 2 kg, a 190 °C como recomienda la receta para piezas pequeñas; sin mayonesa ni alioli: patata cocida con AOVE y una ensalada de tomate para que sea un plato completo.
+
+---
+
+### Salmón a la plancha con patatas al ajo y limón
+*Fuente: Karlos Arguiñano · ≈ 556 kcal · 35 g proteína · 31 g HC · 30 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=bA3E2HxbvZ0>  
+📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/pescados-mariscos/salmon-a-la-plancha-con-patatas-al-ajo-y-limon.html>
+
+**Ingredientes:**
+- 300 g de salmón (lomo o rodajas).
+- 400 g de patatas pequeñas (unas 6).
+- 22 ml de AOVE.
+- 1 limón, 1 diente de ajo con piel, tomillo, perejil, sal y pimienta.
+
+**Instrucciones:**
+1. Cuece las patatas con piel en agua con sal 15–20 minutos y escúrrelas.
+2. En una sartén grande, con casi todo el aceite, saltea el ajo con su piel 1–2 minutos. Añade las patatas en mitades, salpimienta y saltéalas a fuego fuerte 4–5 minutos.
+3. Añade el zumo de limón y deja que se evapore. Espolvorea el tomillo picado y saltea un momento.
+4. Calienta una plancha con el resto del aceite. Corta el salmón en trozos, salpimiéntalo y hazlo 1–2 minutos por lado.
+5. Sirve el salmón con las patatas y perejil picado.
+
+*Tupper:* Al momento.
+*Batch cooking:* Pescado: se hace al momento (unos 25 minutos). El salmón, a la nevera la noche antes si es congelado.
+*Cambios respecto a la fuente:* Medio diente de ajo por persona en vez de uno y medio (ajo 43 en tu test) y el aceite medido. Salmón: 45 en tu test, lo comes con moderación (decisión tuya del 15 de noviembre). La receta es para 4: cantidades pasadas a 2.
+
+---
+
+### Salmón en papillote con verduras y patata
+*Fuente: El Mundo En Recetas · ≈ 560 kcal · 35 g proteína · 35 g HC · 28 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=2KHoXNxdMTc>  
+📄 **Receta escrita:** <https://elmundoenrecetas.com/receta/salmon-en-papillote>
+
+**Ingredientes:**
+- 2 lomos de salmón (unos 300 g).
+- 300 g de patata en láminas finas.
+- 120 g de zanahoria en tiras finas (en vez del calabacín).
+- 120 g de pimiento rojo en tiras finas.
+- 120 g de cebolla en juliana.
+- 16 ml de AOVE.
+- 1 diente de ajo laminado, sal y pimienta.
+
+**Instrucciones:**
+1. Horno a 200 °C. Si quieres la patata más tierna, dale antes 3 minutos de microondas en un bol tapado.
+2. Para cada papillote, pon sobre papel de horno o de aluminio un poco del aceite, la patata, la zanahoria, el pimiento, la cebolla y el ajo, con sal y pimienta.
+3. Pon el salmón encima, salpimiéntalo, riega con el resto del aceite y cierra el papel en un paquete bien sellado.
+4. Hornea en una bandeja 12–15 minutos y ábrelo en la mesa.
+
+*Tupper:* Al momento.
+*Batch cooking:* Pescado: se hace al momento (unos 20 minutos). El salmón, a la nevera la noche antes si es congelado.
+*Cambios respecto a la fuente:* Zanahoria en tiras en vez de calabacín y medio diente de ajo; el salmón, pesado (150 g por persona; la receta no lo dice). Salmón: 45 en tu test, con moderación. La receta es para 1: cantidades pasadas a 2.
+
+---
+
 ### Guiso de calamares con patatas y ajos frescos
 *Fuente: Karlos Arguiñano · ≈ 483 kcal · 37 g proteína · 44 g HC · 15 g grasa · por persona*
 
@@ -831,90 +915,6 @@
 
 ---
 
-### Salmón a la plancha con patatas al ajo y limón
-*Fuente: Karlos Arguiñano · ≈ 495 kcal · 33 g proteína · 19 g HC · 30 g grasa · por persona*
-
-▶ **Vídeo:** <https://www.youtube.com/watch?v=bA3E2HxbvZ0>  
-📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/pescados-mariscos/salmon-a-la-plancha-con-patatas-al-ajo-y-limon.html>
-
-**Ingredientes:**
-- 300 g de salmón (lomo o rodajas).
-- 240 g de patatas pequeñas (unas 4).
-- 22 ml de AOVE.
-- 1 limón, 1 diente de ajo con piel, tomillo, perejil, sal y pimienta.
-
-**Instrucciones:**
-1. Cuece las patatas con piel en agua con sal 15–20 minutos y escúrrelas.
-2. En una sartén grande, con casi todo el aceite, saltea el ajo con su piel 1–2 minutos. Añade las patatas en mitades, salpimienta y saltéalas a fuego fuerte 4–5 minutos.
-3. Añade el zumo de limón y deja que se evapore. Espolvorea el tomillo picado y saltea un momento.
-4. Calienta una plancha con el resto del aceite. Corta el salmón en trozos, salpimiéntalo y hazlo 1–2 minutos por lado.
-5. Sirve el salmón con las patatas y perejil picado.
-
-*Tupper:* Al momento.
-*Batch cooking:* Pescado: se hace al momento (unos 25 minutos). El salmón, a la nevera la noche antes si es congelado.
-*Cambios respecto a la fuente:* Medio diente de ajo por persona en vez de uno y medio (ajo 43 en tu test) y el aceite medido. Salmón: 45 en tu test, lo comes con moderación (decisión tuya del 15 de noviembre). La receta es para 4: cantidades pasadas a 2.
-
----
-
-### Salmón en papillote con verduras y patata
-*Fuente: El Mundo En Recetas · ≈ 560 kcal · 35 g proteína · 35 g HC · 28 g grasa · por persona*
-
-▶ **Vídeo:** <https://www.youtube.com/watch?v=2KHoXNxdMTc>  
-📄 **Receta escrita:** <https://elmundoenrecetas.com/receta/salmon-en-papillote>
-
-**Ingredientes:**
-- 2 lomos de salmón (unos 300 g).
-- 300 g de patata en láminas finas.
-- 120 g de zanahoria en tiras finas (en vez del calabacín).
-- 120 g de pimiento rojo en tiras finas.
-- 120 g de cebolla en juliana.
-- 16 ml de AOVE.
-- 1 diente de ajo laminado, sal y pimienta.
-
-**Instrucciones:**
-1. Horno a 200 °C. Si quieres la patata más tierna, dale antes 3 minutos de microondas en un bol tapado.
-2. Para cada papillote, pon sobre papel de horno o de aluminio un poco del aceite, la patata, la zanahoria, el pimiento, la cebolla y el ajo, con sal y pimienta.
-3. Pon el salmón encima, salpimiéntalo, riega con el resto del aceite y cierra el papel en un paquete bien sellado.
-4. Hornea en una bandeja 12–15 minutos y ábrelo en la mesa.
-
-*Tupper:* Al momento.
-*Batch cooking:* Pescado: se hace al momento (unos 20 minutos). El salmón, a la nevera la noche antes si es congelado.
-*Cambios respecto a la fuente:* Zanahoria en tiras en vez de calabacín y medio diente de ajo; el salmón, pesado (150 g por persona; la receta no lo dice). Salmón: 45 en tu test, con moderación. La receta es para 1: cantidades pasadas a 2.
-
----
-
-### Dorada a la sal con patatas y ensalada de tomate
-*Fuente: Joseba y Karlos Arguiñano · ≈ 560 kcal · 44 g proteína · 55 g HC · 16 g grasa · por persona*
-
-▶ **Vídeo:** <https://www.youtube.com/watch?v=HgsVRio4OC8>  
-📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/pescados-mariscos/dorada-a-la-sal.html>
-
-**Ingredientes (Dorada a la sal):**
-- 2 doradas de ración de unos 400 g cada una, con escamas (solo vaciadas y sin agallas).
-- Unos 2 kg de sal gruesa (para las dos) y un poco de agua.
-
-**Ingredientes (Guarnición):**
-- 500 g de patata.
-- 20 ml de AOVE.
-- 200 g de tomate.
-- 40 g de canónigos.
-- 60 g de pan integral.
-- Pimentón dulce, perejil y sal.
-
-**Instrucciones:**
-1. Horno a 190 °C (para doradas de menos de medio kilo; las grandes, a 220 °C).
-2. Haz una cama de sal gruesa humedecida con un poco de agua en una bandeja y pon encima las doradas.
-3. Mezcla el resto de la sal con un poco de agua para que se compacte y cubre bien el pescado.
-4. Hornea unos 20 minutos (la receta calcula 25–30 minutos por kilo).
-5. Mientras, la patata en dados en un bol tapado con un poco de agua, 7–8 minutos de microondas, con la mitad del aceite, pimentón y sal. La ensalada: tomate y canónigos con el resto del aceite.
-6. Rompe la costra con una espátula, quita la sal que quede, abre la dorada de la cola a la cabeza, quita la piel y saca los lomos. Perejil por encima y a la mesa.
-
-*Tupper:* Se hace y se come el mismo día.
-*Batch cooking:* Pescado: se hace el mismo día (unos 30 minutos, casi todo de horno).
-*Cambios respecto a la fuente:* Doradas de ración (una por persona) en vez de una pieza de 2 kg, a 190 °C como recomienda la receta para piezas pequeñas; sin mayonesa ni alioli: patata cocida con AOVE y una ensalada de tomate para que sea un plato completo.
-
----
-
 ### Tortilla de patata con claras
 *Fuente: Lara Ibarra · ≈ 465 kcal · 40 g proteína · 33 g HC · 17 g grasa · por persona*
 
@@ -1102,3 +1102,70 @@
 2. Añade el yogur por encima, el plátano en rodajas, los copos de maíz al final (para que crujan) y canela.
 
 *Tupper:* Al momento (2 minutos).
+
+---
+
+### Sándwich de tortilla francesa con jamón serrano y tomate
+*Fuente: Cena ligera sencilla, sin receta de internet · ≈ 443 kcal · 34 g proteína · 40 g HC · 14 g grasa · por persona*
+
+**Ingredientes:**
+- 4 rebanadas grandes de pan integral por persona (180 g).
+- 2 huevos.
+- 200 ml de claras.
+- 40 g de jamón serrano.
+- 1 tomate en rodajas (120 g).
+- Un puñado de canónigos o rúcula.
+- Un poco de AOVE en spray.
+- Sal y orégano.
+
+**Instrucciones:**
+1. Bate el huevo con las claras y una pizca de sal y cuaja una tortilla francesa en una sartén con spray (una por persona).
+2. Tuesta el pan. Monta el sándwich con la tortilla, el jamón, el tomate con orégano y los canónigos.
+
+*Tupper:* Al momento (10 minutos).
+*Batch cooking:* Se hace al momento.
+
+---
+
+### Sándwich mixto fit (jamón cocido y mozzarella) con tomate
+*Fuente: Cena ligera sencilla, sin receta de internet · ≈ 445 kcal · 40 g proteína · 44 g HC · 12 g grasa · por persona*
+
+**Ingredientes (Sándwich):**
+- 4 rebanadas grandes de pan integral por persona (180 g).
+- 120 g de jamón cocido extra.
+- 80 g de mozzarella fresca light en lonchas.
+- 1 tomate en rodajas (100 g).
+- Un poco de AOVE en spray.
+
+**Ingredientes (De postre):**
+- 2 yogures +Proteínas naturales.
+
+**Instrucciones:**
+1. Monta el sándwich con el jamón, la mozzarella bien escurrida y el tomate.
+2. Dóralo en la sartén con un poco de spray, 2–3 minutos por lado y aplastándolo con una espátula (o en la sandwichera), hasta que se funda la mozzarella.
+3. De postre, el yogur +Proteínas.
+
+*Tupper:* Al momento (5–10 minutos).
+*Batch cooking:* Se hace al momento.
+
+---
+
+### Sándwich de pollo, aguacate y tomate con salsa de yogur y mostaza
+*Fuente: Cena ligera sencilla, sin receta de internet · ≈ 417 kcal · 35 g proteína · 41 g HC · 10 g grasa · por persona*
+
+**Ingredientes:**
+- 4 rebanadas grandes de pan integral por persona (180 g).
+- 200 g de pechuga de pollo (asada en el batch o a la plancha).
+- 60 g de aguacate en láminas.
+- 1 tomate en rodajas (100 g).
+- Un puñado de canónigos.
+- 60 g de yogur natural.
+- 2 cucharaditas de mostaza.
+- Sal y pimienta.
+
+**Instrucciones:**
+1. Mezcla el yogur con la mostaza, sal y pimienta: es la salsa.
+2. Tuesta el pan, úntalo con la salsa y monta el sándwich con el pollo en lonchas finas, el aguacate, el tomate y los canónigos.
+
+*Tupper:* Al momento; la pechuga, asada en el batch.
+*Batch cooking:* En el batch, la pechuga asada (con el resto del horno); el sándwich, al momento.

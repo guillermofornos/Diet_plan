@@ -229,7 +229,7 @@ R["LUBSAL"] = dict(tipo="comida", nombre="Lubina a la sal con pisto y patata", f
           "Rompe la costra de sal, quita la piel y saca los lomos. Unas gotas de aceite por encima y sirve con el pisto, la patata y perejil."])
 R["LUBSAL"]["batch"] = "Pescado: se hace el mismo día (unos 30 minutos; el pisto, mientras la lubina está en el horno)."
 
-R["DORSAL"] = dict(tipo="cena", nombre="Dorada a la sal con patatas y ensalada de tomate", fuente="Joseba y Karlos Arguiñano", url=YT + "HgsVRio4OC8",
+R["DORSAL"] = dict(tipo="comida", nombre="Dorada a la sal con patatas y ensalada de tomate", fuente="Joseba y Karlos Arguiñano", url=YT + "HgsVRio4OC8",
    url2="https://www.hogarmania.com/cocina/recetas/pescados-mariscos/dorada-a-la-sal.html",
    tupper="Se hace y se come el mismo día",
    grupos=[("Dorada a la sal", [("dorada_sal", 400, "{1|dorada de ración|doradas de ración} de unos 400 g cada una, con escamas (solo vaciadas y sin agallas)"),
@@ -244,10 +244,10 @@ R["DORSAL"] = dict(tipo="cena", nombre="Dorada a la sal con patatas y ensalada d
           "Rompe la costra con una espátula, quita la sal que quede, abre la dorada de la cola a la cabeza, quita la piel y saca los lomos. Perejil por encima y a la mesa."])
 R["DORSAL"]["batch"] = "Pescado: se hace el mismo día (unos 30 minutos, casi todo de horno)."
 
-R["SALM1"] = dict(tipo="cena", nombre="Salmón a la plancha con patatas al ajo y limón", fuente=ARG, url=YT + "bA3E2HxbvZ0",
+R["SALM1"] = dict(tipo="comida", nombre="Salmón a la plancha con patatas al ajo y limón", fuente=ARG, url=YT + "bA3E2HxbvZ0",
    url2="https://www.hogarmania.com/cocina/recetas/pescados-mariscos/salmon-a-la-plancha-con-patatas-al-ajo-y-limon.html",
    tupper="Al momento",
-   grupos=[("Ingredientes", [("salmon", 150, "{150} g de salmón (lomo o rodajas)"), ("patata", 120, "{120} g de patatas pequeñas (unas {2})"),
+   grupos=[("Ingredientes", [("salmon", 150, "{150} g de salmón (lomo o rodajas)"), ("patata", 200, "{200} g de patatas pequeñas (unas {3})"),
        ("aove", 11, "{11} ml de AOVE"), ("x:Limones", 0, "{1/2|limón|limones}, {1/2|diente|dientes} de ajo con piel, tomillo, perejil, sal y pimienta")])],
    pasos=["Cuece las patatas con piel en agua con sal 15–20 minutos y escúrrelas.",
           "En una sartén grande, con casi todo el aceite, saltea el ajo con su piel 1–2 minutos. Añade las patatas en mitades, salpimienta y saltéalas a fuego fuerte 4–5 minutos.",
@@ -256,7 +256,7 @@ R["SALM1"] = dict(tipo="cena", nombre="Salmón a la plancha con patatas al ajo y
           "Sirve el salmón con las patatas y perejil picado."])
 R["SALM1"]["batch"] = "Pescado: se hace al momento (unos 25 minutos). El salmón, a la nevera la noche antes si es congelado."
 
-R["SALM2"] = dict(tipo="cena", nombre="Salmón en papillote con verduras y patata", fuente="El Mundo En Recetas", url=YT + "2KHoXNxdMTc",
+R["SALM2"] = dict(tipo="comida", nombre="Salmón en papillote con verduras y patata", fuente="El Mundo En Recetas", url=YT + "2KHoXNxdMTc",
    url2="https://elmundoenrecetas.com/receta/salmon-en-papillote",
    tupper="Al momento",
    grupos=[("Ingredientes", [("salmon", 150, "{1|lomo de salmón|lomos de salmón} (unos {150} g)"), ("patata", 150, "{150} g de patata en láminas finas"),

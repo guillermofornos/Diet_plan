@@ -30,14 +30,17 @@ SEMANAS = [
    filas=[("D4L","LENT1","ME_E","CREMVER"), ("D3","PULPO","ME_E","CENAV"), ("D2","CURRY","ME_D","CREMCAL"), ("D3","CARNEG","ME_E","CRI"),
           ("D4","TERI","ME_E",FUERA), ("D4S","RODA","ME_D",FUERA), ("D2",LIBRE,"ME_D",LIBRE)]),
  dict(num=8, titulo="30 nov – 6 dic", fechas=["2026-11-30","2026-12-01","2026-12-02","2026-12-03","2026-12-04","2026-12-05","2026-12-06"],
-   filas=[("D1","LENTJ","ME_E","FAJ"), ("D3","ALBON","ME_E","KEB"), ("D2","ESTOF","ME_D","SALM1"), ("D1","POTG","ME_E","DORSAL"),
-          ("D4","ARRPOL","ME_E",FUERA), ("D4S","MERTAC","ME_D",FUERA), ("D2","ARRGAMB","ME_D","FIN")]),
+   filas=[("D1","LENTJ","ME_E","FAJ"), ("D4","ALBON","ME_E","SOPA"), ("D2","ESTOF","ME_D","SANDTOR"), ("D1","POTG","ME_E","KEB"),
+          ("D4","ARRPOL","ME_E",FUERA), ("D4S","DORSAL","ME_D",FUERA), ("D2","ARRGAMB","ME_D","CASTA")]),
  dict(num=9, titulo="7 – 13 dic", fechas=["2026-12-07","2026-12-08","2026-12-09","2026-12-10","2026-12-11","2026-12-12","2026-12-13"],
-   filas=[("D4L","LENT2","ME_E","TAC"), ("D3","SOLPIQ","ME_E","RISOT"), ("D4S","CURRY","ME_D","TERESC"), ("D4","TOFU","ME_E","TOM"),
-          ("D4","TERI","ME_E",FUERA), ("D4S","SEPIA","ME_D",FUERA), ("D2","LUBSAL","ME_D","CASTA")]),
+   filas=[("D4L","LENT2","ME_E","TAC"), ("D1","SOLPIQ","ME_E","CREMCAL"), ("D4S","CURRY","ME_D","SANDMIX"), ("D4","TOFU","ME_E","TOM"),
+          ("D4","TERI","ME_E",FUERA), ("D4S","SALM2","ME_D",FUERA), ("D2","LUBSAL","ME_D","CREMVER")]),
  dict(num=10, titulo="14 – 20 dic", fechas=["2026-12-14","2026-12-15","2026-12-16","2026-12-17","2026-12-18","2026-12-19","2026-12-20"],
-   filas=[("D4","LENT1","ME_E","PZA"), ("D1","BBQ","ME_E","SALM2"), ("D2","ESTOF","ME_D","DORADA"), ("D1","ALBON","ME_E","FAJ"),
-          ("D4","ARRPOL","ME_E",FUERA), ("D4S","ARRSEC","ME_D",FUERA), ("D2","RAPE","ME_D","TOR")]),
+   filas=[("D4","LENT1","ME_E","PZA"), ("D1","BBQ","ME_E","SANDTOR"), ("D2","ESTOF","ME_D","SANDPOL"), ("D1","ALBON","ME_E","TOR"),
+          ("D4","ARRPOL","ME_E",FUERA), ("D4S","ARRSEC","ME_D",FUERA), ("D2","RAPE","ME_D","CASTA")]),
+ dict(num=11, titulo="21 – 27 dic", fechas=["2026-12-21","2026-12-22","2026-12-23","2026-12-24","2026-12-25","2026-12-26","2026-12-27"],
+   filas=[("D4L","LENT2","ME_E","KEB"), ("D1","SOLPIQ","ME_E","CREMCAL"), ("D2","POTG","ME_D","FAJ"), ("D3","TERI","ME_E",LIBRE),
+          ("D4",LIBRE,"ME_E",LIBRE), ("D4S","SALM1","ME_D",FUERA), ("D2","SEPIA","ME_D","CREMVER")]),
 ]
 def total_dia(fila):
     k = p = 0
@@ -78,6 +81,19 @@ def comprobar_repeticiones(desde=6):
         if a["num"] < desde: continue
         rep = platos_semana(a) & platos_semana(b)
         if rep: errores.append(f"Semanas {a['num']} y {b['num']}: se repite {', '.join(R[c]['nombre'] for c in sorted(rep))}")
+    # Desde la semana 8: cenas ligeras (cremas, sándwiches, tortilla...). Kebab, fajitas, tacos, pizza o hamburguesa,
+    # el día que la comida es de legumbre; si no, como mucho una vez a la semana. Nada de pescado de cena (23 de noviembre)
+    for s in SEMANAS:
+        if s["num"] < 8: continue
+        sueltas = 0
+        for i, f in enumerate(s["filas"]):
+            comida, cena = f[1], f[3]
+            if cena in NO_PLATO: continue
+            if cena not in CENAS_LIGERAS | CENAS_RAPIDAS:
+                errores.append(f"Semana {s['num']}, {DIAS[i].lower()}: {R[cena]['nombre']} no es una cena ligera")
+            elif cena in CENAS_RAPIDAS and comida not in LEGUMBRES:
+                sueltas += 1
+        if sueltas > 1: errores.append(f"Semana {s['num']}: {sueltas} cenas tipo kebab o hamburguesa sin legumbre a mediodía (como mucho, una)")
     # Desde la semana 7: ningún plato se repite dentro de la misma semana (las lentejas, un solo día; 22 de noviembre)
     for s in SEMANAS:
         if s["num"] >= 7:
@@ -95,7 +111,7 @@ def comprobar_repeticiones(desde=6):
                    and any(i in ("pavo", "pavo_fiambre") for _, ings in R[c]["grupos"] for i, _q, _t in ings)]
             if con: errores.append(f"Semana {s['num']}: lleva pavo: {', '.join(sorted(set(con)))}")
     # Cada mes (bloques de 4 semanas desde la 7): arroz con secreto en la Le Creuset, dorada y lubina a la sal y salmón 2 semanas
-    for ini in range(7, max(s["num"] for s in SEMANAS) + 1, 4):
+    for ini in range(8, max(s["num"] for s in SEMANAS) + 1, 4):
         mes = [s for s in SEMANAS if ini <= s["num"] < ini + 4]
         if len(mes) < 4: continue
         platos = set().union(*(platos_semana(s) for s in mes))
@@ -105,6 +121,9 @@ def comprobar_repeticiones(desde=6):
         if n_salmon < 2: errores.append(f"Semanas {ini}–{ini + 3}: salmón solo {n_salmon} semana(s); tienen que ser 2")
     return errores
 MENSUALES = ["ARRSEC", "DORSAL", "LUBSAL"]
+CENAS_LIGERAS = {"CREMCAL", "CREMZAN", "CREMVER", "SOPA", "CASTA", "CENAV", "TOR", "TOM", "SANDTOR", "SANDMIX", "SANDPOL"}
+CENAS_RAPIDAS = {"KEB", "FAJ", "TAC", "CRI", "FIN", "FF2", "BEX", "FPZ", "PZA"}
+LEGUMBRES = {"LENT1", "LENT2", "LENTJ", "POTG"}
 if __name__ == "__main__":
     for s in SEMANAS: print(f"Semana {s['num']}: {', '.join(sorted(pescados_semana(s))) or '—'}")
     for e in comprobar_pescados() + comprobar_repeticiones(): print("  NORMA:", e)
@@ -113,7 +132,7 @@ if __name__ == "__main__":
         for i, fila in enumerate(s["filas"]):
             k, p = total_dia(fila)
             obj = 1950 if TIPO[i] == "E" else 1600
-            nota = "  + cena fuera" if fila[3] == FUERA else "  + comida y cena libres" if fila[3] == LIBRE else f"  ({k-obj:+.0f} vs {obj})"
+            nota = "  + cena fuera" if fila[3] == FUERA else ("  + comida y cena libres" if fila[1] == LIBRE else "  + cena libre") if fila[3] == LIBRE else f"  ({k-obj:+.0f} vs {obj})"
             print(f"  {DIAS[i]:10s} {TIPO[i]}  {k:5.0f} kcal  {p:5.0f} g prot  {' / '.join(fila)}{nota}")
 
 CAMBIOS = {
@@ -172,13 +191,14 @@ CAMBIOS = {
 }
 from batch import BATCH, NORMAS
 NOTA_COMPRA = {
+ 11: "Semana de Navidad: la cena del jueves 24 (Nochebuena) y la comida y la cena del viernes 25 quedan libres, sin compra. El salmón de la comida del sábado 26, compradlo el jueves 24 (el 25 cierran las tiendas), o congelado y a la nevera la noche antes. La sepia del domingo 27, congelada.",
  3: "La compra de esta semana ya está hecha (sábado 24). Con los cambios solo falta: 140 g de jamón cocido extra para la pizza del martes, un pimiento rojo para el pil pil y la fajicesta y una guindilla o cayena si no tenéis. Os sobran 2 latas de atún y 400 g de garbanzos (los garbanzos, para el potaje del miércoles 4).",
  4: "No compréis los garbanzos: os sobran de la semana pasada (ya no los lleva el bacalao).",
  5: "La compra de esta semana ya está hecha. El domingo 15 ya no hay tacos de merluza, sino arroz meloso con gambones: el sábado 14, con la compra de la semana 6, añadid 500 g de gambones crudos congelados (unos 12), 140 g de arroz bomba (o redondo, si os queda), 60 g más de pimiento rojo y 30 g de verde, media cebolla, un trozo de puerro (40 g), 120 g de tomate triturado y azafrán si no tenéis. Si ya comprasteis la merluza (340 g), dejadla en el congelador para el fish & chips del sábado 21; las tortillas de maíz, la piña y la lima os sobran.",
  7: "Si ya habéis hecho la compra con la lista anterior: os sobran los guisantes, el jamón, el secreto (al congelador, para el arroz del sábado 19 de diciembre), el pavo, el salmón (congelado, para el miércoles 2), la carne picada de las albóndigas y la mitad de las lentejas. Lo nuevo está en la lista: ternera para guisar, judías verdes, arroz basmati, miel, jengibre, copos de maíz y yogures +Proteínas. El pulpo cocido, compradlo ya (es para el martes 24: mirad la fecha). El rodaballo (1 de 1–1,2 kg), mejor fresco: el viernes 27 o el mismo sábado 28.",
- 8: "Las 2 doradas de la cena del jueves 3 se hacen a la sal: enteras y sin escamar. Mejor frescas, compradas el miércoles o el jueves; si no, congeladas enteras, y a la nevera la noche antes.",
- 9: "Las 2 lubinas de la comida del domingo 13 se hacen a la sal: enteras y sin escamar. Mejor frescas: no las compréis hoy, sino el sábado 12 con la compra de la semana siguiente.",
- 10: "Las 2 doradas de la cena del miércoles 16, mejor frescas: compradlas el lunes o el martes; si no, congeladas, y a la nevera la noche antes. El secreto ibérico del arroz del sábado 19 va al congelador en el batch del domingo 13.",
+ 8: "Las 2 doradas de la comida del sábado 5 se hacen a la sal: enteras y sin escamar. Mejor frescas, compradas el viernes 4 o el mismo sábado; si no, congeladas enteras, y a la nevera la noche antes.",
+ 9: "Las 2 lubinas de la comida del domingo 13 se hacen a la sal: enteras y sin escamar. Mejor frescas: no las compréis hoy, sino el sábado 12 con la compra de la semana siguiente. El salmón de la comida del sábado 12, fresco el viernes 11 (o congelado y a la nevera la noche antes).",
+ 10: "El secreto ibérico del arroz del sábado 19 va al congelador en el batch del domingo 13.",
  6: "Si comprasteis la merluza de los tacos de la semana pasada (340 g), no compréis más: os vale para el fish & chips del sábado 21.",
 }
 PREP = {n: b['recordatorios'] for n, b in BATCH.items()}

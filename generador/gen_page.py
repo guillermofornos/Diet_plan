@@ -8,7 +8,7 @@ from lib import macros_receta
 MESES = {"10": "oct", "11": "nov", "12": "dic"}
 MES_LARGO = {"10": "octubre", "11": "noviembre", "12": "diciembre"}
 # La página lleva la semana en curso y el mes nuevo: así el enlace de Indi sirve siempre (se publica en la misma URL).
-PAGINA = [5, 6, 7, 8, 9, 10]
+PAGINA = [7, 8, 9, 10, 11]
 SEMANAS = [s for s in SEMANAS if s["num"] in PAGINA]
 usadas = set()
 for s in SEMANAS:
@@ -33,7 +33,7 @@ for s in SEMANAS:
     for i, fila in enumerate(s["filas"]):
         kc, p = total_dia(fila); _, m, d = s["fechas"][i].split("-")
         dias.append(dict(nombre=DIAS[i], fecha=s["fechas"][i], n=int(d), mes=MESES[m], tipo=TIPO[i], kcal=round(kc), prot=round(p),
-                         fuera=fila[3] == FUERA, libre=fila[3] == LIBRE, comidas=[["Desayuno", fila[0]], ["Comida", fila[1]], ["Merienda", fila[2]], ["Cena", fila[3]]],
+                         fuera=fila[3] == FUERA, libre=("comida y cena libres" if fila[1] == LIBRE else "cena libre") if fila[3] == LIBRE else "", comidas=[["Desayuno", fila[0]], ["Comida", fila[1]], ["Merienda", fila[2]], ["Cena", fila[3]]],
                          prep=prep_dia[i]))
     compra = [dict(h=sec, items=items) for sec, items in lista(s).items()]
     semanas.append(dict(num=s["num"], titulo=s["titulo"], corto=f"{dias[0]['n']} {dias[0]['mes']}", inicio=s["fechas"][0], fin=s["fechas"][-1],

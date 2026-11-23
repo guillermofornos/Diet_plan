@@ -359,7 +359,7 @@ main{padding-block:16px 40px}
         el("h2", { id: "h-" + d.fecha }, d.nombre + " ", el("span", { text: d.n + " " + d.mes })),
         el("span", { class: "pill " + (d.tipo === "E" ? "pill-e" : "pill-d"), text: d.tipo === "E" ? "Entreno" : "Descanso" }));
       if (d.fecha === today) { sec.classList.add("is-today"); head.append(el("span", { class: "pill pill-today", text: "Hoy" })); }
-      var tgt = el("span", { class: "target" }, el("b", { text: "≈" + d.kcal + " kcal" }), " · " + d.prot + " g prot." + (d.fuera ? " + cena fuera" : d.libre ? " + comida y cena libres" : ""));
+      var tgt = el("span", { class: "target" }, el("b", { text: "≈" + d.kcal + " kcal" }), " · " + d.prot + " g prot." + (d.fuera ? " + cena fuera" : d.libre ? " + " + d.libre : ""));
       head.append(tgt);
       sec.append(head);
       d.prep.forEach(function (t) { sec.append(el("p", { class: "prep" }, el("strong", { text: "Preparación: " }), t)); });

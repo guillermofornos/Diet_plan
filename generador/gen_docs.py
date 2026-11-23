@@ -47,7 +47,7 @@ def doc_recetas(s):
     orden = []
     for i, fila in enumerate(s["filas"]):
         kc, p = total_dia(fila)
-        b.append(f"<h3>{DIAS[i]} {fecha(s['fechas'][i])} ({TIPO[i]}) · ≈{kc:.0f} kcal, {p:.0f} g prot.{' + cena fuera' if fila[3] == FUERA else ' + comida y cena libres' if fila[3] == LIBRE else ''}</h3><ul>")
+        b.append(f"<h3>{DIAS[i]} {fecha(s['fechas'][i])} ({TIPO[i]}) · ≈{kc:.0f} kcal, {p:.0f} g prot.{' + cena fuera' if fila[3] == FUERA else (' + comida y cena libres' if fila[1] == LIBRE else ' + cena libre') if fila[3] == LIBRE else ''}</h3><ul>")
         for slot, k in zip(["Desayuno", "Comida", "Merienda", "Cena"], fila):
             if k == LIBRE:
                 b.append(f"<li><b>{slot}:</b> libre</li>")

@@ -42,6 +42,8 @@ python3 gen_docs.py 5    # HTML de los Google Docs de la semana 5 en salida/docs
 - Salmón unas 2 semanas al mes, y al menos una dorada a la sal y una lubina a la sal al mes, sin quitar guisos ni marmitakos para meterlos.
 - Una vez al mes, como mínimo, el arroz meloso con secreto ibérico en la Le Creuset.
 - Ningún plato se repite dentro de la misma semana: las lentejas, un solo día (desde la semana 7).
+- Cenas ligeras (desde la semana 8): cremas, sándwiches, tortilla o tomates rellenos. Kebab, fajitas, tacos, pizza o hamburguesa, el día que la comida es de legumbre (o, como mucho, una vez suelta a la semana). El pescado, nunca de cena: va a las comidas del fin de semana, que es cuando se puede hacer en el momento.
+- Los meses se cuentan en bloques de 4 semanas desde la 8 (30 de noviembre).
 - Nada de pavo, ni en comidas ni en cenas, y los guisantes con jamón no cuentan como plato principal.
 - El estofado de ternera (tu receta del 22 de noviembre) es el guiso de carne habitual: cada dos semanas.
 - `python3 plan.py` comprueba las normas de pescado, de repetición y las mensuales.

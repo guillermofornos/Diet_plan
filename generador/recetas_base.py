@@ -218,3 +218,35 @@ R["SOLPIQ"] = dict(tipo="comida", nombre="Solomillo de cerdo en salsa de pimient
           "Vuelve a meter los medallones en la salsa y cuécelos 4–5 minutos a fuego suave, no más, para que no se sequen.",
           "Patatas: pélalas, córtalas en rodajas o dados y hazlas 8–10 minutos en el microondas, tapadas con un poco de agua y sal (o cocidas). Sirve con la salsa y el pan."])
 R["SOLPIQ"]["batch"] = "En el batch (unos 25 minutos): los medallones en su salsa y las patatas aparte; a la nevera."
+
+SAND_FUENTE = "Cena ligera sencilla, sin receta de internet"
+R["SANDTOR"] = dict(tipo="cena", nombre="Sándwich de tortilla francesa con jamón serrano y tomate", fuente=SAND_FUENTE,
+   tupper="Al momento (10 minutos)",
+   grupos=[("Ingredientes", [("pan_int", 90, "{2|rebanada grande|rebanadas grandes} de pan integral por persona ({90} g)"),
+       ("huevo", 55, "{1|huevo|huevos}"), ("clara", 100, "{100} ml de claras"), ("jamon_serrano", 20, "{20} g de jamón serrano"),
+       ("tomate", 60, "{1/2|tomate|tomates} en rodajas ({60} g)"), ("hojas", 15, "Un puñado de canónigos o rúcula"),
+       ("aove", 3, "Un poco de AOVE en spray"), ("x:Sal", 0, "Sal y orégano")])],
+   pasos=["Bate el huevo con las claras y una pizca de sal y cuaja una tortilla francesa en una sartén con spray (una por persona).",
+          "Tuesta el pan. Monta el sándwich con la tortilla, el jamón, el tomate con orégano y los canónigos."])
+R["SANDTOR"]["batch"] = "Se hace al momento."
+
+R["SANDMIX"] = dict(tipo="cena", nombre="Sándwich mixto fit (jamón cocido y mozzarella) con tomate", fuente=SAND_FUENTE,
+   tupper="Al momento (5–10 minutos)",
+   grupos=[("Sándwich", [("pan_int", 90, "{2|rebanada grande|rebanadas grandes} de pan integral por persona ({90} g)"),
+       ("jamon_cocido", 60, "{60} g de jamón cocido extra"), ("mozza_light", 40, "{40} g de mozzarella fresca light en lonchas"),
+       ("tomate", 50, "{1/2|tomate|tomates} en rodajas ({50} g)"), ("aove", 3, "Un poco de AOVE en spray")]),
+     ("De postre", [("yogur_prot", 120, "{1|yogur +Proteínas natural|yogures +Proteínas naturales}")])],
+   pasos=["Monta el sándwich con el jamón, la mozzarella bien escurrida y el tomate.",
+          "Dóralo en la sartén con un poco de spray, 2–3 minutos por lado y aplastándolo con una espátula (o en la sandwichera), hasta que se funda la mozzarella.",
+          "De postre, el yogur +Proteínas."])
+R["SANDMIX"]["batch"] = "Se hace al momento."
+
+R["SANDPOL"] = dict(tipo="cena", nombre="Sándwich de pollo, aguacate y tomate con salsa de yogur y mostaza", fuente=SAND_FUENTE,
+   tupper="Al momento; la pechuga, asada en el batch",
+   grupos=[("Ingredientes", [("pan_int", 90, "{2|rebanada grande|rebanadas grandes} de pan integral por persona ({90} g)"),
+       ("pechuga", 100, "{100} g de pechuga de pollo (asada en el batch o a la plancha)"), ("aguacate", 30, "{30} g de aguacate en láminas"),
+       ("tomate", 50, "{1/2|tomate|tomates} en rodajas ({50} g)"), ("hojas", 15, "Un puñado de canónigos"),
+       ("yogur", 30, "{30} g de yogur natural"), ("mostaza", 5, "{1|cucharadita|cucharaditas} de mostaza"), ("x:Sal", 0, "Sal y pimienta")])],
+   pasos=["Mezcla el yogur con la mostaza, sal y pimienta: es la salsa.",
+          "Tuesta el pan, úntalo con la salsa y monta el sándwich con el pollo en lonchas finas, el aguacate, el tomate y los canónigos."])
+R["SANDPOL"]["batch"] = "En el batch, la pechuga asada (con el resto del horno); el sándwich, al momento."

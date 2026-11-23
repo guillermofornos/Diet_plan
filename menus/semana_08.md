@@ -5,23 +5,23 @@
 | Día | Desayuno | Comida | Merienda | Cena | Total del día |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Lunes 30 nov (E)** | Batido proteico + tostada integral y kiwi | 🤖 Lentejas con jamón y huevo duro | Natillas +Proteínas con plátano y pipas | 🎬 Fajitas de pollo con pan nube | ≈1946 kcal · 131 g prot. |
-| **Martes 1 dic (E)** | Batido de plátano, avena y claras + kiwi | 🤖 Albóndigas caseras en salsa de tomate con arroz integral | Natillas +Proteínas con plátano y pipas | 🎬 Kebab de pollo con patatas y salsa blanca | ≈1885 kcal · 139 g prot. |
-| **Miércoles 2 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Estofado de ternera con patatas y guisantes | Natillas +Proteínas con kiwi y pipas | 🎬 Salmón a la plancha con patatas al ajo y limón | ≈1682 kcal · 119 g prot. |
-| **Jueves 3 dic (E)** | Batido proteico + tostada integral y kiwi | 🤖 Potaje de garbanzos con acelgas y huevo | Natillas +Proteínas con plátano y pipas | 🎬 Dorada a la sal con patatas y ensalada de tomate | ≈1892 kcal · 104 g prot. |
+| **Martes 1 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🤖 Albóndigas caseras en salsa de tomate con arroz integral | Natillas +Proteínas con plátano y pipas | 🤖 Sopa cremosa de pollo con huevo pochado | ≈1902 kcal · 137 g prot. |
+| **Miércoles 2 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Estofado de ternera con patatas y guisantes | Natillas +Proteínas con kiwi y pipas | Sándwich de tortilla francesa con jamón serrano y tomate | ≈1630 kcal · 120 g prot. |
+| **Jueves 3 dic (E)** | Batido proteico + tostada integral y kiwi | 🤖 Potaje de garbanzos con acelgas y huevo | Natillas +Proteínas con plátano y pipas | 🎬 Kebab de pollo con patatas y salsa blanca | ≈1910 kcal · 114 g prot. |
 | **Viernes 4 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🤖 Arroz caldoso con pollo y judías verdes | Natillas +Proteínas con plátano y pipas | **Cena fuera** + *cervezas* | ≈1246 kcal · 79 g prot. + cena fuera |
-| **Sábado 5 dic (D)** | Tostada integral con aguacate y huevo | 🎬 Tacos de merluza crujiente con pico de gallo y salsa de yogur y lima | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1066 kcal · 71 g prot. + cena fuera |
-| **Domingo 6 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Arroz meloso con gambones | Natillas +Proteínas con kiwi y pipas | 🎬 Fingers de pollo crujientes con ensalada | ≈1559 kcal · 129 g prot. |
+| **Sábado 5 dic (D)** | Tostada integral con aguacate y huevo | 🎬 Dorada a la sal con patatas y ensalada de tomate | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1054 kcal · 72 g prot. + cena fuera |
+| **Domingo 6 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Arroz meloso con gambones | Natillas +Proteínas con kiwi y pipas | 🤖 Crema de boniato y puerro con pollo y huevo pochado | ≈1634 kcal · 127 g prot. |
 
-**Batch cooking del domingo 29 de noviembre:** 1 h 45 min, aproximadamente. Ese día coméis y cenáis por libre. Paso a paso en `recetas/batch_cooking.md`.
-- **A la nevera:** Lentejas con jamón, 2 raciones, y 4 huevos duros con cáscara (2 para las lentejas y 2 para el potaje); Albóndigas en salsa con su arroz, 2 raciones (martes); Estofado de ternera, 2 raciones (miércoles); Pechuga asada y desmenuzada y juliana para las fajitas (lunes); Pollo del kebab marinado y salsa blanca (martes).
-- **Al congelador** (pásalo a la nevera la noche antes): Potaje de garbanzos con acelgas, 2 raciones (jueves; congelado, la patata queda algo más harinosa); Arroz con pollo y judías verdes, 2 raciones (viernes); Solomillos crudos de los fingers (domingo 6), en bolsa.
+**Batch cooking del domingo 29 de noviembre:** 1 h 50 min, aproximadamente (la sopa termina sola en el robot). Ese día coméis y cenáis por libre. Paso a paso en `recetas/batch_cooking.md`.
+- **A la nevera:** Lentejas con jamón, 2 raciones, y 4 huevos duros con cáscara (2 para las lentejas y 2 para el potaje); Albóndigas en salsa con su arroz, 2 raciones (martes); Sopa cremosa de pollo, 2 raciones (cena del martes; el huevo pochado, al momento); Estofado de ternera, 2 raciones (miércoles); Pechuga asada y desmenuzada y juliana para las fajitas (lunes).
+- **Al congelador** (pásalo a la nevera la noche antes): Potaje de garbanzos con acelgas, 2 raciones (jueves; congelado, la patata queda algo más harinosa); Arroz con pollo y judías verdes, 2 raciones (viernes); Pollo del kebab marinado, en bolsa (cena del jueves).
 
 **Recordatorios de la semana:**
-- **Martes 1:** Kebab: pon las patatas en remojo al llegar a casa. Por la noche, pasa el salmón a la nevera (cena del miércoles).
-- **Miércoles 2 por la noche:** Pasa el potaje del jueves a la nevera (y las doradas, si las compraste congeladas).
-- **Jueves 3 por la noche:** Pasa el arroz con pollo del viernes a la nevera.
-- **Viernes 4 por la noche:** Pasa la merluza y los solomillos de los fingers a la nevera y deja hechos el pico de gallo y la salsa de yogur (tacos de merluza del sábado).
-- **Sábado 5 por la noche:** Pasa los gambones del congelador a la nevera (arroz del domingo) y deja marinando los fingers.
+- **Martes 1:** Cena: calienta la sopa y haz los huevos pochados al momento (3 minutos).
+- **Miércoles 2 por la noche:** Pasa a la nevera el potaje (comida del jueves) y el pollo del kebab (cena del jueves).
+- **Jueves 3:** Kebab: pon las patatas en remojo al llegar a casa y haz la salsa blanca (yogur, especias y limón). Por la noche, pasa el arroz con pollo del viernes a la nevera.
+- **Viernes 4:** Compra las 2 doradas frescas, enteras y sin escamar, para la comida de mañana (a la sal). Si son congeladas, a la nevera esta noche.
+- **Sábado 5 por la noche:** Pasa los gambones del congelador a la nevera (arroz del domingo).
 
 **Dónde está cada receta:**
 - Desayunos: `recetas/desayunos.md` · Meriendas: `recetas/meriendas.md`
