@@ -12,9 +12,10 @@
 | **Sábado 31 oct (D)** | Tostada integral con aguacate y huevo | 🎬 Solomillos al adobo barbacoa con patatas y ensalada de granada | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1133 kcal · 85 g prot. + cena fuera |
 | **Domingo 1 nov (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Fish & chips fit con tártara de yogur y guisantes a la hierbabuena | Natillas +Proteínas con kiwi y pipas | 🎬 Fingers de pollo crujientes con ensalada | ≈1720 kcal · 145 g prot. |
 
-**Batch cooking del domingo 25 de octubre:** 1 h 45 min, aproximadamente. Paso a paso en `recetas/batch_cooking.md`.
-- **A la nevera:** Lentejas con pollo, 4 raciones (lunes y martes); Pechuga asada y desmenuzada para las fajitas (miércoles); Verduras picadas: fajicesta (lunes), pizza (martes) y fajitas (miércoles).
-- **Al congelador** (pásalo a la nevera la noche antes): Tofuloñesa con los espaguetis, 2 raciones (jueves); Guisantes con jamón, 2 raciones (viernes); Solomillos del kebab en su marinado (jueves); Solomillos crudos de la barbacoa (sábado) y de los fingers (domingo), en bolsas.
+**Batch cooking del domingo 25 de octubre** (paso a paso en `recetas/batch_cooking.md`):
+- **Batch cooking:** 1 h 45 min, aproximadamente.
+  - A la nevera: Lentejas con pollo, 4 raciones (lunes y martes); Pechuga asada y desmenuzada para las fajitas (miércoles); Verduras picadas: fajicesta (lunes), pizza (martes) y fajitas (miércoles).
+  - Al congelador (pásalo a la nevera la noche antes): Tofuloñesa con los espaguetis, 2 raciones (jueves); Guisantes con jamón, 2 raciones (viernes); Solomillos del kebab en su marinado (jueves); Solomillos crudos de la barbacoa (sábado) y de los fingers (domingo), en bolsas.
 
 **Recordatorios de la semana:**
 - **Lunes 26:** Compra 140 g de jamón cocido extra (o pechuga de pavo en lonchas) para la pizza del martes, que ya no lleva atún. El pil pil del miércoles necesita bacalao con piel: los lomos al punto de sal congelados la llevan.

@@ -1,6 +1,7 @@
 """Genera los Markdown del repo a partir del plan."""
 from pathlib import Path
 from plan import R, SEMANAS, DIAS, TIPO, FUERA, LIBRE, CAMBIOS, PREP, BATCH, NORMAS, NOTA_COMPRA, total_dia
+from batch import tandas
 from shop import lista, opcional_bigmac
 from lib import texto, macros_receta
 
@@ -85,9 +86,11 @@ def menu_md(s):
         tot = f"≈{kc:.0f} kcal · {p:.0f} g prot." + (" + cena fuera" if ce == FUERA else (" + comida y cena libres" if c == LIBRE else " + cena libre") if ce == LIBRE else "")
         out.append(f"| **{DIAS[i]} {fecha(s['fechas'][i])} ({TIPO[i]})** | {nom(d)} | {nom(c)} | {nom(m)} | {cena} | {tot} |")
     b = BATCH[s["num"]]
-    out += ["", f"**Batch cooking del {b['dia'].lower()}:** {b['duracion']}. Paso a paso en `recetas/batch_cooking.md`.",
-            "- **A la nevera:** " + "; ".join(b["nevera"]) + ".",
-            "- **Al congelador** (pásalo a la nevera la noche antes): " + "; ".join(b["congelador"]) + "."]
+    out += ["", f"**Batch cooking del {b['dia'].lower()}** (paso a paso en `recetas/batch_cooking.md`):"] + ([f"- {b['nota_dia']}"] if b.get("nota_dia") else [])
+    for t in tandas(b):
+        out += [f"- **{t['nombre']}:** {t['duracion']}.",
+                "  - A la nevera: " + ("; ".join(t["nevera"]) or "nada") + ".",
+                "  - Al congelador (pásalo a la nevera la noche antes): " + ("; ".join(t["congelador"]) or "nada") + "."]
     out += ["", "**Recordatorios de la semana:**"] + [f"- **{dia}:** {txt}" for dia, txt in PREP[s["num"]]]
     out += ["", "**Dónde está cada receta:**",
             "- Desayunos: `recetas/desayunos.md` · Meriendas: `recetas/meriendas.md`",
@@ -115,14 +118,18 @@ def lista_md(s):
 
 def batch_md():
     out = ["# Batch Cooking del Domingo", "",
-           "*El domingo se cocinan de una vez las comidas de lunes a viernes, que van en táper, y se adelanta lo que se pueda de las cenas. Cantidades para los dos (x2): son las de las recetas multiplicadas por las raciones de cada plato.*", "",
+           "*El domingo se cocinan en dos tandas: la de mediodía, con las comidas de lunes a viernes para los táperes, y la de cenas, con lo que se adelanta de las cenas. Cantidades para los dos (x2): son las de las recetas multiplicadas por las raciones de cada plato.*", "",
            "**Normas:**"] + [f"- {n}" for n in NORMAS] + [""]
     for s in SEMANAS:
         b = BATCH[s["num"]]
-        out += ["---", "", f"## Semana {s['num']} ({s['titulo']}) · {b['dia']}", "", f"*Duración: {b['duracion']}.*", "",
-                "**A la nevera:**"] + [f"- {x}" for x in b["nevera"]] + ["", "**Al congelador** (pásalo a la nevera la noche antes):"] + [f"- {x}" for x in b["congelador"]]
-        out += ["", "**Paso a paso:**", "", "| Hora | Dónde | Qué hacer |", "| :--- | :--- | :--- |"]
-        out += [f"| {h} | {donde} | {txt} |" for h, donde, txt in b["pasos"]]
+        out += ["---", "", f"## Semana {s['num']} ({s['titulo']}) · {b['dia']}", ""] + ([f"*{b['nota_dia']}*", ""] if b.get("nota_dia") else [])
+        ts = tandas(b)
+        for t in ts:
+            if len(ts) > 1: out += [f"### {t['nombre']}", ""]
+            out += [f"*Duración: {t['duracion']}.*", "", "**A la nevera:**"] + ([f"- {x}" for x in t["nevera"]] or ["- Nada"])
+            out += ["", "**Al congelador** (pásalo a la nevera la noche antes):"] + ([f"- {x}" for x in t["congelador"]] or ["- Nada"])
+            out += ["", "**Paso a paso:**", "", "| Hora | Dónde | Qué hacer |", "| :--- | :--- | :--- |"]
+            out += [f"| {h} | {donde} | {txt} |" for h, donde, txt in t["pasos"]] + [""]
         out += ["", "**Recordatorios de la semana:**"] + [f"- **{dia}:** {txt}" for dia, txt in b["recordatorios"]] + [""]
     return "\n".join(out)
 

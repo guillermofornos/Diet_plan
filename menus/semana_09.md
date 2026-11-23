@@ -12,9 +12,14 @@
 | **Sábado 12 dic (D)** | Tostada integral con aguacate y huevo | 🎬 Salmón en papillote con verduras y patata | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1054 kcal · 64 g prot. + cena fuera |
 | **Domingo 13 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Lubina a la sal con pisto y patata | Natillas +Proteínas con kiwi y pipas | 🤖 Crema de verduras con jamón crujiente y huevo cocido | ≈1662 kcal · 112 g prot. |
 
-**Batch cooking del domingo 6 de diciembre:** 1 h 30 min, aproximadamente. Ese día, además, comes el arroz meloso con gambones (unos 50 minutos, al terminar) y cenas la crema de boniato con pollo (hecha en el robot durante el batch). Paso a paso en `recetas/batch_cooking.md`.
-- **A la nevera:** Lentejas al curry, 2 raciones con su arroz y 4 huevos cocidos con cáscara (lunes); Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (martes); Crema de calabaza, 2 raciones (cena del martes; la tortilla, al momento); Gratinado de patata y pollo al curry, 2 raciones (miércoles); Pechuga asada y desmenuzada y zanahoria rallada para los tacos (lunes).
-- **Al congelador** (pásalo a la nevera la noche antes): Espaguetis a la tofuloñesa, 2 raciones (jueves); Pollo teriyaki con su arroz y verduras, 2 raciones (viernes); Pollo asado y desmenuzado de los tomates rellenos (cena del jueves).
+**Batch cooking del domingo 6 de diciembre** (paso a paso en `recetas/batch_cooking.md`):
+- Ese día comes el arroz meloso con gambones y cenas la crema de boniato con pollo (en la tanda de cenas).
+- **Mediodía (táperes):** 1 h 25 min, aproximadamente. Para comer hoy, el arroz meloso con gambones (unos 50 minutos, al terminar).
+  - A la nevera: Lentejas al curry, 2 raciones con su arroz y 4 huevos cocidos con cáscara (lunes); Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (martes); Gratinado de patata y pollo al curry, 2 raciones (miércoles).
+  - Al congelador (pásalo a la nevera la noche antes): Espaguetis a la tofuloñesa, 2 raciones (jueves); Pollo teriyaki con su arroz y verduras, 2 raciones (viernes).
+- **Cenas:** 1 h, aproximadamente, con la crema de boniato de la cena de hoy.
+  - A la nevera: Pechuga asada y desmenuzada y zanahoria rallada para los tacos (lunes); Crema de calabaza, 2 raciones (martes; la tortilla, al momento).
+  - Al congelador (pásalo a la nevera la noche antes): Pollo asado y desmenuzado de los tomates rellenos (jueves).
 
 **Recordatorios de la semana:**
 - **Martes 8:** Cena: calienta la crema de calabaza y haz la tortilla de claras con jamón al momento.

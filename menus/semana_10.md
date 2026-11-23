@@ -12,9 +12,14 @@
 | **Sábado 19 dic (D)** | Tostada integral con aguacate y huevo | Arroz meloso con secreto ibérico | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1182 kcal · 53 g prot. + cena fuera |
 | **Domingo 20 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Marmitako de rape (guiso de rape y patata) | Natillas +Proteínas con kiwi y pipas | 🤖 Crema de boniato y puerro con pollo y huevo pochado | ≈1575 kcal · 128 g prot. |
 
-**Batch cooking del domingo 13 de diciembre:** 1 h 50 min, aproximadamente, con la lubina a la sal de la comida en el horno al final (el estofado acaba solo en el robot mientras coméis). Esa noche cenas la crema de verduras (hecha el sábado). Paso a paso en `recetas/batch_cooking.md`.
-- **A la nevera:** Lentejas con pollo, 2 raciones (lunes); Solomillos al adobo barbacoa con sus patatas, 2 raciones (martes; la ensalada, al momento); Estofado de ternera, 2 raciones (miércoles); Pechuga asada entera para el sándwich de la cena del miércoles; Pimiento y cebolla en tiras para la pizza (lunes).
-- **Al congelador** (pásalo a la nevera la noche antes): Albóndigas en salsa con su arroz, 2 raciones (jueves); Arroz con pollo y judías verdes, 2 raciones (viernes); Secreto ibérico crudo del arroz del sábado 19, en bolsa.
+**Batch cooking del domingo 13 de diciembre** (paso a paso en `recetas/batch_cooking.md`):
+- Ese día comes la lubina a la sal con pisto (en la tanda de comidas) y cenas la crema de verduras, hecha el sábado.
+- **Mediodía (táperes):** 1 h 50 min, aproximadamente, con la lubina a la sal de la comida de hoy en el horno al final (el estofado acaba solo en el robot mientras coméis).
+  - A la nevera: Lentejas con pollo, 2 raciones (lunes); Solomillos al adobo barbacoa con sus patatas, 2 raciones (martes; la ensalada, al momento); Estofado de ternera, 2 raciones (miércoles).
+  - Al congelador (pásalo a la nevera la noche antes): Albóndigas en salsa con su arroz, 2 raciones (jueves); Arroz con pollo y judías verdes, 2 raciones (viernes); Secreto ibérico crudo del arroz del sábado 19, en bolsa.
+- **Cenas:** 30 min, aproximadamente.
+  - A la nevera: Pechuga asada entera para el sándwich del miércoles; Pimiento y cebolla en tiras para la pizza (lunes).
+  - Al congelador (pásalo a la nevera la noche antes): nada.
 
 **Recordatorios de la semana:**
 - **Martes 15:** Comida: la ensalada de los solomillos (canónigos, cherrys, cebolla morada, granada y mozzarella), al momento, y el aliño al servir.

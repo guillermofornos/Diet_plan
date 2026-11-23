@@ -12,9 +12,10 @@
 | **Sábado 21 nov (D)** | Tostada integral con aguacate y huevo | 🎬 Fish & chips fit con tártara de yogur y guisantes a la hierbabuena | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1161 kcal · 77 g prot. + cena fuera |
 | **Domingo 22 nov (D)** | Tostada integral con aguacate y huevo + yogur | 🎬 Burritos crujientes de pollo con pimientos y barbacoa | Natillas +Proteínas con kiwi y pipas | 🤖 Crema de zanahoria con calamar a la plancha | ≈1642 kcal · 118 g prot. |
 
-**Batch cooking del domingo 15 de noviembre:** 1 h 45 min, aproximadamente. Ese día, además, comes el arroz meloso con gambones (unos 50 minutos, al terminar) y cenas los fingers. Paso a paso en `recetas/batch_cooking.md`.
-- **A la nevera:** Lentejas al curry con pavo, 4 raciones con su arroz (lunes y martes); Ternera a la jardinera, 2 raciones (miércoles); Pechuga asada para los tacos (martes) y para las fajitas (miércoles); Zanahoria rallada (tacos) y juliana (fajitas); Pollo del kebab marinado y salsa blanca (lunes).
-- **Al congelador** (pásalo a la nevera la noche antes): Arroz con pollo y judías verdes, 2 raciones (jueves); Tofuloñesa, 2 raciones (viernes); Pollo crudo de los burritos del domingo 22, en bolsa.
+**Batch cooking del domingo 15 de noviembre** (paso a paso en `recetas/batch_cooking.md`):
+- **Batch cooking:** 1 h 45 min, aproximadamente. Ese día, además, comes el arroz meloso con gambones (unos 50 minutos, al terminar) y cenas los fingers.
+  - A la nevera: Lentejas al curry con pavo, 4 raciones con su arroz (lunes y martes); Ternera a la jardinera, 2 raciones (miércoles); Pechuga asada para los tacos (martes) y para las fajitas (miércoles); Zanahoria rallada (tacos) y juliana (fajitas); Pollo del kebab marinado y salsa blanca (lunes).
+  - Al congelador (pásalo a la nevera la noche antes): Arroz con pollo y judías verdes, 2 raciones (jueves); Tofuloñesa, 2 raciones (viernes); Pollo crudo de los burritos del domingo 22, en bolsa.
 
 **Recordatorios de la semana:**
 - **Lunes 16:** Kebab: pon las patatas en remojo al llegar a casa.

@@ -12,9 +12,10 @@
 | **Sábado 7 nov (D)** | Tostada integral con aguacate y huevo | 🎬 Tacos de merluza crujiente con pico de gallo y salsa de yogur y lima | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1066 kcal · 71 g prot. + cena fuera |
 | **Domingo 8 nov (D)** | Tostada integral con aguacate y huevo + yogur | 🎬 Burritos crujientes de pollo con pimientos y barbacoa | Natillas +Proteínas con kiwi y pipas | 🤖 Crema de calabaza con pipas y tortilla de claras con jamón | ≈1642 kcal · 122 g prot. |
 
-**Batch cooking del domingo 1 de noviembre:** 1 h 40 min, aproximadamente. Ese día, además, comes el fish & chips y cenas los fingers. Paso a paso en `recetas/batch_cooking.md`.
-- **A la nevera:** Lentejas al curry con pavo, 4 raciones con su arroz (lunes y martes); Ternera escalfada entera, en su salsa (cena del martes); Potaje de garbanzos con acelgas, 2 raciones, y 2 huevos duros con cáscara (miércoles); Pechuga asada y zanahoria rallada para los tacos (lunes); Pollo a la plancha para los tomates rellenos (miércoles).
-- **Al congelador** (pásalo a la nevera la noche antes): Guisantes con jamón, 4 raciones (jueves y viernes); Solomillos del crispy en la leche (jueves); Pollo crudo de los burritos del domingo 8, en bolsa.
+**Batch cooking del domingo 1 de noviembre** (paso a paso en `recetas/batch_cooking.md`):
+- **Batch cooking:** 1 h 40 min, aproximadamente. Ese día, además, comes el fish & chips y cenas los fingers.
+  - A la nevera: Lentejas al curry con pavo, 4 raciones con su arroz (lunes y martes); Ternera escalfada entera, en su salsa (cena del martes); Potaje de garbanzos con acelgas, 2 raciones, y 2 huevos duros con cáscara (miércoles); Pechuga asada y zanahoria rallada para los tacos (lunes); Pollo a la plancha para los tomates rellenos (miércoles).
+  - Al congelador (pásalo a la nevera la noche antes): Guisantes con jamón, 4 raciones (jueves y viernes); Solomillos del crispy en la leche (jueves); Pollo crudo de los burritos del domingo 8, en bolsa.
 
 **Recordatorios de la semana:**
 - **Miércoles 4 por la noche:** Pasa a la nevera los guisantes del jueves y el crispy; cuece 3 huevos (2 para los táperes y 1 para la mayonesa) y 300 g de patata; haz la mayonesa proteica (robot, 15 s/vel 5).

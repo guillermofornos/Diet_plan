@@ -2,6 +2,7 @@
 import html, re, sys
 from pathlib import Path
 from plan import R, SEMANAS, DIAS, TIPO, FUERA, LIBRE, CAMBIOS, PREP, BATCH, NORMAS, NOTA_COMPRA, total_dia
+from batch import tandas
 from shop import lista, opcional_bigmac
 from lib import texto, macros_receta
 e = html.escape
@@ -37,11 +38,16 @@ def doc_recetas(s):
          "Las recetas de vídeo llevan el enlace al vídeo debajo del título.</i></p>"]
     for a in antes: b.append(f"<p><b>Antes de empezar.</b> {e(a)}</p>")
     b.append(f"<h2>Batch cooking · {e(bt['dia'].lower())}</h2>")
-    b.append(f"<p><i>Las comidas de lunes a viernes, en táper, y lo que se adelanta de las cenas. Duración: {e(bt['duracion'])}.</i></p>")
+    ts = tandas(bt)
+    b.append("<p><i>" + ("Dos tandas: la de mediodía, con las comidas de lunes a viernes para los táperes, y la de cenas. " if len(ts) > 1 else "Las comidas de lunes a viernes, en táper, y lo que se adelanta de las cenas. ")
+             + (e(bt["nota_dia"]) if bt.get("nota_dia") else "") + "</i></p>")
     b.append("<p><b>Normas</b></p><ul>" + "".join(f"<li>{e(x)}</li>" for x in NORMAS) + "</ul>")
-    b.append("<p><b>A la nevera</b></p><ul>" + "".join(f"<li>{e(x)}</li>" for x in bt["nevera"]) + "</ul>")
-    b.append("<p><b>Al congelador</b> <i>(pásalo a la nevera la noche antes)</i></p><ul>" + "".join(f"<li>{e(x)}</li>" for x in bt["congelador"]) + "</ul>")
-    b.append("<p><b>Paso a paso</b></p><ul>" + "".join(f"<li>☐ <b>{e(h)} · {e(donde)}.</b> {e(x)}</li>" for h, donde, x in bt["pasos"]) + "</ul>")
+    for t in ts:
+        if len(ts) > 1: b.append(f"<h3>Tanda de {e(t['nombre'].lower())} · {e(t['duracion'])}</h3>")
+        else: b.append(f"<p><i>Duración: {e(t['duracion'])}.</i></p>")
+        b.append("<p><b>A la nevera</b></p><ul>" + ("".join(f"<li>{e(x)}</li>" for x in t["nevera"]) or "<li>Nada</li>") + "</ul>")
+        b.append("<p><b>Al congelador</b> <i>(pásalo a la nevera la noche antes)</i></p><ul>" + ("".join(f"<li>{e(x)}</li>" for x in t["congelador"]) or "<li>Nada</li>") + "</ul>")
+        b.append("<p><b>Paso a paso</b></p><ul>" + "".join(f"<li>☐ <b>{e(h)} · {e(donde)}.</b> {e(x)}</li>" for h, donde, x in t["pasos"]) + "</ul>")
     b.append("<p><b>Recordatorios de la semana</b></p><ul>" + "".join(f"<li><b>{e(d)}:</b> {e(x)}</li>" for d, x in bt["recordatorios"]) + "</ul>")
     b.append("<h2>Menú de la semana</h2>")
     orden = []

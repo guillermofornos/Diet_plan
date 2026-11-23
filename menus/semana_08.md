@@ -12,9 +12,14 @@
 | **Sábado 5 dic (D)** | Tostada integral con aguacate y huevo | 🎬 Dorada a la sal con patatas y ensalada de tomate | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1054 kcal · 72 g prot. + cena fuera |
 | **Domingo 6 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Arroz meloso con gambones | Natillas +Proteínas con kiwi y pipas | 🤖 Crema de boniato y puerro con pollo y huevo pochado | ≈1634 kcal · 127 g prot. |
 
-**Batch cooking del domingo 29 de noviembre:** 1 h 50 min, aproximadamente (la sopa termina sola en el robot). Ese día coméis y cenáis por libre. Paso a paso en `recetas/batch_cooking.md`.
-- **A la nevera:** Lentejas con jamón, 2 raciones, y 4 huevos duros con cáscara (2 para las lentejas y 2 para el potaje); Albóndigas en salsa con su arroz, 2 raciones (martes); Sopa cremosa de pollo, 2 raciones (cena del martes; el huevo pochado, al momento); Estofado de ternera, 2 raciones (miércoles); Pechuga asada y desmenuzada y juliana para las fajitas (lunes).
-- **Al congelador** (pásalo a la nevera la noche antes): Potaje de garbanzos con acelgas, 2 raciones (jueves; congelado, la patata queda algo más harinosa); Arroz con pollo y judías verdes, 2 raciones (viernes); Pollo del kebab marinado, en bolsa (cena del jueves).
+**Batch cooking del domingo 29 de noviembre** (paso a paso en `recetas/batch_cooking.md`):
+- Ese día coméis y cenáis por libre.
+- **Mediodía (táperes):** 1 h 40 min, aproximadamente.
+  - A la nevera: Lentejas con jamón, 2 raciones, y 4 huevos duros con cáscara (2 para las lentejas y 2 para el potaje); Albóndigas en salsa con su arroz, 2 raciones (martes); Estofado de ternera, 2 raciones (miércoles).
+  - Al congelador (pásalo a la nevera la noche antes): Potaje de garbanzos con acelgas, 2 raciones (jueves; congelado, la patata queda algo más harinosa); Arroz con pollo y judías verdes, 2 raciones (viernes).
+- **Cenas:** 45 min, aproximadamente (casi todo es la sopa en el robot).
+  - A la nevera: Pechuga asada y desmenuzada y juliana para las fajitas (lunes); Sopa cremosa de pollo, 2 raciones (martes; el huevo pochado, al momento).
+  - Al congelador (pásalo a la nevera la noche antes): Pollo del kebab marinado, en bolsa (jueves; la salsa blanca, el mismo jueves).
 
 **Recordatorios de la semana:**
 - **Martes 1:** Cena: calienta la sopa y haz los huevos pochados al momento (3 minutos).

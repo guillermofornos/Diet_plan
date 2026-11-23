@@ -163,6 +163,15 @@ main{padding-block:16px 40px}
 .batch-head{margin:0 0 14px}
 .batch-title{margin:2px 0 0;font-family:var(--font-display);font-weight:700;font-size:1.85rem;line-height:1.05;text-wrap:balance}
 .batch-head .small{margin-top:4px}
+.tandas{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:0 0 10px}
+.tanda{appearance:none;-webkit-appearance:none;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:12px;padding:9px 12px;text-align:left;font:inherit;cursor:pointer;display:grid;gap:2px;min-width:0}
+.tanda b{font-family:var(--font-display);font-weight:700;font-size:1.15rem;line-height:1.1}
+.tanda span{font-size:.85rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.tanda[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.tanda[aria-pressed="true"] span{color:var(--bg);opacity:.75}
+.tanda:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.small.dur{margin:0 0 12px}
+.small.dur strong{color:var(--ink)}
 .sec-h{margin:0 0 8px;font-family:var(--font-display);font-weight:700;font-size:1.1rem;letter-spacing:.06em;text-transform:uppercase}
 .store{display:grid;gap:12px;margin-bottom:18px}
 .store-box{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
@@ -415,7 +424,7 @@ main{padding-block:16px 40px}
   function mealRow(d, act, m) {
     var slot = m[0], key = m[1];
     if (key === "LIBRE") {
-      return el("li", null, el("div", { class: "meal meal-free" }, el("span", { class: "slot", text: slot }),
+      return el("li", null, el("div", { class: "meal meal-free" }, el("span", { class: "slot", text: slot === "Comida" ? "Mediodía" : slot }),
         el("span", { class: "dish" }, "Libre", el("small", { text: "Sin plan: lo que os apetezca" }))));
     }
     var sum, body;
@@ -424,7 +433,7 @@ main{padding-block:16px 40px}
       var dish = el("span", { class: "dish" }, sab ? "Cena fuera: hamburguesa + cervezas" : "Cena fuera + cervezas");
       if (sab) dish.append(el("span", { class: "pill pill-video", text: "Vídeo" }));
       dish.append(el("small", { text: sab ? "O la Big Mac del vídeo en casa" : "Proteína y verdura; las cervezas de la semana, aquí" }));
-      sum = el("summary", null, el("span", { class: "slot", text: slot }), dish, el("span", { class: "chev", "aria-hidden": "true" }));
+      sum = el("summary", null, el("span", { class: "slot", text: slot === "Comida" ? "Mediodía" : slot }), dish, el("span", { class: "chev", "aria-hidden": "true" }));
       body = outBody(sab);
       return el("li", null, el("details", { class: "meal" }, sum, body));
     }
@@ -440,7 +449,7 @@ main{padding-block:16px 40px}
       if (r.corto.length) dish2.append(el("small", { class: "qlist", text: r.corto.map(function (t) { return scale(t, k); }).join(" · ") }));
     }
     if (yo && slot === "Merienda") dish2.append(el("small", { class: "yo", text: MERIENDA[act] }));
-    sum = el("summary", null, el("span", { class: "slot", text: slot }), dish2, el("span", { class: "chev", "aria-hidden": "true" }));
+    sum = el("summary", null, el("span", { class: "slot", text: slot === "Comida" ? "Mediodía" : slot }), dish2, el("span", { class: "chev", "aria-hidden": "true" }));
     body = el("div", { class: "recipe" }); recipeParts(r, body);
     return el("li", null, el("details", { class: "meal" + (off ? " off" : "") }, sum, body));
   }
@@ -484,7 +493,10 @@ main{padding-block:16px 40px}
     var w = W[week];
     var before = document.getElementById("before"); before.textContent = "";
     var box = el("div", { class: "before" }, el("b", { text: "Batch cooking · " + w.batch.dia }));
-    box.append(el("p", { text: "Las comidas de lunes a viernes, en táper, y lo que se adelanta de las cenas: " + w.batch.duracion + "." }));
+    var bts = tandasOf(w.batch);
+    if (bts.length > 1) bts.forEach(function (x) { box.append(el("p", null, el("strong", { text: "Tanda de " + x.nombre.toLowerCase() + ": " }), x.duracion + ".")); });
+    else box.append(el("p", { text: "Las comidas de lunes a viernes, en táper, y lo que se adelanta de las cenas: " + bts[0].duracion + "." }));
+    if (w.batch.nota_dia) box.append(el("p", { text: w.batch.nota_dia }));
     w.antes.forEach(function (t) { box.append(el("p", { text: t })); });
     var go = el("button", { class: "btn", type: "button", text: "Ver el paso a paso" });
     go.addEventListener("click", function () { show("batch"); window.scrollTo(0, 0); });
@@ -500,32 +512,48 @@ main{padding-block:16px 40px}
   }
 
   // ---------- Batch ----------
-  function stepKey(i) { return P + "b" + W[week].num + ":" + i; }
+  // Desde la semana 8, el batch va en dos tandas: mediodía (táperes) y cenas, cada una con su paso a paso.
+  function tandasOf(b) { return b.tandas || [{ nombre: "Batch cooking", duracion: b.duracion, nevera: b.nevera, congelador: b.congelador, pasos: b.pasos }]; }
+  var tanda = Number(store.get(P + "tanda")) || 0;
+  function stepKey(i) { var b = W[week].batch; return P + "b" + W[week].num + ":" + (b.tandas ? tanda + ":" : "") + i; }
   function renderBatch() {
-    var w = W[week], b = w.batch, host = document.getElementById("batch"); host.textContent = "";
+    var w = W[week], b = w.batch, ts = tandasOf(b), host = document.getElementById("batch"); host.textContent = "";
+    if (tanda >= ts.length) tanda = 0;
+    var t = ts[tanda];
     if (w.fin === today && week + 1 < W.length) {
       var nx = week + 1, jump = el("button", { class: "btn", type: "button", text: "Ver el batch de hoy" });
       jump.addEventListener("click", function () { week = nx; renderAll(); });
       host.append(el("div", { class: "before" }, el("b", { text: "Hoy toca el de la semana siguiente" }),
         el("p", { text: "Este es el batch de la semana del " + w.corto + ". El de hoy es para la semana del " + W[nx].corto + "." }), jump));
     }
-    host.append(el("div", { class: "batch-head" }, el("p", { class: "eyebrow", text: "Para la semana del " + w.corto }),
-      el("h2", { class: "batch-title", text: b.dia }), el("p", { class: "small", text: "Duración: " + b.duracion + "." })));
+    var bh = el("div", { class: "batch-head" }, el("p", { class: "eyebrow", text: "Para la semana del " + w.corto }), el("h2", { class: "batch-title", text: b.dia }));
+    if (b.nota_dia) bh.append(el("p", { class: "small", text: b.nota_dia }));
+    host.append(bh);
+    if (ts.length > 1) {
+      var seg = el("div", { class: "tandas", role: "group", "aria-label": "Tanda del batch" });
+      ts.forEach(function (x, i) {
+        var btn = el("button", { type: "button", class: "tanda", "aria-pressed": String(i === tanda) }, el("b", { text: x.nombre }), el("span", { text: x.duracion.split(",")[0].split(".")[0] }));
+        btn.addEventListener("click", function () { tanda = i; store.set(P + "tanda", String(i)); renderBatch(); });
+        seg.append(btn);
+      });
+      host.append(seg);
+    }
+    host.append(el("p", { class: "small dur" }, el("strong", { text: (ts.length > 1 ? t.nombre + ". " : "") + "Duración: " }), t.duracion + "."));
     var tips = el("div", { class: "tips" });
     DATA.normas.forEach(function (n) { tips.append(el("p", { text: n })); });
     host.append(tips);
     var store2 = el("div", { class: "store" });
-    [["A la nevera", b.nevera, null], ["Al congelador", b.congelador, "Pásalo a la nevera la noche antes."]].forEach(function (c) {
+    [["A la nevera", t.nevera, null], ["Al congelador", t.congelador, "Pásalo a la nevera la noche antes."]].forEach(function (c) {
       var bx = el("section", { class: "store-box" }, el("h3", { class: "sec-h", text: c[0] }));
-      if (c[2]) bx.append(el("p", { class: "sec-note", text: c[2] }));
-      var ul = el("ul"); c[1].forEach(function (x) { ul.append(el("li", { text: x })); });
+      if (c[2] && c[1].length) bx.append(el("p", { class: "sec-note", text: c[2] }));
+      var ul = el("ul"); (c[1].length ? c[1] : ["Nada en esta tanda"]).forEach(function (x) { ul.append(el("li", { text: x })); });
       bx.append(ul); store2.append(bx);
     });
     host.append(store2);
     host.append(el("h3", { class: "sec-h", text: "Paso a paso" }));
     var ol = el("ol", { class: "steps" });
-    b.pasos.forEach(function (s, i) {
-      var id = "st-" + w.num + "-" + i, input = el("input", { type: "checkbox", id: id });
+    t.pasos.forEach(function (s, i) {
+      var id = "st-" + w.num + "-" + tanda + "-" + i, input = el("input", { type: "checkbox", id: id });
       input.checked = store.get(stepKey(i)) === "1";
       var lab = el("label", { class: "step" + (input.checked ? " done" : ""), for: id }, input, el("span", { class: "when", text: s[0] }),
         el("span", { class: "what" }, el("span", { class: "where", text: s[1] }), el("span", { class: "txt", text: s[2] })));

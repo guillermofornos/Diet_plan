@@ -12,9 +12,14 @@
 | **Sábado 26 dic (D)** | Tostada integral con aguacate y huevo | 🎬 Salmón a la plancha con patatas al ajo y limón | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1050 kcal · 63 g prot. + cena fuera |
 | **Domingo 27 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Guiso de sepia con patatas y guisantes | Natillas +Proteínas con kiwi y pipas | 🤖 Crema de verduras con jamón crujiente y huevo cocido | ≈1623 kcal · 114 g prot. |
 
-**Batch cooking del domingo 20 de diciembre:** 1 h 35 min, aproximadamente. Ese día, además, comes el marmitako de rape (unos 55 minutos, al terminar) y cenas la crema de boniato con pollo (hecha en el robot durante el batch). Paso a paso en `recetas/batch_cooking.md`.
-- **A la nevera:** Lentejas al curry, 2 raciones con su arroz, y 6 huevos cocidos con cáscara (4 para las lentejas y 2 para el potaje); Pollo del kebab marinado y salsa blanca (cena del lunes); Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (martes); Crema de calabaza, 2 raciones (cena del martes; la tortilla, al momento); Potaje de garbanzos con acelgas, 2 raciones (miércoles); Pechuga asada y desmenuzada y juliana para las fajitas (cena del miércoles).
-- **Al congelador** (pásalo a la nevera la noche antes): Pollo teriyaki con su arroz y verduras, 2 raciones (jueves 24).
+**Batch cooking del domingo 20 de diciembre** (paso a paso en `recetas/batch_cooking.md`):
+- Ese día comes el marmitako de rape y cenas la crema de boniato con pollo (en la tanda de cenas).
+- **Mediodía (táperes):** 1 h 20 min, aproximadamente. Para comer hoy, el marmitako de rape (unos 55 minutos, al terminar).
+  - A la nevera: Lentejas al curry, 2 raciones con su arroz, y 6 huevos cocidos con cáscara (4 para las lentejas y 2 para el potaje); Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (martes); Potaje de garbanzos con acelgas, 2 raciones (miércoles).
+  - Al congelador (pásalo a la nevera la noche antes): Pollo teriyaki con su arroz y verduras, 2 raciones (jueves 24).
+- **Cenas:** 1 h, aproximadamente, con la crema de boniato de la cena de hoy.
+  - A la nevera: Pollo del kebab marinado y salsa blanca (lunes); Crema de calabaza, 2 raciones (martes; la tortilla, al momento); Pechuga asada y desmenuzada y juliana para las fajitas (miércoles).
+  - Al congelador (pásalo a la nevera la noche antes): nada.
 
 **Recordatorios de la semana:**
 - **Lunes 21:** Kebab: pon las patatas en remojo al llegar a casa.

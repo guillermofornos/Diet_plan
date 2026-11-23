@@ -12,9 +12,10 @@
 | **Sábado 28 nov (D)** | Tostada integral con aguacate y huevo | 🎬 Rodaballo al horno con patatas y refrito | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1025 kcal · 73 g prot. + cena fuera |
 | **Domingo 29 nov (D)** | Tortilla de claras con cebolla y pimiento + tostada | **Libre** | Natillas +Proteínas con kiwi y pipas | **Libre** | ≈599 kcal · 41 g prot. + comida y cena libres |
 
-**Batch cooking del domingo 22 de noviembre:** 1 h 45 min, aproximadamente (la carne guisada va casi toda sola, a fuego suave). Ese día, además, comes los burritos y cenas la crema de zanahoria con calamar (la crema, en el robot al terminar). Paso a paso en `recetas/batch_cooking.md`.
-- **A la nevera:** Lentejas con pollo, 2 raciones (lunes); Crema de verduras, 2 raciones, y 4 huevos cocidos con cáscara (cena del lunes); Cachelos del pulpo, cocidos y pelados (martes); Gratinado de patata y pollo al curry, 2 raciones (miércoles); Crema de calabaza, 2 raciones (cena del miércoles).
-- **Al congelador** (pásalo a la nevera la noche antes): Carne guisada con patatas, 2 raciones (jueves); Pollo teriyaki con su arroz y verduras, 2 raciones (viernes); Solomillos del crispy en la leche (jueves).
+**Batch cooking del domingo 22 de noviembre** (paso a paso en `recetas/batch_cooking.md`):
+- **Batch cooking:** 1 h 45 min, aproximadamente (la carne guisada va casi toda sola, a fuego suave). Ese día, además, comes los burritos y cenas la crema de zanahoria con calamar (la crema, en el robot al terminar).
+  - A la nevera: Lentejas con pollo, 2 raciones (lunes); Crema de verduras, 2 raciones, y 4 huevos cocidos con cáscara (cena del lunes); Cachelos del pulpo, cocidos y pelados (martes); Gratinado de patata y pollo al curry, 2 raciones (miércoles); Crema de calabaza, 2 raciones (cena del miércoles).
+  - Al congelador (pásalo a la nevera la noche antes): Carne guisada con patatas, 2 raciones (jueves); Pollo teriyaki con su arroz y verduras, 2 raciones (viernes); Solomillos del crispy en la leche (jueves).
 
 **Recordatorios de la semana:**
 - **Lunes 23:** Cena: calienta la crema de verduras; dora el jamón en taquitos en una sartén sin aceite y pela los huevos cocidos.
