@@ -132,7 +132,7 @@ def reglas():
     return [
         ("Comidas", [
             "Lentejas, un solo día por semana. Ningún plato se repite dentro de la semana ni de una semana a la siguiente.",
-            "El estofado de ternera (tu receta) es el guiso de carne habitual: cada dos semanas.",
+            "El estofado de ternera (tu receta) es el guiso de carne habitual: cada dos semanas, a fuego suave en la Le Creuset (nunca en la olla a presión).",
             "Una vez al mes, el arroz meloso con secreto ibérico en la Le Creuset.",
             "Nunca pollo en la comida y en la cena del mismo día. Solomillos de pollo, no contramuslos.",
         ]),
@@ -153,7 +153,8 @@ def reglas():
             "Con moderación: ajo, tomate, patata, berenjena y cacao (este, solo en natillas o porridge).",
         ]),
         ("Batch y compra", [
-            "Compra el sábado y batch cooking el domingo, con la Mambo, la Le Creuset, 3 fuegos, horno y airfryer.",
+            "Compra el sábado y batch cooking el domingo, en dos tandas: la de mediodía (táperes) y la de cenas.",
+            "En los fuegos, como mucho 2 ollas y 1 sartén a la vez; la Mambo, el horno y la airfryer van en paralelo.",
             "Táperes de lunes a miércoles, a la nevera; los de jueves y viernes, al congelador, y a la nevera la noche antes.",
             "Al repartir: 3 de cada 5 cazos para Guillermo y 2 para Indi.",
             "Navidad: la cena del 24 y el día 25, libres.",

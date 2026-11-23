@@ -14,7 +14,7 @@
 
 **Batch cooking del domingo 20 de diciembre** (paso a paso en `recetas/batch_cooking.md`):
 - Ese día comes el marmitako de rape y cenas la crema de boniato con pollo (en la tanda de cenas).
-- **Mediodía (táperes):** 1 h 20 min, aproximadamente. Para comer hoy, el marmitako de rape (unos 55 minutos, al terminar).
+- **Mediodía (táperes):** 1 h 10 min, aproximadamente. Para comer hoy, el marmitako de rape (unos 55 minutos, al terminar).
   - A la nevera: Lentejas al curry, 2 raciones con su arroz, y 6 huevos cocidos con cáscara (4 para las lentejas y 2 para el potaje); Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (martes); Potaje de garbanzos con acelgas, 2 raciones (miércoles).
   - Al congelador (pásalo a la nevera la noche antes): Pollo teriyaki con su arroz y verduras, 2 raciones (jueves 24).
 - **Cenas:** 1 h, aproximadamente, con la crema de boniato de la cena de hoy.

@@ -14,7 +14,7 @@
 
 **Batch cooking del domingo 6 de diciembre** (paso a paso en `recetas/batch_cooking.md`):
 - Ese día comes el arroz meloso con gambones y cenas la crema de boniato con pollo (en la tanda de cenas).
-- **Mediodía (táperes):** 1 h 25 min, aproximadamente. Para comer hoy, el arroz meloso con gambones (unos 50 minutos, al terminar).
+- **Mediodía (táperes):** 1 h 20 min, aproximadamente. Para comer hoy, el arroz meloso con gambones (unos 50 minutos, al terminar).
   - A la nevera: Lentejas al curry, 2 raciones con su arroz y 4 huevos cocidos con cáscara (lunes); Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (martes); Gratinado de patata y pollo al curry, 2 raciones (miércoles).
   - Al congelador (pásalo a la nevera la noche antes): Espaguetis a la tofuloñesa, 2 raciones (jueves); Pollo teriyaki con su arroz y verduras, 2 raciones (viernes).
 - **Cenas:** 1 h, aproximadamente, con la crema de boniato de la cena de hoy.

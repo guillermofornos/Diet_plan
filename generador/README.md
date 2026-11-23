@@ -46,6 +46,6 @@ python3 gen_docs.py 5    # HTML de los Google Docs de la semana 5 en salida/docs
 - Los meses se cuentan en bloques de 4 semanas desde la 8 (30 de noviembre).
 - Guillermo come el 60 % de la comida y la cena (Indi, el 40 %) y desayuna solo los días de gimnasio. Su plan (kcal por tipo de día, proteína y suplementos) está en `yo.py`, sale en la pestaña «Tú» de la página y en `PLAN_PERSONAL.md`.
 - Nada de pavo, ni en comidas ni en cenas, y los guisantes con jamón no cuentan como plato principal.
-- El estofado de ternera (tu receta del 22 de noviembre) es el guiso de carne habitual: cada dos semanas.
-- `python3 plan.py` comprueba las normas de pescado, de repetición y las mensuales.
-- Comidas de lunes a viernes en táper, hechas el domingo, con un solo robot (la Mambo de Cecotec) y 3 fuegos.
+- El estofado de ternera (tu receta del 22 de noviembre) es el guiso de carne habitual: cada dos semanas, a fuego suave en la Le Creuset (nunca en la olla a presión).
+- `python3 plan.py` comprueba las normas de pescado, de repetición y las mensuales, y las de los fuegos del batch (`comprobar_fuegos` en `batch.py`).
+- Comidas de lunes a viernes en táper, hechas el domingo, con un solo robot (la Mambo de Cecotec). En los fuegos, como mucho 2 ollas y 1 sartén a la vez (en los pasos, fuegos 1 y 2 para las ollas y 3 para la sartén); el horno y la airfryer, en paralelo.

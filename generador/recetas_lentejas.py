@@ -14,7 +14,8 @@ R = {
           "En la misma olla, con el resto del aceite, pocha la cebolla y la zanahoria 10 minutos; añade los pimientos 5–8 minutos y luego el puerro otros 5. Si se pega, una cucharada de agua en vez de más aceite.",
           "Añade el tomate y deja que reduzca. Echa el pimentón, el comino y el laurel y remueve 1 minuto.",
           "Añade las lentejas, la patata chascada (clava el cuchillo y rompe el trozo) y el agua y cuece tapado a fuego suave 45–55 minutos (olla exprés: 12–15 minutos desde que sube la válvula).",
-          "Mete el pollo los últimos 5–6 minutos, rectifica de sal y deja reposar tapado 5–10 minutos."]),
+          "Mete el pollo los últimos 5–6 minutos, rectifica de sal y deja reposar tapado 5–10 minutos.",
+          "En la Mambo (2 raciones como mucho): con las lentejas en remojo 2–4 horas, trocea la cebolla, la zanahoria, los pimientos y el puerro 5 s/vel 5 y, con la mariposa, sofríelos con el aceite 10 min/120 °C/vel 1; el tomate y las especias, 3 min; las lentejas escurridas, la patata y {300} ml de agua, 25 min/100 °C/vel 1/giro inverso, con el pollo en dados (sin dorar) los últimos 8 minutos."]),
  "LENT2": dict(tipo="comida", nombre="Lentejas con calabaza al curry y huevo cocido", fuente="Simple Blending (dietista-nutricionista)", url=YT + "fUhWRSZiauI",
    tupper="3 días en la nevera; se congelan bien (el yogur se pone al servir)",
    grupos=[("Ingredientes", [("lentejas", 80, "{80} g de lenteja pardina (en seco)"),
@@ -32,5 +33,5 @@ R = {
           "Cuece los huevos 10 minutos, pásalos por agua fría y pélalos.",
           "Sirve con el arroz cocido aparte, los huevos en mitades, el yogur y el perejil por encima."]),
 }
-R["LENT1"]["batch"] = "Entera en el batch: 3 días en la nevera o al congelador."
+R["LENT1"]["batch"] = "Entera en el batch, en la olla a presión o, para 2 raciones, en el robot (con la lenteja en remojo desde la mañana): 3 días en la nevera o al congelador."
 R["LENT2"]["batch"] = "Entera en el batch, con el arroz aparte: 3 días en la nevera o al congelador. El yogur, al servir."

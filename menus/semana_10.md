@@ -13,11 +13,11 @@
 | **Domingo 20 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Marmitako de rape (guiso de rape y patata) | Natillas +Proteínas con kiwi y pipas | 🤖 Crema de boniato y puerro con pollo y huevo pochado | ≈1575 kcal · 128 g prot. |
 
 **Batch cooking del domingo 13 de diciembre** (paso a paso en `recetas/batch_cooking.md`):
-- Ese día comes la lubina a la sal con pisto (en la tanda de comidas) y cenas la crema de verduras, hecha el sábado.
-- **Mediodía (táperes):** 1 h 50 min, aproximadamente, con la lubina a la sal de la comida de hoy en el horno al final (el estofado acaba solo en el robot mientras coméis).
+- Ese día comes la lubina a la sal con pisto (en la tanda de mediodía) y cenas la crema de verduras, hecha el sábado.
+- **Mediodía (táperes):** 2 h 35 min, aproximadamente, por el estofado: a la 1 h 25 están los táperes, a la 1 h 40 coméis la lubina a la sal y luego el estofado acaba solo, a fuego suave (en ese rato cabe la tanda de cenas).
   - A la nevera: Lentejas con pollo, 2 raciones (lunes); Solomillos al adobo barbacoa con sus patatas, 2 raciones (martes; la ensalada, al momento); Estofado de ternera, 2 raciones (miércoles).
   - Al congelador (pásalo a la nevera la noche antes): Albóndigas en salsa con su arroz, 2 raciones (jueves); Arroz con pollo y judías verdes, 2 raciones (viernes); Secreto ibérico crudo del arroz del sábado 19, en bolsa.
-- **Cenas:** 30 min, aproximadamente.
+- **Cenas:** 30 min, aproximadamente. Cabe después de comer, mientras el estofado acaba.
   - A la nevera: Pechuga asada entera para el sándwich del miércoles; Pimiento y cebolla en tiras para la pizza (lunes).
   - Al congelador (pásalo a la nevera la noche antes): nada.
 

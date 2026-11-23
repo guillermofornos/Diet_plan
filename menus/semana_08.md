@@ -14,10 +14,10 @@
 
 **Batch cooking del domingo 29 de noviembre** (paso a paso en `recetas/batch_cooking.md`):
 - Ese día coméis y cenáis por libre.
-- **Mediodía (táperes):** 1 h 40 min, aproximadamente.
+- **Mediodía (táperes):** 2 h 35 min, aproximadamente, por el estofado: a la 1 h 30 está todo lo demás y la última hora el estofado va solo, a fuego suave (en ese rato cabe la tanda de cenas, que no usa los fuegos).
   - A la nevera: Lentejas con jamón, 2 raciones, y 4 huevos duros con cáscara (2 para las lentejas y 2 para el potaje); Albóndigas en salsa con su arroz, 2 raciones (martes); Estofado de ternera, 2 raciones (miércoles).
   - Al congelador (pásalo a la nevera la noche antes): Potaje de garbanzos con acelgas, 2 raciones (jueves; congelado, la patata queda algo más harinosa); Arroz con pollo y judías verdes, 2 raciones (viernes).
-- **Cenas:** 45 min, aproximadamente (casi todo es la sopa en el robot).
+- **Cenas:** 45 min, aproximadamente (casi todo es la sopa en el robot). No usa los fuegos: hazla mientras el estofado acaba.
   - A la nevera: Pechuga asada y desmenuzada y juliana para las fajitas (lunes); Sopa cremosa de pollo, 2 raciones (martes; el huevo pochado, al momento).
   - Al congelador (pásalo a la nevera la noche antes): Pollo del kebab marinado, en bolsa (jueves; la salsa blanca, el mismo jueves).
 

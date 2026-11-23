@@ -126,7 +126,8 @@ CENAS_RAPIDAS = {"KEB", "FAJ", "TAC", "CRI", "FIN", "FF2", "BEX", "FPZ", "PZA"}
 LEGUMBRES = {"LENT1", "LENT2", "LENTJ", "POTG"}
 if __name__ == "__main__":
     for s in SEMANAS: print(f"Semana {s['num']}: {', '.join(sorted(pescados_semana(s))) or '—'}")
-    for e in comprobar_pescados() + comprobar_repeticiones(): print("  NORMA:", e)
+    from batch import comprobar_fuegos
+    for e in comprobar_pescados() + comprobar_repeticiones() + comprobar_fuegos(): print("  NORMA:", e)
     for s in SEMANAS:
         print(f"\nSemana {s['num']} ({s['titulo']})")
         for i, fila in enumerate(s["filas"]):

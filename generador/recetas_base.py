@@ -198,11 +198,10 @@ R["ESTOF"] = dict(tipo="comida", nombre="Estofado de ternera con patatas y guisa
    pasos=["Pela la zanahoria y córtala en medias rodajas; pica fina la cebolla y el ajo, y corta la carne en dados.",
           "En una olla (la Le Creuset va perfecta) con el aceite muy caliente, dora la ternera salpimentada; sácala y, en la misma grasa, pocha la cebolla, el ajo y la zanahoria 10 minutos a fuego medio.",
           "Añade el tomate rallado y sofríe hasta que reduzca. Echa el balsámico, vuelve a meter la carne, rehoga un par de minutos y cubre justo con el caldo; pon las hierbas y tapa.",
-          "Cuece a fuego suave 1 h 30 min (hasta 2 horas), hasta que la carne esté tierna. En olla a presión, 30 minutos desde que suba la válvula.",
-          "Añade la patata chascada (rota, no cortada, para que suelte fécula y espese el caldo) y cuece tapado unos 30 minutos (20–25 si la carne ya viene de la olla a presión); los últimos minutos, destapado si hace falta espesar. Mueve la olla de vez en cuando.",
-          "Añade los guisantes, 2–3 minutos (5 si son congelados), rectifica de sal y termina con perejil picado.",
-          "En la Mambo: con la carne dorada antes en una sartén, sofrito de cebolla, ajo y zanahoria 10 min/120 °C/vel 1 con la mariposa y el tomate 5 min; la carne, el balsámico, el caldo y las hierbas, 60–75 min/100 °C/vel 1/giro inverso; la patata, 25 min, y los guisantes, los últimos 5."])
-R["ESTOF"]["batch"] = "Guiso de carne habitual. En el batch, en la olla a presión o en el robot (con la carne dorada antes en la sartén): 3 días en la nevera o al congelador."
+          "Cuece a fuego suave 1 h 30 min (hasta 2 horas), hasta que la carne esté tierna. Sin olla a presión: a fuego lento es como queda melosa.",
+          "Añade la patata chascada (rota, no cortada, para que suelte fécula y espese el caldo) y cuece tapado unos 30 minutos; los últimos minutos, destapado si hace falta espesar. Mueve la olla de vez en cuando.",
+          "Añade los guisantes, 2–3 minutos (5 si son congelados), rectifica de sal y termina con perejil picado."])
+R["ESTOF"]["batch"] = "Guiso de carne habitual. En el batch, en la Le Creuset a fuego suave desde el principio (unas 2 h 30 min en total, la última hora va solo): 3 días en la nevera o al congelador."
 
 R["SOLPIQ"] = dict(tipo="comida", nombre="Solomillo de cerdo en salsa de pimientos del piquillo con patatas", fuente="Vídeo de YouTube (solomillo de cerdo en salsa de piquillos)",
    url=YT + "BQVAwY-cA_U",
@@ -217,7 +216,7 @@ R["SOLPIQ"] = dict(tipo="comida", nombre="Solomillo de cerdo en salsa de pimient
           "Añade los pimientos del piquillo y el caldo, 5 minutos, y tritúralo todo (batidora, o el robot 30 s/vel 7) hasta tener una salsa fina. Rectifica de sal y pimienta.",
           "Vuelve a meter los medallones en la salsa y cuécelos 4–5 minutos a fuego suave, no más, para que no se sequen.",
           "Patatas: pélalas, córtalas en rodajas o dados y hazlas 8–10 minutos en el microondas, tapadas con un poco de agua y sal (o cocidas). Sirve con la salsa y el pan."])
-R["SOLPIQ"]["batch"] = "En el batch (unos 25 minutos): los medallones en su salsa y las patatas aparte; a la nevera."
+R["SOLPIQ"]["batch"] = "En el batch (unos 25 minutos): la salsa en el robot (sofrito, piquillos y triturado en el mismo vaso) y los medallones en la sartén; las patatas aparte, y a la nevera."
 
 SAND_FUENTE = "Cena ligera sencilla, sin receta de internet"
 R["SANDTOR"] = dict(tipo="cena", nombre="Sándwich de tortilla francesa con jamón serrano y tomate", fuente=SAND_FUENTE,
