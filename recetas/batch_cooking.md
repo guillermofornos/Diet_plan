@@ -7,6 +7,7 @@
 - Táperes de lunes a miércoles, a la nevera; los de jueves y viernes, al congelador, y se pasan a la nevera la noche antes.
 - El pescado cocinado se hace el mismo día que se come: en el batch se deja la base o la salsa, y el pescado se cuece ese día.
 - Deja templar la comida antes de guardarla, pero nunca más de 2 horas fuera de la nevera. Etiqueta cada táper con el día.
+- Al repartir en táperes: 3 de cada 5 cazos para Guillermo (su 60 %) y 2 para Indi.
 - Cenas ligeras: cremas, sándwiches, tortilla o tomates rellenos. Kebab, fajitas, tacos o pizza, el día que la comida es de legumbre. El pescado, a mediodía.
 - Robot: los programas son los del libro de la Mambo o parecidos (trocear 4–5 s/vel 5; sofreír a 120 °C, vel 1). Para 4 raciones de legumbre no cabe: va en la olla a presión.
 

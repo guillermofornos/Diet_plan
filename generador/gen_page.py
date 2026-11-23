@@ -4,7 +4,8 @@ from pathlib import Path
 from plan import R, SEMANAS, DIAS, TIPO, FUERA, LIBRE, NO_PLATO, CAMBIOS, PREP, BATCH, NORMAS, NOTA_COMPRA, total_dia
 from shop import lista, opcional_bigmac
 from lib import macros_receta
-from yo import dia_yo, plan_yo, miles
+from yo import dia_yo, plan_yo, miles, reglas, BATIDO, PREPADEL
+from plan import pescados_semana
 
 MESES = {"10": "oct", "11": "nov", "12": "dic"}
 MES_LARGO = {"10": "octubre", "11": "noviembre", "12": "diciembre"}
@@ -16,10 +17,17 @@ for s in SEMANAS:
     for fila in s["filas"]: usadas |= {c for c in fila if c not in NO_PLATO}
 usadas.add("FF2")
 recetas = {}
+MENORES = {"aove", "caldo_pollo", "caldo_carne", "caldo_verd", "caldo_pesc", "balsamico", "soja", "mostaza", "miel", "bbq0", "guindilla"}
+def corto(t):
+    """Versión corta de un ingrediente para la línea de cantidades del menú: sin paréntesis (salvo «en seco» o «en crudo»),
+       hasta la primera coma y sin «por persona»."""
+    t = re.sub(r"\s*\((?![^)]*(?:seco|crudo))[^)]*\)", "", t)
+    return t.split(", ")[0].replace(" por persona", "").strip()
 for k in sorted(usadas):
     r = R[k]; kc, p, g, h = macros_receta(r)
     recetas[k] = dict(nombre=r["nombre"], tipo=r["tipo"], fuente=r.get("fuente"), url=r.get("url"), url2=r.get("url2"), robot=r.get("robot"), libro=r.get("libro"),
                       kcal=round(kc), prot=round(p), hc=round(h), grasa=round(g), tupper=r.get("tupper"), batch=r.get("batch"), nota=r.get("nota"),
+                      corto=[corto(t) for _gh, ings in r["grupos"] for c, _q, t in ings if c and not c.startswith("x:") and c not in MENORES],
                       cambios=CAMBIOS.get(k), grupos=[[gh, [t for _c, _q, t in ings]] for gh, ings in r["grupos"]], pasos=r["pasos"])
 semanas = []
 for s in SEMANAS:
@@ -36,20 +44,15 @@ for s in SEMANAS:
         yo = None
         if not (fila[1] in NO_PLATO and fila[3] in NO_PLATO):
             y = dia_yo(fila)
-            extra = " + cena fuera" if fila[3] == FUERA else " + cena libre" if fila[3] == LIBRE else ""
-            notas = {"Desayuno": f"Tú, solo los días de gimnasio (≈{y['desayuno']} kcal)",
-                     "Merienda": "Tú: + 1 cazo de proteína; antes del pádel, + 1 tostada con jamón"}
-            for slot, kcal in y["partes"].items(): notas[slot] = f"Tu parte, el 60 %: ≈{kcal} kcal"
-            yo = dict(cab=f"Tú ≈{miles(y['sin'])}–{miles(max(y['padel'], y['gym']))} kcal{extra}",
-                      linea=f"sin entreno, ≈{miles(y['sin'])} kcal y {y['sin_p']} g de proteína; con pádel, ≈{miles(y['padel'])}; con gimnasio, ≈{miles(y['gym'])}.",
-                      notas=notas)
+            yo = {k: y[k] for k in ("base", "base_p", "des", "des_p", "indi", "indi_p")}
         dias.append(dict(nombre=DIAS[i], fecha=s["fechas"][i], n=int(d), mes=MESES[m], tipo=TIPO[i], kcal=round(kc), prot=round(p),
                          fuera=fila[3] == FUERA, libre=("comida y cena libres" if fila[1] == LIBRE else "cena libre") if fila[3] == LIBRE else "", comidas=[["Desayuno", fila[0]], ["Comida", fila[1]], ["Merienda", fila[2]], ["Cena", fila[3]]],
                          prep=prep_dia[i], yo=yo))
     compra = [dict(h=sec, items=items) for sec, items in lista(s).items()]
     semanas.append(dict(num=s["num"], titulo=s["titulo"], corto=f"{dias[0]['n']} {dias[0]['mes']}", inicio=s["fechas"][0], fin=s["fechas"][-1],
-                        antes=antes, dias=dias, compra=compra, opcional=opcional_bigmac(), batch=BATCH[s["num"]], nota_compra=NOTA_COMPRA.get(s["num"])))
-data = dict(recetas=recetas, semanas=semanas, normas=NORMAS, yo=plan_yo([s for s in SEMANAS if s["num"] >= 8]))
+                        antes=antes, dias=dias, compra=compra, salmon="salmón" in pescados_semana(s), opcional=opcional_bigmac(), batch=BATCH[s["num"]], nota_compra=NOTA_COMPRA.get(s["num"])))
+yo_plan = plan_yo([s for s in SEMANAS if s["num"] >= 8]); yo_plan.update(batido=list(BATIDO), pre=list(PREPADEL))
+data = dict(recetas=recetas, semanas=semanas, normas=NORMAS, yo=yo_plan, reglas=reglas())
 AQUI = Path(__file__).resolve().parent
 plantilla = (AQUI / "plantilla.html").read_text()
 def largo(f): _, m, d = f.split("-"); return f"{int(d)} de {MES_LARGO[m]}"

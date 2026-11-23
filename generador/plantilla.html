@@ -95,6 +95,15 @@ main{padding-block:16px 40px}
 .dish{min-width:0}
 .dish small{display:block;color:var(--muted);font-size:.86rem}
 .dish small.yo{color:var(--accent)}
+.dish small.qline{color:var(--ink);margin-top:4px;font-variant-numeric:tabular-nums}
+.dish small.qline b{font-weight:700}
+.dish small.qlist{color:var(--muted)}
+.meal.off .dname,.meal.off .slot{opacity:.5}
+.acts{display:flex;flex-wrap:wrap;align-items:center;gap:6px;padding:0 16px 12px}
+.acts-label{font-family:var(--font-display);font-weight:600;font-size:.84rem;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin-right:2px}
+.act{appearance:none;-webkit-appearance:none;border:1px solid var(--line);background:var(--surface);color:var(--ink);font:inherit;font-size:.9rem;font-weight:700;border-radius:999px;padding:4px 12px;min-height:34px;cursor:pointer}
+.act[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--surface)}
+.act:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .prep.yo-line strong{color:var(--accent)}
 .nums{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:16px}
 .num-box{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:10px 14px}
@@ -212,12 +221,13 @@ main{padding-block:16px 40px}
 <main class="wrap">
   <section id="panel-menu" role="tabpanel" aria-labelledby="tab-menu">
     <div class="toolbar">
-      <p class="legend">Toca una comida para ver la receta. Las de vídeo llevan la etiqueta VÍDEO; las de una receta escrita en internet, WEB, y las del robot Cecotec, ROBOT, todas con su enlace.</p>
-      <div class="seg" role="group" aria-label="Cantidades de las recetas">
-        <span>Cantidades para</span>
+      <p class="legend">Debajo de cada plato, sus cantidades; tócalo para ver la receta con su enlace. Marca qué entrenas cada día y verás lo que te toca.</p>
+      <div class="seg" role="group" aria-label="De quién son las cantidades">
+        <span>Cantidades</span>
         <span class="seg-btns">
-          <button type="button" id="srv-1" aria-pressed="false">1</button>
-          <button type="button" id="srv-2" aria-pressed="true">2</button>
+          <button type="button" id="srv-yo" aria-pressed="true">Tú</button>
+          <button type="button" id="srv-indi" aria-pressed="false">Indi</button>
+          <button type="button" id="srv-dos" aria-pressed="false">Los dos</button>
         </span>
       </div>
     </div>
@@ -234,6 +244,7 @@ main{padding-block:16px 40px}
       <p>Haz la compra el sábado: el domingo toca el batch cooking y muchos súper cierran.</p>
       <p>Pescado congelado. El pollo del fin de semana va crudo al congelador en el batch y se pasa a la nevera la noche antes.</p>
       <p>Cantidades para los dos. Si un día merienda solo uno, sobra la mitad de natillas, plátanos y kiwis.</p>
+      <p>Para Guillermo, fuera del súper: proteína whey (un bote de 1 kg dura unas 3 semanas), creatina y omega 3.</p>
     </div>
     <div class="progress">
       <div class="bar" aria-hidden="true"><span id="bar"></span></div>
@@ -253,8 +264,8 @@ main{padding-block:16px 40px}
   </section>
 
   <footer class="foot">
-    <p>Las recetas salen para los dos: Guillermo come el 60 % de la comida y la cena, e Indi el 40 %. Su plan completo (cantidades, entrenos y suplementos), en la pestaña Tú.</p>
-    <p>Las kcal de cada día son aproximadas y no cuentan la cena fuera. Las de cada receta son por persona, a partes iguales.</p>
+    <p>Guillermo come el 60 % de la comida y la cena, e Indi el 40 %: elige arriba de quién son las cantidades. El plan de Guillermo y todo lo acordado, en la pestaña Tú.</p>
+    <p>Las kcal son aproximadas y no cuentan la cena fuera.</p>
     <p>Noches de cervezas: un vaso de agua por cada cerveza, y nunca justo después de entrenar.</p>
     <p>El pescado se cocina siempre el día que se come: en el batch solo se deja hecha la base o la salsa.</p>
   </footer>
@@ -291,14 +302,21 @@ main{padding-block:16px 40px}
     for (var i = 0; i < F.length; i++) if (Math.abs(frac - F[i][0]) < 0.02) return whole ? whole + " y " + F[i][1] : F[i][1];
     return String(Math.round(v * 10) / 10).replace(".", ",");
   }
+  // Para una persona se redondea como se sirve: unidades a medias, gramos de 5 en 5.
+  function roundQ(v, unit, k) {
+    if (mode === "dos" || k === 1) return v;
+    if (unit || v < 10) return Math.max(0.5, Math.round(v * 2) / 2);
+    if (v < 20) return Math.round(v);
+    return Math.round(v / 5) * 5;
+  }
   function scale(text, k) {
     return text.replace(/\{([\d.\/]+)(?:\|([^|}]+)\|([^}]+))?\}/g, function (_, num, sing, plur) {
-      var v = toNum(num) * k; var s = fmt(v);
+      var v = roundQ(toNum(num) * k, !!sing, k); var s = fmt(v);
       return sing ? s + " " + (v > 1.001 ? plur : sing) : s;
     });
   }
+  function miles(n) { return String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g, "."); }
 
-  var servings = store.get(P + "srv") === "1" ? 1 : 2;
   var now = new Date();
   var t0 = new Date(now.getFullYear(), now.getMonth(), now.getDate());
   function pad(n) { return String(n).padStart(2, "0"); }
@@ -310,13 +328,23 @@ main{padding-block:16px 40px}
   W.forEach(function (w, i) { if (hash === "s" + w.num) week = i; });
 
   // ---------- Recetas ----------
-  function list(items, ordered) {
+  // Cantidades: Guillermo come el 60 % de la comida y la cena (1,2 raciones por persona) e Indi el 40 % (0,8).
+  // El desayuno y la merienda son de cada uno: 1 ración.
+  var MODES = {
+    yo: { share: 1.2, indiv: 1, label: "Tu ración" },
+    indi: { share: 0.8, indiv: 1, label: "Ración de Indi" },
+    dos: { share: 2, indiv: 2, label: "Para los dos" }
+  };
+  var mode = MODES[store.get(P + "modo")] ? store.get(P + "modo") : "yo";
+  function kOf(r) { return (r.tipo === "comida" || r.tipo === "cena") ? MODES[mode].share : MODES[mode].indiv; }
+  function list(items, ordered, k) {
     var l = el(ordered ? "ol" : "ul");
-    items.forEach(function (t) { l.append(el("li", { "data-t": t, text: scale(t, servings) })); });
+    items.forEach(function (t) { l.append(el("li", { text: scale(t, k) })); });
     return l;
   }
   function recipeParts(r, box) {
-    box.append(el("p", { class: "meta" }, "≈" + r.kcal + " kcal y " + r.prot + " g de proteína por persona"));
+    var k = kOf(r);
+    box.append(el("p", { class: "meta" }, MODES[mode].label + ": ≈" + miles(r.kcal * k) + " kcal y " + Math.round(r.prot * k) + " g de proteína."));
     if (r.url) {
       var links = el("p", { class: "links" }, el("a", { class: "vlink", href: r.url, target: "_blank", rel: "noopener", text: "▶ Ver el vídeo" }));
       if (r.url2) links.append(el("a", { class: "vlink", href: r.url2, target: "_blank", rel: "noopener", text: /youtube\.com/.test(r.url2) ? "▶ Otro vídeo" : "Receta escrita" }));
@@ -331,10 +359,10 @@ main{padding-block:16px 40px}
       var wl = el("p", { class: "links" }, el("a", { class: "vlink", href: r.url2, target: "_blank", rel: "noopener", text: "Ver la receta" }));
       if (r.fuente) wl.append(el("span", { class: "src", text: r.fuente }));
       box.append(wl);
-    }
-    if (r.nota) box.append(el("p", { class: "rnote", "data-t": r.nota, text: scale(r.nota, servings) }));
-    r.grupos.forEach(function (g) { box.append(el("div", null, el("h3", { text: g[0] }), list(g[1]))); });
-    box.append(el("div", null, el("h3", { text: "Preparación" }), list(r.pasos, true)));
+    } else if (r.fuente) box.append(el("p", { class: "links" }, el("span", { class: "src", text: r.fuente })));
+    if (r.nota) box.append(el("p", { class: "rnote", text: scale(r.nota, k) }));
+    r.grupos.forEach(function (g) { box.append(el("div", null, el("h3", { text: g[0] }), list(g[1], false, k))); });
+    box.append(el("div", null, el("h3", { text: "Preparación" }), list(r.pasos, true, k)));
     if (r.tupper) box.append(el("p", { class: "small" }, el("strong", { text: "Tupper: " }), r.tupper + "."));
     if (r.batch) box.append(el("p", { class: "small" }, el("strong", { text: "Batch cooking: " }), r.batch));
     if (r.cambios) box.append(el("p", { class: "small" }, el("strong", { text: "Cambios respecto a la fuente: " }), r.cambios));
@@ -352,6 +380,98 @@ main{padding-block:16px 40px}
   }
 
   // ---------- Menú ----------
+  // Lo que entrena Guillermo cada día cambia lo que come: desayuno solo con gimnasio, la tostada antes del pádel
+  // y 1 o 2 cazos de proteína. Se guarda en este navegador.
+  var ACTS = [["gym", "Gimnasio"], ["padel", "Pádel"], ["carrera", "Carrera"], ["descanso", "Descanso"]];
+  function actOf(f) { var v = store.get(P + "act:" + f); return ACTS.some(function (a) { return a[0] === v; }) ? v : ""; }
+  function totals(y, act) {
+    var B = DATA.yo.batido, Q = DATA.yo.pre;
+    if (act === "gym") return [y.base + y.des + B[0], y.base_p + y.des_p + B[1]];
+    var k = y.base + 2 * B[0], p = y.base_p + 2 * B[1];
+    if (act === "padel") { k += Q[0]; p += Q[1]; }
+    return [k, p];
+  }
+  var MERIENDA = {
+    gym: "Tú: la merienda tal cual. El cazo de proteína va después del gimnasio.",
+    padel: "Tú, 1–2 horas antes de jugar: + 1 cazo de proteína y 1 tostada integral con 20 g de jamón serrano. Al terminar, otro cazo.",
+    carrera: "Tú: + 1 cazo de proteína (y un plátano antes si corres más de 45 minutos). Al terminar, otro cazo.",
+    descanso: "Tú: + 1 cazo de proteína. Otro de postre en la cena.",
+    "": "Tú: + 1 cazo de proteína (2 los días sin gimnasio). Antes del pádel, + 1 tostada integral con jamón."
+  };
+  function suppText(act, salmon) {
+    var o = salmon ? "1 cápsula de omega 3 (esta semana hay salmón)" : "2 cápsulas de omega 3";
+    var p = act === "gym" ? "Proteína: 1 cazo, después del gimnasio." : act ? "Proteína: 2 cazos." : "Proteína: 1 cazo con gimnasio; 2, sin gimnasio.";
+    return "Con la comida: 5 g de creatina, " + o + " y vitamina D3 (1.000–2.000 UI). " + p;
+  }
+  function headTarget(d, act) {
+    var extra = d.fuera ? " + cena fuera" : d.libre ? " + " + d.libre : "";
+    if (!d.yo) return el("span", { class: "target" }, el("b", { text: "Día libre" }));
+    if (mode === "indi") return el("span", { class: "target" }, el("b", { text: "Indi ≈" + miles(d.yo.indi) + " kcal" }), " · " + d.yo.indi_p + " g prot." + extra);
+    if (mode === "dos") return el("span", { class: "target" }, el("b", { text: "≈" + miles(d.kcal) + " kcal" }), " · " + d.prot + " g prot. por persona, a partes iguales" + extra);
+    if (act) { var t = totals(d.yo, act); return el("span", { class: "target" }, el("b", { text: "Tú ≈" + miles(t[0]) + " kcal" }), " · " + Math.round(t[1]) + " g prot." + extra); }
+    var lo = totals(d.yo, "descanso")[0], hi = Math.max(totals(d.yo, "gym")[0], totals(d.yo, "padel")[0]);
+    return el("span", { class: "target" }, el("b", { text: "Tú ≈" + miles(lo) + "–" + miles(hi) + " kcal" }), extra);
+  }
+  function mealRow(d, act, m) {
+    var slot = m[0], key = m[1];
+    if (key === "LIBRE") {
+      return el("li", null, el("div", { class: "meal meal-free" }, el("span", { class: "slot", text: slot }),
+        el("span", { class: "dish" }, "Libre", el("small", { text: "Sin plan: lo que os apetezca" }))));
+    }
+    var sum, body;
+    if (key === "FUERA") {
+      var sab = d.nombre === "Sábado";
+      var dish = el("span", { class: "dish" }, sab ? "Cena fuera: hamburguesa + cervezas" : "Cena fuera + cervezas");
+      if (sab) dish.append(el("span", { class: "pill pill-video", text: "Vídeo" }));
+      dish.append(el("small", { text: sab ? "O la Big Mac del vídeo en casa" : "Proteína y verdura; las cervezas de la semana, aquí" }));
+      sum = el("summary", null, el("span", { class: "slot", text: slot }), dish, el("span", { class: "chev", "aria-hidden": "true" }));
+      body = outBody(sab);
+      return el("li", null, el("details", { class: "meal" }, sum, body));
+    }
+    var r = R[key], k = kOf(r), yo = mode === "yo" && d.yo;
+    var off = yo && slot === "Desayuno" && act && act !== "gym";
+    var dish2 = el("span", { class: "dish" }, el("span", { class: "dname", text: r.nombre }));
+    if (r.url) dish2.append(el("span", { class: "pill pill-video", text: "Vídeo" }));
+    else if (r.robot) dish2.append(el("span", { class: "pill pill-video", text: "Robot" }));
+    else if (r.url2) dish2.append(el("span", { class: "pill pill-video", text: "Web" }));
+    if (yo && slot === "Desayuno") dish2.append(el("small", { class: "yo", text: act === "gym" ? "Hoy desayunas (día de gimnasio). Al terminar de entrenar, + 1 cazo de proteína." : act ? "Hoy no desayunas: solo los días de gimnasio." : "Tú, solo los días de gimnasio." }));
+    if (!off) {
+      dish2.append(el("small", { class: "qline" }, el("b", { text: MODES[mode].label + " ≈" + miles(r.kcal * k) + " kcal" }), " · " + Math.round(r.prot * k) + " g prot."));
+      if (r.corto.length) dish2.append(el("small", { class: "qlist", text: r.corto.map(function (t) { return scale(t, k); }).join(" · ") }));
+    }
+    if (yo && slot === "Merienda") dish2.append(el("small", { class: "yo", text: MERIENDA[act] }));
+    sum = el("summary", null, el("span", { class: "slot", text: slot }), dish2, el("span", { class: "chev", "aria-hidden": "true" }));
+    body = el("div", { class: "recipe" }); recipeParts(r, body);
+    return el("li", null, el("details", { class: "meal" + (off ? " off" : "") }, sum, body));
+  }
+  function dayCard(d, salmon) {
+    var act = d.yo && mode === "yo" ? actOf(d.fecha) : "";
+    var sec = el("section", { class: "day", "aria-labelledby": "h-" + d.fecha });
+    var head = el("div", { class: "day-head" }, el("h2", { id: "h-" + d.fecha }, d.nombre + " ", el("span", { text: d.n + " " + d.mes })));
+    if (d.fecha === today) { sec.classList.add("is-today"); head.append(el("span", { class: "pill pill-today", text: "Hoy" })); }
+    head.append(headTarget(d, act));
+    sec.append(head);
+    if (d.yo && mode === "yo") {
+      var chips = el("div", { class: "acts", role: "group", "aria-label": "Qué entrena Guillermo el " + d.nombre.toLowerCase() + " " + d.n }, el("span", { class: "acts-label", text: "Tu entreno" }));
+      ACTS.forEach(function (a) {
+        var b = el("button", { type: "button", class: "act", "aria-pressed": String(act === a[0]), text: a[1] });
+        b.addEventListener("click", function () {
+          if (act === a[0]) store.del(P + "act:" + d.fecha); else store.set(P + "act:" + d.fecha, a[0]);
+          var fresh = dayCard(d, salmon); sec.replaceWith(fresh);
+          var again = fresh.querySelectorAll(".act")[ACTS.findIndex(function (x) { return x[0] === a[0]; })]; if (again) again.focus();
+        });
+        chips.append(b);
+      });
+      sec.append(chips);
+    }
+    d.prep.forEach(function (t) { sec.append(el("p", { class: "prep" }, el("strong", { text: "Preparación: " }), t)); });
+    var ul = el("ul", { class: "meals" });
+    d.comidas.forEach(function (m) { ul.append(mealRow(d, act, m)); });
+    if (mode === "yo") ul.append(el("li", null, el("div", { class: "meal meal-free" }, el("span", { class: "slot", text: "Suplem." }),
+      el("span", { class: "dish" }, suppText(act, salmon)))));
+    sec.append(ul);
+    return sec;
+  }
   function renderWeeks() {
     var host = document.getElementById("weeks"); host.textContent = "";
     W.forEach(function (w, i) {
@@ -371,53 +491,12 @@ main{padding-block:16px 40px}
     box.append(go);
     before.append(box);
     var host = document.getElementById("days"); host.textContent = "";
-    w.dias.forEach(function (d, i) {
-      var sec = el("section", { class: "day", "aria-labelledby": "h-" + d.fecha });
-      var head = el("div", { class: "day-head" },
-        el("h2", { id: "h-" + d.fecha }, d.nombre + " ", el("span", { text: d.n + " " + d.mes })));
-      if (d.fecha === today) { sec.classList.add("is-today"); head.append(el("span", { class: "pill pill-today", text: "Hoy" })); }
-      var tgt = d.yo ? el("span", { class: "target" }, el("b", { text: d.yo.cab }))
-        : el("span", { class: "target" }, el("b", { text: "≈" + d.kcal + " kcal" }), " · " + d.prot + " g prot." + (d.fuera ? " + cena fuera" : d.libre ? " + " + d.libre : ""));
-      head.append(tgt);
-      sec.append(head);
-      if (d.yo) sec.append(el("p", { class: "prep yo-line" }, el("strong", { text: "Tú: " }), d.yo.linea));
-      d.prep.forEach(function (t) { sec.append(el("p", { class: "prep" }, el("strong", { text: "Preparación: " }), t)); });
-      var ul = el("ul", { class: "meals" });
-      d.comidas.forEach(function (m) {
-        var sum, body;
-        if (m[1] === "LIBRE") {
-          ul.append(el("li", null, el("div", { class: "meal meal-free" }, el("span", { class: "slot", text: m[0] }),
-            el("span", { class: "dish" }, "Libre", el("small", { text: "Sin plan: lo que os apetezca" })))));
-          return;
-        }
-        if (m[1] === "FUERA") {
-          var sab = d.nombre === "Sábado";
-          var dish = el("span", { class: "dish" }, sab ? "Cena fuera: hamburguesa + cervezas" : "Cena fuera + cervezas");
-          if (sab) dish.append(el("span", { class: "pill pill-video", text: "Vídeo" }));
-          dish.append(el("small", { text: sab ? "O la Big Mac del vídeo en casa" : "El plan le asigna unas 1100 kcal" }));
-          sum = el("summary", null, el("span", { class: "slot", text: m[0] }), dish, el("span", { class: "chev", "aria-hidden": "true" }));
-          body = outBody(sab);
-        } else {
-          var r = R[m[1]];
-          var dish2 = el("span", { class: "dish" }, r.nombre);
-          if (r.url) dish2.append(el("span", { class: "pill pill-video", text: "Vídeo" }));
-          else if (r.robot) dish2.append(el("span", { class: "pill pill-video", text: "Robot" }));
-          else if (r.url2) dish2.append(el("span", { class: "pill pill-video", text: "Web" }));
-          if (d.yo && d.yo.notas[m[0]]) dish2.append(el("small", { class: "yo", text: d.yo.notas[m[0]] }));
-          sum = el("summary", null, el("span", { class: "slot", text: m[0] }), dish2, el("span", { class: "chev", "aria-hidden": "true" }));
-          body = el("div", { class: "recipe" }); recipeParts(r, body);
-        }
-        ul.append(el("li", null, el("details", { class: "meal" }, sum, body)));
-      });
-      sec.append(ul);
-      host.append(sec);
-    });
+    w.dias.forEach(function (d) { host.append(dayCard(d, w.salmon)); });
   }
-  function setServings(n) {
-    servings = n; store.set(P + "srv", String(n));
-    document.getElementById("srv-1").setAttribute("aria-pressed", String(n === 1));
-    document.getElementById("srv-2").setAttribute("aria-pressed", String(n === 2));
-    document.querySelectorAll("[data-t]").forEach(function (li) { li.textContent = scale(li.getAttribute("data-t"), n); });
+  function setMode(m) {
+    mode = m; store.set(P + "modo", m);
+    Object.keys(MODES).forEach(function (k) { document.getElementById("srv-" + k).setAttribute("aria-pressed", String(k === m)); });
+    renderDays();
   }
 
   // ---------- Batch ----------
@@ -556,6 +635,10 @@ main{padding-block:16px 40px}
     host.append(sl);
     host.append(el("div", { style: "height:14px" }));
     secs(y.secciones.slice(5));
+    if (DATA.reglas) {
+      host.append(el("h3", { class: "sec-h", text: "Lo que hemos acordado" }));
+      secs(DATA.reglas);
+    }
   }
 
   // ---------- Estado ----------
@@ -601,14 +684,17 @@ main{padding-block:16px 40px}
     var next = order[(i + (e.key === "ArrowRight" ? 1 : order.length - 1)) % order.length]; next.focus(); next.click();
   });
 
-  function renderAll() { renderWeeks(); renderDays(); renderBatch(); renderShop(); updateProgress(); setServings(servings); }
+  function renderAll() { renderWeeks(); renderDays(); renderBatch(); renderShop(); updateProgress(); }
   renderAll();
   renderYo();
   updateStatus();
   var saved = store.get(P + "tab"), TABS = ["compra", "batch", "yo"];
   show(TABS.indexOf(hash) >= 0 ? hash : (TABS.indexOf(saved) >= 0 ? saved : "menu"));
-  document.getElementById("srv-1").addEventListener("click", function () { setServings(1); });
-  document.getElementById("srv-2").addEventListener("click", function () { setServings(2); });
+  Object.keys(MODES).forEach(function (k) {
+    var b = document.getElementById("srv-" + k);
+    b.setAttribute("aria-pressed", String(k === mode));
+    b.addEventListener("click", function () { setMode(k); });
+  });
 
   var msg = document.getElementById("copy-msg"), fb = document.getElementById("copy-fallback");
   document.getElementById("copy").addEventListener("click", function () {

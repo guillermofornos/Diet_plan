@@ -30,12 +30,19 @@ def dia_yo(fila):
             k += FACTOR * kc; p += FACTOR * pr
     kc, pr = _m(me); k += kc; p += pr
     dk, dp = _m(d)
+    base, base_p = k, p                      # su 60 % de comida y cena + la merienda, sin desayuno ni batidos
+    indi = indi_p = 0.0                      # Indi: el 40 %, con su desayuno y su merienda
+    for key in (c, ce):
+        if key not in NO_PLATO:
+            kc2, pr2 = _m(key); indi += (2 - FACTOR) * kc2; indi_p += (2 - FACTOR) * pr2
+    kc2, pr2 = _m(me); indi += kc2 + dk; indi_p += pr2 + dp
     sin = (k + 2 * BATIDO[0], p + 2 * BATIDO[1])
     padel = (sin[0] + PREPADEL[0], sin[1] + PREPADEL[1])
     gym = (k + BATIDO[0] + dk, p + BATIDO[1] + dp)
     return dict(sin=round(sin[0]), sin_p=round(sin[1]), padel=round(padel[0]), padel_p=round(padel[1]),
                 gym=round(gym[0]), gym_p=round(gym[1]), desayuno=round(dk), partes=partes,
-                fuera=ce in NO_PLATO)
+                fuera=ce in NO_PLATO, base=round(base), base_p=round(base_p), des=round(dk), des_p=round(dp),
+                indi=round(indi), indi_p=round(indi_p))
 
 
 def medias(semanas):
@@ -118,3 +125,37 @@ def plan_yo(semanas):
              "Con 170 g de proteína al día, los BCAA no aportan nada."),
         ],
     )
+
+
+def reglas():
+    """Todo lo acordado para el menú, para la pestaña «Tú» de la página."""
+    return [
+        ("Comidas", [
+            "Lentejas, un solo día por semana. Ningún plato se repite dentro de la semana ni de una semana a la siguiente.",
+            "El estofado de ternera (tu receta) es el guiso de carne habitual: cada dos semanas.",
+            "Una vez al mes, el arroz meloso con secreto ibérico en la Le Creuset.",
+            "Nunca pollo en la comida y en la cena del mismo día. Solomillos de pollo, no contramuslos.",
+        ]),
+        ("Cenas", [
+            "Ligeras: cremas de la Mambo, sándwiches, tortilla o tomates rellenos.",
+            "Kebab, fajitas, tacos o pizza, el día que a mediodía hay legumbre; hamburguesa, alguna vez.",
+            "Viernes y sábado, cena fuera: ahí van las 3 cervezas de la semana.",
+        ]),
+        ("Pescado", [
+            "Siempre a mediodía del fin de semana, porque se cocina el mismo día que se come.",
+            "Salmón 2 semanas al mes; dorada a la sal y lubina a la sal, una vez al mes cada una. Los guisos y marmitakos se quedan.",
+            "Merluza, siempre rebozada. Entre merluza y bacalao, una semana sin ninguno; y ningún pescado dos semanas seguidas.",
+        ]),
+        ("Lo que nunca entra", [
+            "Pavo (tampoco en fiambre), atún, calabacín, lechuga y espinacas (en su lugar, canónigos o rúcula), champiñón, pepino, escarola, col, espárragos, alcachofa, hinojo y rábano.",
+            "Almendras, nueces y avellanas; quesos curados, grasos o de oveja, y mantequilla; alubias (las judías verdes, sí); caballa, sardinas y almejas.",
+            "Cafeína y pre-entrenos. Los guisantes con jamón no cuentan como plato principal.",
+            "Con moderación: ajo, tomate, patata, berenjena y cacao (este, solo en natillas o porridge).",
+        ]),
+        ("Batch y compra", [
+            "Compra el sábado y batch cooking el domingo, con la Mambo, la Le Creuset, 3 fuegos, horno y airfryer.",
+            "Táperes de lunes a miércoles, a la nevera; los de jueves y viernes, al congelador, y a la nevera la noche antes.",
+            "Al repartir: 3 de cada 5 cazos para Guillermo y 2 para Indi.",
+            "Navidad: la cena del 24 y el día 25, libres.",
+        ]),
+    ]
