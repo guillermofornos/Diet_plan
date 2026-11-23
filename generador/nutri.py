@@ -36,6 +36,7 @@ T = {
  "mozzarella":   dict(n=(250, 18.0, 19.0, 1.0)),
  "mozza_light":  dict(n=(153, 17.0, 9.0, 1.5), ud=125),  # mozzarella fresca light Hacendado (bola 125 g)
  "leche":        dict(n=(46, 3.2, 1.6, 4.7)),
+ "whey":         dict(n=(400, 80.0, 5.0, 10.0)),  # proteína de suero en polvo (1 cazo = 30 g: 120 kcal, 24 g de proteína)
  "natillas":     dict(n=(81, 8.4, 1.1, 8.7), ud=120),  # +Proteínas Hacendado (OFF: 97 kcal y 10,1 g prot. por 120 g)
  "cottage":      dict(n=(95, 11.0, 4.5, 3.0)),
  # Hidratos

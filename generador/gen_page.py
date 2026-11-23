@@ -4,6 +4,7 @@ from pathlib import Path
 from plan import R, SEMANAS, DIAS, TIPO, FUERA, LIBRE, NO_PLATO, CAMBIOS, PREP, BATCH, NORMAS, NOTA_COMPRA, total_dia
 from shop import lista, opcional_bigmac
 from lib import macros_receta
+from yo import dia_yo, plan_yo, miles
 
 MESES = {"10": "oct", "11": "nov", "12": "dic"}
 MES_LARGO = {"10": "octubre", "11": "noviembre", "12": "diciembre"}
@@ -32,19 +33,29 @@ for s in SEMANAS:
     dias = []
     for i, fila in enumerate(s["filas"]):
         kc, p = total_dia(fila); _, m, d = s["fechas"][i].split("-")
+        yo = None
+        if not (fila[1] in NO_PLATO and fila[3] in NO_PLATO):
+            y = dia_yo(fila)
+            extra = " + cena fuera" if fila[3] == FUERA else " + cena libre" if fila[3] == LIBRE else ""
+            notas = {"Desayuno": f"Tú, solo los días de gimnasio (≈{y['desayuno']} kcal)",
+                     "Merienda": "Tú: + 1 cazo de proteína; antes del pádel, + 1 tostada con jamón"}
+            for slot, kcal in y["partes"].items(): notas[slot] = f"Tu parte, el 60 %: ≈{kcal} kcal"
+            yo = dict(cab=f"Tú ≈{miles(y['sin'])}–{miles(max(y['padel'], y['gym']))} kcal{extra}",
+                      linea=f"sin entreno, ≈{miles(y['sin'])} kcal y {y['sin_p']} g de proteína; con pádel, ≈{miles(y['padel'])}; con gimnasio, ≈{miles(y['gym'])}.",
+                      notas=notas)
         dias.append(dict(nombre=DIAS[i], fecha=s["fechas"][i], n=int(d), mes=MESES[m], tipo=TIPO[i], kcal=round(kc), prot=round(p),
                          fuera=fila[3] == FUERA, libre=("comida y cena libres" if fila[1] == LIBRE else "cena libre") if fila[3] == LIBRE else "", comidas=[["Desayuno", fila[0]], ["Comida", fila[1]], ["Merienda", fila[2]], ["Cena", fila[3]]],
-                         prep=prep_dia[i]))
+                         prep=prep_dia[i], yo=yo))
     compra = [dict(h=sec, items=items) for sec, items in lista(s).items()]
     semanas.append(dict(num=s["num"], titulo=s["titulo"], corto=f"{dias[0]['n']} {dias[0]['mes']}", inicio=s["fechas"][0], fin=s["fechas"][-1],
                         antes=antes, dias=dias, compra=compra, opcional=opcional_bigmac(), batch=BATCH[s["num"]], nota_compra=NOTA_COMPRA.get(s["num"])))
-data = dict(recetas=recetas, semanas=semanas, normas=NORMAS)
+data = dict(recetas=recetas, semanas=semanas, normas=NORMAS, yo=plan_yo([s for s in SEMANAS if s["num"] >= 8]))
 AQUI = Path(__file__).resolve().parent
 plantilla = (AQUI / "plantilla.html").read_text()
 def largo(f): _, m, d = f.split("-"); return f"{int(d)} de {MES_LARGO[m]}"
 ini, fin = SEMANAS[0]["fechas"][0], SEMANAS[-1]["fechas"][-1]
 html = (plantilla.replace("/*__DATA__*/null", json.dumps(data, ensure_ascii=False))
-        .replace("__EYEBROW__", f"Semanas {SEMANAS[0]['num']} a {SEMANAS[-1]['num']} · Plan 91 → 81 kg")
+        .replace("__EYEBROW__", f"Semanas {SEMANAS[0]['num']} a {SEMANAS[-1]['num']} · Objetivo: 15 % de grasa")
         .replace("__TITULO__", f"Del {largo(ini)} al {largo(fin)}")
         .replace("__INICIO__", str(int(ini.split("-")[2]))))
 SALIDA = AQUI / "salida"; SALIDA.mkdir(exist_ok=True)

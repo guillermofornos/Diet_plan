@@ -94,6 +94,15 @@ main{padding-block:16px 40px}
 .slot{font-family:var(--font-display);font-weight:600;font-size:.86rem;letter-spacing:.07em;text-transform:uppercase;color:var(--muted)}
 .dish{min-width:0}
 .dish small{display:block;color:var(--muted);font-size:.86rem}
+.dish small.yo{color:var(--accent)}
+.prep.yo-line strong{color:var(--accent)}
+.nums{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:16px}
+.num-box{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:10px 14px}
+.num-box span{display:block;font-family:var(--font-display);font-weight:600;font-size:.84rem;letter-spacing:.07em;text-transform:uppercase;color:var(--muted)}
+.num-box b{font-family:var(--font-display);font-weight:700;font-size:1.45rem;font-variant-numeric:tabular-nums}
+.yo-secs{display:grid;gap:12px;margin-bottom:18px}
+.supps>li span{display:block;margin-top:2px}
+.supps>li span.cuando{color:var(--muted);font-size:.9rem}
 .pill-video{display:inline-block;margin-left:8px;vertical-align:2px;background:none;border:1px solid var(--accent);color:var(--accent);font-size:.72rem;padding:1px 7px 0}
 .chev{justify-self:end;width:9px;height:9px;border-right:2px solid var(--muted);border-bottom:2px solid var(--muted);transform:translateY(-3px) rotate(45deg);transition:transform .15s ease}
 .meal[open]>summary .chev{transform:translateY(1px) rotate(225deg)}
@@ -168,6 +177,10 @@ main{padding-block:16px 40px}
 .foot{margin-top:24px;padding-top:14px;border-top:1px solid var(--line);color:var(--muted);font-size:.88rem;display:grid;gap:6px}
 .foot p{margin:0}
 
+@media (max-width:420px){
+  .tab{font-size:1.05rem;padding-inline:4px;gap:5px}
+  .count{padding:1px 6px}
+}
 @media (min-width:560px){
   h1{font-size:2.5rem}
   .recipe{padding-left:calc(16px + 5.4rem + 10px)}
@@ -191,6 +204,7 @@ main{padding-block:16px 40px}
       <button class="tab" type="button" role="tab" id="tab-menu" aria-controls="panel-menu" aria-selected="true">Menú</button>
       <button class="tab" type="button" role="tab" id="tab-batch" aria-controls="panel-batch" aria-selected="false" tabindex="-1">Batch</button>
       <button class="tab" type="button" role="tab" id="tab-compra" aria-controls="panel-compra" aria-selected="false" tabindex="-1">Compra <span class="count" id="count">0/0</span></button>
+      <button class="tab" type="button" role="tab" id="tab-yo" aria-controls="panel-yo" aria-selected="false" tabindex="-1">Tú</button>
     </div>
   </div>
 </div>
@@ -234,10 +248,14 @@ main{padding-block:16px 40px}
     <textarea id="copy-fallback" rows="8" readonly hidden aria-label="Lista para copiar"></textarea>
   </section>
 
+  <section id="panel-yo" role="tabpanel" aria-labelledby="tab-yo" hidden>
+    <div id="yo"></div>
+  </section>
+
   <footer class="foot">
-    <p>Objetivo diario: unas 1950 kcal en días de entreno y 1600 en descanso. Los totales de cada día son aproximados y no cuentan la cena fuera.</p>
+    <p>Las recetas salen para los dos: Guillermo come el 60 % de la comida y la cena, e Indi el 40 %. Su plan completo (cantidades, entrenos y suplementos), en la pestaña Tú.</p>
+    <p>Las kcal de cada día son aproximadas y no cuentan la cena fuera. Las de cada receta son por persona, a partes iguales.</p>
     <p>Noches de cervezas: un vaso de agua por cada cerveza, y nunca justo después de entrenar.</p>
-    <p>Las recetas salen para dos, porque coméis lo mismo; con el selector de arriba puedes verlas para una persona.</p>
     <p>El pescado se cocina siempre el día que se come: en el batch solo se deja hecha la base o la salsa.</p>
   </footer>
 </main>
@@ -356,12 +374,13 @@ main{padding-block:16px 40px}
     w.dias.forEach(function (d, i) {
       var sec = el("section", { class: "day", "aria-labelledby": "h-" + d.fecha });
       var head = el("div", { class: "day-head" },
-        el("h2", { id: "h-" + d.fecha }, d.nombre + " ", el("span", { text: d.n + " " + d.mes })),
-        el("span", { class: "pill " + (d.tipo === "E" ? "pill-e" : "pill-d"), text: d.tipo === "E" ? "Entreno" : "Descanso" }));
+        el("h2", { id: "h-" + d.fecha }, d.nombre + " ", el("span", { text: d.n + " " + d.mes })));
       if (d.fecha === today) { sec.classList.add("is-today"); head.append(el("span", { class: "pill pill-today", text: "Hoy" })); }
-      var tgt = el("span", { class: "target" }, el("b", { text: "≈" + d.kcal + " kcal" }), " · " + d.prot + " g prot." + (d.fuera ? " + cena fuera" : d.libre ? " + " + d.libre : ""));
+      var tgt = d.yo ? el("span", { class: "target" }, el("b", { text: d.yo.cab }))
+        : el("span", { class: "target" }, el("b", { text: "≈" + d.kcal + " kcal" }), " · " + d.prot + " g prot." + (d.fuera ? " + cena fuera" : d.libre ? " + " + d.libre : ""));
       head.append(tgt);
       sec.append(head);
+      if (d.yo) sec.append(el("p", { class: "prep yo-line" }, el("strong", { text: "Tú: " }), d.yo.linea));
       d.prep.forEach(function (t) { sec.append(el("p", { class: "prep" }, el("strong", { text: "Preparación: " }), t)); });
       var ul = el("ul", { class: "meals" });
       d.comidas.forEach(function (m) {
@@ -384,6 +403,7 @@ main{padding-block:16px 40px}
           if (r.url) dish2.append(el("span", { class: "pill pill-video", text: "Vídeo" }));
           else if (r.robot) dish2.append(el("span", { class: "pill pill-video", text: "Robot" }));
           else if (r.url2) dish2.append(el("span", { class: "pill pill-video", text: "Web" }));
+          if (d.yo && d.yo.notas[m[0]]) dish2.append(el("small", { class: "yo", text: d.yo.notas[m[0]] }));
           sum = el("summary", null, el("span", { class: "slot", text: m[0] }), dish2, el("span", { class: "chev", "aria-hidden": "true" }));
           body = el("div", { class: "recipe" }); recipeParts(r, body);
         }
@@ -509,6 +529,35 @@ main{padding-block:16px 40px}
     return out.join("\n");
   }
 
+  // ---------- Tú ----------
+  function renderYo() {
+    var y = DATA.yo, host = document.getElementById("yo"); host.textContent = "";
+    if (!y) return;
+    host.append(el("div", { class: "batch-head" }, el("p", { class: "eyebrow", text: "Solo para Guillermo" }), el("h2", { class: "batch-title", text: y.titulo })));
+    var tips = el("div", { class: "tips" });
+    y.intro.forEach(function (t) { tips.append(el("p", { text: t })); });
+    host.append(tips);
+    var nums = el("div", { class: "nums" });
+    y.cifras.forEach(function (c) { nums.append(el("div", { class: "num-box" }, el("span", { text: c[0] }), el("b", { text: c[1] }))); });
+    host.append(nums);
+    function secs(list) {
+      var box = el("div", { class: "yo-secs" });
+      list.forEach(function (s) {
+        var bx = el("section", { class: "store-box" }, el("h3", { class: "sec-h", text: s[0] })), ul = el("ul");
+        s[1].forEach(function (t) { ul.append(el("li", { text: t })); });
+        bx.append(ul); box.append(bx);
+      });
+      host.append(box);
+    }
+    secs(y.secciones.slice(0, 5));
+    host.append(el("h3", { class: "sec-h", text: "Suplementos" }));
+    var sl = el("ul", { class: "reminders supps" });
+    y.suplementos.forEach(function (s) { sl.append(el("li", null, el("strong", { text: s[0] }), el("span", { text: s[1] }), el("span", { class: "cuando", text: s[2] }))); });
+    host.append(sl);
+    host.append(el("div", { style: "height:14px" }));
+    secs(y.secciones.slice(5));
+  }
+
   // ---------- Estado ----------
   function updateStatus() {
     var first = W[0].inicio, last = W[W.length - 1].fin, s = "";
@@ -521,7 +570,7 @@ main{padding-block:16px 40px}
       var d = null;
       W.forEach(function (w) { w.dias.forEach(function (x) { if (x.fecha === today) d = x; }); });
       if (d) {
-        s = "Hoy es " + d.nombre.toLowerCase() + " " + d.n + ", día de " + (d.tipo === "E" ? "entreno" : "descanso") + ".";
+        s = "Hoy es " + d.nombre.toLowerCase() + " " + d.n + ".";
         var idx = W.findIndex(function (w) { return w.inicio > today; });
         if (d.nombre === "Sábado" && idx >= 0) s += " Toca la compra de la semana del " + W[idx].corto + ".";
         if (d.nombre === "Domingo" && idx >= 0) s += " Toca el batch cooking de la semana del " + W[idx].corto + " (pestaña Batch).";
@@ -531,10 +580,10 @@ main{padding-block:16px 40px}
   }
 
   // ---------- Pestañas ----------
-  var tabMenu = document.getElementById("tab-menu"), tabBatch = document.getElementById("tab-batch"), tabCompra = document.getElementById("tab-compra");
+  var tabMenu = document.getElementById("tab-menu"), tabBatch = document.getElementById("tab-batch"), tabCompra = document.getElementById("tab-compra"), tabYo = document.getElementById("tab-yo");
   var panels = { menu: [tabMenu, document.getElementById("panel-menu")], batch: [tabBatch, document.getElementById("panel-batch")],
-                 compra: [tabCompra, document.getElementById("panel-compra")] };
-  var order = [tabMenu, tabBatch, tabCompra];
+                 compra: [tabCompra, document.getElementById("panel-compra")], yo: [tabYo, document.getElementById("panel-yo")] };
+  var order = [tabMenu, tabBatch, tabCompra, tabYo];
   function show(name) {
     Object.keys(panels).forEach(function (k) {
       var on = k === name;
@@ -545,6 +594,7 @@ main{padding-block:16px 40px}
   tabMenu.addEventListener("click", function () { show("menu"); });
   tabBatch.addEventListener("click", function () { show("batch"); });
   tabCompra.addEventListener("click", function () { show("compra"); });
+  tabYo.addEventListener("click", function () { show("yo"); });
   document.getElementById("tablist").addEventListener("keydown", function (e) {
     if (e.key !== "ArrowRight" && e.key !== "ArrowLeft") return;
     var i = order.indexOf(document.activeElement); if (i < 0) return;
@@ -553,9 +603,10 @@ main{padding-block:16px 40px}
 
   function renderAll() { renderWeeks(); renderDays(); renderBatch(); renderShop(); updateProgress(); setServings(servings); }
   renderAll();
+  renderYo();
   updateStatus();
-  var saved = store.get(P + "tab");
-  show(hash === "compra" || hash === "batch" ? hash : (saved === "compra" || saved === "batch" ? saved : "menu"));
+  var saved = store.get(P + "tab"), TABS = ["compra", "batch", "yo"];
+  show(TABS.indexOf(hash) >= 0 ? hash : (TABS.indexOf(saved) >= 0 ? saved : "menu"));
   document.getElementById("srv-1").addEventListener("click", function () { setServings(1); });
   document.getElementById("srv-2").addEventListener("click", function () { setServings(2); });
 

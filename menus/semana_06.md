@@ -1,6 +1,6 @@
 # Menú Semana 6 (16 – 22 nov)
 
-*Nota: las recetas de `recetas/` vienen para 2 personas; las kcal y la proteína de esta tabla son por persona. 🎬 = receta de vídeo o internet, con su enlace en el fichero de recetas; 🤖 = receta del libro del robot Cecotec. E = entreno, D = descanso.*
+*Nota: las recetas de `recetas/` vienen para 2 personas; las kcal y la proteína de esta tabla son por persona, a partes iguales. Guillermo come el 60 % de la comida y la cena y desayuna solo los días de gimnasio: su plan, en `PLAN_PERSONAL.md`. 🎬 = receta de vídeo o internet, con su enlace en el fichero de recetas; 🤖 = receta del libro del robot Cecotec. E = entreno, D = descanso.*
 
 | Día | Desayuno | Comida | Merienda | Cena | Total del día |
 | :--- | :--- | :--- | :--- | :--- | :--- |

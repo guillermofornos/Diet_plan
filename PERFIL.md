@@ -1,9 +1,13 @@
 # Perfil y Restricciones Alimentarias
 
-## Datos Actuales
-- **Peso actual:** 91 kg
-- **Peso objetivo:** 81 kg
-- **Actividad Física:** 50 min/día, 4 días a la semana (nivel flojo/medio).
+## Datos Actuales (báscula, 23/11/2026)
+- **Peso:** 88,7 kg (−1,1 kg en el último mes) · IMC 25,1 (≈1,88 m).
+- **Grasa corporal:** 23,1 % (20,5 kg) · grasa visceral 9 (alta).
+- **Masa muscular:** 64,4 kg (esquelética 37,8 kg) · masa libre de grasa 68,2 kg.
+- **Metabolismo basal:** 1843 kcal · frecuencia cardíaca en reposo 59 lpm.
+- **Objetivo:** 15 % de grasa (unos 80–82 kg) ganando algo de músculo, a unos 0,4 kg por semana (hacia abril de 2027).
+- **Actividad física:** 3 sesiones de gimnasio (150–230 kcal según el reloj), 2–3 partidos de pádel (≈550 kcal) y 1 carrera (≈350 kcal) a la semana; los días cambian.
+- **Reparto del menú:** comes el 60 % de la comida y la cena que se cocina para los dos (Indi, el 40 %) y desayunas solo los días de gimnasio. Tu plan diario y los suplementos: `PLAN_PERSONAL.md` (y la pestaña «Tú» de la página del mes).
 - **Consumo de Alcohol:** 3 cervezas semanales (NO negociables).
 
 ## Intolerancias Alimentarias
