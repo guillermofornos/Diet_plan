@@ -15,33 +15,35 @@
 - 940 g Cebollas (incluye cebolleta y morada)
 - 240 g Zanahorias
 - 100 g Tomates (incluye cherrys)
-- 2,14 kg Patatas
-- 600 g Calabaza (pelada)
-- 200 g Puerros
+- 2,02 kg Patatas
+- 300 g Calabaza (pelada)
+- 120 g Puerros
+- 1 Apio (paquete de ramas o una mata pequeña; se usan 150 g)
 - 200 g Acelgas
 - 1 bolsa Rúcula o canónigos (unos 70 g)
 - Limones
 - Perejil
 
 ## Carne, huevos y tofu
-- 2 docenas y media Huevos (se usan 24)
-- 1,14 L Claras de huevo pasteurizadas
+- 2 docenas y media Huevos (se usan 28)
+- 840 ml Claras de huevo pasteurizadas
 - 300 g Pechuga de pollo
 - 700 g Solomillos de pollo
 - 40 g Taquitos de jamón serrano
-- 80 g Jamón cocido extra
 - 340 g Solomillo de cerdo (una pieza grande o dos pequeñas)
 
 ## Pescado
+- 200 g Gambas o langostinos cocidos y pelados (congelados) (para la ensalada de huevo; a la nevera la noche antes)
 - 400 g Sepia limpia congelada (o sepias pequeñas)
 - 300 g Lomos de salmón (frescos o congelados)
 
 ## Lácteos
 - 8 Yogures naturales sin azúcar (de 125 g)
+- 1 Yogur +Proteínas natural (vasitos de 120 g, en packs de 4)
 - 14 Natillas +Proteínas (4 packs de 4)
 
 ## Pan y tortillas
-- 880 g Pan integral (100% integral)
+- 960 g Pan integral (100% integral)
 - 2 Panes de pita (mejor integrales)
 
 ## Despensa
@@ -52,14 +54,15 @@
 - 130 g Arroz basmati
 - 1 bote Miel (si no te queda; se usan 15 g)
 - 120 g Copos de avena
-- 250 g Pipas de calabaza sin sal
+- 230 g Pipas de calabaza sin sal
 - 140 g Tomate triturado natural
 - 1 Tomate concentrado (tubo o lata pequeña; si no te queda)
 - 1 Salsa de soja baja en sodio (si no te queda)
 - 1 Mostaza (si no te queda)
 - 1 brik de 1 L Caldo de pollo bajo en sal (se usan 200 ml)
 - 1 brik de 1 L Caldo de verduras bajo en sal (se usan 900 ml)
-- 170 ml Aceite de oliva virgen extra (se usan esta semana)
+- 160 ml Aceite de oliva virgen extra (se usan esta semana)
+- Mostaza en grano, a la antigua (si no os queda)
 - Salsa picante (opcional)
 
 ## Congelados

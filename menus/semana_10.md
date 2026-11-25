@@ -5,7 +5,7 @@
 | Día | Desayuno | Comida | Merienda | Cena | Total del día |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Lunes 14 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🎬 Lentejas estofadas con pollo y verduras | Natillas +Proteínas con plátano y pipas | 🎬 Pizza de avena y yogur proteico con jamón cocido | ≈1912 kcal · 137 g prot. |
-| **Martes 15 dic (E)** | Batido proteico + tostada integral y kiwi | 🎬 Solomillos al adobo barbacoa con patatas y ensalada de granada | Natillas +Proteínas con plátano y pipas | Sándwich de tortilla francesa con jamón serrano y tomate | ≈1881 kcal · 124 g prot. |
+| **Martes 15 dic (E)** | Batido proteico + tostada integral y kiwi | 🎬 Solomillos al adobo barbacoa con patatas y ensalada de granada | Natillas +Proteínas con plátano y pipas | Ensalada cremosa de huevo y gambas | ≈1912 kcal · 140 g prot. |
 | **Miércoles 16 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Estofado de ternera con patatas y guisantes | Natillas +Proteínas con kiwi y pipas | Sándwich de pollo, aguacate y tomate con salsa de yogur y mostaza | ≈1604 kcal · 121 g prot. |
 | **Jueves 17 dic (E)** | Batido proteico + tostada integral y kiwi | 🤖 Albóndigas caseras en salsa de tomate con arroz integral | Natillas +Proteínas con plátano y pipas | 🎬 Tortilla de patata con claras | ≈1927 kcal · 120 g prot. |
 | **Viernes 18 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🤖 Arroz caldoso con pollo y judías verdes | Natillas +Proteínas con plátano y pipas | **Cena fuera** + *cervezas* | ≈1246 kcal · 79 g prot. + cena fuera |
@@ -18,11 +18,13 @@
   - A la nevera: Lentejas con pollo, 2 raciones (lunes); Solomillos al adobo barbacoa con sus patatas, 2 raciones (martes; la ensalada, al momento); Estofado de ternera, 2 raciones (miércoles).
   - Al congelador (pásalo a la nevera la noche antes): Albóndigas en salsa con su arroz, 2 raciones (jueves); Arroz con pollo y judías verdes, 2 raciones (viernes); Secreto ibérico crudo del arroz del sábado 19, en bolsa.
 - **Cenas:** 30 min, aproximadamente. Cabe después de comer, mientras el estofado acaba.
-  - A la nevera: Pechuga asada entera para el sándwich del miércoles; Pimiento y cebolla en tiras para la pizza (lunes).
+  - A la nevera: Pechuga asada entera para el sándwich del miércoles; Pimiento y cebolla en tiras para la pizza (lunes); 6 huevos cocidos con cáscara para la ensalada (martes).
   - Al congelador (pásalo a la nevera la noche antes): nada.
 
 **Recordatorios de la semana:**
+- **Lunes 14 por la noche:** Pasa las gambas cocidas del congelador a la nevera (ensalada de la cena de mañana).
 - **Martes 15:** Comida: la ensalada de los solomillos (canónigos, cherrys, cebolla morada, granada y mozzarella), al momento, y el aliño al servir.
+- **Martes 15:** Cena: ensalada de huevo y gambas, al momento (10 minutos): pela los huevos del batch y machácalos con el yogur y las mostazas; añade las gambas escurridas, el apio y la cebolla morada. Con el pan tostado.
 - **Miércoles 16:** Cena: sándwich de pollo con la pechuga del batch, en lonchas finas. Por la noche, pasa las albóndigas del jueves a la nevera.
 - **Jueves 17:** Cena: tortilla de patata con claras, al momento (unos 25 minutos). Por la noche, pasa el arroz con pollo del viernes a la nevera.
 - **Viernes 18 por la noche:** Pasa el secreto ibérico a la nevera (arroz meloso del sábado, en la Le Creuset).

@@ -12,37 +12,40 @@
 - 2 Aguacates (unos 260 g de pulpa)
 - 540 g Pimientos rojos o de colores
 - 340 g Pimientos verdes italianos
-- 1,23 kg Cebollas (incluye cebolleta y morada)
+- 1,28 kg Cebollas (incluye cebolleta y morada)
 - 420 g Zanahorias
-- 880 g Tomates (incluye cherrys)
+- 760 g Tomates (incluye cherrys)
 - 2,1 kg Patatas
 - 300 g Boniatos
 - 280 g Puerros
+- 1 Apio (paquete de ramas o una mata pequeña; se usan 150 g)
 - 200 g Acelgas
-- 2 bolsas Rúcula o canónigos (unos 140 g)
+- 1 bolsa Rúcula o canónigos (unos 110 g)
 - Limones
 - Perejil
 
 ## Carne, huevos y tofu
-- 2 docenas Huevos (se usan 23)
-- 740 ml Claras de huevo pasteurizadas
+- 2 docenas y media Huevos (se usan 27)
+- 540 ml Claras de huevo pasteurizadas
 - 1,02 kg Pechuga de pollo
 - 660 g Solomillos de pollo
-- 120 g Taquitos de jamón serrano
+- 80 g Taquitos de jamón serrano
 - 320 g Carne picada magra, mitad ternera y mitad cerdo (pídela en la carnicería y cocínala en 24 horas)
 - 340 g Ternera para guisar en tacos (jarrete (morcillo), aguja o llana, sin grasa visible)
 
 ## Pescado
+- 200 g Gambas o langostinos cocidos y pelados (congelados) (para la ensalada de huevo; a la nevera la noche antes)
 - 500 g Gambones crudos congelados, enteros (unos 12)
 - 2 Doradas de ración, enteras y sin escamar (de unos 400 g cada una; que te las vacíen, pero con escamas)
 
 ## Lácteos
 - 10 Yogures naturales sin azúcar (de 125 g)
+- 1 Yogur +Proteínas natural (vasitos de 120 g, en packs de 4)
 - 14 Natillas +Proteínas (4 packs de 4)
 - 20 ml Leche o bebida de soja sin azúcar
 
 ## Pan y tortillas
-- 1,13 kg Pan integral (100% integral)
+- 1,03 kg Pan integral (100% integral)
 - 2 Panes de pita (mejor integrales)
 
 ## Despensa
@@ -60,7 +63,8 @@
 - 1 Vinagre balsámico (si no te queda; no crema de balsámico)
 - 1 brik de 1 L Caldo de pollo bajo en sal (se usan 700 ml)
 - 1 brik de 1 L Caldo de verduras bajo en sal (se usan 1 L)
-- 190 ml Aceite de oliva virgen extra (se usan esta semana)
+- 180 ml Aceite de oliva virgen extra (se usan esta semana)
+- Mostaza en grano, a la antigua (si no os queda)
 - Sal gruesa (unos 2 kg para la costra; si no os queda)
 - Salsa picante (opcional)
 

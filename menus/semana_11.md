@@ -5,7 +5,7 @@
 | Día | Desayuno | Comida | Merienda | Cena | Total del día |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Lunes 21 dic (E)** | Tostada integral con aguacate y huevo + yogur | 🎬 Lentejas con calabaza al curry y huevo cocido | Natillas +Proteínas con plátano y pipas | 🎬 Kebab de pollo con patatas y salsa blanca | ≈1929 kcal · 129 g prot. |
-| **Martes 22 dic (E)** | Batido proteico + tostada integral y kiwi | 🎬 Solomillo de cerdo en salsa de pimientos del piquillo con patatas | Natillas +Proteínas con plátano y pipas | 🤖 Crema de calabaza con pipas y tortilla de claras con jamón | ≈1888 kcal · 119 g prot. |
+| **Martes 22 dic (E)** | Batido proteico + tostada integral y kiwi | 🎬 Solomillo de cerdo en salsa de pimientos del piquillo con patatas | Natillas +Proteínas con plátano y pipas | Ensalada cremosa de huevo y gambas | ≈1938 kcal · 131 g prot. |
 | **Miércoles 23 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🤖 Potaje de garbanzos con acelgas y huevo | Natillas +Proteínas con kiwi y pipas | 🎬 Fajitas de pollo con pan nube | ≈1596 kcal · 120 g prot. |
 | **Jueves 24 dic (E)** | Batido de plátano, avena y claras + kiwi | 🎬 Pollo teriyaki con arroz y verduras salteadas | Natillas +Proteínas con plátano y pipas | **Libre** | ≈1217 kcal · 87 g prot. + cena libre |
 | **Viernes 25 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | **Libre** | Natillas +Proteínas con plátano y pipas | **Libre** | ≈676 kcal · 34 g prot. + comida y cena libres |
@@ -17,13 +17,14 @@
 - **Mediodía (táperes):** 1 h 10 min, aproximadamente. Para comer hoy, el marmitako de rape (unos 55 minutos, al terminar).
   - A la nevera: Lentejas al curry, 2 raciones con su arroz, y 6 huevos cocidos con cáscara (4 para las lentejas y 2 para el potaje); Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (martes); Potaje de garbanzos con acelgas, 2 raciones (miércoles).
   - Al congelador (pásalo a la nevera la noche antes): Pollo teriyaki con su arroz y verduras, 2 raciones (jueves 24).
-- **Cenas:** 1 h, aproximadamente, con la crema de boniato de la cena de hoy.
-  - A la nevera: Pollo del kebab marinado y salsa blanca (lunes); Crema de calabaza, 2 raciones (martes; la tortilla, al momento); Pechuga asada y desmenuzada y juliana para las fajitas (miércoles).
+- **Cenas:** 55 min, aproximadamente, con la crema de boniato de la cena de hoy.
+  - A la nevera: Pollo del kebab marinado y salsa blanca (lunes); 6 huevos cocidos con cáscara para la ensalada (martes); Pechuga asada y desmenuzada y juliana para las fajitas (miércoles).
   - Al congelador (pásalo a la nevera la noche antes): nada.
 
 **Recordatorios de la semana:**
 - **Lunes 21:** Kebab: pon las patatas en remojo al llegar a casa.
-- **Martes 22:** Cena: calienta la crema de calabaza y haz la tortilla de claras con jamón al momento.
+- **Lunes 21 por la noche:** Pasa las gambas cocidas del congelador a la nevera (ensalada de la cena de mañana).
+- **Martes 22:** Cena: ensalada de huevo y gambas, al momento (10 minutos): pela los huevos del batch y machácalos con el yogur y las mostazas; añade las gambas escurridas, el apio y la cebolla morada. Con el pan tostado.
 - **Miércoles 23 por la noche:** Pasa el pollo teriyaki del jueves a la nevera.
 - **Jueves 24:** Nochebuena: cena libre. Compra hoy el salmón de la comida del sábado 26 (mañana cierran las tiendas) y a la nevera.
 - **Viernes 25:** Navidad: comida y cena libres.

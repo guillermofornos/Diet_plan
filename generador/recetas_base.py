@@ -249,3 +249,16 @@ R["SANDPOL"] = dict(tipo="cena", nombre="Sándwich de pollo, aguacate y tomate c
    pasos=["Mezcla el yogur con la mostaza, sal y pimienta: es la salsa.",
           "Tuesta el pan, úntalo con la salsa y monta el sándwich con el pollo en lonchas finas, el aguacate, el tomate y los canónigos."])
 R["SANDPOL"]["batch"] = "En el batch, la pechuga asada (con el resto del horno); el sándwich, al momento."
+
+R["ENSHUEVO"] = dict(tipo="cena", nombre="Ensalada cremosa de huevo y gambas", fuente="Receta de Instagram de @maydenyt (código MAYDEN)",
+   tupper="Al momento (10 minutos); si sobra, hasta el día siguiente en la nevera",
+   grupos=[("Ensalada", [("huevo", 165, "{3|huevo cocido|huevos cocidos}"), ("gambas_coc", 100, "{100} g de gambas cocidas peladas, troceadas"),
+       ("apio", 75, "{75} g de apio en daditos"), ("cebolla", 25, "{25} g de cebolla morada, muy picada")]),
+     ("Salsa", [("yogur_prot", 30, "{2|cucharada|cucharadas} de yogur +Proteínas natural ({30} g)"), ("mostaza", 15, "{1|cucharada|cucharadas} de mostaza"),
+       ("x:Mostaza en grano", 0, "{1|cucharadita|cucharaditas} de mostaza en grano"), ("x:Limones", 0, "Un chorrito de limón, sal y pimienta")]),
+     ("Para acompañar", [("pan_int", 40, "{40} g de pan integral, tostado")])],
+   pasos=["Cuece los huevos 10 minutos, pásalos a agua fría y pélalos (si están hechos del batch, solo pelarlos).",
+          "En un bol, ponlos con el yogur, las dos mostazas, un chorrito de limón, sal y pimienta, y machácalo todo con un tenedor.",
+          "Añade las gambas bien escurridas y troceadas, el apio y la cebolla morada.",
+          "Mézclalo todo y sírvelo frío, con el pan tostado."])
+R["ENSHUEVO"]["batch"] = "En la tanda de cenas, los huevos cocidos con cáscara. Las gambas, del congelador a la nevera la noche antes; la ensalada, al momento."

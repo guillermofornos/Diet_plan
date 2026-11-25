@@ -43,6 +43,7 @@ python3 gen_docs.py 5    # HTML de los Google Docs de la semana 5 en salida/docs
 - Una vez al mes, como mínimo, el arroz meloso con secreto ibérico en la Le Creuset.
 - Ningún plato se repite dentro de la misma semana: las lentejas, un solo día (desde la semana 7).
 - Cenas ligeras (desde la semana 8): cremas, sándwiches, tortilla o tomates rellenos. Kebab, fajitas, tacos, pizza o hamburguesa, el día que la comida es de legumbre (o, como mucho, una vez suelta a la semana). El pescado, nunca de cena: va a las comidas del fin de semana, que es cuando se puede hacer en el momento.
+- Cada semana, una cena es la ensalada cremosa de huevo y gambas (25 de noviembre; `SEMANALES` en `plan.py`): no cuenta en la norma de no repetir ni en la rotación de pescado.
 - Los meses se cuentan en bloques de 4 semanas desde la 8 (30 de noviembre).
 - Guillermo come el 60 % de la comida y la cena (Indi, el 40 %) y desayuna solo los días de gimnasio. Su plan (kcal por tipo de día, proteína y suplementos) está en `yo.py`, sale en la pestaña «Tú» de la página y en `PLAN_PERSONAL.md`.
 - Nada de pavo, ni en comidas ni en cenas, y los guisantes con jamón no cuentan como plato principal.

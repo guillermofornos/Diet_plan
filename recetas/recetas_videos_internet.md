@@ -1169,3 +1169,33 @@
 
 *Tupper:* Al momento; la pechuga, asada en el batch.
 *Batch cooking:* En el batch, la pechuga asada (con el resto del horno); el sándwich, al momento.
+
+---
+
+### Ensalada cremosa de huevo y gambas
+*Fuente: Receta de Instagram de @maydenyt (código MAYDEN) · ≈ 473 kcal · 49 g proteína · 22 g HC · 19 g grasa · por persona*
+
+**Ingredientes (Ensalada):**
+- 6 huevos cocidos.
+- 200 g de gambas cocidas peladas, troceadas.
+- 150 g de apio en daditos.
+- 50 g de cebolla morada, muy picada.
+
+**Ingredientes (Salsa):**
+- 4 cucharadas de yogur +Proteínas natural (60 g).
+- 2 cucharadas de mostaza.
+- 2 cucharaditas de mostaza en grano.
+- Un chorrito de limón, sal y pimienta.
+
+**Ingredientes (Para acompañar):**
+- 80 g de pan integral, tostado.
+
+**Instrucciones:**
+1. Cuece los huevos 10 minutos, pásalos a agua fría y pélalos (si están hechos del batch, solo pelarlos).
+2. En un bol, ponlos con el yogur, las dos mostazas, un chorrito de limón, sal y pimienta, y machácalo todo con un tenedor.
+3. Añade las gambas bien escurridas y troceadas, el apio y la cebolla morada.
+4. Mézclalo todo y sírvelo frío, con el pan tostado.
+
+*Tupper:* Al momento (10 minutos); si sobra, hasta el día siguiente en la nevera.
+*Batch cooking:* En la tanda de cenas, los huevos cocidos con cáscara. Las gambas, del congelador a la nevera la noche antes; la ensalada, al momento.
+*Cambios respecto a la fuente:* Apio en vez de pepino (45 en tu test), yogur +Proteínas en vez de griego ligero y 40 g de pan integral tostado para que la cena no se quede corta. Cantidades de la receta, por persona.

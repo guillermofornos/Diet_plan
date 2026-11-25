@@ -7,7 +7,7 @@
 | **Lunes 7 dic (E)** | Tostada integral con aguacate y huevo + yogur | 🎬 Lentejas con calabaza al curry y huevo cocido | Natillas +Proteínas con plátano y pipas | 🎬 Tacos de zanahoria con pollo | ≈1906 kcal · 128 g prot. |
 | **Martes 8 dic (E)** | Batido proteico + tostada integral y kiwi | 🎬 Solomillo de cerdo en salsa de pimientos del piquillo con patatas | Natillas +Proteínas con plátano y pipas | 🤖 Crema de calabaza con pipas y tortilla de claras con jamón | ≈1888 kcal · 119 g prot. |
 | **Miércoles 9 dic (D)** | Tostada integral con aguacate y huevo | 🎬 Gratinado de patata y pollo al curry | Natillas +Proteínas con kiwi y pipas | Sándwich mixto fit (jamón cocido y mozzarella) con tomate | ≈1589 kcal · 132 g prot. |
-| **Jueves 10 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🎬 Espaguetis a la tofuloñesa | Natillas +Proteínas con plátano y pipas | 🎬 Tomates y pimientos rellenos de huevo, pollo y mozzarella | ≈1900 kcal · 130 g prot. |
+| **Jueves 10 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🎬 Espaguetis a la tofuloñesa | Natillas +Proteínas con plátano y pipas | Ensalada cremosa de huevo y gambas | ≈1854 kcal · 128 g prot. |
 | **Viernes 11 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🎬 Pollo teriyaki con arroz y verduras salteadas | Natillas +Proteínas con plátano y pipas | **Cena fuera** + *cervezas* | ≈1249 kcal · 83 g prot. + cena fuera |
 | **Sábado 12 dic (D)** | Tostada integral con aguacate y huevo | 🎬 Salmón en papillote con verduras y patata | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1054 kcal · 64 g prot. + cena fuera |
 | **Domingo 13 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Lubina a la sal con pisto y patata | Natillas +Proteínas con kiwi y pipas | 🤖 Crema de verduras con jamón crujiente y huevo cocido | ≈1662 kcal · 112 g prot. |
@@ -18,12 +18,13 @@
   - A la nevera: Lentejas al curry, 2 raciones con su arroz y 4 huevos cocidos con cáscara (lunes); Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (martes); Gratinado de patata y pollo al curry, 2 raciones (miércoles).
   - Al congelador (pásalo a la nevera la noche antes): Espaguetis a la tofuloñesa, 2 raciones (jueves); Pollo teriyaki con su arroz y verduras, 2 raciones (viernes).
 - **Cenas:** 1 h, aproximadamente, con la crema de boniato de la cena de hoy.
-  - A la nevera: Pechuga asada y desmenuzada y zanahoria rallada para los tacos (lunes); Crema de calabaza, 2 raciones (martes; la tortilla, al momento).
-  - Al congelador (pásalo a la nevera la noche antes): Pollo asado y desmenuzado de los tomates rellenos (jueves).
+  - A la nevera: Pechuga asada y desmenuzada y zanahoria rallada para los tacos (lunes); Crema de calabaza, 2 raciones (martes; la tortilla, al momento); 6 huevos cocidos con cáscara para la ensalada (jueves).
+  - Al congelador (pásalo a la nevera la noche antes): nada.
 
 **Recordatorios de la semana:**
 - **Martes 8:** Cena: calienta la crema de calabaza y haz la tortilla de claras con jamón al momento.
-- **Miércoles 9 por la noche:** Pasa a la nevera la tofuloñesa del jueves y el pollo de los tomates rellenos (cena).
+- **Miércoles 9 por la noche:** Pasa a la nevera la tofuloñesa (comida del jueves) y las gambas cocidas (cena del jueves).
+- **Jueves 10:** Cena: ensalada de huevo y gambas, al momento (10 minutos): pela los huevos del batch y machácalos con el yogur y las mostazas; añade las gambas escurridas, el apio y la cebolla morada. Con el pan tostado.
 - **Jueves 10 por la noche:** Pasa el pollo teriyaki del viernes a la nevera.
 - **Viernes 11:** Compra el salmón para la comida de mañana (en papillote): fresco, o congelado y a la nevera esta noche.
 - **Sábado 12:** Con la compra de la semana siguiente, coge las 2 lubinas frescas, enteras y sin escamar, para la comida del domingo. Haz la crema de verduras en el robot (unos 25 minutos) para la cena del domingo y guárdala en la nevera.

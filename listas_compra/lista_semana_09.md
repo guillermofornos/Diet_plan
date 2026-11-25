@@ -10,38 +10,40 @@
 - 10 Plátanos (desayunos y meriendas)
 - 12 Kiwis (desayunos y meriendas)
 - 3 Aguacates (unos 380 g de pulpa)
-- 780 g Pimientos rojos o de colores
+- 540 g Pimientos rojos o de colores
 - 220 g Pimientos verdes italianos
-- 940 g Cebollas (incluye cebolleta y morada)
+- 990 g Cebollas (incluye cebolleta y morada)
 - 860 g Zanahorias
-- 1,06 kg Tomates (incluye cherrys)
+- 460 g Tomates (incluye cherrys)
 - 2,08 kg Patatas
 - 600 g Calabaza (pelada)
 - 200 g Puerros
+- 1 Apio (paquete de ramas o una mata pequeña; se usan 150 g)
 - 1 bolsa Rúcula o canónigos (unos 90 g)
 - Limones
 - Perejil
 
 ## Carne, huevos y tofu
-- 3 docenas Huevos (se usan 30)
-- 600 ml Claras de huevo pasteurizadas
+- 3 docenas Huevos (se usan 32)
+- 500 ml Claras de huevo pasteurizadas
 - 300 g Pechuga de pollo
-- 860 g Solomillos de pollo
+- 700 g Solomillos de pollo
 - 40 g Taquitos de jamón serrano
 - 200 g Jamón cocido extra
 - 500 g Tofu firme (2 bloques de 400 g)
 - 340 g Solomillo de cerdo (una pieza grande o dos pequeñas)
 
 ## Pescado
+- 200 g Gambas o langostinos cocidos y pelados (congelados) (para la ensalada de huevo; a la nevera la noche antes)
 - 300 g Lomos de salmón (frescos o congelados)
 - 2 Lubinas de ración, enteras y sin escamar (de unos 350–400 g cada una; que te las vacíen, pero con escamas)
 
 ## Lácteos
 - 10 Yogures naturales sin azúcar (de 125 g)
-- 2 Yogur +Proteínas natural (vasitos de 120 g, en packs de 4)
+- 3 Yogur +Proteínas natural (vasitos de 120 g, en packs de 4)
 - 14 Natillas +Proteínas (4 packs de 4)
 - 2 bolas Mozzarella fresca (se usan 220 g)
-- 2 bolas Mozzarella fresca light (se usan 140 g)
+- 1 bola Mozzarella fresca light (se usan 80 g)
 - 80 ml Leche o bebida de soja sin azúcar
 
 ## Pan y tortillas
@@ -58,9 +60,11 @@
 - 250 g Pipas de calabaza sin sal
 - 360 g Tomate triturado natural
 - 1 Salsa de soja baja en sodio (si no te queda)
+- 1 Mostaza (si no te queda)
 - 1 brik de 1 L Caldo de pollo bajo en sal (se usan 200 ml)
 - 1 brik de 1 L Caldo de verduras bajo en sal (se usan 400 ml)
-- 150 ml Aceite de oliva virgen extra (se usan esta semana)
+- 140 ml Aceite de oliva virgen extra (se usan esta semana)
+- Mostaza en grano, a la antigua (si no os queda)
 - Sal gruesa (unos 2 kg para la costra; si no os queda)
 
 ## Congelados

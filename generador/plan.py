@@ -30,16 +30,16 @@ SEMANAS = [
    filas=[("D4L","LENT1","ME_E","CREMVER"), ("D3","PULPO","ME_E","CENAV"), ("D2","CURRY","ME_D","CREMCAL"), ("D3","CARNEG","ME_E","CRI"),
           ("D4","TERI","ME_E",FUERA), ("D4S","RODA","ME_D",FUERA), ("D2",LIBRE,"ME_D",LIBRE)]),
  dict(num=8, titulo="30 nov – 6 dic", fechas=["2026-11-30","2026-12-01","2026-12-02","2026-12-03","2026-12-04","2026-12-05","2026-12-06"],
-   filas=[("D1","LENTJ","ME_E","FAJ"), ("D4","ALBON","ME_E","SOPA"), ("D2","ESTOF","ME_D","SANDTOR"), ("D1","POTG","ME_E","KEB"),
+   filas=[("D1","LENTJ","ME_E","FAJ"), ("D4","ALBON","ME_E","SOPA"), ("D2","ESTOF","ME_D","ENSHUEVO"), ("D1","POTG","ME_E","KEB"),
           ("D4","ARRPOL","ME_E",FUERA), ("D4S","DORSAL","ME_D",FUERA), ("D2","ARRGAMB","ME_D","CASTA")]),
  dict(num=9, titulo="7 – 13 dic", fechas=["2026-12-07","2026-12-08","2026-12-09","2026-12-10","2026-12-11","2026-12-12","2026-12-13"],
-   filas=[("D4L","LENT2","ME_E","TAC"), ("D1","SOLPIQ","ME_E","CREMCAL"), ("D4S","CURRY","ME_D","SANDMIX"), ("D4","TOFU","ME_E","TOM"),
+   filas=[("D4L","LENT2","ME_E","TAC"), ("D1","SOLPIQ","ME_E","CREMCAL"), ("D4S","CURRY","ME_D","SANDMIX"), ("D4","TOFU","ME_E","ENSHUEVO"),
           ("D4","TERI","ME_E",FUERA), ("D4S","SALM2","ME_D",FUERA), ("D2","LUBSAL","ME_D","CREMVER")]),
  dict(num=10, titulo="14 – 20 dic", fechas=["2026-12-14","2026-12-15","2026-12-16","2026-12-17","2026-12-18","2026-12-19","2026-12-20"],
-   filas=[("D4","LENT1","ME_E","PZA"), ("D1","BBQ","ME_E","SANDTOR"), ("D2","ESTOF","ME_D","SANDPOL"), ("D1","ALBON","ME_E","TOR"),
+   filas=[("D4","LENT1","ME_E","PZA"), ("D1","BBQ","ME_E","ENSHUEVO"), ("D2","ESTOF","ME_D","SANDPOL"), ("D1","ALBON","ME_E","TOR"),
           ("D4","ARRPOL","ME_E",FUERA), ("D4S","ARRSEC","ME_D",FUERA), ("D2","RAPE","ME_D","CASTA")]),
  dict(num=11, titulo="21 – 27 dic", fechas=["2026-12-21","2026-12-22","2026-12-23","2026-12-24","2026-12-25","2026-12-26","2026-12-27"],
-   filas=[("D4L","LENT2","ME_E","KEB"), ("D1","SOLPIQ","ME_E","CREMCAL"), ("D2","POTG","ME_D","FAJ"), ("D3","TERI","ME_E",LIBRE),
+   filas=[("D4L","LENT2","ME_E","KEB"), ("D1","SOLPIQ","ME_E","ENSHUEVO"), ("D2","POTG","ME_D","FAJ"), ("D3","TERI","ME_E",LIBRE),
           ("D4",LIBRE,"ME_E",LIBRE), ("D4S","SALM1","ME_D",FUERA), ("D2","SEPIA","ME_D","CREMVER")]),
 ]
 def total_dia(fila):
@@ -48,21 +48,24 @@ def total_dia(fila):
         if clave not in NO_PLATO:
             kc, pr, _, _ = macros_receta(R[clave]); k += kc; p += pr
     return k, p
-PESCADOS = {"merluza": "merluza", "bacalao": "bacalao", "gambas": "gambas", "gambones": "gambas", "calamar": "calamar",
+PESCADOS = {"merluza": "merluza", "bacalao": "bacalao", "gambas": "gambas", "gambas_coc": "gambas", "gambones": "gambas", "calamar": "calamar",
             "sepia": "sepia", "pulpo": "pulpo", "dorada": "dorada", "rape": "rape", "rodaballo": "rodaballo", "salmon": "salmón", "lubina": "lubina", "dorada_sal": "dorada", "atun": "atún", "atun_fresco": "atún"}
 PLATOS = ("comida", "cena")
-def pescados_semana(s):
+# Cenas fijas, una por semana (la ensalada de huevo y gambas, pedida el 25 de noviembre): no cuentan en la norma
+# de no repetir ni en la rotación de pescado
+SEMANALES = {"ENSHUEVO"}
+def pescados_semana(s, sin=()):
     out = set()
     for fila in s["filas"]:
         for clave in fila:
-            if clave not in NO_PLATO:
+            if clave not in NO_PLATO and clave not in sin:
                 out |= {PESCADOS[c] for _, ings in R[clave]["grupos"] for c, _q, _t in ings if c in PESCADOS}
     return out
 def comprobar_pescados():
     """Errores de la norma: merluza y bacalao nunca en la misma semana, y entre una y otra, al menos una semana sin ninguna de las dos; ningún pescado ni marisco dos semanas seguidas."""
     errores, previa = [], None
     for s in SEMANAS:
-        p = pescados_semana(s)
+        p = pescados_semana(s, SEMANALES)
         if {"merluza", "bacalao"} <= p: errores.append(f"Semana {s['num']}: merluza y bacalao en la misma semana")
         if previa is not None and p & previa: errores.append(f"Semanas {s['num'] - 1} y {s['num']}: {', '.join(sorted(p & previa))} dos semanas seguidas")
         mb = {"merluza", "bacalao"}
@@ -79,7 +82,7 @@ def comprobar_repeticiones(desde=6):
     errores = []
     for a, b in zip(SEMANAS, SEMANAS[1:]):
         if a["num"] < desde: continue
-        rep = platos_semana(a) & platos_semana(b)
+        rep = (platos_semana(a) & platos_semana(b)) - SEMANALES
         if rep: errores.append(f"Semanas {a['num']} y {b['num']}: se repite {', '.join(R[c]['nombre'] for c in sorted(rep))}")
     # Desde la semana 8: cenas ligeras (cremas, sándwiches, tortilla...). Kebab, fajitas, tacos, pizza o hamburguesa,
     # el día que la comida es de legumbre; si no, como mucho una vez a la semana. Nada de pescado de cena (23 de noviembre)
@@ -100,6 +103,12 @@ def comprobar_repeticiones(desde=6):
             vistos = [c for f in s["filas"] for c in (f[1], f[3]) if c not in NO_PLATO]
             rep = sorted({c for c in vistos if vistos.count(c) > 1})
             if rep: errores.append(f"Semana {s['num']}: se repite dentro de la semana: {', '.join(R[c]['nombre'] for c in rep)}")
+    # Desde la semana 8: cada cena fija semanal, una vez a la semana
+    for s in SEMANAS:
+        if s["num"] >= 8:
+            for k in sorted(SEMANALES):
+                n = sum(f[3] == k for f in s["filas"])
+                if n != 1: errores.append(f"Semana {s['num']}: {R[k]['nombre']} va una vez a la semana de cena (va {n})")
     # Desde la semana 7: los guisantes con jamón no son plato principal (fuera del plan, 21 de noviembre)
     for s in SEMANAS:
         if s["num"] >= 7 and {"GUIS", "GUIS_D", "GUIS_T"} & platos_semana(s):
@@ -121,7 +130,7 @@ def comprobar_repeticiones(desde=6):
         if n_salmon < 2: errores.append(f"Semanas {ini}–{ini + 3}: salmón solo {n_salmon} semana(s); tienen que ser 2")
     return errores
 MENSUALES = ["ARRSEC", "DORSAL", "LUBSAL"]
-CENAS_LIGERAS = {"CREMCAL", "CREMZAN", "CREMVER", "SOPA", "CASTA", "CENAV", "TOR", "TOM", "SANDTOR", "SANDMIX", "SANDPOL"}
+CENAS_LIGERAS = {"CREMCAL", "CREMZAN", "CREMVER", "SOPA", "CASTA", "CENAV", "TOR", "TOM", "SANDTOR", "SANDMIX", "SANDPOL", "ENSHUEVO"}
 CENAS_RAPIDAS = {"KEB", "FAJ", "TAC", "CRI", "FIN", "FF2", "BEX", "FPZ", "PZA"}
 LEGUMBRES = {"LENT1", "LENT2", "LENTJ", "POTG"}
 if __name__ == "__main__":
@@ -187,6 +196,7 @@ CAMBIOS = {
  "CREMVER": "Judías verdes y zanahoria en vez del calabacín (te sienta mal); caldo de verduras; jamón crujiente como en la receta y huevos cocidos de segundo para que sea una cena completa. La receta es para 4: cantidades pasadas a 2.",
  "RODA": "Sin vino blanco (alcohol 51 en tu test): caldo de pescado; el aceite, medido (la receta pone un buen chorro); un solo diente de ajo para los dos (ajo 43). Rodaballo: verde en tu test.",
  "ARRSEC": "Secreto ibérico en vez de carrilleras (en tiras y dorado al principio, así no necesita 1 hora); sin Pedro Ximénez ni vino tinto (alcohol 51 en tu test): caldo y un poco de balsámico; 70 g de arroz por persona en vez de 90 y el aceite medido; la mitad de ajos tiernos (ajo 43).",
+ "ENSHUEVO": "Apio en vez de pepino (45 en tu test), yogur +Proteínas en vez de griego ligero y 40 g de pan integral tostado para que la cena no se quede corta. Cantidades de la receta, por persona.",
  "SOPA": "Pasada a vuestra Mambo (la original se hace en una olla); un huevo pochado por persona en vez de uno para los dos; la pechuga, pesada (unos 180 g por persona) y las especias, concretadas.",
  "RISOT": "Con pollo; sin mantequilla (45) ni parmesano (queso curado 55): un poco de mozzarella fresca al final; sin vino; más puerro y setas (no champiñón, 43 en tu test); menos jamón y caldo bajo en sal.",
 }

@@ -139,10 +139,11 @@ def reglas():
         ("Cenas", [
             "Ligeras: cremas de la Mambo, sándwiches, tortilla o tomates rellenos.",
             "Kebab, fajitas, tacos o pizza, el día que a mediodía hay legumbre; hamburguesa, alguna vez.",
+            "Un día a la semana, la ensalada cremosa de huevo y gambas: es la excepción a no repetir plato ni marisco de una semana a otra.",
             "Viernes y sábado, cena fuera: ahí van las 3 cervezas de la semana.",
         ]),
         ("Pescado", [
-            "Siempre a mediodía del fin de semana, porque se cocina el mismo día que se come.",
+            "Siempre a mediodía del fin de semana, porque se cocina el mismo día que se come (las gambas cocidas de la ensalada semanal, no).",
             "Salmón 2 semanas al mes; dorada a la sal y lubina a la sal, una vez al mes cada una. Los guisos y marmitakos se quedan.",
             "Merluza, siempre rebozada. Entre merluza y bacalao, una semana sin ninguno; y ningún pescado dos semanas seguidas.",
         ]),

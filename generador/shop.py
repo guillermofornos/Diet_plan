@@ -32,6 +32,7 @@ M = {
  "ajetes": ("Fruta y verdura", "Ajos frescos (ajetes)", lambda v: (g(v), "un manojo pequeño")),
  "calabaza": ("Fruta y verdura", "Calabaza", lambda v: (g(v), "pelada")),
  "puerro": ("Fruta y verdura", "Puerros", lambda v: (g(v), "")),
+ "apio": ("Fruta y verdura", "Apio", lambda v: ("1", f"paquete de ramas o una mata pequeña; se usan {g(v)}")),
  "acelgas": ("Fruta y verdura", "Acelgas", lambda v: (g(v), "")),
  "setas": ("Fruta y verdura", "Setas de cardo u ostra", lambda v: (g(v), "no champiñón")),
  "hojas": ("Fruta y verdura", "Rúcula o canónigos", lambda v: (f"{ud(v,125)} bolsa{'s' if ud(v,125) > 1 else ''}", f"unos {g(v)}")),
@@ -53,6 +54,7 @@ M = {
  "ternera_guiso": ("Carne, huevos y tofu", "Ternera para guisar en tacos", lambda v: (g(v), "jarrete (morcillo), aguja o llana, sin grasa visible")),
  "ternera": ("Carne, huevos y tofu", "Carne picada de ternera magra", lambda v: (g(v), "carnicería: tapilla o babilla; cómprala el día que la cocines")),
  "gambas": ("Pescado", "Gambas o langostinos pelados congelados", lambda v: (g(v), "")),
+ "gambas_coc": ("Pescado", "Gambas o langostinos cocidos y pelados (congelados)", lambda v: (g(v), "para la ensalada de huevo; a la nevera la noche antes")),
  "merluza": ("Pescado", "Merluza congelada (lomos o filetes)", lambda v: (g(v), "")),
  "gambones": ("Pescado", "Gambones crudos congelados, enteros", lambda v: (g(v), f"unos {round(v / 42)}")),
  "calamar": ("Pescado", "Calamar limpio congelado (tubos o tiras)", lambda v: (g(v), "")),
@@ -113,7 +115,7 @@ M = {
  "aove": ("Despensa", "Aceite de oliva virgen extra", lambda v: (ml(v), "se usan esta semana")),
 }
 FRESCOS = {"Limones": "Limones", "Lima": "Limas", "Perejil": "Perejil", "Cilantro": "Cilantro", "Hierbabuena": "Hierbabuena"}
-DESPENSA_X = {"Salsa picante": "Salsa picante (opcional)", "Caldo de pescado": None, "Sal gruesa": "Sal gruesa (unos 2 kg para la costra; si no os queda)"}
+DESPENSA_X = {"Mostaza en grano": "Mostaza en grano, a la antigua (si no os queda)", "Salsa picante": "Salsa picante (opcional)", "Caldo de pescado": None, "Sal gruesa": "Sal gruesa (unos 2 kg para la costra; si no os queda)"}
 NORMAL = {"Curry": "Curry en polvo", "Sal": None}
 
 def lista(semana, claves=None):

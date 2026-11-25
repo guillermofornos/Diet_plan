@@ -9,6 +9,7 @@ T = {
  "merluza":      dict(n=(75, 17.0, 0.8, 0.0)),
  "bacalao":      dict(n=(78, 18.0, 0.6, 0.0)),
  "gambas":       dict(n=(90, 20.0, 1.0, 0.0)),
+ "gambas_coc":   dict(n=(90, 20.0, 1.0, 0.0)),   # gambas o langostinos cocidos y pelados
  "gambones":     dict(n=(45, 10.0, 0.5, 0.0)),   # enteros y crudos, con cabeza y cáscara (≈50 % comestible)
  "calamar":      dict(n=(92, 15.6, 1.4, 3.1)),   # limpio, crudo (USDA)
  "pulpo":        dict(n=(80, 16.0, 1.0, 1.0)),   # patas de pulpo ya cocido, envasadas
