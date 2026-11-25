@@ -130,6 +130,9 @@ def plan_yo(semanas):
 def reglas():
     """Todo lo acordado para el menú, para la pestaña «Tú» de la página."""
     return [
+        ("Tus recetas", [
+            "Las que pasas tú (enlace, foto, captura o texto) tienen prioridad sobre las demás: si hay que hacer sitio o elegir, se quedan las tuyas.",
+        ]),
         ("Comidas", [
             "Lentejas, un solo día por semana. Ningún plato se repite dentro de la semana ni de una semana a la siguiente.",
             "El estofado de ternera (tu receta) es el guiso de carne habitual: cada dos semanas, a fuego suave en la Le Creuset (nunca en la olla a presión).",

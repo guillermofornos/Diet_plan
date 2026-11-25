@@ -133,6 +133,13 @@ MENSUALES = ["ARRSEC", "DORSAL", "LUBSAL"]
 CENAS_LIGERAS = {"CREMCAL", "CREMZAN", "CREMVER", "SOPA", "CASTA", "CENAV", "TOR", "TOM", "SANDTOR", "SANDMIX", "SANDPOL", "ENSHUEVO"}
 CENAS_RAPIDAS = {"KEB", "FAJ", "TAC", "CRI", "FIN", "FF2", "BEX", "FPZ", "PZA"}
 LEGUMBRES = {"LENT1", "LENT2", "LENTJ", "POTG"}
+# Recetas que ha pasado Guillermo (enlaces, fotos del libro, capturas o texto). Norma del 25 de noviembre: tienen prioridad
+# sobre las demás; para hacer sitio a un plato o resolver un choque de normas, sale una que no esté aquí. Cada receta
+# nueva suya se añade a esta lista.
+PROPIAS = {"CRI", "FF2", "TAC", "FAJ", "FIN", "KEB",                        # vídeos, 6 de octubre
+           "LENTJ", "ARRPOL", "TERESC", "RISOT", "JARD", "POTG", "ALBON",   # fotos del libro del robot, 25 de octubre
+           "CREMCAL", "CREMZAN",                                            # enlaces de Cecotec, 26 de octubre
+           "SOPA", "CASTA", "ARRSEC", "ESTOF", "ENSHUEVO"}                  # 15 a 25 de noviembre
 if __name__ == "__main__":
     for s in SEMANAS: print(f"Semana {s['num']}: {', '.join(sorted(pescados_semana(s))) or '—'}")
     from batch import comprobar_fuegos
