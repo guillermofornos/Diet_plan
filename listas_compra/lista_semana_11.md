@@ -12,12 +12,12 @@
 - 2 Aguacates (unos 260 g de pulpa)
 - 400 g Pimientos rojos o de colores
 - 100 g Pimientos verdes italianos
-- 940 g Cebollas (incluye cebolleta y morada)
-- 240 g Zanahorias
+- 930 g Cebollas (incluye cebolleta y morada)
+- 100 g Zanahorias
 - 100 g Tomates (incluye cherrys)
-- 2,02 kg Patatas
-- 300 g Calabaza (pelada)
-- 120 g Puerros
+- 1,98 kg Patatas
+- 600 g Calabaza (pelada)
+- 80 g Puerros
 - 1 Apio (paquete de ramas o una mata pequeña; se usan 150 g)
 - 200 g Acelgas
 - 1 bolsa Rúcula o canónigos (unos 70 g)
@@ -25,11 +25,11 @@
 - Perejil
 
 ## Carne, huevos y tofu
-- 2 docenas y media Huevos (se usan 28)
-- 840 ml Claras de huevo pasteurizadas
+- 2 docenas y media Huevos (se usan 26)
+- 1,14 L Claras de huevo pasteurizadas
 - 300 g Pechuga de pollo
 - 700 g Solomillos de pollo
-- 40 g Taquitos de jamón serrano
+- 80 g Jamón cocido extra
 - 340 g Solomillo de cerdo (una pieza grande o dos pequeñas)
 
 ## Pescado
@@ -43,7 +43,7 @@
 - 14 Natillas +Proteínas (4 packs de 4)
 
 ## Pan y tortillas
-- 960 g Pan integral (100% integral)
+- 880 g Pan integral (100% integral)
 - 2 Panes de pita (mejor integrales)
 
 ## Despensa
@@ -60,17 +60,17 @@
 - 1 Salsa de soja baja en sodio (si no te queda)
 - 1 Mostaza (si no te queda)
 - 1 brik de 1 L Caldo de pollo bajo en sal (se usan 200 ml)
-- 1 brik de 1 L Caldo de verduras bajo en sal (se usan 900 ml)
+- 1 brik de 1 L Caldo de verduras bajo en sal (se usan 500 ml)
 - 160 ml Aceite de oliva virgen extra (se usan esta semana)
 - Mostaza en grano, a la antigua (si no os queda)
 - Salsa picante (opcional)
 
 ## Congelados
 - 120 g Guisantes finos congelados
-- 260 g Judías verdes troceadas congeladas
+- 140 g Judías verdes troceadas congeladas
 
 ## Especias y condimentos
-- Ajo, Comino, Curry en polvo, Jengibre, Laurel, Nuez moscada, Pimentón dulce, Sésamo (revisa lo que tienes)
+- Ajo, Comino, Curry en polvo, Jengibre, Laurel, Pimentón dulce (revisa lo que tienes)
 - Sal, pimienta, ajo en polvo y cebolla en polvo (básicos)
 
 ## Opcional: Big Mac en casa el sábado (x2)

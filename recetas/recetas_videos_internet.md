@@ -1197,5 +1197,5 @@
 4. Mézclalo todo y sírvelo frío, con el pan tostado.
 
 *Tupper:* Al momento (10 minutos); si sobra, hasta el día siguiente en la nevera.
-*Batch cooking:* En la tanda de cenas, los huevos cocidos con cáscara. Las gambas, del congelador a la nevera la noche antes; la ensalada, al momento.
+*Batch cooking:* En la tanda de cenas, los huevos cocidos con cáscara (si toca el domingo siguiente, se cuecen ese día). Las gambas, del congelador a la nevera la noche antes; la ensalada, al momento.
 *Cambios respecto a la fuente:* Apio en vez de pepino (45 en tu test), yogur +Proteínas en vez de griego ligero y 40 g de pan integral tostado para que la cena no se quede corta. Cantidades de la receta, por persona.

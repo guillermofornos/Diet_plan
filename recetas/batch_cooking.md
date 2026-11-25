@@ -502,11 +502,11 @@
 
 ### Cenas
 
-*Duración: 55 min, aproximadamente, con la crema de boniato de la cena de hoy.*
+*Duración: 1 h, aproximadamente, con la crema de boniato de la cena de hoy.*
 
 **A la nevera:**
 - Pollo del kebab marinado y salsa blanca (lunes)
-- 6 huevos cocidos con cáscara para la ensalada (martes)
+- Crema de calabaza, 2 raciones (martes; la tortilla, al momento)
 - Pechuga asada y desmenuzada y juliana para las fajitas (miércoles)
 
 **Al congelador** (pásalo a la nevera la noche antes):
@@ -517,20 +517,19 @@
 | Hora | Dónde | Qué hacer |
 | :--- | :--- | :--- |
 | 0:00 | Horno | Precalienta a 200 °C. Pechuga de las fajitas (300 g) con la soja, la mostaza y las especias, 25–30 minutos. |
-| 0:05 | Tabla | Corta la juliana de las fajitas (a un táper) y trocea la cebolla, el puerro y el boniato de la crema de boniato. |
-| 0:15 | Robot | Crema de boniato con pollo (cena de hoy): cebolla y puerro 5 s/vel 5 y 8 min/120 °C/vel 1; el boniato, 3 min; con la mariposa, las pechugas, la sal, la pimienta y el agua, 20–25 min/100 °C/vel 1/giro inverso; saca las pechugas y tritura. |
-| 0:15 | Fuego 2 · cazo | Cuece 6 huevos 10 minutos para la ensalada del martes y guárdalos con cáscara. |
+| 0:05 | Tabla | Corta la juliana de las fajitas (a un táper) y trocea la calabaza, el puerro, la cebolla y la patata de la crema de calabaza, y la cebolla, el puerro y el boniato de la crema de boniato. |
+| 0:15 | Robot | Crema de calabaza: puerro y cebolla 6 s/vel 6, sofrito 4 min/120 °C/vel 1 y la calabaza, la patata y el agua, 20 min/110 °C/vel 0; tritura 1 min/vel 7, rectifica de sal y pásala a un táper. |
 | 0:15 | Encimera | Kebab del lunes: marina los solomillos (360 g) con las especias y el yogur y haz la salsa blanca (yogur, especias y limón); las dos cosas, a la nevera. |
 | 0:30 | Horno | Saca la pechuga y desmenúzala. Apaga el horno. |
-| 0:55 | Táperes | Deja templar y guarda en la nevera el kebab con su salsa, los huevos y lo de las fajitas. Para cenar, la crema de boniato con pollo. |
+| 0:45 | Robot | Crema de boniato con pollo (cena de hoy): cebolla y puerro 5 s/vel 5 y 8 min/120 °C/vel 1; el boniato, 3 min; con la mariposa, las pechugas, la sal, la pimienta y el agua, 20–25 min/100 °C/vel 1/giro inverso; saca las pechugas y tritura. |
+| 1:00 | Táperes | Deja templar y guarda en la nevera la crema de calabaza, el kebab con su salsa y lo de las fajitas. Para cenar, la crema de boniato con pollo. |
 
 
 **Recordatorios de la semana:**
 - **Lunes 21:** Kebab: pon las patatas en remojo al llegar a casa.
-- **Lunes 21 por la noche:** Pasa las gambas cocidas del congelador a la nevera (ensalada de la cena de mañana).
-- **Martes 22:** Cena: ensalada de huevo y gambas, al momento (10 minutos): pela los huevos del batch y machácalos con el yogur y las mostazas; añade las gambas escurridas, el apio y la cebolla morada. Con el pan tostado.
+- **Martes 22:** Cena: calienta la crema de calabaza y haz la tortilla de claras con jamón al momento.
 - **Miércoles 23 por la noche:** Pasa el pollo teriyaki del jueves a la nevera.
 - **Jueves 24:** Nochebuena: cena libre. Compra hoy el salmón de la comida del sábado 26 (mañana cierran las tiendas) y a la nevera.
 - **Viernes 25:** Navidad: comida y cena libres.
-- **Sábado 26 por la noche:** Pasa la sepia del congelador a la nevera (guiso del domingo).
-- **Domingo 27:** Cena: crema de verduras en el robot (unos 25 minutos) y 4 huevos cocidos.
+- **Sábado 26 por la noche:** Pasa del congelador a la nevera la sepia (comida del domingo) y las gambas cocidas (cena del domingo).
+- **Domingo 27:** Cena: ensalada de huevo y gambas. Cuece 6 huevos 10 minutos por la tarde, para que se enfríen, pélalos y machácalos con el yogur y las mostazas; añade las gambas escurridas, el apio y la cebolla morada. Con el pan tostado.

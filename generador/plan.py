@@ -39,8 +39,8 @@ SEMANAS = [
    filas=[("D4","LENT1","ME_E","PZA"), ("D1","BBQ","ME_E","ENSHUEVO"), ("D2","ESTOF","ME_D","SANDPOL"), ("D1","ALBON","ME_E","TOR"),
           ("D4","ARRPOL","ME_E",FUERA), ("D4S","ARRSEC","ME_D",FUERA), ("D2","RAPE","ME_D","CASTA")]),
  dict(num=11, titulo="21 – 27 dic", fechas=["2026-12-21","2026-12-22","2026-12-23","2026-12-24","2026-12-25","2026-12-26","2026-12-27"],
-   filas=[("D4L","LENT2","ME_E","KEB"), ("D1","SOLPIQ","ME_E","ENSHUEVO"), ("D2","POTG","ME_D","FAJ"), ("D3","TERI","ME_E",LIBRE),
-          ("D4",LIBRE,"ME_E",LIBRE), ("D4S","SALM1","ME_D",FUERA), ("D2","SEPIA","ME_D","CREMVER")]),
+   filas=[("D4L","LENT2","ME_E","KEB"), ("D1","SOLPIQ","ME_E","CREMCAL"), ("D2","POTG","ME_D","FAJ"), ("D3","TERI","ME_E",LIBRE),
+          ("D4",LIBRE,"ME_E",LIBRE), ("D4S","SALM1","ME_D",FUERA), ("D2","SEPIA","ME_D","ENSHUEVO")]),
 ]
 def total_dia(fila):
     k = p = 0

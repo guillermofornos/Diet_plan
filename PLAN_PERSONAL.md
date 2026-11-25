@@ -7,7 +7,7 @@
 
 | Proteína | Con gimnasio | Con pádel | Sin entreno |
 | :--- | :--- | :--- | :--- |
-| ≈170 g al día | ≈2.150 kcal | ≈2.000 kcal | ≈1.850 kcal |
+| ≈170 g al día | ≈2.100 kcal | ≈2.000 kcal | ≈1.850 kcal |
 
 ## Tu parte del menú
 
@@ -110,9 +110,9 @@
 | Día | Comida (60 %) | Cena (60 %) | Sin entreno | Con pádel | Con gimnasio |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Lunes 21 dic | Lentejas con calabaza al curry y huevo cocido (≈882 kcal) | Kebab de pollo con patatas y salsa blanca (≈695 kcal) | ≈2.105 kcal · 178 g | ≈2.278 kcal · 189 g | ≈2.311 kcal · 172 g |
-| Martes 22 dic | Solomillo de cerdo en salsa de pimientos del piquillo con patatas (≈798 kcal) | Ensalada cremosa de huevo y gambas (≈568 kcal) | ≈1.894 kcal · 180 g | ≈2.067 kcal · 191 g | ≈2.286 kcal · 174 g |
+| Martes 22 dic | Solomillo de cerdo en salsa de pimientos del piquillo con patatas (≈798 kcal) | Crema de calabaza con pipas y tortilla de claras con jamón (≈508 kcal) | ≈1.834 kcal · 166 g | ≈2.007 kcal · 177 g | ≈2.226 kcal · 160 g |
 | Miércoles 23 dic | Potaje de garbanzos con acelgas y huevo (≈638 kcal) | Fajitas de pollo con pan nube (≈558 kcal) | ≈1.678 kcal · 158 g | ≈1.851 kcal · 169 g | ≈1.915 kcal · 160 g |
 | Jueves 24 dic | Pollo teriyaki con arroz y verduras salteadas (≈688 kcal) | Libre | ≈1.216 kcal · 122 g | ≈1.389 kcal · 133 g | ≈1.451 kcal · 121 g |
 | Viernes 25 dic | Libre | Libre | — | — | — |
 | Sábado 26 dic | Salmón a la plancha con patatas al ajo y limón (≈667 kcal) | Fuera | ≈1.150 kcal · 105 g | ≈1.323 kcal · 116 g | ≈1.281 kcal · 94 g |
-| Domingo 27 dic | Guiso de sepia con patatas y guisantes (≈549 kcal) | Crema de verduras con jamón crujiente y huevo cocido (≈679 kcal) | ≈1.710 kcal · 150 g | ≈1.883 kcal · 161 g | ≈1.948 kcal · 152 g |
+| Domingo 27 dic | Guiso de sepia con patatas y guisantes (≈549 kcal) | Ensalada cremosa de huevo y gambas (≈568 kcal) | ≈1.599 kcal · 171 g | ≈1.772 kcal · 182 g | ≈1.836 kcal · 173 g |

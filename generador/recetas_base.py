@@ -261,4 +261,4 @@ R["ENSHUEVO"] = dict(tipo="cena", nombre="Ensalada cremosa de huevo y gambas", f
           "En un bol, ponlos con el yogur, las dos mostazas, un chorrito de limón, sal y pimienta, y machácalo todo con un tenedor.",
           "Añade las gambas bien escurridas y troceadas, el apio y la cebolla morada.",
           "Mézclalo todo y sírvelo frío, con el pan tostado."])
-R["ENSHUEVO"]["batch"] = "En la tanda de cenas, los huevos cocidos con cáscara. Las gambas, del congelador a la nevera la noche antes; la ensalada, al momento."
+R["ENSHUEVO"]["batch"] = "En la tanda de cenas, los huevos cocidos con cáscara (si toca el domingo siguiente, se cuecen ese día). Las gambas, del congelador a la nevera la noche antes; la ensalada, al momento."
