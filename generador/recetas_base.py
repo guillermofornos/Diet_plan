@@ -40,6 +40,15 @@ R = {
    grupos=[("Ingredientes", [("natillas", 120, "{1|natillas +Proteínas de Mercadona (120 g)|natillas +Proteínas de Mercadona (120 g c/u)}"),
      ("kiwi", 100, "{1|kiwi|kiwis}"), ("pipas", 15, "{15} g de pipas de calabaza")])],
    pasos=["Natillas con el kiwi en dados y las pipas por encima."]),
+ # ---------------- Merienda por defecto cuando el día va corto de proteína (norma del 28 de noviembre)
+ "ME_BE": dict(tipo="merienda", nombre="Batido de proteínas con leche y plátano",
+   grupos=[("Ingredientes", [("whey", 30, "{1|cazo|cazos} de proteína whey ({30} g)"), ("leche", 200, "{200} ml de leche (o agua, si lo quieres más ligero)"),
+     ("platano", 120, "{1|plátano|plátanos}")])],
+   pasos=["Bate la proteína con la leche y el plátano (batidora o robot, 20 s/vel 8). Si lo haces en el vaso agitador, el plátano aparte."]),
+ "ME_BD": dict(tipo="merienda", nombre="Batido de proteínas con leche y kiwi",
+   grupos=[("Ingredientes", [("whey", 30, "{1|cazo|cazos} de proteína whey ({30} g)"), ("leche", 200, "{200} ml de leche (o agua, si lo quieres más ligero)"),
+     ("kiwi", 100, "{1|kiwi|kiwis}")])],
+   pasos=["Agita la proteína con la leche en el vaso agitador (o con la batidora) y toma el kiwi aparte."]),
  # ---------------- Comida: merluza rebozada (tu norma: merluza siempre rebozada)
  "MERLUZA": dict(tipo="comida", nombre="Merluza rebozada con arroz integral, verduras y aguacate",
    fuente="Rebozado de los fingers de Lara Ibarra", url=YT + "H-XSGAKFylY",
@@ -175,6 +184,12 @@ R["TERI"] = dict(tipo="comida", nombre="Pollo teriyaki con arroz y verduras salt
           "Vuelve a meter el pollo, vierte la salsa y remueve 1–2 minutos, hasta que espese y brille. Sirve con el arroz (y unas semillas de sésamo, si quieres)."])
 R["TERI"]["batch"] = "En el batch, en la sartén grande (unos 20 minutos, con el arroz aparte); al congelador para el viernes y a la nevera la noche antes."
 
+R["CENAC"] = dict(tipo="cena", nombre="Avena con leche y cacao", fuente="Tu cena por defecto, para cuando falte una receta de cena (28 de noviembre)",
+   tupper="Al momento (2–3 minutos)",
+   grupos=[("Ingredientes", [("leche", 300, "{300} ml de leche semidesnatada (o bebida de soja sin azúcar)"), ("avena", 70, "{70} g de copos de avena"),
+       ("cacao", 8, "{1|cucharadita colmada|cucharaditas colmadas} de cacao puro en polvo, sin azúcar (unos {8} g)")])],
+   pasos=["Pon la avena en un bol con la leche y el cacao y remueve bien.",
+          "Caliente: 2 minutos de microondas, removiendo a mitad. Fría: déjala reposar unos minutos para que la avena se ablande."])
 R["CENAV"] = dict(tipo="cena", nombre="Bol de avena con leche, cereal y plátano", fuente="Cena sencilla, sin receta de internet",
    tupper="Al momento (2 minutos)",
    grupos=[("Ingredientes", [("avena", 80, "{80} g de copos de avena"), ("leche", 300, "{300} ml de leche semidesnatada (o bebida de soja sin azúcar)"),
@@ -184,6 +199,35 @@ R["CENAV"] = dict(tipo="cena", nombre="Bol de avena con leche, cereal y plátano
    pasos=["Pon la avena en un bol con la leche. Si la quieres caliente, 2 minutos de microondas, removiendo a mitad; si no, fría, tal cual.",
           "Añade el yogur por encima, el plátano en rodajas, los copos de maíz al final (para que crujan) y canela."])
 
+R["MISO"] = dict(tipo="comida", nombre="Ternera melosa al miso y ajo con arroz", fuente="Receta que pasaste (Slow Braised Miso Garlic Beef, 28 de noviembre)",
+   tupper="4 días en la nevera; se congela muy bien con su salsa",
+   grupos=[("Ternera al miso", [("ternera_guiso", 170, "{170} g de aguja o morcillo de ternera, en una sola pieza (la receta usa «chuck roast»)"),
+       ("soja", 12, "{12} ml de salsa de soja baja en sal"), ("miso", 4, "{4} g de pasta de miso"), ("miel", 4, "{4} g de miel"),
+       ("caldo_carne", 60, "{60} ml de caldo de carne bajo en sal (lo justo para cubrir un tercio de la carne)"),
+       ("x:Jengibre", 0, "{1/2|diente|dientes} de ajo picado, jengibre fresco rallado y una pizca de guindilla en copos")]),
+     ("Para servir", [("basmati", 75, "{75} g de arroz blanco (basmati), en crudo"), ("judias_verdes", 80, "{80} g de judías verdes"),
+       ("cebolla", 15, "{15} g de cebolleta en aros finos"), ("x:Sésamo", 0, "Semillas de sésamo")])],
+   pasos=["Pon la carne en la Le Creuset y echa por encima la soja, el miso, la miel, el ajo, el jengibre y la guindilla, mezclados; repártelo bien. Añade el caldo: tiene que llegar a un tercio de la altura de la carne.",
+          "Tapa y cuece a fuego mínimo 2 h 30 a 3 horas, dándole la vuelta a la pieza cada hora, hasta que se deshaga al pincharla. La receta la hace 6 horas en olla lenta («LOW»); en el horno también vale: tapada, a 150 °C, unas 3 horas.",
+          "Desmenúzala con dos tenedores dentro de su salsa. Si queda muy líquida, destapa y deja que reduzca unos minutos.",
+          "Cuece el arroz el tiempo del paquete y escúrrelo. Las judías verdes, 6–8 minutos al vapor o salteadas.",
+          "Sirve la carne con su salsa sobre el arroz, las judías al lado y la cebolleta y el sésamo por encima."])
+R["MISO"]["batch"] = "En el batch, en la Le Creuset a fuego mínimo desde el principio de la tanda de mediodía (2 h 30 a 3 horas, casi sola): 4 días en la nevera o congelada. Nunca la misma semana que el estofado, que usa la misma olla."
+R["BOLO"] = dict(tipo="comida", nombre="Macarrones a la boloñesa con carne picada", fuente="Karlos Arguiñano (Hogarmania)",
+   url="https://www.youtube.com/watch?v=-lw6eDbzg3Q", url2="https://www.hogarmania.com/cocina/recetas/pastas-pizzas/macarrones-bolonesa-40370.html",
+   tupper="3 días en la nevera, ya mezclados (al recalentar, un chorrito de agua); también se congelan, aunque la pasta queda algo más blanda",
+   grupos=[("Salsa boloñesa", [("ternera", 150, "{150} g de carne picada de ternera magra"), ("cebolla", 50, "{50} g de cebolleta"),
+       ("zanahoria", 50, "{50} g de zanahoria"), ("tomate_trit", 150, "{150} g de tomate triturado natural"), ("aove", 8, "{8} ml de AOVE"),
+       ("caldo_carne", 50, "{50} ml de caldo de carne bajo en sal (en vez del vino tinto)"),
+       ("x:Orégano", 0, "{1/2|diente|dientes} de ajo, orégano, albahaca, sal, pimienta y perejil")]),
+     ("Pasta", [("pasta", 80, "{80} g de macarrones, en seco"), ("mozzarella", 15, "{15} g de mozzarella fresca rallada o en trocitos (en vez del parmesano)")])],
+   pasos=["Pica en daditos el ajo, la cebolleta y la zanahoria y rehógalos con el aceite a fuego suave unos 15 minutos.",
+          "Añade la carne, salpimienta y suéltala bien con la cuchara, unos 5 minutos.",
+          "Añade el orégano, la albahaca, el caldo y el tomate y deja la salsa a fuego suave 30 minutos, removiendo de vez en cuando.",
+          "Cuece los macarrones el tiempo del paquete (1–2 minutos menos si son para el táper), escúrrelos y mézclalos con la salsa.",
+          "Sirve con la mozzarella y perejil picado por encima.",
+          "En la Mambo: trocea el ajo, la cebolleta y la zanahoria 5 s/vel 5 y sofríelos 15 min/120 °C/vel 1; la carne, 5 min/120 °C/vel 1 con giro inverso; el tomate, el caldo y las hierbas, 30 min/100 °C/vel 1 con giro inverso, con el cestillo en vez del cubilete."])
+R["BOLO"]["batch"] = "En el batch: la salsa en la olla o en el robot (unos 50 minutos, casi sola) y la pasta al final; mezclada, 3 días en la nevera o al congelador."
 R["ESTOF"] = dict(tipo="comida", nombre="Estofado de ternera con patatas y guisantes",
    fuente="Receta de Threads (tu captura del 22 de noviembre); parecida, por escrito, en Directo al Paladar",
    url2="https://www.directoalpaladar.com/recetas-de-carnes-y-aves/receta-tradicional-jarrete-ternera-estofado",

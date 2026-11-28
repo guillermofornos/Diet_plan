@@ -7,12 +7,12 @@
 | Día | Desayuno | Comida | Merienda | Cena | Total del día |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Lunes 14 dic (E)** | Batido proteico + tostada integral y kiwi | 🎬 Solomillo de cerdo en salsa de pimientos del piquillo con patatas | Natillas +Proteínas con plátano y pipas | Ensalada cremosa de huevo y gambas | ≈1938 kcal · 131 g prot. |
-| **Martes 15 dic (E)** | Batido proteico + tostada integral y kiwi | 🎬 Pulpo a la gallega con cachelos | Natillas +Proteínas con plátano y pipas | 🎬 Pizza de avena y yogur proteico con jamón cocido | ≈1910 kcal · 119 g prot. |
-| **Miércoles 16 dic (D)** | Tostada integral con aguacate y huevo | 🤖 Potaje de garbanzos con acelgas y huevo | Natillas +Proteínas con kiwi y pipas | 🎬 Kebab de pollo con patatas y salsa blanca | ≈1605 kcal · 108 g prot. |
+| **Martes 15 dic (E)** | Batido proteico + tostada integral y kiwi | 🎬 Pulpo a la gallega con cachelos | Batido de proteínas con leche y plátano | 🎬 Pizza de avena y yogur proteico con jamón cocido | ≈1940 kcal · 135 g prot. |
+| **Miércoles 16 dic (D)** | Tostada integral con aguacate y huevo | 🤖 Potaje de garbanzos con acelgas y huevo | Batido de proteínas con leche y kiwi | 🎬 Kebab de pollo con patatas y salsa blanca | ≈1635 kcal · 124 g prot. |
 | **Jueves 17 dic (E)** | Batido proteico + tostada integral y kiwi | 🤖 Albóndigas caseras en salsa de tomate con arroz integral | Natillas +Proteínas con plátano y pipas | 🎬 Tortilla de patata con claras | ≈1927 kcal · 120 g prot. |
 | **Viernes 18 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🤖 Arroz caldoso con pollo y judías verdes | Natillas +Proteínas con plátano y pipas | **Cena fuera** + *cervezas* | ≈1246 kcal · 79 g prot. + cena fuera |
 | **Sábado 19 dic (D)** | Tostada integral con aguacate y huevo | Arroz meloso con secreto ibérico | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1182 kcal · 53 g prot. + cena fuera |
-| **Domingo 20 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Marmitako de rape (guiso de rape y patata) | Natillas +Proteínas con kiwi y pipas | 🤖 Crema de zanahoria con tosta de jamón y mozzarella | ≈1551 kcal · 113 g prot. |
+| **Domingo 20 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Marmitako de rape (guiso de rape y patata) | Batido de proteínas con leche y kiwi | 🤖 Crema de zanahoria con tosta de jamón y mozzarella | ≈1582 kcal · 129 g prot. |
 
 **Batch cooking del domingo 13 de diciembre** (paso a paso en `recetas/batch_cooking.md`):
 - Ese día comes la lubina a la sal con pisto (en la tanda de mediodía) y cenas la crema de verduras, hecha el sábado.

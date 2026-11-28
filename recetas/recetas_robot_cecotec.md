@@ -395,6 +395,39 @@
 
 ---
 
+### Sopa casera de pollo y verduras
+*Fuente: Receta que pasaste (texto, 28 de noviembre), pasada a vuestra Mambo · ≈ 473 kcal · 42 g proteína · 44 g HC · 11 g grasa · por persona*
+
+**Ingredientes (Sopa):**
+- 300 g de pechuga de pollo entera.
+- 1 zanahoria (80 g).
+- 1 cebolla (150 g).
+- 1 pimiento (120 g).
+- 50 g de puerro (un cuarto de puerro).
+- 1 tomate (120 g).
+- 1 patata (200 g).
+- 16 ml de AOVE.
+- 900 ml de agua.
+- 1 cucharadita de pimentón dulce, 1/2 cucharadita de comino, 1/2 cucharadita de pimienta negra, 1 diente de ajo y sal.
+- Perejil y menta seca, si quieres.
+
+**Ingredientes (Para acompañar):**
+- 60 g de pan integral.
+
+**Instrucciones:**
+1. Lava, pela y corta las verduras en trozos grandes: la zanahoria, la cebolla, el pimiento, el puerro, el tomate y la patata.
+2. Pon la mariposa en el robot y echa las verduras, la pechuga entera, el aceite, el ajo, las especias y el agua: 30 minutos a 100 °C y velocidad 1, con giro inverso. En una olla, como la receta: todo junto a fuego medio 25–30 minutos, hasta que las verduras estén tiernas y el pollo hecho.
+3. Saca la pechuga y desmenúzala con dos tenedores.
+4. Quita la mariposa y tritura las verduras con el caldo 1 minuto, subiendo poco a poco de velocidad 5 a 10 (o con la batidora), hasta que quede fina y cremosa.
+5. Vuelve a echar el pollo desmenuzado y calienta 2 minutos a 90 °C, velocidad 1 y giro inverso (en la olla, un par de minutos). Rectifica de sal.
+6. Sírvela bien caliente, con perejil o menta seca por encima si quieres, y el pan.
+
+*Tupper:* 3 días en la nevera, o congelada.
+*Batch cooking:* La sopa, en el robot (unos 40 minutos) en la tanda de cenas del batch; se guarda 3 días en la nevera o congelada.
+*Cambios respecto a la fuente:* La receta es para 4 raciones de primero: como cena única, la receta entera para los dos (150 g de pollo por persona). 1 cucharada de aceite para los dos en vez de 3 y 1 diente de ajo en vez de 2 (ajo 43 en tu test). Pasada a vuestra Mambo (también vale en la olla, como la original); el pan, como dice la receta.
+
+---
+
 ### Crema de boniato y puerro con pollo y huevo pochado
 *Fuente: Receta de Instagram (código MAYDEN), pasada a vuestra Mambo · ≈ 527 kcal · 53 g proteína · 46 g HC · 11 g grasa · por persona*
 

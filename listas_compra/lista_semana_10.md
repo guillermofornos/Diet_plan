@@ -42,9 +42,9 @@
 ## Lácteos
 - 10 Yogures naturales sin azúcar (de 125 g)
 - 4 Yogur +Proteínas natural (vasitos de 120 g, en packs de 4)
-- 14 Natillas +Proteínas (4 packs de 4)
+- 8 Natillas +Proteínas (2 packs de 4)
 - 2 bolas Mozzarella fresca light (se usan 220 g)
-- 70 ml Leche o bebida de soja sin azúcar
+- 1,27 L Leche o bebida de soja sin azúcar
 
 ## Pan y tortillas
 - 1,25 kg Pan integral (100% integral)
@@ -56,7 +56,8 @@
 - 120 g Arroz integral
 - 280 g Arroz redondo
 - 340 g Copos de avena
-- 210 g Pipas de calabaza sin sal
+- 120 g Pipas de calabaza sin sal
+- 180 g Proteína whey en polvo (para los batidos de la merienda; mira cuánta os queda)
 - 400 g Tomate triturado natural
 - 1 Tomate concentrado (tubo o lata pequeña; si no te queda)
 - 1 bote Carne de pimiento choricero (se usan 15 g)
@@ -79,7 +80,7 @@
 ## Opcional: Big Mac en casa el sábado (x2)
 *Solo si el sábado cenáis en casa en vez de fuera (receta en `recetas/fast_food_saludable.md`).*
 - 300 g Patatas
-- 300 g Carne picada de ternera magra (carnicería: tapilla o babilla; cómprala el día que la cocines)
+- 300 g Carne picada de ternera magra (carnicería: tapilla o babilla; cocínala o congélala en 24 horas)
 - 2 Panes de hamburguesa 100% integrales
 - 1 Ketchup sin azúcar (si no te queda)
 - 1 bote Guindillas en vinagre

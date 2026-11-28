@@ -121,6 +121,7 @@ T = {
  # Comidas sin pollo del ciclo de 5 semanas (28 de noviembre)
  "magro_cerdo":  dict(n=(135, 21.0, 5.5, 0.0)),  # magro de cerdo en dados (lomo o jamón fresco, sin grasa visible)
  "pasta":        dict(n=(355, 12.0, 1.5, 72.0)), # pasta corta de trigo, en seco
+ "miso":         dict(n=(199, 12.0, 6.0, 25.0)),  # pasta de miso blanco
 }
 
 def macros(items):

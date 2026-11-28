@@ -253,7 +253,7 @@ main{padding-block:16px 40px}
       <p>Haz la compra el sábado: el domingo toca el batch cooking y muchos súper cierran.</p>
       <p>Pescado congelado. El pollo del fin de semana va crudo al congelador en el batch y se pasa a la nevera la noche antes.</p>
       <p>Cantidades para los dos. Si un día merienda solo uno, sobra la mitad de natillas, plátanos y kiwis.</p>
-      <p>Para Guillermo, fuera del súper: proteína whey (un bote de 1 kg dura unas 3 semanas), creatina y omega 3.</p>
+      <p>La proteína whey de los batidos de merienda (los días que van cortos de proteína) sale en la lista. La de Guillermo para cada día (un bote de 1 kg le dura unas 3 semanas), la creatina y el omega 3, fuera del súper.</p>
     </div>
     <div class="progress">
       <div class="bar" aria-hidden="true"><span id="bar"></span></div>
@@ -407,7 +407,19 @@ main{padding-block:16px 40px}
     descanso: "Tú: + 1 cazo de proteína. Otro de postre en la cena.",
     "": "Tú: + 1 cazo de proteína (2 los días sin gimnasio). Antes del pádel, + 1 tostada integral con jamón."
   };
-  function suppText(act, salmon) {
+  var MERIENDA_B = {
+    gym: "Tú: el batido tal cual. Después del gimnasio, tu cazo de siempre.",
+    padel: "Tú, 1–2 horas antes de jugar: el batido, tu cazo de siempre y 1 tostada integral con 20 g de jamón serrano. Al terminar, otro cazo.",
+    carrera: "Tú: el batido y tu cazo de siempre (y un plátano antes si corres más de 45 minutos). Al terminar, otro cazo.",
+    descanso: "Tú: el batido y, aparte, tus 2 cazos de siempre (uno con la merienda y otro de postre en la cena).",
+    "": "Tú: el batido y, aparte, tus cazos de siempre (1 con gimnasio; 2 sin gimnasio). Antes del pádel, + 1 tostada integral con jamón."
+  };
+  function suppText(act, salmon, wm) {
+    if (wm) {
+      var o2 = salmon ? "1 cápsula de omega 3 (esta semana hay salmón)" : "2 cápsulas de omega 3";
+      var p2 = act === "gym" ? "Proteína: el batido de la merienda y 1 cazo después del gimnasio." : act ? "Proteína: el batido de la merienda y tus 2 cazos." : "Proteína: el batido de la merienda y tus cazos (1 con gimnasio; 2 sin gimnasio).";
+      return "Con la comida: 5 g de creatina, " + o2 + " y vitamina D3 (1.000–2.000 UI). " + p2;
+    }
     var o = salmon ? "1 cápsula de omega 3 (esta semana hay salmón)" : "2 cápsulas de omega 3";
     var p = act === "gym" ? "Proteína: 1 cazo, después del gimnasio." : act ? "Proteína: 2 cazos." : "Proteína: 1 cazo con gimnasio; 2, sin gimnasio.";
     return "Con la comida: 5 g de creatina, " + o + " y vitamina D3 (1.000–2.000 UI). " + p;
@@ -448,7 +460,8 @@ main{padding-block:16px 40px}
       dish2.append(el("small", { class: "qline" }, el("b", { text: MODES[mode].label + " ≈" + miles(r.kcal * k) + " kcal" }), " · " + Math.round(r.prot * k) + " g prot."));
       if (r.corto.length) dish2.append(el("small", { class: "qlist", text: r.corto.map(function (t) { return scale(t, k); }).join(" · ") }));
     }
-    if (yo && slot === "Merienda") dish2.append(el("small", { class: "yo", text: MERIENDA[act] }));
+    if (slot === "Merienda" && /^Batido de proteínas/.test(r.nombre)) dish2.append(el("small", { class: "yo", text: "Hoy toca batido: el día no llega a " + DATA.yo.umbral + " g de proteína por persona." }));
+    if (yo && slot === "Merienda") dish2.append(el("small", { class: "yo", text: (d.yo.wm ? MERIENDA_B : MERIENDA)[act] }));
     sum = el("summary", null, el("span", { class: "slot", text: slot === "Comida" ? "Mediodía" : slot }), dish2, el("span", { class: "chev", "aria-hidden": "true" }));
     body = el("div", { class: "recipe" }); recipeParts(r, body);
     return el("li", null, el("details", { class: "meal" + (off ? " off" : "") }, sum, body));
@@ -477,7 +490,7 @@ main{padding-block:16px 40px}
     var ul = el("ul", { class: "meals" });
     d.comidas.forEach(function (m) { ul.append(mealRow(d, act, m)); });
     if (mode === "yo") ul.append(el("li", null, el("div", { class: "meal meal-free" }, el("span", { class: "slot", text: "Suplem." }),
-      el("span", { class: "dish" }, suppText(act, salmon)))));
+      el("span", { class: "dish" }, suppText(act, salmon, d.yo && d.yo.wm)))));
     sec.append(ul);
     return sec;
   }

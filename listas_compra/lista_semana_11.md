@@ -10,10 +10,10 @@
 - 12 Plátanos (desayunos y meriendas)
 - 14 Kiwis (desayunos y meriendas)
 - 3 Aguacates (unos 320 g de pulpa)
-- 300 g Pimientos rojos o de colores
-- 280 g Pimientos verdes italianos
-- 1,02 kg Cebollas (incluye cebolleta y morada)
-- 420 g Zanahorias
+- 200 g Pimientos rojos o de colores
+- 180 g Pimientos verdes italianos
+- 900 g Cebollas (incluye cebolleta y morada)
+- 500 g Zanahorias
 - 120 g Tomates (incluye cherrys)
 - 2,26 kg Patatas
 - 1 Apio (paquete de ramas o una mata pequeña; se usan 150 g)
@@ -22,14 +22,14 @@
 - Perejil
 
 ## Carne, huevos y tofu
-- 2 docenas y media Huevos (se usan 26)
+- 2 docenas y media Huevos (se usan 28)
 - 340 ml Claras de huevo pasteurizadas
 - 660 g Pechuga de pollo
-- 80 g Taquitos de jamón serrano
+- 140 g Taquitos de jamón serrano
 - 160 g Jamón cocido extra
-- 500 g Tofu firme (2 bloques de 400 g)
+- 300 g Tofu firme (1 bloque de 400 g)
 - 340 g Ternera en una pieza para escalfar (redondo, tapa o contra)
-- 300 g Carne picada de ternera magra (carnicería: tapilla o babilla; cómprala el día que la cocines)
+- 300 g Carne picada de ternera magra (carnicería: tapilla o babilla; cocínala o congélala en 24 horas)
 
 ## Pescado
 - 200 g Gambas o langostinos cocidos y pelados (congelados) (para la ensalada de huevo; a la nevera la noche antes)
@@ -40,7 +40,7 @@
 - 10 Yogures naturales sin azúcar (de 125 g)
 - 1 Yogur +Proteínas natural (vasitos de 120 g, en packs de 4)
 - 14 Natillas +Proteínas (4 packs de 4)
-- 1 bola Mozzarella fresca (se usan 100 g)
+- 1 bola Mozzarella fresca (se usan 40 g)
 
 ## Pan y tortillas
 - 900 g Pan integral (100% integral)
@@ -50,12 +50,12 @@
 - 1 Ketchup sin azúcar (si no te queda)
 - 1 bote Guindillas en vinagre
 - 180 g Lenteja pardina
-- 130 g Espaguetis integrales o normales (mira si os quedan del paquete)
-- 140 g Pasta corta (hélices o lacitos) (mejor de colores)
+- 120 g Arroz basmati
+- 140 g Pasta corta (macarrones, hélices o lacitos)
 - 1 lata pequeña Maíz dulce en conserva (se usan 50 g)
 - 120 g Copos de avena
 - 210 g Pipas de calabaza sin sal
-- 380 g Tomate triturado natural
+- 80 g Tomate triturado natural
 - 1 bote Carne de pimiento choricero (se usan 10 g)
 - 1 lata Aceitunas sin hueso (se usan 30 g)
 - 1 Salsa de soja baja en sodio (si no te queda)
@@ -67,8 +67,8 @@
 - Salsa picante (opcional)
 
 ## Congelados
-- 120 g Guisantes finos congelados
+- 240 g Guisantes finos congelados
 
 ## Especias y condimentos
-- Comino, Cúrcuma, Laurel, Pimentón dulce, Vinagre (revisa lo que tienes)
+- Comino, Cúrcuma, Laurel, Pimentón de la Vera, Pimentón dulce, Vinagre (revisa lo que tienes)
 - Sal, pimienta, ajo en polvo y cebolla en polvo (básicos)

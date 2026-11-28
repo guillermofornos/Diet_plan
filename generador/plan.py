@@ -49,15 +49,15 @@ CICLO_SEMANA, CICLO_LUNES = 9, date(2026, 12, 7)
 ULTIMA_SEMANA = 13
 # 5 semanas de 7 filas (desayuno, comida, merienda, cena), de lunes a domingo
 CICLO = [
- [("D3", "LENTJ", "ME_E", "TAC"), ("D3", "PASTAF", "ME_E", "CRI"), ("D2", "ESTOF", "ME_D", "CREMCAL"), ("D1", "ARR3D", "ME_E", "ENSHUEVO"),     # desayunos sin huevo entero:
-  ("D3", "CERSAL", "ME_E", FUERA), ("D2", "SALM2", "ME_D", FUERA), ("D2", "LUBSAL", "ME_D", "CREMVER")],                                        # es la semana con más huevo
+ [("D4", "LENTJ", "ME_E", "TAC"), ("D1", "BOLO", "ME_E", "FIN"), ("D2", "ESTOF", "ME_D", "CREMCAL"), ("D1", "ARR3D", "ME_E", "ENSHUEVO"),
+  ("D4", "CERSAL", "ME_E", FUERA), ("D4S", "SALM2", "ME_D", FUERA), ("D4S", "LUBSAL", "ME_D", "CREMVER")],
  [("D1", "SOLPIQ", "ME_E", "ENSHUEVO"), ("D1", "PULPO", "ME_E", "PZA"), ("D4S", "POTG", "ME_D", "KEB"), ("D1", "ALBON", "ME_E", "TOR"),
   ("D4", "ARRPOL", "ME_E", FUERA), ("D4S", "ARRSEC", "ME_D", FUERA), ("D2", "RAPE", "ME_D", "CREMZAN2")],
- [("D1", "LENTJ", "ME_E", "FAJ"), ("D4", "PASTAF", "ME_E", "FF2"), ("D4S", "TERESC", "ME_D", "SOPA"), ("D1", "TOFU", "ME_E", "CREMCAL"),
+ [("D1", "LENTJ", "ME_E", "FAJ"), ("D4", "PASTAF", "ME_E", "FF2"), ("D4S", "TERESC", "ME_D", "SOPA"), ("D1", "ARR3D", "ME_E", "CREMCAL"),
   ("D4", "PASTEL", "ME_E", FUERA), ("D4S", "SALM1", "ME_D", FUERA), ("D2", "SEPIA", "ME_D", "ENSHUEVO")],
- [("D1", "ARR3D", "ME_E", "FIN"), ("D1", "PULPO", "ME_E", "CREMVER"), ("D4S", "ESTOF", "ME_D", "ENSHUEVO"), ("D4", "ARRPOL", "ME_E", "CENAV"),
+ [("D1", "RISOT", "ME_E", "CREMVER"), ("D1", "PULPO", "ME_E", "CRI"), ("D4S", "ESTOF", "ME_D", "ENSHUEVO"), ("D1", "BOLO", "ME_E", "SANDTOR"),
   ("D4", "CERSAL", "ME_E", FUERA), ("D4S", "DORSAL", "ME_D", FUERA), ("D2", "GCAL", "ME_D", "CREMZAN2")],
- [("D1", "RISOT", "ME_E", "PZA"), ("D1", "SOLPIQ", "ME_E", "ENSHUEVO"), ("D2", "TERESC", "ME_D", "SANDTOR"), ("D1", "ALBON", "ME_E", "SANDMIX"),
+ [("D1", "PASTAF", "ME_E", "SOPAV"), ("D1", "SOLPIQ", "ME_E", "ENSHUEVO"), ("D2", "MISO", "ME_D", "CENAC"), ("D1", "ALBON", "ME_E", "SANDMIX"),
   ("D4", "POTG", "ME_E", FUERA), ("D4S", "FISHCHIPS", "ME_D", FUERA), ("D2", "ARRGAMB", "ME_D", "CASTA")],
 ]
 # Festivos: comida o cena que quedan libres, aviso para ese día y si cierran las tiendas (las compras pasan a la víspera)
@@ -68,6 +68,17 @@ FESTIVOS = {
  date(2027, 1, 1): dict(comida=LIBRE, cena=LIBRE, aviso="Año Nuevo: comida y cena libres.", cerrado=True),
 }
 MES_CORTO = ["", "ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"]
+# Norma del 28 de noviembre: cuando a un día le falta proteína, la merienda por defecto es un batido de proteínas. Cuenta
+# como «falta» no llegar a UMBRAL_PROTEINA g por persona (lo que pone cada día del menú, a partes iguales): con eso,
+# Guillermo llega a sus ≈170 g con sus cazos de siempre. Los días con la cena fuera o libre no se miran.
+UMBRAL_PROTEINA = 120
+MERIENDA_BATIDO = {"ME_E": "ME_BE", "ME_D": "ME_BD"}
+def con_batido(fila):
+    d, c, m, ce = fila
+    if c in NO_PLATO or ce in NO_PLATO or m not in MERIENDA_BATIDO: return fila
+    return (d, c, MERIENDA_BATIDO[m], ce) if total_dia(fila)[1] < UMBRAL_PROTEINA else fila
+# Y cuando falta una receta de cena, la cena por defecto es la avena con leche y cacao (CENAC).
+CENA_POR_DEFECTO = "CENAC"
 def semana_ciclo(num):
     """La semana `num` del calendario, sacada del ciclo: con sus fechas y con los festivos ya libres."""
     k = (num - CICLO_SEMANA) % len(CICLO); lunes = CICLO_LUNES + timedelta(weeks=num - CICLO_SEMANA); dom = lunes + timedelta(days=6)
@@ -75,7 +86,7 @@ def semana_ciclo(num):
     filas = []
     for i, (d, c, m, ce) in enumerate(CICLO[k]):
         f = FESTIVOS.get(lunes + timedelta(days=i), {})
-        filas.append((d, f.get("comida", c), m, f.get("cena", ce)))
+        filas.append(con_batido((d, f.get("comida", c), m, f.get("cena", ce))))
     return dict(num=num, ciclo=k + 1, titulo=titulo, fechas=[(lunes + timedelta(days=i)).isoformat() for i in range(7)], filas=filas)
 def montar_ciclo():
     """Quita de SEMANAS las semanas del ciclo y las vuelve a generar (se llama al final del módulo, con CICLO ya escrito)."""
@@ -114,7 +125,9 @@ FAMILIAS = {
  "garbanzos": {"POTG", "GARBAC"},
  "guiso de ternera": {"ESTOF", "CARNEG", "JARD"},
  "crema de zanahoria": {"CREMZAN", "CREMZAN2"},
- "tofuloñesa": {"TOFU", "TOFU_D"},
+ "sopa de pollo": {"SOPA", "SOPAV"},
+ "avena con leche": {"CENAV", "CENAC"},
+ "pasta boloñesa": {"TOFU", "TOFU_D", "BOLO"},
  "guisantes con jamón": {"GUIS", "GUIS_D", "GUIS_T"},
  "bacalao a la vizcaína": {"VIZCA", "VIZCA_A"},
 }
@@ -176,7 +189,7 @@ def comprobar_repeticiones(desde=6):
     # Lo de «una vez al mes» (arroz con secreto, dorada y lubina a la sal, 2 semanas de salmón) va ahora por vuelta del ciclo: comprobar_ciclo
     return errores
 MENSUALES = ["ARRSEC", "DORSAL", "LUBSAL"]
-CENAS_LIGERAS = {"CREMCAL", "CREMZAN", "CREMZAN2", "CREMVER", "SOPA", "CASTA", "CENAV", "TOR", "TOM", "SANDTOR", "SANDMIX", "SANDPOL", "ENSHUEVO"}
+CENAS_LIGERAS = {"CREMCAL", "CREMZAN", "CREMZAN2", "CREMVER", "SOPA", "SOPAV", "CASTA", "CENAV", "CENAC", "TOR", "TOM", "SANDTOR", "SANDMIX", "SANDPOL", "ENSHUEVO"}
 CENAS_RAPIDAS = {"KEB", "FAJ", "TAC", "CRI", "FIN", "FF2", "BEX", "FPZ", "PZA"}
 LEGUMBRES = {"LENT1", "LENT2", "LENTJ", "POTG"}
 # Recetas que ha pasado Guillermo (enlaces, fotos del libro, capturas o texto). Norma del 25 de noviembre: tienen prioridad
@@ -185,7 +198,11 @@ LEGUMBRES = {"LENT1", "LENT2", "LENTJ", "POTG"}
 PROPIAS = {"CRI", "FF2", "TAC", "FAJ", "FIN", "KEB",                        # vídeos, 6 de octubre
            "LENTJ", "ARRPOL", "TERESC", "RISOT", "JARD", "POTG", "ALBON",   # fotos del libro del robot, 25 de octubre
            "CREMCAL", "CREMZAN", "CREMZAN2",                                # enlaces de Cecotec, 26 de octubre
-           "SOPA", "CASTA", "ARRSEC", "ESTOF", "ENSHUEVO"}                  # 15 a 25 de noviembre
+           "SOPA", "CASTA", "ARRSEC", "ESTOF", "ENSHUEVO",                  # 15 a 25 de noviembre
+           "SOPAV", "CENAC", "MISO"}                                        # 28 de noviembre: sopa casera, su cena por defecto y la ternera al miso
+# Platos con frecuencia fija en cada vuelta del ciclo: el estofado, «cada dos semanas» (22 de noviembre), y la pasta
+# boloñesa con carne picada, «al menos cada par de semanas» (28 de noviembre). Con 5 semanas, dos veces: cada 2 o 3 semanas.
+FRECUENCIA_CICLO = {"ESTOF": 2, "BOLO": 2}
 # Recetas suyas que no entran en el ciclo, con el motivo (comprobar_ciclo avisa si falta alguna que no esté aquí)
 PROPIAS_FUERA = {
  "JARD": "es el mismo guiso que su estofado, que es el que pidió como habitual (22 de noviembre)",
@@ -228,6 +245,11 @@ def comprobar_ciclo():
     platos = set().union(*(platos_semana(s) for s in sem))
     for k in MENSUALES:
         if k not in platos: errores.append(f"Ciclo: falta {R[k]['nombre']} (una vez en cada vuelta)")
+    for k, n in FRECUENCIA_CICLO.items():
+        hay = sum(f[1] == k or f[3] == k for s in sem for f in s["filas"])
+        if hay != n: errores.append(f"Ciclo: {R[k]['nombre']} va {hay} veces en cada vuelta (tienen que ser {n})")
+    for s in sem:
+        if {"ESTOF", "MISO"} <= platos_semana(s): errores.append(f"Ciclo, semana {s['num']}: estofado y ternera al miso la misma semana (los dos van en la Le Creuset)")
     ns = sum("salmón" in pescados_semana(s) for s in sem)
     if ns != 2: errores.append(f"Ciclo: salmón en {ns} semana(s); tienen que ser 2")
     for k in sorted(PROPIAS - platos - set(PROPIAS_FUERA)):
@@ -288,8 +310,11 @@ CAMBIOS = {
  "CREMVER": "Judías verdes y zanahoria en vez del calabacín (te sienta mal); caldo de verduras; jamón crujiente como en la receta y huevos cocidos de segundo para que sea una cena completa. La receta es para 4: cantidades pasadas a 2.",
  "RODA": "Sin vino blanco (alcohol 51 en tu test): caldo de pescado; el aceite, medido (la receta pone un buen chorro); un solo diente de ajo para los dos (ajo 43). Rodaballo: verde en tu test.",
  "ARRSEC": "Secreto ibérico en vez de carrilleras (en tiras y dorado al principio, así no necesita 1 hora); sin Pedro Ximénez ni vino tinto (alcohol 51 en tu test): caldo y un poco de balsámico; 70 g de arroz por persona en vez de 90 y el aceite medido; la mitad de ajos tiernos (ajo 43).",
- "ENSHUEVO": "Apio en vez de pepino (45 en tu test), yogur +Proteínas en vez de griego ligero y 40 g de pan integral tostado para que la cena no se quede corta. Cantidades de la receta, por persona.",
+ "ENSHUEVO": "Apio en vez de pepino (45 en tu test), yogur +Proteínas en vez de griego ligero y 40 g de pan integral tostado para que la cena no se quede corta. Cantidades de la receta, por persona. La receta dice 390 kcal y 46 g de proteína por ración; con el pan, ≈473 kcal y 49 g.",
  "SOPA": "Pasada a vuestra Mambo (la original se hace en una olla); un huevo pochado por persona en vez de uno para los dos; la pechuga, pesada (unos 180 g por persona) y las especias, concretadas.",
+ "SOPAV": "La receta es para 4 raciones de primero: como cena única, la receta entera para los dos (150 g de pollo por persona). 1 cucharada de aceite para los dos en vez de 3 y 1 diente de ajo en vez de 2 (ajo 43 en tu test). Pasada a vuestra Mambo (también vale en la olla, como la original); el pan, como dice la receta.",
+ "MISO": "En la Le Creuset a fuego mínimo (no tenéis olla lenta), 2 h 30 a 3 horas; medio diente de ajo por persona en vez de uno y pico (ajo 43 en tu test); soja baja en sal; 170 g de carne por persona; con judías verdes para que sea un plato completo de táper. La receta, en inglés, no dice raciones: cantidades calculadas para 2.",
+ "BOLO": "Sin vino tinto (alcohol 51 en tu test): caldo de carne; sin panceta y con algo más de ternera magra (150 g por persona); mozzarella en vez del parmesano (queso curado 55); sin apio; 80 g de pasta por persona en vez de 100 y el aceite medido. La receta es para 4: cantidades pasadas a 2.",
  "RISOT": "Con pollo; sin mantequilla (45) ni parmesano (queso curado 55): un poco de mozzarella fresca al final; sin vino; más puerro y setas (no champiñón, 43 en tu test); menos jamón y caldo bajo en sal.",
  "CERSAL": "Magro sin grasa en vez de cabeza de lomo, y 170 g por persona (la receta pone 1 kg para 3 o 4); caldo en vez del vino blanco, como ofrece la propia receta (alcohol 51 en tu test); medio diente de ajo por persona en vez de uno; el aceite, medido; con patata y pan para que sea un plato completo de táper.",
  "ARR3D": "Cantidades pesadas (el vídeo no las da): 60 g de arroz y 150 g de tofu por persona; con zanahoria, como el tres delicias del segundo vídeo; sin gambas.",

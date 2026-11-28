@@ -61,3 +61,32 @@
 
 **Instrucciones:**
 1. Natillas con el kiwi en dados y las pipas por encima.
+
+---
+
+### 6. Batido de proteínas con leche y plátano (días de entreno que van cortos de proteína)
+*Norma del 28 de noviembre: cuando al día le falta proteína (no llega a 120 g por persona), la merienda por defecto es un batido de proteínas. ≈ 319 kcal · 32 g de proteína por persona (las natillas con plátano: 288 kcal y 16 g).*
+
+**Ingredientes (para los dos):**
+- 2 cazos de proteína whey (60 g).
+- 400 ml de leche (o agua, si lo queréis más ligero).
+- 2 plátanos.
+
+**Instrucciones:**
+1. Bate la proteína con la leche y los plátanos (batidora o robot, 20 s/vel 8). En el vaso agitador, el plátano aparte.
+
+---
+
+### 7. Batido de proteínas con leche y kiwi (días de descanso que van cortos de proteína)
+*≈ 273 kcal · 32 g de proteína por persona (las natillas con kiwi: 242 kcal y 16 g).*
+
+**Ingredientes (para los dos):**
+- 2 cazos de proteína whey (60 g).
+- 400 ml de leche (o agua).
+- 2 kiwis.
+
+**Instrucciones:**
+1. Agita la proteína con la leche en el vaso agitador (o con la batidora) y toma el kiwi aparte.
+
+*Para Guillermo, el batido va aparte de sus cazos de siempre (1 después del gimnasio; 2 los días sin gimnasio).*
+

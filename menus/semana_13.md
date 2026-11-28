@@ -6,9 +6,9 @@
 
 | Día | Desayuno | Comida | Merienda | Cena | Total del día |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Lunes 4 ene (E)** | Batido proteico + tostada integral y kiwi | 🤖 Risotto ligero de pollo, puerro y setas | Natillas +Proteínas con plátano y pipas | 🎬 Pizza de avena y yogur proteico con jamón cocido | ≈1909 kcal · 124 g prot. |
+| **Lunes 4 ene (E)** | Batido proteico + tostada integral y kiwi | 🎬 Ensaladilla de pasta y jamón con huevo duro | Batido de proteínas con leche y plátano | 🤖 Sopa casera de pollo y verduras | ≈1921 kcal · 132 g prot. |
 | **Martes 5 ene (E)** | Batido proteico + tostada integral y kiwi | 🎬 Solomillo de cerdo en salsa de pimientos del piquillo con patatas | Natillas +Proteínas con plátano y pipas | Ensalada cremosa de huevo y gambas | ≈1938 kcal · 131 g prot. |
-| **Miércoles 6 ene (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🤖 Ternera escalfada con salsa de sus verduras y patata | Natillas +Proteínas con kiwi y pipas | Sándwich de tortilla francesa con jamón serrano y tomate | ≈1548 kcal · 119 g prot. |
+| **Miércoles 6 ene (D)** | Tortilla de claras con cebolla y pimiento + tostada | Ternera melosa al miso y ajo con arroz | Batido de proteínas con leche y kiwi | Avena con leche y cacao | ≈1606 kcal · 122 g prot. |
 | **Jueves 7 ene (E)** | Batido proteico + tostada integral y kiwi | 🤖 Albóndigas caseras en salsa de tomate con arroz integral | Natillas +Proteínas con plátano y pipas | Sándwich mixto fit (jamón cocido y mozzarella) con tomate | ≈1907 kcal · 120 g prot. |
 | **Viernes 8 ene (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🤖 Potaje de garbanzos con acelgas y huevo | Natillas +Proteínas con plátano y pipas | **Cena fuera** + *cervezas* | ≈1207 kcal · 61 g prot. + cena fuera |
 | **Sábado 9 ene (D)** | Tostada integral con aguacate y huevo | 🎬 Fish & chips fit con tártara de yogur y guisantes a la hierbabuena | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1161 kcal · 77 g prot. + cena fuera |
@@ -16,18 +16,18 @@
 
 **Batch cooking del domingo 3 de enero** (paso a paso en `recetas/batch_cooking.md`):
 - Ese día comes el guiso de calamares y cenas la crema de zanahoria con su tosta (en la tanda de cenas).
-- **Mediodía (táperes):** 1 h 40 min, aproximadamente. Para comer hoy, el guiso de calamares (en la olla a presión, mientras se hace el risotto).
-  - A la nevera: Risotto de pollo, puerro y setas, 2 raciones (lunes); Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (martes); Ternera escalfada en filetes, con su salsa y sus patatas, 2 raciones (miércoles); 2 huevos duros con cáscara para el potaje (viernes).
+- **Mediodía (táperes):** 2 h 45 min, aproximadamente, por la ternera al miso: a la 1 h 15 están los táperes y hacia las 2 horas coméis el guiso de calamares; luego la ternera acaba sola, a fuego mínimo (en ese rato cabe la tanda de cenas).
+  - A la nevera: Ensaladilla de pasta y jamón, 2 raciones (lunes); Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (martes); Ternera al miso con su arroz y sus judías, 2 raciones (miércoles); 2 huevos duros con cáscara para el potaje (viernes).
   - Al congelador (pásalo a la nevera la noche antes): Albóndigas en salsa con su arroz, 2 raciones (jueves); Potaje de garbanzos con acelgas, 2 raciones (viernes; congelado, la patata queda algo más harinosa).
-- **Cenas:** 40 min, aproximadamente, al terminar la de mediodía: el robot hace la crema de zanahoria de la cena de hoy.
-  - A la nevera: Pimiento y cebolla en tiras para la pizza (lunes); 6 huevos cocidos con cáscara para la ensalada (martes).
+- **Cenas:** 1 h 15 min, aproximadamente, casi todo de robot (la sopa y la crema de zanahoria de la cena de hoy). Empiézala cuando el robot quede libre, hacia la 1 h 10 de la tanda de mediodía.
+  - A la nevera: Sopa casera de pollo y verduras, 2 raciones (lunes).
   - Al congelador (pásalo a la nevera la noche antes): Pechuga cruda de la crema de boniato del domingo (360 g), en bolsa.
 
 **Recordatorios de la semana:**
-- **Lunes 4:** Cena: pizza de avena y yogur, al momento (la masa y 10–12 minutos de horno), con el pimiento y la cebolla del batch.
+- **Lunes 4:** Cena: calienta la sopa casera de pollo y verduras; con el pan.
 - **Lunes 4 por la noche:** Pasa las gambas cocidas del congelador a la nevera (ensalada de la cena de mañana).
 - **Martes 5:** Cena: ensalada de huevo y gambas, al momento (10 minutos): pela los huevos del batch y machácalos con el yogur y las mostazas; añade las gambas escurridas, el apio y la cebolla morada. Con el pan tostado.
-- **Miércoles 6:** Cena: sándwich de tortilla francesa con jamón serrano, al momento (10 minutos).
+- **Miércoles 6:** Cena: avena con leche y cacao, al momento (2–3 minutos).
 - **Miércoles 6 por la noche:** Pasa las albóndigas del jueves a la nevera.
 - **Jueves 7:** Cena: sándwich mixto, al momento (5–10 minutos).
 - **Jueves 7 por la noche:** Pasa el potaje del viernes a la nevera.

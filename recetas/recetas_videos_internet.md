@@ -1006,6 +1006,69 @@
 
 ---
 
+### Ternera melosa al miso y ajo con arroz
+*Fuente: Receta que pasaste (Slow Braised Miso Garlic Beef, 28 de noviembre) · ≈ 548 kcal · 44 g proteína · 67 g HC · 10 g grasa · por persona*
+
+**Ingredientes (Ternera al miso):**
+- 340 g de aguja o morcillo de ternera, en una sola pieza (la receta usa «chuck roast»).
+- 24 ml de salsa de soja baja en sal.
+- 8 g de pasta de miso.
+- 8 g de miel.
+- 120 ml de caldo de carne bajo en sal (lo justo para cubrir un tercio de la carne).
+- 1 diente de ajo picado, jengibre fresco rallado y una pizca de guindilla en copos.
+
+**Ingredientes (Para servir):**
+- 150 g de arroz blanco (basmati), en crudo.
+- 160 g de judías verdes.
+- 30 g de cebolleta en aros finos.
+- Semillas de sésamo.
+
+**Instrucciones:**
+1. Pon la carne en la Le Creuset y echa por encima la soja, el miso, la miel, el ajo, el jengibre y la guindilla, mezclados; repártelo bien. Añade el caldo: tiene que llegar a un tercio de la altura de la carne.
+2. Tapa y cuece a fuego mínimo 2 h 30 a 3 horas, dándole la vuelta a la pieza cada hora, hasta que se deshaga al pincharla. La receta la hace 6 horas en olla lenta («LOW»); en el horno también vale: tapada, a 150 °C, unas 3 horas.
+3. Desmenúzala con dos tenedores dentro de su salsa. Si queda muy líquida, destapa y deja que reduzca unos minutos.
+4. Cuece el arroz el tiempo del paquete y escúrrelo. Las judías verdes, 6–8 minutos al vapor o salteadas.
+5. Sirve la carne con su salsa sobre el arroz, las judías al lado y la cebolleta y el sésamo por encima.
+
+*Tupper:* 4 días en la nevera; se congela muy bien con su salsa.
+*Batch cooking:* En el batch, en la Le Creuset a fuego mínimo desde el principio de la tanda de mediodía (2 h 30 a 3 horas, casi sola): 4 días en la nevera o congelada. Nunca la misma semana que el estofado, que usa la misma olla.
+*Cambios respecto a la fuente:* En la Le Creuset a fuego mínimo (no tenéis olla lenta), 2 h 30 a 3 horas; medio diente de ajo por persona en vez de uno y pico (ajo 43 en tu test); soja baja en sal; 170 g de carne por persona; con judías verdes para que sea un plato completo de táper. La receta, en inglés, no dice raciones: cantidades calculadas para 2.
+
+---
+
+### Macarrones a la boloñesa con carne picada
+*Fuente: Karlos Arguiñano (Hogarmania) · ≈ 655 kcal · 47 g proteína · 71 g HC · 19 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=-lw6eDbzg3Q>  
+📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/pastas-pizzas/macarrones-bolonesa-40370.html>
+
+**Ingredientes (Salsa boloñesa):**
+- 300 g de carne picada de ternera magra.
+- 100 g de cebolleta.
+- 100 g de zanahoria.
+- 300 g de tomate triturado natural.
+- 16 ml de AOVE.
+- 100 ml de caldo de carne bajo en sal (en vez del vino tinto).
+- 1 diente de ajo, orégano, albahaca, sal, pimienta y perejil.
+
+**Ingredientes (Pasta):**
+- 160 g de macarrones, en seco.
+- 30 g de mozzarella fresca rallada o en trocitos (en vez del parmesano).
+
+**Instrucciones:**
+1. Pica en daditos el ajo, la cebolleta y la zanahoria y rehógalos con el aceite a fuego suave unos 15 minutos.
+2. Añade la carne, salpimienta y suéltala bien con la cuchara, unos 5 minutos.
+3. Añade el orégano, la albahaca, el caldo y el tomate y deja la salsa a fuego suave 30 minutos, removiendo de vez en cuando.
+4. Cuece los macarrones el tiempo del paquete (1–2 minutos menos si son para el táper), escúrrelos y mézclalos con la salsa.
+5. Sirve con la mozzarella y perejil picado por encima.
+6. En la Mambo: trocea el ajo, la cebolleta y la zanahoria 5 s/vel 5 y sofríelos 15 min/120 °C/vel 1; la carne, 5 min/120 °C/vel 1 con giro inverso; el tomate, el caldo y las hierbas, 30 min/100 °C/vel 1 con giro inverso, con el cestillo en vez del cubilete.
+
+*Tupper:* 3 días en la nevera, ya mezclados (al recalentar, un chorrito de agua); también se congelan, aunque la pasta queda algo más blanda.
+*Batch cooking:* En el batch: la salsa en la olla o en el robot (unos 50 minutos, casi sola) y la pasta al final; mezclada, 3 días en la nevera o al congelador.
+*Cambios respecto a la fuente:* Sin vino tinto (alcohol 51 en tu test): caldo de carne; sin panceta y con algo más de ternera magra (150 g por persona); mozzarella en vez del parmesano (queso curado 55); sin apio; 80 g de pasta por persona en vez de 100 y el aceite medido. La receta es para 4: cantidades pasadas a 2.
+
+---
+
 ## Cenas
 
 ### Tacos de merluza crujiente con pico de gallo y salsa de yogur y lima
@@ -1241,6 +1304,22 @@
 
 ---
 
+### Avena con leche y cacao
+*Fuente: Tu cena por defecto, para cuando falte una receta de cena (28 de noviembre) · ≈ 427 kcal · 21 g proteína · 57 g HC · 11 g grasa · por persona*
+
+**Ingredientes:**
+- 600 ml de leche semidesnatada (o bebida de soja sin azúcar).
+- 140 g de copos de avena.
+- 2 cucharaditas colmadas de cacao puro en polvo, sin azúcar (unos 16 g).
+
+**Instrucciones:**
+1. Pon la avena en un bol con la leche y el cacao y remueve bien.
+2. Caliente: 2 minutos de microondas, removiendo a mitad. Fría: déjala reposar unos minutos para que la avena se ablande.
+
+*Tupper:* Al momento (2–3 minutos).
+
+---
+
 ### Sándwich de tortilla francesa con jamón serrano y tomate
 *Fuente: Cena ligera sencilla, sin receta de internet · ≈ 443 kcal · 34 g proteína · 40 g HC · 14 g grasa · por persona*
 
@@ -1334,4 +1413,4 @@
 
 *Tupper:* Al momento (10 minutos); si sobra, hasta el día siguiente en la nevera.
 *Batch cooking:* En la tanda de cenas, los huevos cocidos con cáscara (si toca el domingo siguiente, se cuecen ese día). Las gambas, del congelador a la nevera la noche antes; la ensalada, al momento.
-*Cambios respecto a la fuente:* Apio en vez de pepino (45 en tu test), yogur +Proteínas en vez de griego ligero y 40 g de pan integral tostado para que la cena no se quede corta. Cantidades de la receta, por persona.
+*Cambios respecto a la fuente:* Apio en vez de pepino (45 en tu test), yogur +Proteínas en vez de griego ligero y 40 g de pan integral tostado para que la cena no se quede corta. Cantidades de la receta, por persona. La receta dice 390 kcal y 46 g de proteína por ración; con el pan, ≈473 kcal y 49 g.

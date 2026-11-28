@@ -7,14 +7,14 @@ from lib import texto, macros_receta
 
 REPO = Path(__file__).resolve().parent.parent   # el repositorio Diet_plan
 MESES = {"01": "ene", "02": "feb", "03": "mar", "04": "abr", "05": "may", "06": "jun", "07": "jul", "08": "ago", "09": "sep", "10": "oct", "11": "nov", "12": "dic"}
-COMIDAS = ["LENT1", "LENT2", "PILPIL", "VIZCA_A", "RIOJ", "RAPE", "SEPIA", "FISHCHIPS", "DORADA", "LUBSAL", "PULPO", "RODA", "DORSAL", "SALM1", "SALM2", "GCAL", "ARRGAMB", "ARRSEC", "CARNEG", "ESTOF", "SOLPIQ", "TOFU", "GUIS_T", "BBQ", "CURRY", "TERI", "BURR", "CERSAL", "ARR3D", "PASTEL", "PASTAF"]
-CENAS = ["MERTAC", "TOR", "PZA", "FCE", "TOM", "FPZ", "BEX", "CENAV", "SANDTOR", "SANDMIX", "SANDPOL", "ENSHUEVO"]   # sin atún: fuera los tacos de atún y la ensaladilla
-ROBOT = ["LENTJ", "POTG", "JARD", "ARRPOL", "ALBON", "TERESC", "RISOT", "CREMCAL", "CREMZAN", "CREMZAN2", "CREMVER", "SOPA", "CASTA"]
+COMIDAS = ["LENT1", "LENT2", "PILPIL", "VIZCA_A", "RIOJ", "RAPE", "SEPIA", "FISHCHIPS", "DORADA", "LUBSAL", "PULPO", "RODA", "DORSAL", "SALM1", "SALM2", "GCAL", "ARRGAMB", "ARRSEC", "CARNEG", "ESTOF", "SOLPIQ", "TOFU", "GUIS_T", "BBQ", "CURRY", "TERI", "BURR", "CERSAL", "ARR3D", "PASTEL", "PASTAF", "MISO", "BOLO"]
+CENAS = ["MERTAC", "TOR", "PZA", "FCE", "TOM", "FPZ", "BEX", "CENAV", "CENAC", "SANDTOR", "SANDMIX", "SANDPOL", "ENSHUEVO"]   # sin atún: fuera los tacos de atún y la ensaladilla
+ROBOT = ["LENTJ", "POTG", "JARD", "ARRPOL", "ALBON", "TERESC", "RISOT", "CREMCAL", "CREMZAN", "CREMZAN2", "CREMVER", "SOPA", "SOPAV", "CASTA"]
 VARIANTES = {"TOFU": "TOFU_D"}
 FICHERO = {**{k: "recetas_videos_internet.md" for k in COMIDAS + CENAS + ["TOFU_D"]},
            **{k: "fast_food_saludable.md" for k in ["TAC", "CRI", "FAJ", "KEB", "FIN", "FF2"]},
            **{k: "recetas_robot_cecotec.md" for k in ROBOT},
-           **{k: "desayunos.md" for k in ["D1", "D2", "D3", "D4", "D4L", "D4S"]}, "ME_E": "meriendas.md", "ME_D": "meriendas.md"}
+           **{k: "desayunos.md" for k in ["D1", "D2", "D3", "D4", "D4L", "D4S"]}, "ME_E": "meriendas.md", "ME_D": "meriendas.md", "ME_BE": "meriendas.md", "ME_BD": "meriendas.md"}
 
 def mac(k):
     kc, p, g, h = macros_receta(R[k]); return f"≈ {kc:.0f} kcal · {p:.0f} g proteína · {h:.0f} g HC · {g:.0f} g grasa"

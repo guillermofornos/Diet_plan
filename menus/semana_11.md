@@ -9,16 +9,16 @@
 | **Lunes 21 dic (E)** | Batido proteico + tostada integral y kiwi | 🤖 Lentejas con jamón y huevo duro | Natillas +Proteínas con plátano y pipas | 🎬 Fajitas de pollo con pan nube | ≈1946 kcal · 131 g prot. |
 | **Martes 22 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🎬 Ensaladilla de pasta y jamón con huevo duro | Natillas +Proteínas con plátano y pipas | 🎬 Big Mac Fit con patatas al horno | ≈1913 kcal · 123 g prot. |
 | **Miércoles 23 dic (D)** | Tostada integral con aguacate y huevo | 🤖 Ternera escalfada con salsa de sus verduras y patata | Natillas +Proteínas con kiwi y pipas | 🤖 Sopa cremosa de pollo con huevo pochado | ≈1563 kcal · 128 g prot. |
-| **Jueves 24 dic (E)** | Batido proteico + tostada integral y kiwi | 🎬 Espaguetis a la tofuloñesa | Natillas +Proteínas con plátano y pipas | **Libre** | ≈1505 kcal · 79 g prot. + cena libre |
+| **Jueves 24 dic (E)** | Batido proteico + tostada integral y kiwi | 🎬 Arroz tres delicias con tofu sabroso | Natillas +Proteínas con plátano y pipas | **Libre** | ≈1439 kcal · 75 g prot. + cena libre |
 | **Viernes 25 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | **Libre** | Natillas +Proteínas con plátano y pipas | **Libre** | ≈676 kcal · 34 g prot. + comida y cena libres |
 | **Sábado 26 dic (D)** | Tostada integral con aguacate y huevo | 🎬 Salmón a la plancha con patatas al ajo y limón | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* | ≈1050 kcal · 63 g prot. + cena fuera |
 | **Domingo 27 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Guiso de sepia con patatas y guisantes | Natillas +Proteínas con kiwi y pipas | Ensalada cremosa de huevo y gambas | ≈1530 kcal · 131 g prot. |
 
 **Batch cooking del domingo 20 de diciembre** (paso a paso en `recetas/batch_cooking.md`):
 - Ese día comes el marmitako de rape y cenas la crema de zanahoria con su tosta (en la tanda de cenas).
-- **Mediodía (táperes):** 1 h 25 min, aproximadamente. Para comer hoy, el marmitako de rape (unos 55 minutos, al terminar).
+- **Mediodía (táperes):** 1 h 45 min, aproximadamente. Para comer hoy, el marmitako de rape (unos 55 minutos, a partir de la 1 h 25).
   - A la nevera: Lentejas con jamón, 2 raciones, y 2 huevos duros con cáscara (lunes); Ensaladilla de pasta y jamón, 2 raciones (martes); Ternera escalfada en filetes, con su salsa y sus patatas, 2 raciones (miércoles).
-  - Al congelador (pásalo a la nevera la noche antes): Espaguetis a la tofuloñesa, 2 raciones (jueves).
+  - Al congelador (pásalo a la nevera la noche antes): Arroz tres delicias con tofu, 2 raciones (jueves).
 - **Cenas:** Hasta 1 h 40 min, casi todo de robot: la sopa y la crema de zanahoria de la cena de hoy. Puede ir a la vez que la tanda de mediodía, que solo usa el robot para trocear.
   - A la nevera: Pechuga asada y desmenuzada y juliana para las fajitas (lunes); Sopa cremosa de pollo, 2 raciones (miércoles; el huevo pochado, al momento).
   - Al congelador (pásalo a la nevera la noche antes): Carne de la Big Mac, en 4 bolitas de 75 g (martes).
@@ -27,7 +27,7 @@
 - **Lunes 21 por la noche:** Pasa la carne de la Big Mac del congelador a la nevera.
 - **Martes 22:** Cena: Big Mac Fit: las patatas al horno (220 °C, 15–25 minutos) y la carne, aplastada en la sartén muy caliente; la salsa, al momento.
 - **Miércoles 23:** Cena: calienta la sopa y haz los huevos pochados al momento (3 minutos).
-- **Miércoles 23 por la noche:** Pasa a la nevera la tofuloñesa (comida del jueves).
+- **Miércoles 23 por la noche:** Pasa a la nevera el arroz tres delicias (comida del jueves).
 - **Jueves 24:** Compra el salmón para la comida del sábado: fresco, o congelado y a la nevera la noche antes (mañana cierran las tiendas).
 - **Jueves 24:** Nochebuena: cena libre.
 - **Viernes 25:** Navidad: comida y cena libres.

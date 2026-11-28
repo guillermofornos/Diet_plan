@@ -5,7 +5,7 @@ from plan import R, SEMANAS, DIAS, TIPO, FUERA, LIBRE, NO_PLATO, CAMBIOS, PREP, 
 from shop import lista, opcional_bigmac
 from lib import macros_receta
 from yo import dia_yo, plan_yo, miles, reglas, BATIDO, PREPADEL
-from plan import pescados_semana
+from plan import pescados_semana, UMBRAL_PROTEINA
 
 MESES = {"01": "ene", "02": "feb", "03": "mar", "04": "abr", "05": "may", "06": "jun", "07": "jul", "08": "ago", "09": "sep", "10": "oct", "11": "nov", "12": "dic"}
 MES_LARGO = {"01": "enero", "02": "febrero", "03": "marzo", "04": "abril", "05": "mayo", "06": "junio", "07": "julio", "08": "agosto", "09": "septiembre", "10": "octubre", "11": "noviembre", "12": "diciembre"}
@@ -44,7 +44,7 @@ for s in SEMANAS:
         yo = None
         if not (fila[1] in NO_PLATO and fila[3] in NO_PLATO):
             y = dia_yo(fila)
-            yo = {k: y[k] for k in ("base", "base_p", "des", "des_p", "indi", "indi_p")}
+            yo = {k: y[k] for k in ("base", "base_p", "des", "des_p", "indi", "indi_p", "wm")}
         dias.append(dict(nombre=DIAS[i], fecha=s["fechas"][i], n=int(d), mes=MESES[m], tipo=TIPO[i], kcal=round(kc), prot=round(p),
                          fuera=fila[3] == FUERA, libre=("comida y cena libres" if fila[1] == LIBRE else "cena libre") if fila[3] == LIBRE else "", comidas=[["Desayuno", fila[0]], ["Comida", fila[1]], ["Merienda", fila[2]], ["Cena", fila[3]]],
                          prep=prep_dia[i], yo=yo))
@@ -52,7 +52,7 @@ for s in SEMANAS:
     bigmac = not any("FF2" in fila for fila in s["filas"])      # si la Big Mac ya está en el menú de la semana, no se ofrece el sábado
     semanas.append(dict(num=s["num"], ciclo=s.get("ciclo"), bigmac=bigmac, titulo=s["titulo"], corto=f"{dias[0]['n']} {dias[0]['mes']}", inicio=s["fechas"][0], fin=s["fechas"][-1],
                         antes=antes, dias=dias, compra=compra, salmon="salmón" in pescados_semana(s), opcional=opcional_bigmac(), batch=BATCH[s["num"]], nota_compra=NOTA_COMPRA.get(s["num"])))
-yo_plan = plan_yo([s for s in SEMANAS if s["num"] >= 8]); yo_plan.update(batido=list(BATIDO), pre=list(PREPADEL))
+yo_plan = plan_yo([s for s in SEMANAS if s["num"] >= 8]); yo_plan.update(batido=list(BATIDO), pre=list(PREPADEL), umbral=UMBRAL_PROTEINA)
 data = dict(recetas=recetas, semanas=semanas, normas=NORMAS, yo=yo_plan, reglas=reglas())
 AQUI = Path(__file__).resolve().parent
 plantilla = (AQUI / "plantilla.html").read_text()

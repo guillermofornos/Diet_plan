@@ -29,6 +29,7 @@ def dia_yo(fila):
             partes[slot] = round(FACTOR * kc)
             k += FACTOR * kc; p += FACTOR * pr
     kc, pr = _m(me); k += kc; p += pr
+    wm = int(any(i == "whey" for _, ings in R[me]["grupos"] for i, _q, _t in ings))   # merienda de batido: va aparte de sus cazos
     dk, dp = _m(d)
     base, base_p = k, p                      # su 60 % de comida y cena + la merienda, sin desayuno ni batidos
     indi = indi_p = 0.0                      # Indi: el 40 %, con su desayuno y su merienda
@@ -42,7 +43,7 @@ def dia_yo(fila):
     return dict(sin=round(sin[0]), sin_p=round(sin[1]), padel=round(padel[0]), padel_p=round(padel[1]),
                 gym=round(gym[0]), gym_p=round(gym[1]), desayuno=round(dk), partes=partes,
                 fuera=ce in NO_PLATO, base=round(base), base_p=round(base_p), des=round(dk), des_p=round(dp),
-                indi=round(indi), indi_p=round(indi_p))
+                indi=round(indi), indi_p=round(indi_p), wm=wm)
 
 
 def medias(semanas):
@@ -111,8 +112,8 @@ def plan_yo(semanas):
             ]),
         ],
         suplementos=[
-            ("Proteína whey", "1 cazo (30 g: 24 g de proteína y 120 kcal). 2 al día los días sin gimnasio.",
-             "Después de entrenar; los días sin gimnasio, en la merienda y al terminar el pádel o de postre en la cena. Un bote de 1 kg te dura unas 3 semanas."),
+            ("Proteína whey", "1 cazo (30 g: 24 g de proteína y 120 kcal). 2 al día los días sin gimnasio. Los días que toca batido de merienda (los que van cortos de proteína), ese batido va aparte.",
+             "Después de entrenar; los días sin gimnasio, en la merienda y al terminar el pádel o de postre en la cena. Tú solo gastas un bote de 1 kg en unas 3 semanas; con los batidos de merienda de Indi, algo menos: la que hace falta para esos batidos sale en la lista de la compra."),
             ("Creatina monohidrato", "5 g al día, también los días que no entrenas.",
              "Cuando quieras: en el batido o con la comida. Sin fase de carga."),
             ("Omega 3 (MyProtein)", "2 cápsulas al día; 1 las semanas con salmón (la 1 y la 3 del ciclo).",
@@ -130,6 +131,11 @@ def plan_yo(semanas):
 def reglas():
     """Todo lo acordado para el menú, para la pestaña «Tú» de la página."""
     return [
+        ("Normas por defecto", [
+            "Cuando al día le falta proteína (no llega a 120 g por persona, lo que pone cada día del menú), la merienda de los dos es un batido de proteínas con leche y fruta en vez de las natillas.",
+            "Cuando falta una receta de cena, la cena es avena con leche y un poco de cacao.",
+            "Si me pasas una receta que ya está, te lo digo y la trato como favorita: entra tan a menudo como dejan las normas (la ensalada de huevo y gambas ya va cada semana).",
+        ]),
         ("El ciclo", [
             "El menú son 5 semanas que se repiten desde el 7 de diciembre. Las normas de no repetir valen también de la semana 5 a la 1.",
             "Como mucho 2 platos con pollo a la semana, contando comidas y cenas y cualquier plato que lo lleve (también la sopa, las cremas y los arroces).",
@@ -144,6 +150,8 @@ def reglas():
             "Ningún plato se repite dentro de la semana ni de una semana a la siguiente, y tampoco el mismo tipo de plato aunque sea otra receta: entre unas lentejas y las siguientes, una semana sin lentejas; igual con los garbanzos y con los guisos de ternera. Lentejas, como mucho un día por semana.",
             "El estofado de ternera (tu receta) es el guiso de carne habitual: dos veces en cada vuelta del ciclo (semanas 1 y 4), a fuego suave en la Le Creuset (nunca en la olla a presión).",
             "Una vez en cada vuelta, el arroz meloso con secreto ibérico en la Le Creuset.",
+            "Pasta boloñesa con carne picada, dos veces en cada vuelta: cada 2 o 3 semanas (con 5 semanas no cuadra cada 2 exactas sin repetirla de la semana 5 a la 1).",
+            "Tu ternera al miso va en la Le Creuset a fuego mínimo, como el estofado: nunca la misma semana que él.",
             "Nunca pollo en la comida y en la cena del mismo día. Solomillos de pollo, no contramuslos.",
         ]),
         ("Cenas", [

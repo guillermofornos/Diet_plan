@@ -169,6 +169,22 @@ R["SOPA"] = dict(tipo="cena", nombre="Sopa cremosa de pollo con huevo pochado", 
           "Sin robot (como la receta original): todo en una olla cubierto de agua, 30 minutos a fuego medio; saca la pechuga, tritura las verduras con la batidora, desmiga la pechuga y vuelve a echarla."])
 R["SOPA"]["batch"] = "La sopa, en el robot (unos 40 minutos) al terminar el batch o el mismo día; se guarda 3 días en la nevera. El huevo pochado, al momento."
 
+R["SOPAV"] = dict(tipo="cena", nombre="Sopa casera de pollo y verduras", fuente="Receta que pasaste (texto, 28 de noviembre), pasada a vuestra Mambo", robot=True,
+   tupper="3 días en la nevera, o congelada",
+   grupos=[("Sopa", [("pechuga", 150, "{150} g de pechuga de pollo entera"), ("zanahoria", 40, "{1/2|zanahoria|zanahorias} ({40} g)"),
+       ("cebolla", 75, "{1/2|cebolla|cebollas} ({75} g)"), ("pimiento", 60, "{1/2|pimiento|pimientos} ({60} g)"), ("puerro", 25, "{25} g de puerro (un cuarto de puerro)"),
+       ("tomate", 60, "{1/2|tomate|tomates} ({60} g)"), ("patata", 100, "{1/2|patata|patatas} ({100} g)"), ("aove", 8, "{8} ml de AOVE"), (None, 0, "{450} ml de agua"),
+       ("x:Comino", 0, "{1/2|cucharadita|cucharaditas} de pimentón dulce, {1/4|cucharadita|cucharaditas} de comino, {1/4|cucharadita|cucharaditas} de pimienta negra, {1/2|diente|dientes} de ajo y sal"),
+       ("x:Perejil", 0, "Perejil y menta seca, si quieres")]),
+     ("Para acompañar", [("pan_int", 30, "{30} g de pan integral")])],
+   pasos=["Lava, pela y corta las verduras en trozos grandes: la zanahoria, la cebolla, el pimiento, el puerro, el tomate y la patata.",
+          "Pon la mariposa en el robot y echa las verduras, la pechuga entera, el aceite, el ajo, las especias y el agua: 30 minutos a 100 °C y velocidad 1, con giro inverso. En una olla, como la receta: todo junto a fuego medio 25–30 minutos, hasta que las verduras estén tiernas y el pollo hecho.",
+          "Saca la pechuga y desmenúzala con dos tenedores.",
+          "Quita la mariposa y tritura las verduras con el caldo 1 minuto, subiendo poco a poco de velocidad 5 a 10 (o con la batidora), hasta que quede fina y cremosa.",
+          "Vuelve a echar el pollo desmenuzado y calienta 2 minutos a 90 °C, velocidad 1 y giro inverso (en la olla, un par de minutos). Rectifica de sal.",
+          "Sírvela bien caliente, con perejil o menta seca por encima si quieres, y el pan."])
+R["SOPAV"]["batch"] = "La sopa, en el robot (unos 40 minutos) en la tanda de cenas del batch; se guarda 3 días en la nevera o congelada."
+
 R["CASTA"] = dict(tipo="cena", nombre="Crema de boniato y puerro con pollo y huevo pochado", fuente="Receta de Instagram (código MAYDEN), pasada a vuestra Mambo", robot=True,
    tupper="La crema, 3 días en la nevera o congelada (sin el huevo); el huevo pochado, siempre al momento",
    grupos=[("Crema", [("cebolla", 60, "{60} g de cebolla"), ("puerro", 120, "{120} g de puerro (la parte blanca y algo de la verde; unos {2|puerro|puerros})"),

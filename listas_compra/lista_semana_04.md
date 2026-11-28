@@ -75,7 +75,7 @@
 ## Opcional: Big Mac en casa el sábado (x2)
 *Solo si el sábado cenáis en casa en vez de fuera (receta en `recetas/fast_food_saludable.md`).*
 - 300 g Patatas
-- 300 g Carne picada de ternera magra (carnicería: tapilla o babilla; cómprala el día que la cocines)
+- 300 g Carne picada de ternera magra (carnicería: tapilla o babilla; cocínala o congélala en 24 horas)
 - 2 Panes de hamburguesa 100% integrales
 - 1 Ketchup sin azúcar (si no te queda)
 - 1 bote Guindillas en vinagre
