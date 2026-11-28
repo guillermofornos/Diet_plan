@@ -39,9 +39,10 @@ python3 gen_docs.py 5    # HTML de los Google Docs de la semana 5 en salida/docs
 - El pescado y el marisco se cocinan el día que se comen; en el batch solo se deja la base o la salsa.
 - Nunca merluza y bacalao en la misma semana, y entre una y otra, al menos una semana sin ninguna de las dos.
 - Nunca el mismo pescado o marisco dos semanas seguidas, ni la misma comida o cena dos semanas seguidas (desde la semana 6).
+- Desde la semana 8 (norma del 28 de noviembre, cuando salieron lentejas tres semanas seguidas con recetas distintas), tampoco otro plato del mismo tipo: entre unas lentejas y las siguientes, sean de la receta que sean, una semana de por medio, y lo mismo con los garbanzos y con los guisos de ternera (estofado, carne guisada, jardinera o ternera escalfada). Los tipos están en `FAMILIAS` (`plan.py`): si dos platos te parecen el mismo, se añaden ahí.
 - Salmón unas 2 semanas al mes, y al menos una dorada a la sal y una lubina a la sal al mes, sin quitar guisos ni marmitakos para meterlos.
 - Una vez al mes, como mínimo, el arroz meloso con secreto ibérico en la Le Creuset.
-- Ningún plato se repite dentro de la misma semana: las lentejas, un solo día (desde la semana 7).
+- Ningún plato, ni otro del mismo tipo, se repite dentro de la misma semana: las lentejas, un solo día (desde la semana 7).
 - Cenas ligeras (desde la semana 8): cremas, sándwiches, tortilla o tomates rellenos. Kebab, fajitas, tacos, pizza o hamburguesa, el día que la comida es de legumbre (o, como mucho, una vez suelta a la semana). El pescado, nunca de cena: va a las comidas del fin de semana, que es cuando se puede hacer en el momento.
 - Las recetas que pasa Guillermo (`PROPIAS` en `plan.py`) tienen prioridad sobre las demás: para hacer sitio a un plato o resolver un choque de normas, sale uno que no sea suyo.
 - Cada semana, una cena es la ensalada cremosa de huevo y gambas (25 de noviembre; `SEMANALES` en `plan.py`): no cuenta en la norma de no repetir ni en la rotación de pescado.

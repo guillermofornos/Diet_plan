@@ -4,9 +4,9 @@
 
 | Día | Desayuno | Comida | Merienda | Cena | Total del día |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Lunes 14 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🎬 Lentejas estofadas con pollo y verduras | Natillas +Proteínas con plátano y pipas | 🎬 Pizza de avena y yogur proteico con jamón cocido | ≈1912 kcal · 137 g prot. |
+| **Lunes 14 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🎬 Solomillo de cerdo en salsa de pimientos del piquillo con patatas | Natillas +Proteínas con plátano y pipas | 🎬 Pizza de avena y yogur proteico con jamón cocido | ≈1891 kcal · 125 g prot. |
 | **Martes 15 dic (E)** | Batido proteico + tostada integral y kiwi | 🎬 Solomillos al adobo barbacoa con patatas y ensalada de granada | Natillas +Proteínas con plátano y pipas | Ensalada cremosa de huevo y gambas | ≈1912 kcal · 140 g prot. |
-| **Miércoles 16 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Estofado de ternera con patatas y guisantes | Natillas +Proteínas con kiwi y pipas | Sándwich de pollo, aguacate y tomate con salsa de yogur y mostaza | ≈1604 kcal · 121 g prot. |
+| **Miércoles 16 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🤖 Potaje de garbanzos con acelgas y huevo | Natillas +Proteínas con kiwi y pipas | Sándwich de pollo, aguacate y tomate con salsa de yogur y mostaza | ≈1548 kcal · 102 g prot. |
 | **Jueves 17 dic (E)** | Batido proteico + tostada integral y kiwi | 🤖 Albóndigas caseras en salsa de tomate con arroz integral | Natillas +Proteínas con plátano y pipas | 🎬 Tortilla de patata con claras | ≈1927 kcal · 120 g prot. |
 | **Viernes 18 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🤖 Arroz caldoso con pollo y judías verdes | Natillas +Proteínas con plátano y pipas | **Cena fuera** + *cervezas* | ≈1246 kcal · 79 g prot. + cena fuera |
 | **Sábado 19 dic (D)** | Tostada integral con aguacate y huevo | Arroz meloso con secreto ibérico | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1182 kcal · 53 g prot. + cena fuera |
@@ -14,12 +14,12 @@
 
 **Batch cooking del domingo 13 de diciembre** (paso a paso en `recetas/batch_cooking.md`):
 - Ese día comes la lubina a la sal con pisto (en la tanda de mediodía) y cenas la crema de verduras, hecha el sábado.
-- **Mediodía (táperes):** 2 h 35 min, aproximadamente, por el estofado: a la 1 h 25 están los táperes, a la 1 h 40 coméis la lubina a la sal y luego el estofado acaba solo, a fuego suave (en ese rato cabe la tanda de cenas).
-  - A la nevera: Lentejas con pollo, 2 raciones (lunes); Solomillos al adobo barbacoa con sus patatas, 2 raciones (martes; la ensalada, al momento); Estofado de ternera, 2 raciones (miércoles).
+- **Mediodía (táperes):** 1 h 40 min, aproximadamente: a la 1 h 25 están los táperes y a la 1 h 40 coméis la lubina a la sal.
+  - A la nevera: Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (lunes); Solomillos al adobo barbacoa con sus patatas, 2 raciones (martes; la ensalada, al momento); Potaje de garbanzos con acelgas, 2 raciones, y 2 huevos duros con cáscara (miércoles).
   - Al congelador (pásalo a la nevera la noche antes): Albóndigas en salsa con su arroz, 2 raciones (jueves); Arroz con pollo y judías verdes, 2 raciones (viernes); Secreto ibérico crudo del arroz del sábado 19, en bolsa.
-- **Cenas:** 30 min, aproximadamente. Cabe después de comer, mientras el estofado acaba.
+- **Cenas:** 30 min, aproximadamente. Cabe después de comer.
   - A la nevera: Pechuga asada entera para el sándwich del miércoles; Pimiento y cebolla en tiras para la pizza (lunes); 6 huevos cocidos con cáscara para la ensalada (martes).
-  - Al congelador (pásalo a la nevera la noche antes): nada.
+  - Al congelador (pásalo a la nevera la noche antes): Pechuga cruda de la crema de boniato del domingo 20 (360 g), en bolsa.
 
 **Recordatorios de la semana:**
 - **Lunes 14 por la noche:** Pasa las gambas cocidas del congelador a la nevera (ensalada de la cena de mañana).
@@ -28,7 +28,7 @@
 - **Miércoles 16:** Cena: sándwich de pollo con la pechuga del batch, en lonchas finas. Por la noche, pasa las albóndigas del jueves a la nevera.
 - **Jueves 17:** Cena: tortilla de patata con claras, al momento (unos 25 minutos). Por la noche, pasa el arroz con pollo del viernes a la nevera.
 - **Viernes 18 por la noche:** Pasa el secreto ibérico a la nevera (arroz meloso del sábado, en la Le Creuset).
-- **Sábado 19 por la noche:** Pasa el rape a la nevera (marmitako del domingo).
+- **Sábado 19 por la noche:** Pasa del congelador a la nevera el rape (marmitako del domingo) y la pechuga de la crema de boniato (cena del domingo).
 
 **Dónde está cada receta:**
 - Desayunos: `recetas/desayunos.md` · Meriendas: `recetas/meriendas.md`

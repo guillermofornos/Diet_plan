@@ -11,12 +11,12 @@
 - 12 Kiwis (desayunos y meriendas)
 - 3 Aguacates (unos 380 g de pulpa)
 - 540 g Pimientos rojos o de colores
-- 220 g Pimientos verdes italianos
-- 990 g Cebollas (incluye cebolleta y morada)
-- 860 g Zanahorias
-- 460 g Tomates (incluye cherrys)
+- 300 g Pimientos verdes italianos
+- 840 g Cebollas (incluye cebolleta y morada)
+- 1,08 kg Zanahorias
+- 660 g Tomates (incluye cherrys)
 - 2,08 kg Patatas
-- 600 g Calabaza (pelada)
+- 300 g Calabaza (pelada)
 - 200 g Puerros
 - 1 Apio (paquete de ramas o una mata pequeña; se usan 150 g)
 - 1 bolsa Rúcula o canónigos (unos 90 g)
@@ -24,14 +24,14 @@
 - Perejil
 
 ## Carne, huevos y tofu
-- 3 docenas Huevos (se usan 32)
+- 3 docenas Huevos (se usan 30)
 - 500 ml Claras de huevo pasteurizadas
 - 300 g Pechuga de pollo
 - 700 g Solomillos de pollo
-- 40 g Taquitos de jamón serrano
+- 120 g Taquitos de jamón serrano
 - 200 g Jamón cocido extra
 - 500 g Tofu firme (2 bloques de 400 g)
-- 340 g Solomillo de cerdo (una pieza grande o dos pequeñas)
+- 340 g Ternera para guisar en tacos (jarrete (morcillo), aguja o llana, sin grasa visible)
 
 ## Pescado
 - 200 g Gambas o langostinos cocidos y pelados (congelados) (para la ensalada de huevo; a la nevera la noche antes)
@@ -39,7 +39,7 @@
 - 2 Lubinas de ración, enteras y sin escamar (de unos 350–400 g cada una; que te las vacíen, pero con escamas)
 
 ## Lácteos
-- 10 Yogures naturales sin azúcar (de 125 g)
+- 9 Yogures naturales sin azúcar (de 125 g)
 - 3 Yogur +Proteínas natural (vasitos de 120 g, en packs de 4)
 - 14 Natillas +Proteínas (4 packs de 4)
 - 2 bolas Mozzarella fresca (se usan 220 g)
@@ -47,31 +47,31 @@
 - 80 ml Leche o bebida de soja sin azúcar
 
 ## Pan y tortillas
-- 1,2 kg Pan integral (100% integral)
+- 1,12 kg Pan integral (100% integral)
 
 ## Despensa
-- 1 bote Pimientos del piquillo (bote o lata) (se usan 160 g)
-- 160 g Lenteja pardina
-- 80 g Arroz integral
+- 180 g Lenteja pardina
 - 130 g Arroz basmati
 - 1 bote Miel (si no te queda; se usan 15 g)
 - 130 g Espaguetis integrales o normales (mira si os quedan del paquete)
 - 60 g Copos de avena
 - 250 g Pipas de calabaza sin sal
-- 360 g Tomate triturado natural
+- 300 g Tomate triturado natural
+- 1 brik de 1 L Caldo de carne bajo en sal (se usan 700 ml)
 - 1 Salsa de soja baja en sodio (si no te queda)
 - 1 Mostaza (si no te queda)
-- 1 brik de 1 L Caldo de pollo bajo en sal (se usan 200 ml)
-- 1 brik de 1 L Caldo de verduras bajo en sal (se usan 400 ml)
-- 140 ml Aceite de oliva virgen extra (se usan esta semana)
+- 1 Vinagre balsámico (si no te queda; no crema de balsámico)
+- 1 brik de 1 L Caldo de verduras bajo en sal (se usan 900 ml)
+- 150 ml Aceite de oliva virgen extra (se usan esta semana)
 - Mostaza en grano, a la antigua (si no os queda)
 - Sal gruesa (unos 2 kg para la costra; si no os queda)
 
 ## Congelados
+- 100 g Guisantes finos congelados
 - 260 g Judías verdes troceadas congeladas
 
 ## Especias y condimentos
-- Ajo, Chipotle o pimentón picante, Curry en polvo, Jengibre, Nuez moscada, Pimentón dulce, Romero, Sésamo (revisa lo que tienes)
+- Ajo, Chipotle o pimentón picante, Curry en polvo, Jengibre, Laurel, Nuez moscada, Pimentón dulce, Romero, Sésamo (revisa lo que tienes)
 - Sal, pimienta, ajo en polvo y cebolla en polvo (básicos)
 
 ## Opcional: Big Mac en casa el sábado (x2)

@@ -9,29 +9,29 @@
 ## Fruta y verdura
 - 12 Plátanos (desayunos y meriendas)
 - 14 Kiwis (desayunos y meriendas)
+- 1 Granada (se usan 80 g de granos)
 - 2 Aguacates (unos 260 g de pulpa)
 - 540 g Pimientos rojos o de colores
-- 340 g Pimientos verdes italianos
-- 1,28 kg Cebollas (incluye cebolleta y morada)
-- 420 g Zanahorias
-- 760 g Tomates (incluye cherrys)
-- 2,1 kg Patatas
+- 260 g Pimientos verdes italianos
+- 1,22 kg Cebollas (incluye cebolleta y morada)
+- 200 g Zanahorias
+- 720 g Tomates (incluye cherrys)
+- 2,54 kg Patatas
 - 300 g Boniatos
 - 280 g Puerros
 - 1 Apio (paquete de ramas o una mata pequeña; se usan 150 g)
 - 200 g Acelgas
-- 1 bolsa Rúcula o canónigos (unos 110 g)
+- 2 bolsas Rúcula o canónigos (unos 190 g)
 - Limones
 - Perejil
 
 ## Carne, huevos y tofu
-- 2 docenas y media Huevos (se usan 27)
+- 2 docenas y media Huevos (se usan 25)
 - 540 ml Claras de huevo pasteurizadas
 - 1,02 kg Pechuga de pollo
-- 660 g Solomillos de pollo
-- 80 g Taquitos de jamón serrano
+- 1,02 kg Solomillos de pollo
 - 320 g Carne picada magra, mitad ternera y mitad cerdo (pídela en la carnicería y cocínala en 24 horas)
-- 340 g Ternera para guisar en tacos (jarrete (morcillo), aguja o llana, sin grasa visible)
+- 340 g Solomillo de cerdo (una pieza grande o dos pequeñas)
 
 ## Pescado
 - 200 g Gambas o langostinos cocidos y pelados (congelados) (para la ensalada de huevo; a la nevera la noche antes)
@@ -42,14 +42,15 @@
 - 10 Yogures naturales sin azúcar (de 125 g)
 - 1 Yogur +Proteínas natural (vasitos de 120 g, en packs de 4)
 - 14 Natillas +Proteínas (4 packs de 4)
+- 1 bola Mozzarella fresca (se usan 80 g)
 - 20 ml Leche o bebida de soja sin azúcar
 
 ## Pan y tortillas
-- 1,03 kg Pan integral (100% integral)
+- 1,11 kg Pan integral (100% integral)
 - 2 Panes de pita (mejor integrales)
 
 ## Despensa
-- 180 g Lenteja pardina
+- 1 bote Pimientos del piquillo (bote o lata) (se usan 160 g)
 - 400 g Garbanzos cocidos (escurridos, unos 2 botes)
 - 120 g Arroz integral
 - 280 g Arroz redondo
@@ -57,23 +58,22 @@
 - 210 g Pipas de calabaza sin sal
 - 420 g Tomate triturado natural
 - 1 Tomate concentrado (tubo o lata pequeña; si no te queda)
-- 1 brik de 1 L Caldo de carne bajo en sal (se usan 700 ml)
 - 1 Salsa de soja baja en sodio (si no te queda)
 - 1 Mostaza (si no te queda)
+- 1 Salsa barbacoa sin azúcar (si no te queda)
 - 1 Vinagre balsámico (si no te queda; no crema de balsámico)
-- 1 brik de 1 L Caldo de pollo bajo en sal (se usan 700 ml)
-- 1 brik de 1 L Caldo de verduras bajo en sal (se usan 1 L)
-- 180 ml Aceite de oliva virgen extra (se usan esta semana)
+- 1 brik de 1 L Caldo de pollo bajo en sal (se usan 900 ml)
+- 1 brik de 1 L Caldo de verduras bajo en sal (se usan 500 ml)
+- 190 ml Aceite de oliva virgen extra (se usan esta semana)
 - Mostaza en grano, a la antigua (si no os queda)
 - Sal gruesa (unos 2 kg para la costra; si no os queda)
 - Salsa picante (opcional)
 
 ## Congelados
-- 100 g Guisantes finos congelados
 - 200 g Judías verdes troceadas congeladas
 
 ## Especias y condimentos
-- Azafrán, Comino, Curry en polvo, Cúrcuma, Laurel, Pimentón dulce, Vinagre (revisa lo que tienes)
+- Ajo, Azafrán, Comino, Curry en polvo, Cúrcuma, Laurel, Pimentón dulce, Vinagre (revisa lo que tienes)
 - Sal, pimienta, ajo en polvo y cebolla en polvo (básicos)
 
 ## Opcional: Big Mac en casa el sábado (x2)

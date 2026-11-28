@@ -254,12 +254,13 @@
 
 ### Mediodía (táperes)
 
-*Duración: 2 h 35 min, aproximadamente, por el estofado: a la 1 h 30 está todo lo demás y la última hora el estofado va solo, a fuego suave (en ese rato cabe la tanda de cenas, que no usa los fuegos).*
+*Duración: 1 h 25 min, aproximadamente.*
 
 **A la nevera:**
-- Lentejas con jamón, 2 raciones, y 4 huevos duros con cáscara (2 para las lentejas y 2 para el potaje)
+- Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (lunes)
 - Albóndigas en salsa con su arroz, 2 raciones (martes)
-- Estofado de ternera, 2 raciones (miércoles)
+- Solomillos al adobo barbacoa con sus patatas, 2 raciones (miércoles; la ensalada, al momento)
+- 2 huevos duros con cáscara para el potaje (jueves)
 
 **Al congelador** (pásalo a la nevera la noche antes):
 - Potaje de garbanzos con acelgas, 2 raciones (jueves; congelado, la patata queda algo más harinosa)
@@ -269,24 +270,24 @@
 
 | Hora | Dónde | Qué hacer |
 | :--- | :--- | :--- |
-| 0:00 | Preparación | Por la mañana, deja la lenteja pardina en remojo 2–4 horas. Lava el arroz integral y el redondo. Corta la carne del estofado (340 g) en dados y salpiméntala, y trocea en el robot su cebolla, su ajo y su zanahoria (4–5 s/vel 5). |
-| 0:05 | Fuego 1 · Le Creuset | Estofado (2 raciones): dora la carne 4–5 minutos y sácala; en la misma grasa, pocha la cebolla, el ajo y la zanahoria 10 minutos y el tomate rallado 5. Vuelve a meter la carne con el balsámico, cubre justo con el caldo (700 ml) y pon las hierbas; cuando hierva, tapa y a fuego suave 1 h 30 min, moviendo la olla de vez en cuando. |
-| 0:05 | Fuego 2 · cazo | Cuece 4 huevos 10 minutos (2 para las lentejas y 2 para el potaje) y guárdalos con cáscara. |
-| 0:05 | Robot y tabla | Mezcla de las albóndigas en el robot: cebolla, ajo, pan, leche, huevo y perejil 6 s/vel 6, y la carne con la sal 15–20 s/vel 5; a la nevera. Luego trocea, por tandas (4–5 s/vel 5), la cebolla del potaje, la cebolla, la zanahoria y el pimiento de la salsa de las albóndigas y los pimientos y el tomate del arroz con pollo, y guarda cada cosa aparte. A cuchillo: las acelgas en tiras y el pollo del arroz en dados. |
-| 0:20 | Robot | Lentejas con jamón (2 raciones): trocea sus verduras 5 s/vel 5; con la mariposa, sofrito 8 min/120 °C/vel 1, y luego las lentejas escurridas, el jamón, la patata chascada, el caldo, el pimentón y el laurel, 25 min/100 °C/vel 1/giro inverso. |
-| 0:20 | Fuego 2 · olla | Potaje de garbanzos (2 raciones): sofríe la cebolla y el ajo con el aceite 5 minutos; añade la patata chascada, el caldo, el tomate concentrado, el pimentón y el laurel, 20 minutos; luego los garbanzos y las acelgas, 10 minutos más. |
+| 0:00 | Preparación | Lava el arroz integral y el redondo. Mezcla el adobo de la barbacoa, unta los solomillos (360 g) y déjalos marinando en la nevera. |
+| 0:05 | Robot y tabla | Mezcla de las albóndigas en el robot: cebolla, ajo, pan, leche, huevo y perejil 6 s/vel 6, y la carne con la sal 15–20 s/vel 5; a la nevera. Luego trocea, por tandas (4–5 s/vel 5), la cebolla del potaje, la cebolla, la zanahoria y el pimiento de la salsa de las albóndigas y los pimientos y el tomate del arroz con pollo, y guarda cada cosa aparte. A cuchillo: las acelgas en tiras, el pollo del arroz en dados y el solomillo de cerdo en medallones. |
+| 0:15 | Robot | Salsa de piquillos del solomillo: trocea la cebolla y el ajo 4 s/vel 5 y sofríelos con la mitad del aceite 8 min/120 °C/vel 1; añade los piquillos y el caldo, 5 min/100 °C/vel 1, y tritura 30 s, subiendo de vel 5 a 10. Pásala a un bol y lava el vaso. |
+| 0:20 | Fuego 1 · olla | Potaje de garbanzos (2 raciones): sofríe la cebolla y el ajo con el aceite 5 minutos; añade la patata chascada, el caldo, el tomate concentrado, el pimentón y el laurel, 20 minutos; luego los garbanzos y las acelgas, 10 minutos más. |
+| 0:20 | Fuego 2 · olla | Arroz integral de las albóndigas: 120 g, el tiempo del paquete; escúrrelo y resérvalo. |
 | 0:20 | Fuego 3 · sartén | Salsa de las albóndigas: sofríe sus verduras con el aceite 8 minutos y añade el tomate y el laurel, 10 minutos; apártala del fuego. |
 | 0:25 | Airfryer | Haz las albóndigas (unas 12, del tamaño de una nuez) y ponlas a 190 °C 8–10 minutos, en dos tandas si no caben. |
-| 0:45 | Fuego 3 · sartén | Quita el laurel de la salsa, mete las albóndigas y cuécelas 10 minutos a fuego suave. |
-| 0:55 | Fuego 2 · olla | Aparta el potaje. En ese fuego, el arroz integral de las albóndigas: 120 g, el tiempo del paquete; escúrrelo y repártelo con las albóndigas. |
-| 0:55 | Robot | Lava el vaso. Arroz con pollo (2 raciones), con la mariposa: el aceite, el pollo, los pimientos, el tomate, las judías y el caldo, a 120 °C y vel 1 hasta que hierva (10–15 minutos); luego el arroz redondo (140 g), 15 min/100 °C/vel 0, y 5 minutos de reposo. |
-| 1:30 | Táperes | Deja templar (el arroz con pollo, extendido en una fuente para que se enfríe rápido) y reparte: 3 de cada 5 cazos para Guillermo y 2 para Indi. Nevera las lentejas, los huevos y las albóndigas con su arroz; congelador el potaje y el arroz con pollo. Mientras el estofado sigue a fuego suave, puedes hacer la tanda de cenas: no usa los fuegos. |
-| 2:00 | Fuego 1 · Le Creuset | Estofado: prueba la carne (si sigue dura, 15 minutos más). Añade la patata chascada (400 g) y cuece 25–30 minutos, destapado al final si hace falta espesar; los guisantes, los últimos 5. Rectifica de sal. |
-| 2:35 | Táperes | Deja templar el estofado y repártelo (3 cazos para Guillermo y 2 para Indi), a la nevera: es la comida del miércoles. |
+| 0:35 | Robot | Arroz con pollo (2 raciones), con la mariposa: el aceite, el pollo, los pimientos, el tomate, las judías y el caldo, a 120 °C y vel 1 hasta que hierva (10–15 minutos); luego el arroz redondo (140 g), 15 min/100 °C/vel 0, y 5 minutos de reposo. |
+| 0:45 | Fuego 3 · sartén | Quita el laurel de la salsa, mete las albóndigas y cuécelas 10 minutos a fuego suave. Repártelas con el arroz. |
+| 0:50 | Airfryer | Solomillos de la barbacoa a 180 °C 5 minutos; dales la vuelta, píntalos con la salsa barbacoa y 4–5 minutos más. |
+| 0:55 | Fuego 1 · cazo | Aparta el potaje. Cuece 2 huevos 10 minutos para el potaje y guárdalos con cáscara. |
+| 0:55 | Fuego 3 · sartén | Pasa las albóndigas a sus táperes. Solomillo en salsa de piquillos (2 raciones): dora los medallones (340 g), salpimentados, 2 minutos por lado con el resto del aceite; echa la salsa del robot y cuécelos 4–5 minutos a fuego suave. |
+| 1:00 | Microondas | Patatas de los solomillos de la barbacoa (440 g en rodajas, con spray y sal), 10–12 minutos; luego las del solomillo de cerdo (600 g en rodajas, tapadas con un poco de agua y sal), 8–10 minutos. |
+| 1:25 | Táperes | Deja templar (el arroz con pollo, extendido en una fuente para que se enfríe rápido) y reparte: 3 de cada 5 cazos para Guillermo y 2 para Indi. Nevera el solomillo de cerdo y los solomillos de la barbacoa, cada uno con sus patatas, las albóndigas con su arroz y los huevos; congelador el potaje y el arroz con pollo. |
 
 ### Cenas
 
-*Duración: 45 min, aproximadamente (casi todo es la sopa en el robot). Solo usa un fuego, para los huevos de la ensalada: hazla mientras el estofado acaba.*
+*Duración: 45 min, aproximadamente (casi todo es la sopa en el robot): empiézala cuando el robot quede libre, hacia la 1 h 10 de la tanda de mediodía. Solo usa un fuego, para los huevos de la ensalada.*
 
 **A la nevera:**
 - Pechuga asada y desmenuzada y juliana para las fajitas (lunes)
@@ -295,6 +296,7 @@
 
 **Al congelador** (pásalo a la nevera la noche antes):
 - Pollo del kebab marinado, en bolsa (jueves; la salsa blanca, el mismo jueves)
+- Pechuga cruda de la crema de boniato del domingo 6 (360 g), en bolsa
 
 **Paso a paso:**
 
@@ -303,21 +305,22 @@
 | 0:00 | Horno | Precalienta a 200 °C. Pechuga de las fajitas (300 g) con la soja, la mostaza y las especias, 25–30 minutos. |
 | 0:05 | Tabla | Pela y trocea la patata, la cebolla y la zanahoria de la sopa, y corta la juliana de pimientos y cebolla de las fajitas (a un táper). |
 | 0:10 | Robot | Sopa cremosa de pollo (2 raciones), con la mariposa: las verduras, las pechugas enteras (360 g), el agua (700 ml), la sal, la pimienta, la cúrcuma y el laurel, 30 min/100 °C/vel 1/giro inverso. |
-| 0:15 | Encimera | Kebab del jueves: marina los solomillos (360 g) con las especias y el yogur en una bolsa de congelación, al congelador. |
+| 0:15 | Encimera | Kebab del jueves: marina los solomillos (360 g) con las especias y el yogur en una bolsa de congelación, al congelador. La pechuga de la crema de boniato del domingo 6 (360 g), cruda, en otra bolsa, también al congelador. |
 | 0:15 | Fuego 2 · cazo | Cuece 6 huevos 10 minutos para la ensalada del miércoles y guárdalos con cáscara. |
 | 0:35 | Horno | Saca la pechuga, desmenúzala y guárdala con la juliana. Apaga el horno. |
 | 0:40 | Robot | Sopa: saca las pechugas y el laurel y tritura las verduras con el caldo 1 minuto, subiendo de vel 5 a 10; desmiga la pechuga, vuelve a echarla y calienta 2 min/90 °C/vel 1/giro inverso. Rectifica de sal. |
-| 0:45 | Táperes | Deja templar y guarda: nevera la sopa, lo de las fajitas y los huevos; congelador el pollo del kebab. |
+| 0:45 | Táperes | Deja templar y guarda: nevera la sopa, lo de las fajitas y los huevos; congelador el pollo del kebab y la pechuga de la crema. |
 
 
 **Recordatorios de la semana:**
 - **Martes 1:** Cena: calienta la sopa y haz los huevos pochados al momento (3 minutos).
 - **Martes 1 por la noche:** Pasa las gambas cocidas del congelador a la nevera (ensalada de la cena de mañana).
+- **Miércoles 2:** Comida: la ensalada de los solomillos (canónigos, cherrys, cebolla morada, granada y mozzarella), al momento, y el aliño al servir.
 - **Miércoles 2:** Cena: ensalada de huevo y gambas, al momento (10 minutos): pela los huevos del batch y machácalos con el yogur y las mostazas; añade las gambas escurridas, el apio y la cebolla morada. Con el pan tostado.
 - **Miércoles 2 por la noche:** Pasa a la nevera el potaje (comida del jueves) y el pollo del kebab (cena del jueves).
 - **Jueves 3:** Kebab: pon las patatas en remojo al llegar a casa y haz la salsa blanca (yogur, especias y limón). Por la noche, pasa el arroz con pollo del viernes a la nevera.
 - **Viernes 4:** Compra las 2 doradas frescas, enteras y sin escamar, para la comida de mañana (a la sal). Si son congeladas, a la nevera esta noche.
-- **Sábado 5 por la noche:** Pasa los gambones del congelador a la nevera (arroz del domingo).
+- **Sábado 5 por la noche:** Pasa del congelador a la nevera los gambones (arroz del domingo) y la pechuga de la crema de boniato (cena del domingo).
 
 ---
 
@@ -327,12 +330,12 @@
 
 ### Mediodía (táperes)
 
-*Duración: 1 h 20 min, aproximadamente. Para comer hoy, el arroz meloso con gambones (unos 50 minutos, al terminar).*
+*Duración: 2 h 35 min, aproximadamente, por el estofado: a la 1 h 10 están los táperes y a las 2 horas coméis el arroz meloso con gambones; luego el estofado acaba solo, a fuego suave (en ese rato cabe la tanda de cenas).*
 
 **A la nevera:**
-- Lentejas al curry, 2 raciones con su arroz y 4 huevos cocidos con cáscara (lunes)
-- Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (martes)
-- Gratinado de patata y pollo al curry, 2 raciones (miércoles)
+- Lentejas con jamón, 2 raciones, y 2 huevos duros con cáscara (lunes)
+- Gratinado de patata y pollo al curry, 2 raciones (martes)
+- Estofado de ternera, 2 raciones (miércoles)
 
 **Al congelador** (pásalo a la nevera la noche antes):
 - Espaguetis a la tofuloñesa, 2 raciones (jueves)
@@ -342,25 +345,27 @@
 
 | Hora | Dónde | Qué hacer |
 | :--- | :--- | :--- |
-| 0:00 | Preparación | Prensa el tofu entre papel de cocina con un peso encima. Lava las lentejas, el arroz integral y el basmati. Precalienta el horno a 200 °C. |
-| 0:05 | Robot y tabla | Trocea en el robot la cebolla de las lentejas y la cebolla y los pimientos de la tofuloñesa (4–5 s/vel 5) y guarda cada cosa aparte. A cuchillo: la calabaza de las lentejas en dados, el solomillo de cerdo en medallones, y el pollo del teriyaki en dados y sus verduras en tiras. Ralla el tofu grueso y mézclalo con las especias y la sal. |
+| 0:00 | Preparación | Por la mañana, deja la lenteja pardina en remojo 2–4 horas. Prensa el tofu entre papel de cocina con un peso encima. Lava el basmati. Precalienta el horno a 200 °C. Corta la carne del estofado (340 g) en dados y salpiméntala, y trocea en el robot su cebolla, su ajo y su zanahoria (4–5 s/vel 5). |
+| 0:05 | Fuego 1 · Le Creuset | Estofado (2 raciones): dora la carne 4–5 minutos y sácala; en la misma grasa, pocha la cebolla, el ajo y la zanahoria 10 minutos y el tomate rallado 5. Vuelve a meter la carne con el balsámico, cubre justo con el caldo (700 ml) y pon las hierbas; cuando hierva, tapa y a fuego suave 1 h 30 min, moviendo la olla de vez en cuando. |
+| 0:05 | Robot y tabla | Trocea en el robot la cebolla y los pimientos de la tofuloñesa (4–5 s/vel 5) y guárdalos. A cuchillo: el pollo del teriyaki en dados y sus verduras en tiras. Ralla el tofu grueso y mézclalo con las especias y la sal. |
 | 0:15 | Horno | Gratinado al curry: la patata (500 g) en rodajas finas en una fuente, con spray y sal, 20 minutos. |
-| 0:15 | Fuego 1 · olla a presión | Lentejas al curry (2 raciones): sofrito de cebolla y tomate 6–8 minutos y calabaza 2–3; añade las lentejas (160 g), el agua, la sal y el curry, cierra y cuece 12–15 minutos desde que suba la válvula. |
-| 0:15 | Robot | Salsa de piquillos del solomillo: trocea la cebolla y el ajo 4 s/vel 5 y sofríelos con la mitad del aceite 8 min/120 °C/vel 1; añade los piquillos y el caldo, 5 min/100 °C/vel 1, y tritura 30 s, subiendo de vel 5 a 10. Déjala en el vaso. |
+| 0:15 | Robot | Lentejas con jamón (2 raciones): trocea sus verduras 5 s/vel 5; con la mariposa, sofrito 8 min/120 °C/vel 1, y luego las lentejas escurridas, el jamón, la patata chascada, el caldo, el pimentón y el laurel, 25 min/100 °C/vel 1/giro inverso. |
 | 0:15 | Fuego 3 · sartén | Tofuloñesa: pocha la cebolla y los pimientos con el aceite 10 minutos; sube el fuego, añade el tofu y dóralo 6–8 minutos, removiendo poco, y luego el tomate, 8–10 minutos. |
-| 0:20 | Fuego 2 · olla | Arroz integral de las lentejas: 80 g, el tiempo del paquete. |
+| 0:20 | Fuego 2 · cazo | Cuece 2 huevos 10 minutos para las lentejas y guárdalos con cáscara. |
 | 0:35 | Horno | Echa sobre la patata el pollo del curry mezclado con el huevo, la leche y el curry, 12–15 minutos; luego la mozzarella, 3–4 minutos. Apaga el horno. |
-| 0:45 | Fuego 1 · cazo | Aparta la olla de las lentejas y deja que baje la presión sola. Cuece 4 huevos 10 minutos (los de las lentejas) y guárdalos con cáscara. |
-| 0:45 | Fuego 3 · sartén | Pasa la tofuloñesa a un bol. Solomillo en salsa de piquillos (2 raciones): dora los medallones (340 g), salpimentados, 2 minutos por lado con el resto del aceite; echa la salsa del robot y cuécelos 4–5 minutos a fuego suave. |
-| 0:50 | Fuego 2 · olla | Escurre el arroz y repártelo con las lentejas. En ese fuego, el basmati del teriyaki (130 g). |
-| 0:55 | Fuego 1 · olla | Agua para la pasta: 130 g de espaguetis, el tiempo del paquete; escúrrelos y mézclalos con la tofuloñesa. |
-| 1:00 | Fuego 3 · sartén | Pasa el solomillo a su táper. Pollo teriyaki (2 raciones): dora el pollo (340 g) 4–5 minutos y sácalo; saltea las verduras 5–6 minutos; vuelve a meter el pollo con la salsa (soja, miel, jengibre, ajo, limón, agua y maicena) 1–2 minutos. |
-| 1:05 | Microondas | Patatas del solomillo: 600 g en rodajas, tapadas con un poco de agua y sal, 8–10 minutos. |
-| 1:20 | Táperes | Deja templar y reparte: 3 de cada 5 cazos para Guillermo y 2 para Indi. Nevera las lentejas con su arroz y los huevos, el solomillo con sus patatas y el gratinado; congelador la tofuloñesa y el teriyaki con el basmati. |
+| 0:35 | Fuego 2 · olla | Agua para la pasta: 130 g de espaguetis, el tiempo del paquete; escúrrelos y mézclalos con la tofuloñesa. |
+| 0:45 | Fuego 3 · sartén | Pasa la tofuloñesa a un bol. Pollo teriyaki (2 raciones): dora el pollo (340 g) 4–5 minutos y sácalo; saltea las verduras 5–6 minutos; vuelve a meter el pollo con la salsa (soja, miel, jengibre, ajo, limón, agua y maicena) 1–2 minutos. |
+| 0:55 | Fuego 2 · olla | El basmati del teriyaki: 130 g, el tiempo del paquete (10–12 minutos). |
+| 1:10 | Táperes | Deja templar (el arroz, extendido en una fuente para que se enfríe rápido) y reparte: 3 de cada 5 cazos para Guillermo y 2 para Indi. Nevera las lentejas con sus huevos y el gratinado; congelador la tofuloñesa y el teriyaki con el basmati. El estofado sigue solo, a fuego suave. |
+| 1:10 | Fuego 2 · cazo | Arroz meloso con gambones para comer hoy (unos 50 minutos): pela las colas y guárdalas; fumet con las cabezas y las cáscaras, el puerro, el tomate y el agua, 20 minutos; cuélalo y mantenlo caliente. |
+| 1:10 | Fuego 3 · sartén grande | Marca las colas 1 minuto y resérvalas; con el resto del aceite, pocha el ajo y la cebolla 5 minutos, los pimientos y el laurel 10 y el tomate 10 más. |
+| 1:35 | Fuego 3 · sartén grande | El pimentón, el arroz (140 g) 1 minuto, el fumet caliente y el azafrán: 17–18 minutos a fuego medio, removiendo de vez en cuando, y las colas encima los últimos 2. A comer, meloso. |
+| 2:00 | Fuego 1 · Le Creuset | Estofado: prueba la carne (si sigue dura, 15 minutos más). Añade la patata chascada (400 g) y cuece 25–30 minutos, destapado al final si hace falta espesar; los guisantes, los últimos 5. Rectifica de sal. |
+| 2:35 | Táperes | Deja templar el estofado y repártelo (3 cazos para Guillermo y 2 para Indi), a la nevera: es la comida del miércoles. |
 
 ### Cenas
 
-*Duración: 1 h, aproximadamente, con la crema de boniato de la cena de hoy.*
+*Duración: 1 h, aproximadamente, con la crema de boniato de la cena de hoy. Cabe después de comer, mientras el estofado acaba.*
 
 **A la nevera:**
 - Pechuga asada y desmenuzada y zanahoria rallada para los tacos (lunes)
@@ -399,12 +404,12 @@
 
 ### Mediodía (táperes)
 
-*Duración: 2 h 35 min, aproximadamente, por el estofado: a la 1 h 25 están los táperes, a la 1 h 40 coméis la lubina a la sal y luego el estofado acaba solo, a fuego suave (en ese rato cabe la tanda de cenas).*
+*Duración: 1 h 40 min, aproximadamente: a la 1 h 25 están los táperes y a la 1 h 40 coméis la lubina a la sal.*
 
 **A la nevera:**
-- Lentejas con pollo, 2 raciones (lunes)
+- Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (lunes)
 - Solomillos al adobo barbacoa con sus patatas, 2 raciones (martes; la ensalada, al momento)
-- Estofado de ternera, 2 raciones (miércoles)
+- Potaje de garbanzos con acelgas, 2 raciones, y 2 huevos duros con cáscara (miércoles)
 
 **Al congelador** (pásalo a la nevera la noche antes):
 - Albóndigas en salsa con su arroz, 2 raciones (jueves)
@@ -415,27 +420,28 @@
 
 | Hora | Dónde | Qué hacer |
 | :--- | :--- | :--- |
-| 0:00 | Preparación | Por la mañana, deja la lenteja pardina en remojo 2–4 horas. Lava el arroz integral. Mezcla el adobo de la barbacoa, unta los solomillos (360 g) y déjalos marinando en la nevera. Corta la carne del estofado (340 g) en dados y salpiméntala, y trocea en el robot su cebolla, su ajo y su zanahoria (4–5 s/vel 5). |
-| 0:05 | Fuego 1 · Le Creuset | Estofado (2 raciones): dora la carne 4–5 minutos y sácala; en la misma grasa, pocha la cebolla, el ajo y la zanahoria 10 minutos y el tomate rallado 5. Vuelve a meter la carne con el balsámico, cubre justo con el caldo (700 ml) y pon las hierbas; cuando hierva, tapa y a fuego suave 1 h 30 min, moviendo la olla de vez en cuando. |
-| 0:05 | Robot y tabla | Mezcla de las albóndigas en el robot: cebolla, ajo, pan, leche, huevo y perejil 6 s/vel 6, y la carne con la sal 15–20 s/vel 5; a la nevera. Luego trocea, por tandas (4–5 s/vel 5), la cebolla, la zanahoria y el pimiento de la salsa de las albóndigas y los pimientos y el tomate del arroz con pollo, y guarda cada cosa aparte. A cuchillo: el pollo de las lentejas y el del arroz, en dados; los pimientos, la cebolla y el tomate del pisto, en dados, y ralla el tomate de las lentejas. |
-| 0:15 | Robot | Lentejas con pollo (2 raciones): trocea su cebolla, su zanahoria, sus pimientos y su puerro 5 s/vel 5; con la mariposa, sofrito con el aceite 10 min/120 °C/vel 1, y el tomate, el pimentón, el comino y el laurel, 3 min. Luego las lentejas escurridas, la patata chascada y el agua (600 ml), 25 min/100 °C/vel 1/giro inverso, con el pollo (300 g) los últimos 8. Si siguen duras, 5 minutos más. |
+| 0:00 | Preparación | Lava el arroz integral y el redondo. Mezcla el adobo de la barbacoa, unta los solomillos (360 g) y déjalos marinando en la nevera. |
+| 0:05 | Robot y tabla | Mezcla de las albóndigas en el robot: cebolla, ajo, pan, leche, huevo y perejil 6 s/vel 6, y la carne con la sal 15–20 s/vel 5; a la nevera. Luego trocea, por tandas (4–5 s/vel 5), la cebolla del potaje, la cebolla, la zanahoria y el pimiento de la salsa de las albóndigas y los pimientos y el tomate del arroz con pollo, y guarda cada cosa aparte. A cuchillo: las acelgas en tiras, el pollo del arroz en dados, el solomillo de cerdo en medallones, y los pimientos, la cebolla y el tomate del pisto, en dados. |
+| 0:15 | Robot | Salsa de piquillos del solomillo: trocea la cebolla y el ajo 4 s/vel 5 y sofríelos con la mitad del aceite 8 min/120 °C/vel 1; añade los piquillos y el caldo, 5 min/100 °C/vel 1, y tritura 30 s, subiendo de vel 5 a 10. Pásala a un bol y lava el vaso. |
+| 0:15 | Fuego 1 · olla | Potaje de garbanzos (2 raciones): sofríe la cebolla y el ajo con el aceite 5 minutos; añade la patata chascada, el caldo, el tomate concentrado, el pimentón y el laurel, 20 minutos; luego los garbanzos y las acelgas, 10 minutos más. |
 | 0:15 | Fuego 2 · olla | Arroz integral de las albóndigas: 120 g, el tiempo del paquete; escúrrelo y resérvalo. |
 | 0:15 | Fuego 3 · sartén | Salsa de las albóndigas: sofríe sus verduras con el aceite 8 minutos y añade el tomate y el laurel, 10 minutos; apártala del fuego. |
 | 0:20 | Airfryer | Haz las albóndigas (unas 12, del tamaño de una nuez) y ponlas a 190 °C 8–10 minutos, en dos tandas si no caben. |
-| 0:45 | Fuego 3 · sartén | Quita el laurel de la salsa, mete las albóndigas y cuécelas 10 minutos a fuego suave. Repártelas con el arroz. |
-| 0:50 | Fuego 2 · cazuela | Arroz con pollo (2 raciones): dora el pollo 4–5 minutos, añade los pimientos y el tomate 5 minutos y luego las judías y el caldo; cuando hierva, el arroz redondo (140 g) 15–17 minutos, sin remover. |
-| 0:55 | Airfryer | Solomillos de la barbacoa a 180 °C 5 minutos; dales la vuelta, píntalos con la salsa barbacoa y 4–5 minutos más. Sus patatas (440 g en rodajas, con spray y sal), 10–12 minutos de microondas. |
+| 0:35 | Robot | Arroz con pollo (2 raciones), con la mariposa: el aceite, el pollo, los pimientos, el tomate, las judías y el caldo, a 120 °C y vel 1 hasta que hierva (10–15 minutos); luego el arroz redondo (140 g), 15 min/100 °C/vel 0, y 5 minutos de reposo. |
+| 0:40 | Fuego 3 · sartén | Quita el laurel de la salsa, mete las albóndigas y cuécelas 10 minutos a fuego suave. Repártelas con el arroz. |
+| 0:50 | Fuego 1 · cazo | Aparta el potaje. Cuece 2 huevos 10 minutos para el potaje y guárdalos con cáscara. |
+| 0:50 | Fuego 3 · sartén | Pasa las albóndigas a sus táperes. Solomillo en salsa de piquillos (2 raciones): dora los medallones (340 g), salpimentados, 2 minutos por lado con el resto del aceite; echa la salsa del robot y cuécelos 4–5 minutos a fuego suave. |
+| 0:50 | Airfryer | Solomillos de la barbacoa a 180 °C 5 minutos; dales la vuelta, píntalos con la salsa barbacoa y 4–5 minutos más. |
+| 1:00 | Microondas | Patatas de los solomillos de la barbacoa (440 g en rodajas, con spray y sal), 10–12 minutos; luego las del solomillo de cerdo (600 g en rodajas, tapadas con un poco de agua y sal), 8–10 minutos. |
+| 1:00 | Fuego 3 · sartén | Pasa el solomillo a su táper. Pisto: pimiento verde 5 minutos, pimiento rojo y cebolla 10 y tomate 10 más. |
 | 1:10 | Horno | Precalienta a 200 °C para la lubina. |
-| 1:15 | Fuego 3 · sartén | Pisto: pimiento verde 5 minutos, pimiento rojo y cebolla 10 y tomate 10 más. |
-| 1:20 | Horno | Lubinas a la sal: mezcla la sal gruesa con las hierbas y las pimientas, humedécela, haz una cama en una bandeja, pon las lubinas sin escamar y cúbrelas bien; 18–20 minutos. La patata de la lubina, en dados, 6–7 minutos de microondas. |
-| 1:25 | Táperes | Deja templar (el arroz con pollo, extendido en una fuente para que se enfríe rápido) y reparte: 3 de cada 5 cazos para Guillermo y 2 para Indi. Nevera las lentejas y los solomillos con sus patatas; congelador las albóndigas con su arroz, el arroz con pollo y el secreto (crudo, en bolsa). |
-| 1:40 | Horno | Saca las lubinas, rompe la costra de sal y a comer, con el pisto y la patata. El estofado sigue solo, a fuego suave. |
-| 2:00 | Fuego 1 · Le Creuset | Estofado: prueba la carne (si sigue dura, 15 minutos más). Añade la patata chascada (400 g) y cuece 25–30 minutos, destapado al final si hace falta espesar; los guisantes, los últimos 5. Rectifica de sal. |
-| 2:35 | Táperes | Deja templar el estofado y repártelo (3 cazos para Guillermo y 2 para Indi), a la nevera: es la comida del miércoles. |
+| 1:20 | Horno | Lubinas a la sal: mezcla la sal gruesa con las hierbas y las pimientas, humedécela, haz una cama en una bandeja, pon las lubinas sin escamar y cúbrelas bien; 18–20 minutos. Cuando acaben las otras patatas, la de la lubina, en dados, 6–7 minutos de microondas. |
+| 1:25 | Táperes | Deja templar (el arroz con pollo, extendido en una fuente para que se enfríe rápido) y reparte: 3 de cada 5 cazos para Guillermo y 2 para Indi. Nevera el solomillo de cerdo y los solomillos de la barbacoa, cada uno con sus patatas, y el potaje con sus huevos; congelador las albóndigas con su arroz, el arroz con pollo y el secreto (crudo, en bolsa). |
+| 1:40 | Horno | Saca las lubinas, rompe la costra de sal y a comer, con el pisto y la patata. |
 
 ### Cenas
 
-*Duración: 30 min, aproximadamente. Cabe después de comer, mientras el estofado acaba.*
+*Duración: 30 min, aproximadamente. Cabe después de comer.*
 
 **A la nevera:**
 - Pechuga asada entera para el sándwich del miércoles
@@ -443,14 +449,14 @@
 - 6 huevos cocidos con cáscara para la ensalada (martes)
 
 **Al congelador** (pásalo a la nevera la noche antes):
-- Nada
+- Pechuga cruda de la crema de boniato del domingo 20 (360 g), en bolsa
 
 **Paso a paso:**
 
 | Hora | Dónde | Qué hacer |
 | :--- | :--- | :--- |
 | 0:00 | Horno | Precalienta a 200 °C. Pechuga del sándwich del miércoles (200 g), con sal, pimienta y un poco de aceite, 20–25 minutos. |
-| 0:05 | Tabla | Corta en tiras el pimiento y la cebolla de la pizza del lunes (a un táper). |
+| 0:05 | Tabla | Corta en tiras el pimiento y la cebolla de la pizza del lunes (a un táper). La pechuga de la crema de boniato del domingo 20 (360 g), cruda, en una bolsa al congelador. |
 | 0:10 | Fuego 2 · olla | Cuece 10 huevos 10 minutos: 4 para la crema de verduras de esta noche y 6 para la ensalada del martes, que se guardan con cáscara. |
 | 0:25 | Horno | Saca la pechuga y déjala enfriar entera (se corta al hacer el sándwich). Apaga el horno. |
 | 0:30 | Táperes | Guarda en la nevera la pechuga, lo de la pizza y los 6 huevos. Para cenar, la crema de verduras (hecha ayer) con los huevos y el jamón crujiente. |
@@ -463,7 +469,7 @@
 - **Miércoles 16:** Cena: sándwich de pollo con la pechuga del batch, en lonchas finas. Por la noche, pasa las albóndigas del jueves a la nevera.
 - **Jueves 17:** Cena: tortilla de patata con claras, al momento (unos 25 minutos). Por la noche, pasa el arroz con pollo del viernes a la nevera.
 - **Viernes 18 por la noche:** Pasa el secreto ibérico a la nevera (arroz meloso del sábado, en la Le Creuset).
-- **Sábado 19 por la noche:** Pasa el rape a la nevera (marmitako del domingo).
+- **Sábado 19 por la noche:** Pasa del congelador a la nevera el rape (marmitako del domingo) y la pechuga de la crema de boniato (cena del domingo).
 
 ---
 
@@ -473,12 +479,12 @@
 
 ### Mediodía (táperes)
 
-*Duración: 1 h 10 min, aproximadamente. Para comer hoy, el marmitako de rape (unos 55 minutos, al terminar).*
+*Duración: 2 h 35 min, aproximadamente, por el estofado: a la 1 h 20 están los táperes y hacia las 2 h 15 coméis el marmitako; luego el estofado acaba solo, a fuego suave.*
 
 **A la nevera:**
-- Lentejas al curry, 2 raciones con su arroz, y 6 huevos cocidos con cáscara (4 para las lentejas y 2 para el potaje)
-- Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (martes)
-- Potaje de garbanzos con acelgas, 2 raciones (miércoles)
+- Lentejas al curry, 2 raciones con su arroz, y 4 huevos cocidos con cáscara (lunes)
+- Espaguetis a la tofuloñesa, 2 raciones (martes)
+- Estofado de ternera, 2 raciones (miércoles)
 
 **Al congelador** (pásalo a la nevera la noche antes):
 - Pollo teriyaki con su arroz y verduras, 2 raciones (jueves 24)
@@ -487,22 +493,24 @@
 
 | Hora | Dónde | Qué hacer |
 | :--- | :--- | :--- |
-| 0:00 | Preparación | Lava las lentejas, el arroz integral y el basmati. |
-| 0:05 | Robot y tabla | Trocea en el robot la cebolla de las lentejas (4–5 s/vel 5) y guárdala. A cuchillo: la calabaza de las lentejas en dados, el solomillo de cerdo en medallones, el pollo del teriyaki en dados y sus verduras en tiras, y las acelgas en tiras. |
-| 0:15 | Fuego 1 · olla a presión | Lentejas al curry (2 raciones): sofrito de cebolla y tomate 6–8 minutos y calabaza 2–3; añade las lentejas (160 g), el agua, la sal y el curry, cierra y cuece 12–15 minutos desde que suba la válvula. |
-| 0:15 | Robot | Salsa de piquillos del solomillo: trocea la cebolla y el ajo 4 s/vel 5 y sofríelos con la mitad del aceite 8 min/120 °C/vel 1; añade los piquillos y el caldo, 5 min/100 °C/vel 1, y tritura 30 s, subiendo de vel 5 a 10. Pásala a un bol y lava el vaso. |
-| 0:20 | Fuego 2 · olla | Arroz integral de las lentejas: 80 g, el tiempo del paquete. |
-| 0:30 | Robot | Potaje de garbanzos (2 raciones): pica la cebolla y el ajo 10 s/vel 5; añade la patata chascada, el aceite, el caldo, el tomate concentrado, el pimentón y el laurel, 20 min/100 °C/vel 1/giro inverso, y luego los garbanzos y las acelgas, 10 minutos más. |
-| 0:30 | Fuego 3 · sartén | Solomillo en salsa de piquillos (2 raciones): dora los medallones (340 g), salpimentados, 2 minutos por lado con el resto del aceite; echa la salsa del robot y cuécelos 4–5 minutos a fuego suave. |
-| 0:45 | Fuego 1 · cazo | Aparta la olla de las lentejas y deja que baje la presión sola. Cuece 6 huevos 10 minutos (4 para las lentejas y 2 para el potaje) y guárdalos con cáscara. |
-| 0:45 | Fuego 3 · sartén | Pasa el solomillo a su táper. Pollo teriyaki (2 raciones): dora el pollo (340 g) 4–5 minutos y sácalo; saltea las verduras 5–6 minutos; vuelve a meter el pollo con la salsa (soja, miel, jengibre, ajo, limón, agua y maicena) 1–2 minutos. |
-| 0:50 | Fuego 2 · olla | Escurre el arroz y repártelo con las lentejas. En ese fuego, el basmati del teriyaki (130 g). |
-| 0:55 | Microondas | Patatas del solomillo: 600 g en rodajas, tapadas con un poco de agua y sal, 8–10 minutos. |
-| 1:10 | Táperes | Deja templar (el arroz, extendido en una fuente para que se enfríe rápido) y reparte: 3 de cada 5 cazos para Guillermo y 2 para Indi. Nevera las lentejas con su arroz y los huevos, el solomillo con sus patatas y el potaje; congelador el teriyaki con el basmati. Para comer: el marmitako de rape. |
+| 0:00 | Preparación | Por la mañana, deja las lentejas en remojo 2–4 horas (en el robot, sin remojo no se hacen). Prensa el tofu entre papel de cocina con un peso encima. Lava el arroz integral y el basmati. Corta la carne del estofado (340 g) en dados y salpiméntala, y trocea en el robot su cebolla, su ajo y su zanahoria (4–5 s/vel 5). |
+| 0:05 | Fuego 1 · Le Creuset | Estofado (2 raciones): dora la carne 4–5 minutos y sácala; en la misma grasa, pocha la cebolla, el ajo y la zanahoria 10 minutos y el tomate rallado 5. Vuelve a meter la carne con el balsámico, cubre justo con el caldo (700 ml) y pon las hierbas; cuando hierva, tapa y a fuego suave 1 h 30 min, moviendo la olla de vez en cuando. |
+| 0:05 | Fuego 2 · cazo | Cuece 4 huevos 10 minutos para las lentejas y guárdalos con cáscara. |
+| 0:05 | Robot y tabla | Trocea en el robot la cebolla de las lentejas y, aparte, la cebolla y los pimientos de la tofuloñesa (4–5 s/vel 5). A cuchillo: la calabaza de las lentejas en dados, el pollo del teriyaki en dados y sus verduras en tiras. Ralla el tofu grueso y mézclalo con las especias y la sal. |
+| 0:15 | Robot | Lentejas al curry (2 raciones), con la mariposa: la cebolla, el tomate y el aceite, 6 min/120 °C/vel 1; la calabaza, 3 min; luego las lentejas escurridas (160 g), el agua, la sal y el curry, 25 min/100 °C/vel 1/giro inverso. Si siguen duras, 5 minutos más. |
+| 0:15 | Fuego 2 · olla | Arroz integral de las lentejas: 80 g, el tiempo del paquete; escúrrelo y repártelo con las lentejas. |
+| 0:15 | Fuego 3 · sartén | Tofuloñesa: pocha la cebolla y los pimientos con el aceite 10 minutos; sube el fuego, añade el tofu y dóralo 6–8 minutos, removiendo poco, y luego el tomate, 8–10 minutos. |
+| 0:45 | Fuego 2 · olla | Agua para la pasta: 130 g de espaguetis, el tiempo del paquete; escúrrelos y mézclalos con la tofuloñesa. |
+| 0:45 | Fuego 3 · sartén | Pasa la tofuloñesa a un bol. Pollo teriyaki (2 raciones): dora el pollo (340 g) 4–5 minutos y sácalo; saltea las verduras 5–6 minutos; vuelve a meter el pollo con la salsa (soja, miel, jengibre, ajo, limón, agua y maicena) 1–2 minutos. |
+| 1:05 | Fuego 2 · olla | El basmati del teriyaki: 130 g, el tiempo del paquete (10–12 minutos). |
+| 1:20 | Táperes | Deja templar (el arroz, extendido en una fuente para que se enfríe rápido) y reparte: 3 de cada 5 cazos para Guillermo y 2 para Indi. Nevera las lentejas con su arroz y los huevos y la tofuloñesa; congelador el teriyaki con el basmati. El estofado sigue solo, a fuego suave. |
+| 1:20 | Fuego 2 · cazuela | Marmitako de rape para comer hoy (unos 55 minutos): calienta el caldo con el puerro y el perejil (5 minutos de microondas) y cuélalo; en la cazuela, el sofrito de cebolleta y pimientos 15 minutos, el tomate 5 y el choricero; las patatas chascadas, cubiertas con el caldo, 30–35 minutos, y el rape, un par de minutos al final. |
+| 2:00 | Fuego 1 · Le Creuset | Estofado: prueba la carne (si sigue dura, 15 minutos más). Añade la patata chascada (400 g) y cuece 25–30 minutos, destapado al final si hace falta espesar; los guisantes, los últimos 5. Rectifica de sal. |
+| 2:35 | Táperes | Deja templar el estofado y repártelo (3 cazos para Guillermo y 2 para Indi), a la nevera: es la comida del miércoles. |
 
 ### Cenas
 
-*Duración: 1 h, aproximadamente, con la crema de boniato de la cena de hoy.*
+*Duración: 1 h, aproximadamente, con la crema de boniato de la cena de hoy. Empiézala cuando el robot quede libre, hacia la 1 h de la tanda de mediodía.*
 
 **A la nevera:**
 - Pollo del kebab marinado y salsa blanca (lunes)

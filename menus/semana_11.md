@@ -5,8 +5,8 @@
 | Día | Desayuno | Comida | Merienda | Cena | Total del día |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Lunes 21 dic (E)** | Tostada integral con aguacate y huevo + yogur | 🎬 Lentejas con calabaza al curry y huevo cocido | Natillas +Proteínas con plátano y pipas | 🎬 Kebab de pollo con patatas y salsa blanca | ≈1929 kcal · 129 g prot. |
-| **Martes 22 dic (E)** | Batido proteico + tostada integral y kiwi | 🎬 Solomillo de cerdo en salsa de pimientos del piquillo con patatas | Natillas +Proteínas con plátano y pipas | 🤖 Crema de calabaza con pipas y tortilla de claras con jamón | ≈1888 kcal · 119 g prot. |
-| **Miércoles 23 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🤖 Potaje de garbanzos con acelgas y huevo | Natillas +Proteínas con kiwi y pipas | 🎬 Fajitas de pollo con pan nube | ≈1596 kcal · 120 g prot. |
+| **Martes 22 dic (E)** | Batido proteico + tostada integral y kiwi | 🎬 Espaguetis a la tofuloñesa | Natillas +Proteínas con plátano y pipas | 🤖 Crema de calabaza con pipas y tortilla de claras con jamón | ≈1928 kcal · 116 g prot. |
+| **Miércoles 23 dic (D)** | Tortilla de claras con cebolla y pimiento + tostada | 🎬 Estofado de ternera con patatas y guisantes | Natillas +Proteínas con kiwi y pipas | 🎬 Fajitas de pollo con pan nube | ≈1652 kcal · 139 g prot. |
 | **Jueves 24 dic (E)** | Batido de plátano, avena y claras + kiwi | 🎬 Pollo teriyaki con arroz y verduras salteadas | Natillas +Proteínas con plátano y pipas | **Libre** | ≈1217 kcal · 87 g prot. + cena libre |
 | **Viernes 25 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | **Libre** | Natillas +Proteínas con plátano y pipas | **Libre** | ≈676 kcal · 34 g prot. + comida y cena libres |
 | **Sábado 26 dic (D)** | Tostada integral con aguacate y huevo | 🎬 Salmón a la plancha con patatas al ajo y limón | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1050 kcal · 63 g prot. + cena fuera |
@@ -14,10 +14,10 @@
 
 **Batch cooking del domingo 20 de diciembre** (paso a paso en `recetas/batch_cooking.md`):
 - Ese día comes el marmitako de rape y cenas la crema de boniato con pollo (en la tanda de cenas).
-- **Mediodía (táperes):** 1 h 10 min, aproximadamente. Para comer hoy, el marmitako de rape (unos 55 minutos, al terminar).
-  - A la nevera: Lentejas al curry, 2 raciones con su arroz, y 6 huevos cocidos con cáscara (4 para las lentejas y 2 para el potaje); Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (martes); Potaje de garbanzos con acelgas, 2 raciones (miércoles).
+- **Mediodía (táperes):** 2 h 35 min, aproximadamente, por el estofado: a la 1 h 20 están los táperes y hacia las 2 h 15 coméis el marmitako; luego el estofado acaba solo, a fuego suave.
+  - A la nevera: Lentejas al curry, 2 raciones con su arroz, y 4 huevos cocidos con cáscara (lunes); Espaguetis a la tofuloñesa, 2 raciones (martes); Estofado de ternera, 2 raciones (miércoles).
   - Al congelador (pásalo a la nevera la noche antes): Pollo teriyaki con su arroz y verduras, 2 raciones (jueves 24).
-- **Cenas:** 1 h, aproximadamente, con la crema de boniato de la cena de hoy.
+- **Cenas:** 1 h, aproximadamente, con la crema de boniato de la cena de hoy. Empiézala cuando el robot quede libre, hacia la 1 h de la tanda de mediodía.
   - A la nevera: Pollo del kebab marinado y salsa blanca (lunes); Crema de calabaza, 2 raciones (martes; la tortilla, al momento); Pechuga asada y desmenuzada y juliana para las fajitas (miércoles).
   - Al congelador (pásalo a la nevera la noche antes): nada.
 

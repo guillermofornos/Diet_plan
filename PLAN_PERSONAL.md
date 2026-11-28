@@ -73,9 +73,9 @@
 
 | Día | Comida (60 %) | Cena (60 %) | Sin entreno | Con pádel | Con gimnasio |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Lunes 30 nov | Lentejas con jamón y huevo duro (≈818 kcal) | Fajitas de pollo con pan nube (≈558 kcal) | ≈1.904 kcal · 181 g | ≈2.077 kcal · 192 g | ≈2.296 kcal · 175 g |
+| Lunes 30 nov | Solomillo de cerdo en salsa de pimientos del piquillo con patatas (≈798 kcal) | Fajitas de pollo con pan nube (≈558 kcal) | ≈1.884 kcal · 184 g | ≈2.057 kcal · 195 g | ≈2.275 kcal · 178 g |
 | Martes 1 dic | Albóndigas caseras en salsa de tomate con arroz integral (≈795 kcal) | Sopa cremosa de pollo con huevo pochado (≈676 kcal) | ≈1.999 kcal · 187 g | ≈2.172 kcal · 198 g | ≈2.267 kcal · 181 g |
-| Miércoles 2 dic | Estofado de ternera con patatas y guisantes (≈705 kcal) | Ensalada cremosa de huevo y gambas (≈568 kcal) | ≈1.756 kcal · 177 g | ≈1.929 kcal · 188 g | ≈1.993 kcal · 178 g |
+| Miércoles 2 dic | Solomillos al adobo barbacoa con patatas y ensalada de granada (≈767 kcal) | Ensalada cremosa de huevo y gambas (≈568 kcal) | ≈1.817 kcal · 191 g | ≈1.990 kcal · 202 g | ≈2.054 kcal · 193 g |
 | Jueves 3 dic | Potaje de garbanzos con acelgas y huevo (≈638 kcal) | Kebab de pollo con patatas y salsa blanca (≈695 kcal) | ≈1.861 kcal · 160 g | ≈2.034 kcal · 171 g | ≈2.253 kcal · 154 g |
 | Viernes 4 dic | Arroz caldoso con pollo y judías verdes (≈684 kcal) | Fuera | ≈1.212 kcal · 118 g | ≈1.385 kcal · 129 g | ≈1.480 kcal · 112 g |
 | Sábado 5 dic | Dorada a la sal con patatas y ensalada de tomate (≈673 kcal) | Fuera | ≈1.155 kcal · 117 g | ≈1.328 kcal · 128 g | ≈1.286 kcal · 105 g |
@@ -85,9 +85,9 @@
 
 | Día | Comida (60 %) | Cena (60 %) | Sin entreno | Con pádel | Con gimnasio |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Lunes 7 dic | Lentejas con calabaza al curry y huevo cocido (≈882 kcal) | Tacos de zanahoria con pollo (≈668 kcal) | ≈2.078 kcal · 178 g | ≈2.251 kcal · 189 g | ≈2.284 kcal · 171 g |
-| Martes 8 dic | Solomillo de cerdo en salsa de pimientos del piquillo con patatas (≈798 kcal) | Crema de calabaza con pipas y tortilla de claras con jamón (≈508 kcal) | ≈1.834 kcal · 166 g | ≈2.007 kcal · 177 g | ≈2.226 kcal · 160 g |
-| Miércoles 9 dic | Gratinado de patata y pollo al curry (≈780 kcal) | Sándwich mixto fit (jamón cocido y mozzarella) con tomate (≈534 kcal) | ≈1.796 kcal · 188 g | ≈1.969 kcal · 199 g | ≈1.928 kcal · 177 g |
+| Lunes 7 dic | Lentejas con jamón y huevo duro (≈818 kcal) | Tacos de zanahoria con pollo (≈668 kcal) | ≈2.014 kcal · 182 g | ≈2.187 kcal · 193 g | ≈2.221 kcal · 175 g |
+| Martes 8 dic | Gratinado de patata y pollo al curry (≈780 kcal) | Crema de calabaza con pipas y tortilla de claras con jamón (≈508 kcal) | ≈1.816 kcal · 186 g | ≈1.989 kcal · 197 g | ≈2.207 kcal · 180 g |
+| Miércoles 9 dic | Estofado de ternera con patatas y guisantes (≈705 kcal) | Sándwich mixto fit (jamón cocido y mozzarella) con tomate (≈534 kcal) | ≈1.722 kcal · 165 g | ≈1.895 kcal · 176 g | ≈1.853 kcal · 154 g |
 | Jueves 10 dic | Espaguetis a la tofuloñesa (≈846 kcal) | Ensalada cremosa de huevo y gambas (≈568 kcal) | ≈1.942 kcal · 177 g | ≈2.115 kcal · 188 g | ≈2.210 kcal · 171 g |
 | Viernes 11 dic | Pollo teriyaki con arroz y verduras salteadas (≈688 kcal) | Fuera | ≈1.216 kcal · 122 g | ≈1.389 kcal · 133 g | ≈1.483 kcal · 117 g |
 | Sábado 12 dic | Salmón en papillote con verduras y patata (≈672 kcal) | Fuera | ≈1.154 kcal · 106 g | ≈1.327 kcal · 117 g | ≈1.285 kcal · 95 g |
@@ -97,9 +97,9 @@
 
 | Día | Comida (60 %) | Cena (60 %) | Sin entreno | Con pádel | Con gimnasio |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Lunes 14 dic | Lentejas estofadas con pollo y verduras (≈823 kcal) | Pizza de avena y yogur proteico con jamón cocido (≈660 kcal) | ≈2.012 kcal · 188 g | ≈2.185 kcal · 199 g | ≈2.279 kcal · 182 g |
+| Lunes 14 dic | Solomillo de cerdo en salsa de pimientos del piquillo con patatas (≈798 kcal) | Pizza de avena y yogur proteico con jamón cocido (≈660 kcal) | ≈1.987 kcal · 173 g | ≈2.160 kcal · 184 g | ≈2.254 kcal · 167 g |
 | Martes 15 dic | Solomillos al adobo barbacoa con patatas y ensalada de granada (≈767 kcal) | Ensalada cremosa de huevo y gambas (≈568 kcal) | ≈1.863 kcal · 191 g | ≈2.036 kcal · 202 g | ≈2.254 kcal · 185 g |
-| Miércoles 16 dic | Estofado de ternera con patatas y guisantes (≈705 kcal) | Sándwich de pollo, aguacate y tomate con salsa de yogur y mostaza (≈500 kcal) | ≈1.688 kcal · 159 g | ≈1.861 kcal · 170 g | ≈1.925 kcal · 161 g |
+| Miércoles 16 dic | Potaje de garbanzos con acelgas y huevo (≈638 kcal) | Sándwich de pollo, aguacate y tomate con salsa de yogur y mostaza (≈500 kcal) | ≈1.621 kcal · 137 g | ≈1.794 kcal · 148 g | ≈1.858 kcal · 139 g |
 | Jueves 17 dic | Albóndigas caseras en salsa de tomate con arroz integral (≈795 kcal) | Tortilla de patata con claras (≈558 kcal) | ≈1.881 kcal · 168 g | ≈2.054 kcal · 179 g | ≈2.272 kcal · 162 g |
 | Viernes 18 dic | Arroz caldoso con pollo y judías verdes (≈684 kcal) | Fuera | ≈1.212 kcal · 118 g | ≈1.385 kcal · 129 g | ≈1.480 kcal · 112 g |
 | Sábado 19 dic | Arroz meloso con secreto ibérico (≈826 kcal) | Fuera | ≈1.309 kcal · 93 g | ≈1.482 kcal · 104 g | ≈1.440 kcal · 81 g |
@@ -110,8 +110,8 @@
 | Día | Comida (60 %) | Cena (60 %) | Sin entreno | Con pádel | Con gimnasio |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Lunes 21 dic | Lentejas con calabaza al curry y huevo cocido (≈882 kcal) | Kebab de pollo con patatas y salsa blanca (≈695 kcal) | ≈2.105 kcal · 178 g | ≈2.278 kcal · 189 g | ≈2.311 kcal · 172 g |
-| Martes 22 dic | Solomillo de cerdo en salsa de pimientos del piquillo con patatas (≈798 kcal) | Crema de calabaza con pipas y tortilla de claras con jamón (≈508 kcal) | ≈1.834 kcal · 166 g | ≈2.007 kcal · 177 g | ≈2.226 kcal · 160 g |
-| Miércoles 23 dic | Potaje de garbanzos con acelgas y huevo (≈638 kcal) | Fajitas de pollo con pan nube (≈558 kcal) | ≈1.678 kcal · 158 g | ≈1.851 kcal · 169 g | ≈1.915 kcal · 160 g |
+| Martes 22 dic | Espaguetis a la tofuloñesa (≈846 kcal) | Crema de calabaza con pipas y tortilla de claras con jamón (≈508 kcal) | ≈1.882 kcal · 163 g | ≈2.055 kcal · 174 g | ≈2.274 kcal · 157 g |
+| Miércoles 23 dic | Estofado de ternera con patatas y guisantes (≈705 kcal) | Fajitas de pollo con pan nube (≈558 kcal) | ≈1.745 kcal · 180 g | ≈1.918 kcal · 191 g | ≈1.982 kcal · 182 g |
 | Jueves 24 dic | Pollo teriyaki con arroz y verduras salteadas (≈688 kcal) | Libre | ≈1.216 kcal · 122 g | ≈1.389 kcal · 133 g | ≈1.451 kcal · 121 g |
 | Viernes 25 dic | Libre | Libre | — | — | — |
 | Sábado 26 dic | Salmón a la plancha con patatas al ajo y limón (≈667 kcal) | Fuera | ≈1.150 kcal · 105 g | ≈1.323 kcal · 116 g | ≈1.281 kcal · 94 g |

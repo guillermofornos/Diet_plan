@@ -134,7 +134,7 @@ def reglas():
             "Las que pasas tú (enlace, foto, captura o texto) tienen prioridad sobre las demás: si hay que hacer sitio o elegir, se quedan las tuyas.",
         ]),
         ("Comidas", [
-            "Lentejas, un solo día por semana. Ningún plato se repite dentro de la semana ni de una semana a la siguiente.",
+            "Ningún plato se repite dentro de la semana ni de una semana a la siguiente, y tampoco el mismo tipo de plato aunque sea otra receta: entre unas lentejas y las siguientes, una semana sin lentejas; igual con los garbanzos y con los guisos de ternera. Lentejas, como mucho un día por semana.",
             "El estofado de ternera (tu receta) es el guiso de carne habitual: cada dos semanas, a fuego suave en la Le Creuset (nunca en la olla a presión).",
             "Una vez al mes, el arroz meloso con secreto ibérico en la Le Creuset.",
             "Nunca pollo en la comida y en la cena del mismo día. Solomillos de pollo, no contramuslos.",

@@ -4,9 +4,9 @@
 
 | Día | Desayuno | Comida | Merienda | Cena | Total del día |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Lunes 7 dic (E)** | Tostada integral con aguacate y huevo + yogur | 🎬 Lentejas con calabaza al curry y huevo cocido | Natillas +Proteínas con plátano y pipas | 🎬 Tacos de zanahoria con pollo | ≈1906 kcal · 128 g prot. |
-| **Martes 8 dic (E)** | Batido proteico + tostada integral y kiwi | 🎬 Solomillo de cerdo en salsa de pimientos del piquillo con patatas | Natillas +Proteínas con plátano y pipas | 🤖 Crema de calabaza con pipas y tortilla de claras con jamón | ≈1888 kcal · 119 g prot. |
-| **Miércoles 9 dic (D)** | Tostada integral con aguacate y huevo | 🎬 Gratinado de patata y pollo al curry | Natillas +Proteínas con kiwi y pipas | Sándwich mixto fit (jamón cocido y mozzarella) con tomate | ≈1589 kcal · 132 g prot. |
+| **Lunes 7 dic (E)** | Tostada integral con aguacate y huevo + yogur | 🤖 Lentejas con jamón y huevo duro | Natillas +Proteínas con plátano y pipas | 🎬 Tacos de zanahoria con pollo | ≈1853 kcal · 131 g prot. |
+| **Martes 8 dic (E)** | Batido proteico + tostada integral y kiwi | 🎬 Gratinado de patata y pollo al curry | Natillas +Proteínas con plátano y pipas | 🤖 Crema de calabaza con pipas y tortilla de claras con jamón | ≈1873 kcal · 136 g prot. |
+| **Miércoles 9 dic (D)** | Tostada integral con aguacate y huevo | 🎬 Estofado de ternera con patatas y guisantes | Natillas +Proteínas con kiwi y pipas | Sándwich mixto fit (jamón cocido y mozzarella) con tomate | ≈1527 kcal · 113 g prot. |
 | **Jueves 10 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🎬 Espaguetis a la tofuloñesa | Natillas +Proteínas con plátano y pipas | Ensalada cremosa de huevo y gambas | ≈1854 kcal · 128 g prot. |
 | **Viernes 11 dic (E)** | Tostada integral con aguacate y huevo + batido de yogur y kiwi | 🎬 Pollo teriyaki con arroz y verduras salteadas | Natillas +Proteínas con plátano y pipas | **Cena fuera** + *cervezas* | ≈1249 kcal · 83 g prot. + cena fuera |
 | **Sábado 12 dic (D)** | Tostada integral con aguacate y huevo | 🎬 Salmón en papillote con verduras y patata | Natillas +Proteínas con kiwi y pipas | **Cena fuera** + *cervezas* — o en casa: 🎬 Big Mac Fit | ≈1054 kcal · 64 g prot. + cena fuera |
@@ -14,10 +14,10 @@
 
 **Batch cooking del domingo 6 de diciembre** (paso a paso en `recetas/batch_cooking.md`):
 - Ese día comes el arroz meloso con gambones y cenas la crema de boniato con pollo (en la tanda de cenas).
-- **Mediodía (táperes):** 1 h 20 min, aproximadamente. Para comer hoy, el arroz meloso con gambones (unos 50 minutos, al terminar).
-  - A la nevera: Lentejas al curry, 2 raciones con su arroz y 4 huevos cocidos con cáscara (lunes); Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (martes); Gratinado de patata y pollo al curry, 2 raciones (miércoles).
+- **Mediodía (táperes):** 2 h 35 min, aproximadamente, por el estofado: a la 1 h 10 están los táperes y a las 2 horas coméis el arroz meloso con gambones; luego el estofado acaba solo, a fuego suave (en ese rato cabe la tanda de cenas).
+  - A la nevera: Lentejas con jamón, 2 raciones, y 2 huevos duros con cáscara (lunes); Gratinado de patata y pollo al curry, 2 raciones (martes); Estofado de ternera, 2 raciones (miércoles).
   - Al congelador (pásalo a la nevera la noche antes): Espaguetis a la tofuloñesa, 2 raciones (jueves); Pollo teriyaki con su arroz y verduras, 2 raciones (viernes).
-- **Cenas:** 1 h, aproximadamente, con la crema de boniato de la cena de hoy.
+- **Cenas:** 1 h, aproximadamente, con la crema de boniato de la cena de hoy. Cabe después de comer, mientras el estofado acaba.
   - A la nevera: Pechuga asada y desmenuzada y zanahoria rallada para los tacos (lunes); Crema de calabaza, 2 raciones (martes; la tortilla, al momento); 6 huevos cocidos con cáscara para la ensalada (jueves).
   - Al congelador (pásalo a la nevera la noche antes): nada.
 

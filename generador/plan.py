@@ -30,16 +30,16 @@ SEMANAS = [
    filas=[("D4L","LENT1","ME_E","CREMVER"), ("D3","PULPO","ME_E","CENAV"), ("D2","CURRY","ME_D","CREMCAL"), ("D3","CARNEG","ME_E","CRI"),
           ("D4","TERI","ME_E",FUERA), ("D4S","RODA","ME_D",FUERA), ("D2",LIBRE,"ME_D",LIBRE)]),
  dict(num=8, titulo="30 nov – 6 dic", fechas=["2026-11-30","2026-12-01","2026-12-02","2026-12-03","2026-12-04","2026-12-05","2026-12-06"],
-   filas=[("D1","LENTJ","ME_E","FAJ"), ("D4","ALBON","ME_E","SOPA"), ("D2","ESTOF","ME_D","ENSHUEVO"), ("D1","POTG","ME_E","KEB"),
+   filas=[("D1","SOLPIQ","ME_E","FAJ"), ("D4","ALBON","ME_E","SOPA"), ("D2","BBQ","ME_D","ENSHUEVO"), ("D1","POTG","ME_E","KEB"),
           ("D4","ARRPOL","ME_E",FUERA), ("D4S","DORSAL","ME_D",FUERA), ("D2","ARRGAMB","ME_D","CASTA")]),
  dict(num=9, titulo="7 – 13 dic", fechas=["2026-12-07","2026-12-08","2026-12-09","2026-12-10","2026-12-11","2026-12-12","2026-12-13"],
-   filas=[("D4L","LENT2","ME_E","TAC"), ("D1","SOLPIQ","ME_E","CREMCAL"), ("D4S","CURRY","ME_D","SANDMIX"), ("D4","TOFU","ME_E","ENSHUEVO"),
+   filas=[("D4L","LENTJ","ME_E","TAC"), ("D1","CURRY","ME_E","CREMCAL"), ("D4S","ESTOF","ME_D","SANDMIX"), ("D4","TOFU","ME_E","ENSHUEVO"),
           ("D4","TERI","ME_E",FUERA), ("D4S","SALM2","ME_D",FUERA), ("D2","LUBSAL","ME_D","CREMVER")]),
  dict(num=10, titulo="14 – 20 dic", fechas=["2026-12-14","2026-12-15","2026-12-16","2026-12-17","2026-12-18","2026-12-19","2026-12-20"],
-   filas=[("D4","LENT1","ME_E","PZA"), ("D1","BBQ","ME_E","ENSHUEVO"), ("D2","ESTOF","ME_D","SANDPOL"), ("D1","ALBON","ME_E","TOR"),
+   filas=[("D4","SOLPIQ","ME_E","PZA"), ("D1","BBQ","ME_E","ENSHUEVO"), ("D2","POTG","ME_D","SANDPOL"), ("D1","ALBON","ME_E","TOR"),
           ("D4","ARRPOL","ME_E",FUERA), ("D4S","ARRSEC","ME_D",FUERA), ("D2","RAPE","ME_D","CASTA")]),
  dict(num=11, titulo="21 – 27 dic", fechas=["2026-12-21","2026-12-22","2026-12-23","2026-12-24","2026-12-25","2026-12-26","2026-12-27"],
-   filas=[("D4L","LENT2","ME_E","KEB"), ("D1","SOLPIQ","ME_E","CREMCAL"), ("D2","POTG","ME_D","FAJ"), ("D3","TERI","ME_E",LIBRE),
+   filas=[("D4L","LENT2","ME_E","KEB"), ("D1","TOFU","ME_E","CREMCAL"), ("D2","ESTOF","ME_D","FAJ"), ("D3","TERI","ME_E",LIBRE),
           ("D4",LIBRE,"ME_E",LIBRE), ("D4S","SALM1","ME_D",FUERA), ("D2","SEPIA","ME_D","ENSHUEVO")]),
 ]
 def total_dia(fila):
@@ -73,17 +73,35 @@ def comprobar_pescados():
             errores.append(f"Semanas {s['num'] - 1} y {s['num']}: merluza y bacalao sin una semana de por medio")
         previa = p
     return errores
+# Familias: platos distintos que cuentan como el mismo para no repetir (norma del 28 de noviembre, cuando salieron
+# lentejas tres semanas seguidas con recetas distintas): entre dos de la misma familia, una semana de por medio, y nunca
+# dos en la misma semana. Si te parece que dos platos son el mismo, se añaden aquí.
+FAMILIAS = {
+ "lentejas": {"LENT1", "LENT2", "LENTJ"},
+ "garbanzos": {"POTG", "GARBAC"},
+ "guiso de ternera": {"ESTOF", "CARNEG", "JARD", "TERESC"},
+ "tofuloñesa": {"TOFU", "TOFU_D"},
+ "guisantes con jamón": {"GUIS", "GUIS_D", "GUIS_T"},
+ "bacalao a la vizcaína": {"VIZCA", "VIZCA_A"},
+}
+def familia(c):
+    return next((f for f, cs in FAMILIAS.items() if c in cs), c)
+def nombre_familia(f):
+    return f if f in FAMILIAS else R[f]["nombre"]
 def platos_semana(s):
     """Comidas y cenas de una semana (sin desayunos ni meriendas, que se repiten a propósito)."""
     return {c for fila in s["filas"] for c in fila if c not in NO_PLATO and R[c]["tipo"] in PLATOS}
 def comprobar_repeticiones(desde=6):
-    """Desde la semana `desde`: ninguna comida ni cena se repite de una semana a la siguiente, y en el mes nuevo (7 a 10)
-       el pescado ya lo vigila comprobar_pescados (nunca el mismo dos semanas seguidas)."""
+    """Desde la semana `desde`: ninguna comida ni cena se repite de una semana a la siguiente; desde la 7 a la 8, tampoco
+       otro plato de la misma familia (FAMILIAS: lentejas, garbanzos, guiso de ternera...), con una semana de por medio.
+       El pescado lo vigila comprobar_pescados (nunca el mismo dos semanas seguidas)."""
     errores = []
     for a, b in zip(SEMANAS, SEMANAS[1:]):
         if a["num"] < desde: continue
-        rep = (platos_semana(a) & platos_semana(b)) - SEMANALES
-        if rep: errores.append(f"Semanas {a['num']} y {b['num']}: se repite {', '.join(R[c]['nombre'] for c in sorted(rep))}")
+        clave = familia if a["num"] >= 7 else (lambda c: c)
+        rep = {clave(c) for c in platos_semana(a) - SEMANALES} & {clave(c) for c in platos_semana(b) - SEMANALES}
+        if rep: errores.append(f"Semanas {a['num']} y {b['num']}: se repite {', '.join(nombre_familia(f) for f in sorted(rep))}"
+                               " (entre los dos, una semana de por medio)")
     # Desde la semana 8: cenas ligeras (cremas, sándwiches, tortilla...). Kebab, fajitas, tacos, pizza o hamburguesa,
     # el día que la comida es de legumbre; si no, como mucho una vez a la semana. Nada de pescado de cena (23 de noviembre)
     for s in SEMANAS:
@@ -97,12 +115,13 @@ def comprobar_repeticiones(desde=6):
             elif cena in CENAS_RAPIDAS and comida not in LEGUMBRES:
                 sueltas += 1
         if sueltas > 1: errores.append(f"Semana {s['num']}: {sueltas} cenas tipo kebab o hamburguesa sin legumbre a mediodía (como mucho, una)")
-    # Desde la semana 7: ningún plato se repite dentro de la misma semana (las lentejas, un solo día; 22 de noviembre)
+    # Desde la semana 7: ningún plato, ni otro de su familia, se repite dentro de la misma semana (las lentejas, un solo
+    # día; 22 de noviembre)
     for s in SEMANAS:
         if s["num"] >= 7:
-            vistos = [c for f in s["filas"] for c in (f[1], f[3]) if c not in NO_PLATO]
+            vistos = [familia(c) for f in s["filas"] for c in (f[1], f[3]) if c not in NO_PLATO]
             rep = sorted({c for c in vistos if vistos.count(c) > 1})
-            if rep: errores.append(f"Semana {s['num']}: se repite dentro de la semana: {', '.join(R[c]['nombre'] for c in rep)}")
+            if rep: errores.append(f"Semana {s['num']}: se repite dentro de la semana: {', '.join(nombre_familia(c) for c in rep)}")
     # Desde la semana 8: cada cena fija semanal, una vez a la semana
     for s in SEMANAS:
         if s["num"] >= 8:
