@@ -1,15 +1,15 @@
 """Genera los Markdown del repo a partir del plan."""
 from pathlib import Path
-from plan import R, SEMANAS, DIAS, TIPO, FUERA, LIBRE, CAMBIOS, PREP, BATCH, NORMAS, NOTA_COMPRA, total_dia
+from plan import R, SEMANAS, DIAS, TIPO, FUERA, LIBRE, CAMBIOS, PREP, BATCH, NORMAS, NOTA_COMPRA, CICLO, total_dia
 from batch import tandas
 from shop import lista, opcional_bigmac
 from lib import texto, macros_receta
 
 REPO = Path(__file__).resolve().parent.parent   # el repositorio Diet_plan
-MESES = {"10": "oct", "11": "nov", "12": "dic"}
-COMIDAS = ["LENT1", "LENT2", "PILPIL", "VIZCA_A", "RIOJ", "RAPE", "SEPIA", "FISHCHIPS", "DORADA", "LUBSAL", "PULPO", "RODA", "DORSAL", "SALM1", "SALM2", "GCAL", "ARRGAMB", "ARRSEC", "CARNEG", "ESTOF", "SOLPIQ", "TOFU", "GUIS_T", "BBQ", "CURRY", "TERI", "BURR"]
+MESES = {"01": "ene", "02": "feb", "03": "mar", "04": "abr", "05": "may", "06": "jun", "07": "jul", "08": "ago", "09": "sep", "10": "oct", "11": "nov", "12": "dic"}
+COMIDAS = ["LENT1", "LENT2", "PILPIL", "VIZCA_A", "RIOJ", "RAPE", "SEPIA", "FISHCHIPS", "DORADA", "LUBSAL", "PULPO", "RODA", "DORSAL", "SALM1", "SALM2", "GCAL", "ARRGAMB", "ARRSEC", "CARNEG", "ESTOF", "SOLPIQ", "TOFU", "GUIS_T", "BBQ", "CURRY", "TERI", "BURR", "CERSAL", "ARR3D", "PASTEL", "PASTAF"]
 CENAS = ["MERTAC", "TOR", "PZA", "FCE", "TOM", "FPZ", "BEX", "CENAV", "SANDTOR", "SANDMIX", "SANDPOL", "ENSHUEVO"]   # sin atún: fuera los tacos de atún y la ensaladilla
-ROBOT = ["LENTJ", "POTG", "JARD", "ARRPOL", "ALBON", "TERESC", "RISOT", "CREMCAL", "CREMZAN", "CREMVER", "SOPA", "CASTA"]
+ROBOT = ["LENTJ", "POTG", "JARD", "ARRPOL", "ALBON", "TERESC", "RISOT", "CREMCAL", "CREMZAN", "CREMZAN2", "CREMVER", "SOPA", "CASTA"]
 VARIANTES = {"TOFU": "TOFU_D"}
 FICHERO = {**{k: "recetas_videos_internet.md" for k in COMIDAS + CENAS + ["TOFU_D"]},
            **{k: "fast_food_saludable.md" for k in ["TAC", "CRI", "FAJ", "KEB", "FIN", "FF2"]},
@@ -75,14 +75,15 @@ def fecha(f):
     _, m, d = f.split("-"); return f"{int(d)} {MESES[m]}"
 
 def menu_md(s):
-    out = [f"# Menú Semana {s['num']} ({s['titulo']})", "",
+    bigmac = not any("FF2" in fila for fila in s["filas"])      # si la Big Mac ya está en el menú de la semana, no se ofrece el sábado
+    out = [f"# Menú Semana {s['num']} ({s['titulo']})", ""] + ([f"*Semana {s['ciclo']} de las {len(CICLO)} del ciclo: este mismo menú vuelve dentro de {len(CICLO)} semanas.*", ""] if "ciclo" in s else []) + [
            "*Nota: las recetas de `recetas/` vienen para 2 personas; las kcal y la proteína de esta tabla son por persona, a partes iguales. Guillermo come el 60 % de la comida y la cena y desayuna solo los días de gimnasio: su plan, en `PLAN_PERSONAL.md`. 🎬 = receta de vídeo o internet, con su enlace en el fichero de recetas; 🤖 = receta del libro del robot Cecotec. E = entreno, D = descanso.*", "",
            "| Día | Desayuno | Comida | Merienda | Cena | Total del día |", "| :--- | :--- | :--- | :--- | :--- | :--- |"]
     for i, fila in enumerate(s["filas"]):
         d, c, m, ce = fila
         kc, p = total_dia(fila)
         nom = lambda k: "**Libre**" if k == LIBRE else ("🎬 " if R[k].get("url") else "🤖 " if R[k].get("robot") else "🎬 " if R[k].get("url2") else "") + R[k]["nombre"]
-        cena = "**Cena fuera** + *cervezas*" + (" — o en casa: 🎬 Big Mac Fit" if i == 5 else "") if ce == FUERA else nom(ce)
+        cena = "**Cena fuera** + *cervezas*" + (" — o en casa: 🎬 Big Mac Fit" if i == 5 and bigmac else "") if ce == FUERA else nom(ce)
         tot = f"≈{kc:.0f} kcal · {p:.0f} g prot." + (" + cena fuera" if ce == FUERA else (" + comida y cena libres" if c == LIBRE else " + cena libre") if ce == LIBRE else "")
         out.append(f"| **{DIAS[i]} {fecha(s['fechas'][i])} ({TIPO[i]})** | {nom(d)} | {nom(c)} | {nom(m)} | {cena} | {tot} |")
     b = BATCH[s["num"]]
@@ -110,6 +111,7 @@ def lista_md(s):
             nota = f" ({it['nota']})" if it["nota"] else ""
             out.append(f"- {cant}{it['nombre']}{nota}")
         out.append("")
+    if any("FF2" in fila for fila in s["filas"]): return "\n".join(out)      # la Big Mac ya está en el menú de la semana
     out += ["## Opcional: Big Mac en casa el sábado (x2)", "*Solo si el sábado cenáis en casa en vez de fuera (receta en `recetas/fast_food_saludable.md`).*"]
     for it in opcional_bigmac():
         cant = "" if it["cant"] == "—" else it["cant"] + " "

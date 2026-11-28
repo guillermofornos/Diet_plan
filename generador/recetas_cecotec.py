@@ -57,22 +57,22 @@ R = {
           "Coloca la mariposa y añade todo menos el arroz: el aceite, el pollo, las verduras, las judías y el caldo. Programa 120 °C y velocidad 1 hasta que hierva (10–15 minutos).",
           "Cuando hierva, añade el arroz y programa 15 minutos a 100 °C, sin movimiento (velocidad 0). Rectifica de sal y deja reposar 5 minutos.",
           "Sin robot: en una cazuela, dora el pollo 4–5 minutos, añade los pimientos y el tomate 5 minutos y luego las judías y el caldo; cuando hierva, el arroz 15–17 minutos a fuego medio, sin remover."]),
- "TERESC": dict(tipo="cena", nombre="Ternera escalfada con salsa de sus verduras y patata", fuente=LIBRO, libro="pág. 112", robot=True,
-   tupper="La carne entera en su salsa, 3 días en la nevera; se corta y se marca al momento",
+ "TERESC": dict(tipo="comida", nombre="Ternera escalfada con salsa de sus verduras y patata", fuente=LIBRO, libro="pág. 112", robot=True,
+   tupper="En filetes y cubierta con su salsa, 3 días en la nevera; caliéntala a media potencia para que no se seque",
    grupos=[("Ternera escalfada", [("ternera_pieza", 170, "{170} g de ternera en una sola pieza (redondo, tapa o contra)"),
        ("zanahoria", 60, "{60} g de zanahoria en cuartos"), ("cebolla", 60, "{60} g de cebolla en cuartos"),
        ("x:Laurel", 0, "{1/2|diente|dientes} de ajo, {1/2|hoja|hojas} de laurel, sal y pimienta"),
        ("caldo_verd", 150, "{150} ml de caldo de verduras bajo en sal"),
        ("balsamico", 5, "{1|cucharadita|cucharaditas} de vinagre balsámico (en vez del vino)"),
-       ("aove", 5, "{5} ml de AOVE para marcarla")]),
+       ("aove", 5, "{5} ml de AOVE (para la patata, o para marcar la carne si la comes en casa)")]),
      ("Guarnición", [("patata", 250, "{250} g de patata"), ("hojas", 30, "{30} g de canónigos")])],
    pasos=["Salpimienta la pieza y ponla en el robot con la zanahoria y la cebolla en cuartos, el ajo, el laurel, el caldo y el balsámico.",
           "Programa 95 °C durante 1 hora, sin movimiento de cuchillas (velocidad 0). A media cocción, dale la vuelta a la pieza.",
           "Saca la carne y el laurel y tritura las verduras con el jugo: 30 segundos a velocidad 5–10. Es la salsa.",
-          "El día que la comas, corta la carne en filetes y márcalos 1 minuto por lado en una sartén muy caliente con el aceite. Calienta la salsa.",
+          "Para el táper, corta la carne en filetes finos y cúbrelos con la salsa. Si la comes en casa, márcalos antes 1 minuto por lado en una sartén muy caliente con el aceite.",
           "Patata en rodajas en un bol tapado, con un poco de agua, 7–8 minutos de microondas (o al vapor). Sirve la carne con la salsa, la patata y los canónigos."]),
- "RISOT": dict(tipo="cena", nombre="Risotto ligero de pollo, puerro y setas", fuente=LIBRO, robot=True,
-   tupper="Mejor recién hecho; 1 día en la nevera (al recalentar, un chorrito de caldo)",
+ "RISOT": dict(tipo="comida", nombre="Risotto ligero de pollo, puerro y setas", fuente=LIBRO, robot=True,
+   tupper="Recién hecho está mejor: aguanta 1 día en la nevera, por eso va de comida el lunes (al recalentar, un chorrito de caldo o de agua)",
    grupos=[("Ingredientes", [("pechuga", 140, "{140} g de pechuga de pollo en dados"),
        ("puerro", 60, "{60} g de puerro (la parte blanca)"), ("setas", 60, "{60} g de setas de cardo u ostra (no champiñón)"),
        ("jamon_serrano", 10, "{10} g de taquitos de jamón serrano"), ("aove", 6, "{6} ml de AOVE"),
@@ -90,8 +90,8 @@ R["LENTJ"]["batch"] = "En el batch, las 4 raciones en la olla a presión (en el 
 R["POTG"]["batch"] = "Entero en el batch (35 minutos, en el robot o en una olla): 3 días en la nevera. Los huevos duros, aparte y con cáscara."
 R["JARD"]["batch"] = "Entero en el batch, en el robot (1 hora): 3 días en la nevera."
 R["ARRPOL"]["batch"] = "En el batch, en cazuela si el robot está ocupado (35 minutos); enfríalo extendido en una fuente y congélalo. A la nevera la noche antes."
-R["TERESC"]["batch"] = "En el batch, la ternera escalfada (robot, 1 hora) y la salsa triturada, a la nevera; el día que la comas, filetes a la plancha 1 minuto por lado y la patata."
-R["RISOT"]["batch"] = "Se hace al momento en el robot (30 minutos). En el batch, la pechuga va cruda al congelador y se pasa a la nevera la noche antes."
+R["TERESC"]["batch"] = "Entera en el batch: la ternera escalfada (1 hora en el robot, casi sola), fileteada y cubierta con su salsa, con la patata al lado; 3 días en la nevera. Los canónigos, al servir."
+R["RISOT"]["batch"] = "Lo último de la tanda de mediodía del domingo (30 minutos en el robot): es el táper del lunes, y no aguanta más de un día."
 
 R["ALBON"] = dict(tipo="comida", nombre="Albóndigas caseras en salsa de tomate con arroz integral", fuente=LIBRO, robot=True,
    tupper="3 días en la nevera; se congelan muy bien en su salsa",
@@ -142,6 +142,14 @@ R["CREMZAN"] = dict(tipo="cena", nombre="Crema de zanahoria con calamar a la pla
           "Calamar: descongélalo y sécalo muy bien con papel de cocina. A la plancha o en una sartén muy caliente con el aceite, 2–3 minutos, sin moverlo mucho, y al final el ajo picado y el perejil (si lo haces más, se pone duro).",
           "Sirve la crema con el calamar por encima y el pan tostado."])
 R["CREMCAL"]["batch"] = "La crema puede hacerse en el robot al terminar el batch (25 minutos); la tortilla, al momento."
+R["CREMZAN2"] = dict(R["CREMZAN"], nombre="Crema de zanahoria con tosta de jamón y mozzarella",
+   tupper="La crema, 3 días en la nevera (se congela bien); la tosta, al momento",
+   grupos=[R["CREMZAN"]["grupos"][0],
+     ("Tosta y postre", [("pan_int", 50, "{50} g de pan integral, tostado"), ("mozza_light", 50, "{50} g de mozzarella fresca light en lonchas"),
+       ("jamon_serrano", 30, "{30} g de jamón serrano"), ("yogur_prot", 120, "{1|yogur|yogures} +Proteínas natural, de postre")])],
+   pasos=R["CREMZAN"]["pasos"][:4] + ["Tosta: tuesta el pan y pon encima la mozzarella y el jamón (1 minuto de airfryer a 200 °C si quieres la mozzarella fundida).",
+          "Sirve la crema bien caliente con la tosta; de postre, el yogur."])
+R["CREMZAN2"]["batch"] = "La crema, en el robot (30 minutos) en la tanda de cenas del batch; la tosta, al momento."
 R["CREMZAN"]["batch"] = "La crema, en el robot (30 minutos) el mismo día o en el batch; el calamar, siempre al momento."
 
 R["SOPA"] = dict(tipo="cena", nombre="Sopa cremosa de pollo con huevo pochado", fuente="Receta de Instagram (código MAYDEN), pasada a vuestra Mambo", robot=True,

@@ -8,7 +8,7 @@ from lib import texto, macros_receta
 e = html.escape
 PAGINA = "https://claude.ai/artifact/6jMeaqcEyCZSnsCG5ZEGRA"
 ENLACE = f'<p>📱 <b>Página del mes</b> (menú de cada día, batch paso a paso y lista con casillas): <a href="{PAGINA}">{PAGINA}</a></p>'
-MESES = {"10": "oct", "11": "nov", "12": "dic"}
+MESES = {"01": "ene", "02": "feb", "03": "mar", "04": "abr", "05": "may", "06": "jun", "07": "jul", "08": "ago", "09": "sep", "10": "oct", "11": "nov", "12": "dic"}
 def fecha(f): _, m, d = f.split("-"); return f"{int(d)} {MESES[m]}"
 
 def doc_lista(s):
@@ -19,9 +19,10 @@ def doc_lista(s):
         b.append(f"<h2>{e(sec)}</h2>")
         b += [f"<p>☐ <b>{e(it['cant'])}</b> {e(it['nombre'])}" + (f" <i>({e(it['nota'])})</i>" if it["nota"] else "") + "</p>"
               if it["cant"] != "—" else f"<p>☐ {e(it['nombre'])}" + (f" <i>({e(it['nota'])})</i>" if it["nota"] else "") + "</p>" for it in items]
-    b.append("<h2>Opcional · Big Mac en casa el sábado</h2><p><i>Solo si el sábado cenáis en casa. La carne picada, el mismo día que la cocinéis.</i></p>")
-    for it in opcional_bigmac():
-        b.append(f"<p>☐ " + (f"<b>{e(it['cant'])}</b> " if it["cant"] != "—" else "") + f"{e(it['nombre'])}" + (f" <i>({e(it['nota'])})</i>" if it["nota"] else "") + "</p>")
+    if not any("FF2" in fila for fila in s["filas"]):      # si la Big Mac ya está en el menú de la semana, no se ofrece el sábado
+        b.append("<h2>Opcional · Big Mac en casa el sábado</h2><p><i>Solo si el sábado cenáis en casa. La carne picada, el mismo día que la cocinéis.</i></p>")
+        for it in opcional_bigmac():
+            b.append(f"<p>☐ " + (f"<b>{e(it['cant'])}</b> " if it["cant"] != "—" else "") + f"{e(it['nombre'])}" + (f" <i>({e(it['nota'])})</i>" if it["nota"] else "") + "</p>")
     return "<html><body>" + "".join(b) + "</body></html>"
 
 def doc_recetas(s):
@@ -33,7 +34,8 @@ def doc_recetas(s):
         if n in nums: prep_dia[nums.index(n)].append(momento + (txt[0].lower() + txt[1:] if momento else txt))
         else: antes.append(f"{etiqueta}: {txt}")
     bt = BATCH[s["num"]]
-    b = [f"<h1>Menú y recetas · semana del {e(s['titulo'])}</h1>", ENLACE,
+    bigmac = not any("FF2" in fila for fila in s["filas"])
+    b = [f"<h1>Menú y recetas · semana del {e(s['titulo'])}</h1>", ENLACE] + ([f"<p><i>Semana {s['ciclo']} de las 5 del ciclo: este mismo menú vuelve dentro de 5 semanas.</i></p>"] if "ciclo" in s else []) + [
          "<p><i>Cantidades para los dos (las del batch y las de las recetas). Kcal y proteína por persona. E = entreno, D = descanso. "
          "Las recetas de vídeo llevan el enlace al vídeo debajo del título.</i></p>"]
     for a in antes: b.append(f"<p><b>Antes de empezar.</b> {e(a)}</p>")
@@ -58,8 +60,8 @@ def doc_recetas(s):
             if k == LIBRE:
                 b.append(f"<li><b>{slot}:</b> libre</li>")
             elif k == FUERA:
-                b.append(f"<li><b>{slot}:</b> cena fuera + cervezas" + (" (o en casa: Big Mac Fit)" if i == 5 else "") + "</li>")
-                if i == 5 and "FF2" not in orden: orden.append("FF2")
+                b.append(f"<li><b>{slot}:</b> cena fuera + cervezas" + (" (o en casa: Big Mac Fit)" if i == 5 and bigmac else "") + "</li>")
+                if i == 5 and bigmac and "FF2" not in orden: orden.append("FF2")
             else:
                 b.append(f"<li><b>{slot}:</b> {e(R[k]['nombre'])}</li>")
                 if k not in orden: orden.append(k)

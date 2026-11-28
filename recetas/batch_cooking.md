@@ -10,7 +10,8 @@
 - El pescado cocinado se hace el mismo día que se come: en el batch se deja la base o la salsa, y el pescado se cuece ese día.
 - Deja templar la comida antes de guardarla, pero nunca más de 2 horas fuera de la nevera. Etiqueta cada táper con el día.
 - Al repartir en táperes: 3 de cada 5 cazos para Guillermo (su 60 %) y 2 para Indi.
-- Cenas ligeras: cremas, sándwiches, tortilla o tomates rellenos. Kebab, fajitas, tacos o pizza, el día que la comida es de legumbre. El pescado, a mediodía.
+- Cenas ligeras: cremas, sándwiches, tortilla o tomates rellenos. Kebab, fajitas, tacos o pizza, el día que la comida es de legumbre (o una vez suelta a la semana). El pescado, a mediodía.
+- Como mucho 2 platos con pollo a la semana, entre comidas y cenas. El menú es un ciclo de 5 semanas que se repite.
 - Robot: los programas son los del libro de la Mambo o parecidos (trocear 4–5 s/vel 5; sofreír a 120 °C, vel 1). Para 4 raciones de legumbre no cabe: va en la olla a presión.
 
 ---
@@ -330,46 +331,48 @@
 
 ### Mediodía (táperes)
 
-*Duración: 2 h 35 min, aproximadamente, por el estofado: a la 1 h 10 están los táperes y a las 2 horas coméis el arroz meloso con gambones; luego el estofado acaba solo, a fuego suave (en ese rato cabe la tanda de cenas).*
+*Duración: 2 h 35 min, aproximadamente, por el estofado: a la 1 h 20 están los táperes y hacia las 2 h 10 coméis el arroz meloso con gambones; luego el estofado acaba solo, a fuego suave (en ese rato cabe la tanda de cenas).*
 
 **A la nevera:**
 - Lentejas con jamón, 2 raciones, y 2 huevos duros con cáscara (lunes)
-- Gratinado de patata y pollo al curry, 2 raciones (martes)
+- Ensaladilla de pasta y jamón, 2 raciones (martes)
 - Estofado de ternera, 2 raciones (miércoles)
 
 **Al congelador** (pásalo a la nevera la noche antes):
-- Espaguetis a la tofuloñesa, 2 raciones (jueves)
-- Pollo teriyaki con su arroz y verduras, 2 raciones (viernes)
+- Arroz tres delicias con tofu, 2 raciones (jueves)
+- Magro de cerdo en salsa, 2 raciones (viernes; las patatas, el jueves por la noche)
 
 **Paso a paso:**
 
 | Hora | Dónde | Qué hacer |
 | :--- | :--- | :--- |
-| 0:00 | Preparación | Por la mañana, deja la lenteja pardina en remojo 2–4 horas. Prensa el tofu entre papel de cocina con un peso encima. Lava el basmati. Precalienta el horno a 200 °C. Corta la carne del estofado (340 g) en dados y salpiméntala, y trocea en el robot su cebolla, su ajo y su zanahoria (4–5 s/vel 5). |
+| 0:00 | Preparación | Lava las lentejas (en la olla a presión no hace falta remojarlas) y trocea en el robot su verdura (ajo, tomate, zanahoria, pimiento verde y cebolla; 5 s/vel 5). Lava el basmati; quítale el agua al tofu apretándolo entre papel de cocina con un peso encima. Corta la carne del estofado (340 g) en dados y salpiméntala, y trocea en el robot su cebolla, su ajo y su zanahoria (4–5 s/vel 5). Salpimienta el magro de cerdo (340 g), en dados de 3 cm. |
 | 0:05 | Fuego 1 · Le Creuset | Estofado (2 raciones): dora la carne 4–5 minutos y sácala; en la misma grasa, pocha la cebolla, el ajo y la zanahoria 10 minutos y el tomate rallado 5. Vuelve a meter la carne con el balsámico, cubre justo con el caldo (700 ml) y pon las hierbas; cuando hierva, tapa y a fuego suave 1 h 30 min, moviendo la olla de vez en cuando. |
-| 0:05 | Robot y tabla | Trocea en el robot la cebolla y los pimientos de la tofuloñesa (4–5 s/vel 5) y guárdalos. A cuchillo: el pollo del teriyaki en dados y sus verduras en tiras. Ralla el tofu grueso y mézclalo con las especias y la sal. |
-| 0:15 | Horno | Gratinado al curry: la patata (500 g) en rodajas finas en una fuente, con spray y sal, 20 minutos. |
-| 0:15 | Robot | Lentejas con jamón (2 raciones): trocea sus verduras 5 s/vel 5; con la mariposa, sofrito 8 min/120 °C/vel 1, y luego las lentejas escurridas, el jamón, la patata chascada, el caldo, el pimentón y el laurel, 25 min/100 °C/vel 1/giro inverso. |
-| 0:15 | Fuego 3 · sartén | Tofuloñesa: pocha la cebolla y los pimientos con el aceite 10 minutos; sube el fuego, añade el tofu y dóralo 6–8 minutos, removiendo poco, y luego el tomate, 8–10 minutos. |
-| 0:20 | Fuego 2 · cazo | Cuece 2 huevos 10 minutos para las lentejas y guárdalos con cáscara. |
-| 0:35 | Horno | Echa sobre la patata el pollo del curry mezclado con el huevo, la leche y el curry, 12–15 minutos; luego la mozzarella, 3–4 minutos. Apaga el horno. |
-| 0:35 | Fuego 2 · olla | Agua para la pasta: 130 g de espaguetis, el tiempo del paquete; escúrrelos y mézclalos con la tofuloñesa. |
-| 0:45 | Fuego 3 · sartén | Pasa la tofuloñesa a un bol. Pollo teriyaki (2 raciones): dora el pollo (340 g) 4–5 minutos y sácalo; saltea las verduras 5–6 minutos; vuelve a meter el pollo con la salsa (soja, miel, jengibre, ajo, limón, agua y maicena) 1–2 minutos. |
-| 0:55 | Fuego 2 · olla | El basmati del teriyaki: 130 g, el tiempo del paquete (10–12 minutos). |
-| 1:10 | Táperes | Deja templar (el arroz, extendido en una fuente para que se enfríe rápido) y reparte: 3 de cada 5 cazos para Guillermo y 2 para Indi. Nevera las lentejas con sus huevos y el gratinado; congelador la tofuloñesa y el teriyaki con el basmati. El estofado sigue solo, a fuego suave. |
-| 1:10 | Fuego 2 · cazo | Arroz meloso con gambones para comer hoy (unos 50 minutos): pela las colas y guárdalas; fumet con las cabezas y las cáscaras, el puerro, el tomate y el agua, 20 minutos; cuélalo y mantenlo caliente. |
-| 1:10 | Fuego 3 · sartén grande | Marca las colas 1 minuto y resérvalas; con el resto del aceite, pocha el ajo y la cebolla 5 minutos, los pimientos y el laurel 10 y el tomate 10 más. |
-| 1:35 | Fuego 3 · sartén grande | El pimentón, el arroz (140 g) 1 minuto, el fumet caliente y el azafrán: 17–18 minutos a fuego medio, removiendo de vez en cuando, y las colas encima los últimos 2. A comer, meloso. |
+| 0:05 | Fuego 2 · olla | Arroz del tres delicias: 120 g de basmati, 10–12 minutos; los últimos 2, añade la zanahoria en daditos (80 g) y los guisantes (120 g). Escúrrelo todo y extiéndelo en una fuente para que se enfríe. |
+| 0:05 | Fuego 3 · sartén | Magro en salsa: dora la carne con la mitad del aceite, 4–5 minutos, y resérvala. |
+| 0:10 | Robot | Trocea el ajo, la cebolla, el pimiento rojo y la zanahoria del magro 10 s/vel 6 y sofríelos con el resto del aceite 12 min/100 °C/vel 1. Pon la mariposa, añade la carne dorada, el laurel, el tomillo y el caldo (300 ml) y programa 45 min/100 °C/vel 1 con giro inverso. |
+| 0:20 | Fuego 2 · olla a presión | Lentejas con jamón (2 raciones): sofríe su verdura troceada con el aceite 8–10 minutos; añade las lentejas, el jamón, la patata chascada, el caldo, el pimentón y el laurel, cierra y cuece 12–15 minutos desde que suba la válvula. Apártala y deja que baje la presión sola. |
+| 0:20 | Tabla | Ensaladilla: ralla la zanahoria en hilos, corta las aceitunas en cuartos y el jamón cocido (160 g) en dados. Corta el tofu del tres delicias (300 g) en filetes y úntalos con el aceite, la cebolla en polvo, el pimentón, la pimienta y la sal. |
+| 0:45 | Fuego 2 · cazo | Cuece 2 huevos 10 minutos para las lentejas y guárdalos con cáscara. Cuece 4 huevos 10 minutos para la ensaladilla, enfríalos y pélalos. |
+| 0:55 | Fuego 2 · olla | Pasta de la ensaladilla: 140 g con una ramita de romero, 8–10 minutos; refréscala con agua fría y escúrrela bien. |
+| 1:00 | Fuego 3 · sartén | Arroz tres delicias: tuesta los filetes de tofu por los dos lados y sácalos; tuesta el jamón 1 minuto, añade el arroz frío con la zanahoria y los guisantes, 2 minutos; haz un hueco, cuaja los 2 huevos removiendo y mézclalo todo. |
+| 1:10 | Robot | El magro ya está: comprueba que la carne está tierna (si no, 10 minutos más), rectifica de sal y pásalo a un táper. |
+| 1:10 | Encimera | Mahonesa proteica con la batidora: 2 de los huevos duros, el yogur (80 g), el aceite, la carne de choricero, unas gotas de vinagre y sal. Mezcla la pasta con la zanahoria, las aceitunas, el jamón, el maíz, los otros 2 huevos en trozos y la mahonesa; perejil por encima. |
+| 1:20 | Táperes | Deja templar y reparte: 3 de cada 5 cazos para Guillermo y 2 para Indi. Nevera: las lentejas con sus huevos y la ensaladilla. Congelador, en cuanto temple: el arroz tres delicias con su tofu y el magro en salsa. El estofado sigue solo, a fuego suave. |
+| 1:20 | Fuego 2 · cazo | Arroz meloso con gambones para comer hoy (unos 50 minutos): pela las colas y guárdalas; fumet con las cabezas y las cáscaras, el puerro, el tomate y el agua, 20 minutos; cuélalo y mantenlo caliente. |
+| 1:20 | Fuego 3 · sartén grande | Marca las colas 1 minuto y resérvalas; con el resto del aceite, pocha el ajo y la cebolla 5 minutos, los pimientos y el laurel 10 y el tomate 10 más. |
+| 1:45 | Fuego 3 · sartén grande | El pimentón, el arroz (140 g) 1 minuto, el fumet caliente y el azafrán: 17–18 minutos a fuego medio, removiendo de vez en cuando, y las colas encima los últimos 2. A comer, meloso. |
 | 2:00 | Fuego 1 · Le Creuset | Estofado: prueba la carne (si sigue dura, 15 minutos más). Añade la patata chascada (400 g) y cuece 25–30 minutos, destapado al final si hace falta espesar; los guisantes, los últimos 5. Rectifica de sal. |
 | 2:35 | Táperes | Deja templar el estofado y repártelo (3 cazos para Guillermo y 2 para Indi), a la nevera: es la comida del miércoles. |
 
 ### Cenas
 
-*Duración: 1 h, aproximadamente, con la crema de boniato de la cena de hoy. Cabe después de comer, mientras el estofado acaba.*
+*Duración: 1 h, aproximadamente, con la crema de boniato de la cena de hoy. Empiézala cuando el robot quede libre, hacia la 1 h 10 de la tanda de mediodía.*
 
 **A la nevera:**
 - Pechuga asada y desmenuzada y zanahoria rallada para los tacos (lunes)
-- Crema de calabaza, 2 raciones (martes; la tortilla, al momento)
+- Solomillos del crispy en la leche, y 1 huevo cocido para su mayonesa (martes)
+- Crema de calabaza, 2 raciones (miércoles; la tortilla, al momento)
 - 6 huevos cocidos con cáscara para la ensalada (jueves)
 
 **Al congelador** (pásalo a la nevera la noche antes):
@@ -380,21 +383,26 @@
 | Hora | Dónde | Qué hacer |
 | :--- | :--- | :--- |
 | 0:00 | Horno | Precalienta a 200 °C. Pechuga de los tacos (300 g) untada con aceite y especias, 25 minutos. |
-| 0:05 | Robot y tabla | Ralla en el robot la zanahoria de los tacos (500 g, por tandas de 5–6 s/vel 5) y guárdala. A cuchillo: la calabaza, el puerro, la cebolla y la patata de la crema de calabaza, y la cebolla, el puerro y el boniato de la crema de boniato. |
+| 0:05 | Robot y tabla | Ralla en el robot la zanahoria de los tacos (500 g, por tandas de 5–6 s/vel 5) y guárdala. A cuchillo: la calabaza, el puerro, la cebolla y la patata de la crema de calabaza y la cebolla, el puerro y el boniato de la crema de boniato. |
+| 0:10 | Encimera | Crispy del martes: los solomillos (300 g), un poco aplastados, con la leche, el pimentón y la sal, en un táper a la nevera. |
 | 0:15 | Robot | Crema de calabaza: puerro y cebolla 6 s/vel 6, sofrito 4 min/120 °C/vel 1 y la calabaza, la patata y el agua, 20 min/110 °C/vel 0; tritura 1 min/vel 7, rectifica de sal y pásala a un táper. |
-| 0:20 | Fuego 2 · cazo | Cuece 6 huevos 10 minutos para la ensalada del jueves y guárdalos con cáscara. |
+| 0:20 | Fuego 2 · cazo | Cuece 10 minutos y guarda con cáscara: 6 huevos para la ensalada del jueves y 1 huevo para la mayonesa del crispy. |
 | 0:25 | Horno | Saca la pechuga de los tacos y desmenúzala. Apaga el horno. |
 | 0:45 | Robot | Crema de boniato con pollo (cena de hoy): cebolla y puerro 5 s/vel 5 y 8 min/120 °C/vel 1; el boniato, 3 min; con la mariposa, las pechugas, la sal, la pimienta y el agua, 20–25 min/100 °C/vel 1/giro inverso; saca las pechugas y tritura. |
-| 1:00 | Táperes | Deja templar y guarda en la nevera la crema de calabaza, lo de los tacos y los huevos. Para cenar, la crema de boniato con pollo. |
+| 1:00 | Táperes | Deja templar y guarda en la nevera la crema de calabaza, lo de los tacos, los solomillos del crispy y los huevos. Para cenar, la crema de boniato con pollo. |
 
 
 **Recordatorios de la semana:**
-- **Martes 8:** Cena: calienta la crema de calabaza y haz la tortilla de claras con jamón al momento.
-- **Miércoles 9 por la noche:** Pasa a la nevera la tofuloñesa (comida del jueves) y las gambas cocidas (cena del jueves).
+- **Lunes 7 por la noche:** Haz la mayonesa proteica del crispy de mañana: el huevo cocido del batch, el yogur, el aceite, sal y limón (batidora).
+- **Martes 8:** Cena: crispy chicken burger: reboza los solomillos del batch (harina de avena, huevo y copos de maíz) y a la airfryer, 5–6 minutos por lado.
+- **Miércoles 9:** Cena: calienta la crema de calabaza y haz la tortilla de claras con jamón al momento.
+- **Miércoles 9 por la noche:** Pasa a la nevera el arroz tres delicias (comida del jueves).
+- **Miércoles 9 por la noche:** Pasa las gambas cocidas del congelador a la nevera (ensalada de la cena de mañana).
 - **Jueves 10:** Cena: ensalada de huevo y gambas, al momento (10 minutos): pela los huevos del batch y machácalos con el yogur y las mostazas; añade las gambas escurridas, el apio y la cebolla morada. Con el pan tostado.
-- **Jueves 10 por la noche:** Pasa el pollo teriyaki del viernes a la nevera.
-- **Viernes 11:** Compra el salmón para la comida de mañana (en papillote): fresco, o congelado y a la nevera esta noche.
-- **Sábado 12:** Con la compra de la semana siguiente, coge las 2 lubinas frescas, enteras y sin escamar, para la comida del domingo. Haz la crema de verduras en el robot (unos 25 minutos) para la cena del domingo y guárdala en la nevera.
+- **Jueves 10 por la noche:** Pasa el magro en salsa del viernes a la nevera y haz sus patatas (500 g en dados, tapadas con un poco de agua y sal, 8–10 minutos de microondas).
+- **Viernes 11:** Compra el salmón para la comida del sábado: fresco, o congelado y a la nevera la noche antes.
+- **Sábado 12:** Con la compra de la semana siguiente, coge las 2 lubinas frescas, enteras y sin escamar, para la comida del domingo.
+- **Sábado 12:** Haz la crema de verduras en el robot (unos 25 minutos) para la cena del domingo y guárdala en la nevera.
 
 ---
 
@@ -408,20 +416,20 @@
 
 **A la nevera:**
 - Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (lunes)
-- Solomillos al adobo barbacoa con sus patatas, 2 raciones (martes; la ensalada, al momento)
+- Cachelos del pulpo, cocidos y pelados (martes; el pulpo, en su envase)
 - Potaje de garbanzos con acelgas, 2 raciones, y 2 huevos duros con cáscara (miércoles)
 
 **Al congelador** (pásalo a la nevera la noche antes):
 - Albóndigas en salsa con su arroz, 2 raciones (jueves)
 - Arroz con pollo y judías verdes, 2 raciones (viernes)
-- Secreto ibérico crudo del arroz del sábado 19, en bolsa
+- Secreto ibérico crudo del arroz del sábado, en bolsa
 
 **Paso a paso:**
 
 | Hora | Dónde | Qué hacer |
 | :--- | :--- | :--- |
-| 0:00 | Preparación | Lava el arroz integral y el redondo. Mezcla el adobo de la barbacoa, unta los solomillos (360 g) y déjalos marinando en la nevera. |
-| 0:05 | Robot y tabla | Mezcla de las albóndigas en el robot: cebolla, ajo, pan, leche, huevo y perejil 6 s/vel 6, y la carne con la sal 15–20 s/vel 5; a la nevera. Luego trocea, por tandas (4–5 s/vel 5), la cebolla del potaje, la cebolla, la zanahoria y el pimiento de la salsa de las albóndigas y los pimientos y el tomate del arroz con pollo, y guarda cada cosa aparte. A cuchillo: las acelgas en tiras, el pollo del arroz en dados, el solomillo de cerdo en medallones, y los pimientos, la cebolla y el tomate del pisto, en dados. |
+| 0:00 | Preparación | Lava el arroz integral y el arroz redondo. |
+| 0:05 | Robot y tabla | Mezcla de las albóndigas en el robot: cebolla, ajo, pan, leche, huevo y perejil 6 s/vel 6, y la carne con la sal 15–20 s/vel 5; a la nevera. Luego trocea, por tandas (4–5 s/vel 5) y guardando cada cosa aparte, la cebolla del potaje, la cebolla, la zanahoria y el pimiento de la salsa de las albóndigas y los pimientos y el tomate del arroz con pollo. A cuchillo: las acelgas en tiras, el pollo del arroz en dados, el solomillo de cerdo en medallones y los pimientos, la cebolla y el tomate del pisto, en dados. |
 | 0:15 | Robot | Salsa de piquillos del solomillo: trocea la cebolla y el ajo 4 s/vel 5 y sofríelos con la mitad del aceite 8 min/120 °C/vel 1; añade los piquillos y el caldo, 5 min/100 °C/vel 1, y tritura 30 s, subiendo de vel 5 a 10. Pásala a un bol y lava el vaso. |
 | 0:15 | Fuego 1 · olla | Potaje de garbanzos (2 raciones): sofríe la cebolla y el ajo con el aceite 5 minutos; añade la patata chascada, el caldo, el tomate concentrado, el pimentón y el laurel, 20 minutos; luego los garbanzos y las acelgas, 10 minutos más. |
 | 0:15 | Fuego 2 · olla | Arroz integral de las albóndigas: 120 g, el tiempo del paquete; escúrrelo y resérvalo. |
@@ -429,93 +437,164 @@
 | 0:20 | Airfryer | Haz las albóndigas (unas 12, del tamaño de una nuez) y ponlas a 190 °C 8–10 minutos, en dos tandas si no caben. |
 | 0:35 | Robot | Arroz con pollo (2 raciones), con la mariposa: el aceite, el pollo, los pimientos, el tomate, las judías y el caldo, a 120 °C y vel 1 hasta que hierva (10–15 minutos); luego el arroz redondo (140 g), 15 min/100 °C/vel 0, y 5 minutos de reposo. |
 | 0:40 | Fuego 3 · sartén | Quita el laurel de la salsa, mete las albóndigas y cuécelas 10 minutos a fuego suave. Repártelas con el arroz. |
+| 0:45 | Fuego 2 · olla | Cachelos del pulpo del martes: 500 g de patata con piel, en agua con sal, unos 20 minutos, hasta que se pinchen bien; pélalos en caliente y córtalos en 4. |
 | 0:50 | Fuego 1 · cazo | Aparta el potaje. Cuece 2 huevos 10 minutos para el potaje y guárdalos con cáscara. |
 | 0:50 | Fuego 3 · sartén | Pasa las albóndigas a sus táperes. Solomillo en salsa de piquillos (2 raciones): dora los medallones (340 g), salpimentados, 2 minutos por lado con el resto del aceite; echa la salsa del robot y cuécelos 4–5 minutos a fuego suave. |
-| 0:50 | Airfryer | Solomillos de la barbacoa a 180 °C 5 minutos; dales la vuelta, píntalos con la salsa barbacoa y 4–5 minutos más. |
-| 1:00 | Microondas | Patatas de los solomillos de la barbacoa (440 g en rodajas, con spray y sal), 10–12 minutos; luego las del solomillo de cerdo (600 g en rodajas, tapadas con un poco de agua y sal), 8–10 minutos. |
+| 1:00 | Microondas | Patatas del solomillo: 600 g en rodajas, tapadas con un poco de agua y sal, 8–10 minutos. |
 | 1:00 | Fuego 3 · sartén | Pasa el solomillo a su táper. Pisto: pimiento verde 5 minutos, pimiento rojo y cebolla 10 y tomate 10 más. |
 | 1:10 | Horno | Precalienta a 200 °C para la lubina. |
-| 1:20 | Horno | Lubinas a la sal: mezcla la sal gruesa con las hierbas y las pimientas, humedécela, haz una cama en una bandeja, pon las lubinas sin escamar y cúbrelas bien; 18–20 minutos. Cuando acaben las otras patatas, la de la lubina, en dados, 6–7 minutos de microondas. |
-| 1:25 | Táperes | Deja templar (el arroz con pollo, extendido en una fuente para que se enfríe rápido) y reparte: 3 de cada 5 cazos para Guillermo y 2 para Indi. Nevera el solomillo de cerdo y los solomillos de la barbacoa, cada uno con sus patatas, y el potaje con sus huevos; congelador las albóndigas con su arroz, el arroz con pollo y el secreto (crudo, en bolsa). |
+| 1:20 | Horno | Lubinas a la sal: mezcla la sal gruesa con las hierbas y las pimientas, humedécela, haz una cama en una bandeja, pon las lubinas sin escamar y cúbrelas bien; 18–20 minutos. La patata de la lubina, en dados, 6–7 minutos de microondas. |
+| 1:25 | Táperes | Deja templar y reparte: 3 de cada 5 cazos para Guillermo y 2 para Indi. El arroz con pollo, antes, extendido en una fuente para que se enfríe rápido. Nevera: el solomillo de cerdo con sus patatas, los cachelos y el potaje con sus huevos. Congelador: las albóndigas con su arroz, el arroz con pollo y el secreto (crudo, en bolsa). |
 | 1:40 | Horno | Saca las lubinas, rompe la costra de sal y a comer, con el pisto y la patata. |
 
 ### Cenas
 
-*Duración: 30 min, aproximadamente. Cabe después de comer.*
+*Duración: 25 min, aproximadamente. Cabe después de comer.*
 
 **A la nevera:**
-- Pechuga asada entera para el sándwich del miércoles
-- Pimiento y cebolla en tiras para la pizza (lunes)
-- 6 huevos cocidos con cáscara para la ensalada (martes)
+- 6 huevos cocidos con cáscara para la ensalada (lunes)
+- Pimiento y cebolla en tiras para la pizza (martes)
 
 **Al congelador** (pásalo a la nevera la noche antes):
-- Pechuga cruda de la crema de boniato del domingo 20 (360 g), en bolsa
+- Pollo del kebab marinado, en bolsa (miércoles; la salsa blanca, el mismo miércoles)
 
 **Paso a paso:**
 
 | Hora | Dónde | Qué hacer |
 | :--- | :--- | :--- |
-| 0:00 | Horno | Precalienta a 200 °C. Pechuga del sándwich del miércoles (200 g), con sal, pimienta y un poco de aceite, 20–25 minutos. |
-| 0:05 | Tabla | Corta en tiras el pimiento y la cebolla de la pizza del lunes (a un táper). La pechuga de la crema de boniato del domingo 20 (360 g), cruda, en una bolsa al congelador. |
-| 0:10 | Fuego 2 · olla | Cuece 10 huevos 10 minutos: 4 para la crema de verduras de esta noche y 6 para la ensalada del martes, que se guardan con cáscara. |
-| 0:25 | Horno | Saca la pechuga y déjala enfriar entera (se corta al hacer el sándwich). Apaga el horno. |
-| 0:30 | Táperes | Guarda en la nevera la pechuga, lo de la pizza y los 6 huevos. Para cenar, la crema de verduras (hecha ayer) con los huevos y el jamón crujiente. |
+| 0:00 | Tabla | Corta en tiras el pimiento y la cebolla de la pizza del martes (a un táper). |
+| 0:05 | Encimera | Kebab del miércoles: marina los solomillos (360 g) con las especias y el yogur en una bolsa de congelación, al congelador. |
+| 0:10 | Fuego 2 · olla | Cuece 10 minutos: 4 huevos para la crema de verduras de esta noche y 6 huevos para la ensalada de mañana, que se guardan con cáscara. |
+| 0:25 | Táperes | Guarda en la nevera lo de la pizza y los 6 huevos. Para cenar, la crema de verduras (hecha ayer) con los huevos y el jamón crujiente. Antes de acostarte, pasa las gambas cocidas del congelador a la nevera: la ensalada es mañana. |
 
 
 **Recordatorios de la semana:**
-- **Lunes 14 por la noche:** Pasa las gambas cocidas del congelador a la nevera (ensalada de la cena de mañana).
-- **Martes 15:** Comida: la ensalada de los solomillos (canónigos, cherrys, cebolla morada, granada y mozzarella), al momento, y el aliño al servir.
-- **Martes 15:** Cena: ensalada de huevo y gambas, al momento (10 minutos): pela los huevos del batch y machácalos con el yogur y las mostazas; añade las gambas escurridas, el apio y la cebolla morada. Con el pan tostado.
-- **Miércoles 16:** Cena: sándwich de pollo con la pechuga del batch, en lonchas finas. Por la noche, pasa las albóndigas del jueves a la nevera.
-- **Jueves 17:** Cena: tortilla de patata con claras, al momento (unos 25 minutos). Por la noche, pasa el arroz con pollo del viernes a la nevera.
+- **Lunes 14:** Cena: ensalada de huevo y gambas, al momento (10 minutos): pela los huevos del batch y machácalos con el yogur y las mostazas; añade las gambas escurridas, el apio y la cebolla morada. Con el pan tostado.
+- **Martes 15:** Comida: abre el pulpo y témplalo con los cachelos (1–2 minutos de microondas, tapado); aceite, pimentón y sal gruesa al servir.
+- **Martes 15:** Cena: pizza de avena y yogur, al momento (la masa y 10–12 minutos de horno), con el pimiento y la cebolla del batch.
+- **Martes 15 por la noche:** Pasa el pollo del kebab del congelador a la nevera (cena de mañana).
+- **Miércoles 16:** Kebab: pon las patatas en remojo al llegar a casa y haz la salsa blanca (yogur, especias y limón).
+- **Miércoles 16 por la noche:** Pasa las albóndigas del jueves a la nevera.
+- **Jueves 17:** Cena: tortilla de patata con claras, al momento (unos 25 minutos).
+- **Jueves 17 por la noche:** Pasa el arroz con pollo del viernes a la nevera.
 - **Viernes 18 por la noche:** Pasa el secreto ibérico a la nevera (arroz meloso del sábado, en la Le Creuset).
-- **Sábado 19 por la noche:** Pasa del congelador a la nevera el rape (marmitako del domingo) y la pechuga de la crema de boniato (cena del domingo).
+- **Sábado 19 por la noche:** Pasa el rape del congelador a la nevera (marmitako del domingo).
 
 ---
 
 ## Semana 11 (21 – 27 dic) · Domingo 20 de diciembre
 
-*Ese día comes el marmitako de rape y cenas la crema de boniato con pollo (en la tanda de cenas).*
+*Ese día comes el marmitako de rape y cenas la crema de zanahoria con su tosta (en la tanda de cenas).*
 
 ### Mediodía (táperes)
 
-*Duración: 2 h 35 min, aproximadamente, por el estofado: a la 1 h 20 están los táperes y hacia las 2 h 15 coméis el marmitako; luego el estofado acaba solo, a fuego suave.*
+*Duración: 1 h 25 min, aproximadamente. Para comer hoy, el marmitako de rape (unos 55 minutos, al terminar).*
 
 **A la nevera:**
-- Lentejas al curry, 2 raciones con su arroz, y 4 huevos cocidos con cáscara (lunes)
-- Espaguetis a la tofuloñesa, 2 raciones (martes)
-- Estofado de ternera, 2 raciones (miércoles)
+- Lentejas con jamón, 2 raciones, y 2 huevos duros con cáscara (lunes)
+- Ensaladilla de pasta y jamón, 2 raciones (martes)
+- Ternera escalfada en filetes, con su salsa y sus patatas, 2 raciones (miércoles)
 
 **Al congelador** (pásalo a la nevera la noche antes):
-- Pollo teriyaki con su arroz y verduras, 2 raciones (jueves 24)
+- Espaguetis a la tofuloñesa, 2 raciones (jueves)
 
 **Paso a paso:**
 
 | Hora | Dónde | Qué hacer |
 | :--- | :--- | :--- |
-| 0:00 | Preparación | Por la mañana, deja las lentejas en remojo 2–4 horas (en el robot, sin remojo no se hacen). Prensa el tofu entre papel de cocina con un peso encima. Lava el arroz integral y el basmati. Corta la carne del estofado (340 g) en dados y salpiméntala, y trocea en el robot su cebolla, su ajo y su zanahoria (4–5 s/vel 5). |
+| 0:00 | Preparación | Lava las lentejas (en la olla a presión no hace falta remojarlas) y trocea en el robot su verdura (ajo, tomate, zanahoria, pimiento verde y cebolla; 5 s/vel 5). Trocea la cebolla y los pimientos de la tofuloñesa; prensa el tofu entre papel de cocina con un peso encima, rállalo grueso y mézclalo con las especias y la sal. Salpimienta la pieza de ternera (340 g). |
+| 0:05 | Fuego 1 · olla | Ternera escalfada: la pieza con la zanahoria y la cebolla en cuartos, el ajo, el laurel, el caldo (300 ml) y el balsámico; cuando rompa a hervir, tapa y baja al mínimo, 1 hora, dándole la vuelta a la media hora (en el libro va en el robot: 95 °C, 1 hora, sin velocidad). |
+| 0:20 | Fuego 2 · olla a presión | Lentejas con jamón (2 raciones): sofríe su verdura troceada con el aceite 8–10 minutos; añade las lentejas, el jamón, la patata chascada, el caldo, el pimentón y el laurel, cierra y cuece 12–15 minutos desde que suba la válvula. Apártala y deja que baje la presión sola. |
+| 0:35 | Fuego 3 · sartén | Tofuloñesa: pocha la cebolla y los pimientos con el aceite 10 minutos; sube el fuego, añade el tofu y dóralo 6–8 minutos, removiendo poco, y luego el tomate, 8–10 minutos. |
+| 0:45 | Fuego 2 · cazo | Cuece 2 huevos 10 minutos para las lentejas y guárdalos con cáscara. Cuece 4 huevos 10 minutos para la ensaladilla, enfríalos y pélalos. |
+| 0:45 | Tabla | Ensaladilla: ralla la zanahoria en hilos, corta las aceitunas en cuartos y el jamón cocido (160 g) en dados. |
+| 0:55 | Fuego 2 · olla | Pasta de la ensaladilla: 140 g con una ramita de romero, 8–10 minutos; refréscala con agua fría y escúrrela bien. |
+| 1:05 | Encimera | Saca la ternera y el laurel y tritura las verduras con su jugo (batidora): es la salsa. Corta la carne en filetes finos y cúbrelos con la salsa. Mahonesa proteica con la batidora: 2 de los huevos duros, el yogur (80 g), el aceite, la carne de choricero, unas gotas de vinagre y sal. Mezcla la pasta con la zanahoria, las aceitunas, el jamón, el maíz, los otros 2 huevos en trozos y la mahonesa; perejil por encima. |
+| 1:10 | Fuego 2 · olla | Agua para la pasta: 130 g de espaguetis, el tiempo del paquete; escúrrelos y mézclalos con la tofuloñesa. |
+| 1:10 | Microondas | Patatas de la ternera: 500 g en rodajas, tapadas con un poco de agua y sal, 8–10 minutos. |
+| 1:25 | Táperes | Deja templar y reparte: 3 de cada 5 cazos para Guillermo y 2 para Indi. Nevera: las lentejas con sus huevos, la ensaladilla y la ternera en su salsa con las patatas. Congelador: la tofuloñesa. |
+| 1:25 | Fuego 1 · cazuela | Marmitako de rape para comer hoy (unos 55 minutos): calienta el caldo con el puerro y el perejil (5 minutos de microondas) y cuélalo; en la cazuela, el sofrito de cebolleta y pimientos 15 minutos, el tomate 5 y el choricero; las patatas chascadas, cubiertas con el caldo, 30–35 minutos, y el rape, un par de minutos al final. |
+
+### Cenas
+
+*Duración: Hasta 1 h 40 min, casi todo de robot: la sopa y la crema de zanahoria de la cena de hoy. Puede ir a la vez que la tanda de mediodía, que solo usa el robot para trocear.*
+
+**A la nevera:**
+- Pechuga asada y desmenuzada y juliana para las fajitas (lunes)
+- Sopa cremosa de pollo, 2 raciones (miércoles; el huevo pochado, al momento)
+
+**Al congelador** (pásalo a la nevera la noche antes):
+- Carne de la Big Mac, en 4 bolitas de 75 g (martes)
+
+**Paso a paso:**
+
+| Hora | Dónde | Qué hacer |
+| :--- | :--- | :--- |
+| 0:00 | Horno | A 200 °C: pechuga de las fajitas (300 g) con la soja, la mostaza y las especias, 25–30 minutos. |
+| 0:05 | Tabla | Corta la juliana de pimientos y cebolla de las fajitas (a un táper), la patata, la cebolla y la zanahoria de la sopa y la zanahoria, la patata, el puerro y la cebolla de la crema de zanahoria. |
+| 0:10 | Robot | Sopa cremosa de pollo (2 raciones), con la mariposa: las verduras, las pechugas enteras (360 g), el agua (700 ml), la sal, la pimienta, la cúrcuma y el laurel, 30 min/100 °C/vel 1/giro inverso. |
+| 0:15 | Encimera | Big Mac del martes: forma 4 bolitas de 75 g con la carne picada (300 g), envuélvelas y al congelador. |
+| 0:30 | Horno | Saca la pechuga, desmenúzala y guárdala con la juliana. Apaga el horno. |
+| 0:40 | Robot | Sopa: saca las pechugas y el laurel y tritura las verduras con el caldo 1 minuto, subiendo de vel 5 a 10; desmiga la pechuga, vuelve a echarla y calienta 2 min/90 °C/vel 1/giro inverso. Rectifica de sal y pásala a un táper. |
+| 1:10 | Robot | Crema de zanahoria (cena de hoy): puerro y cebolla 6 s/vel 6 y sofrito 3 min/120 °C/vel 1; la patata chascada, la zanahoria, el caldo, la sal y la pimienta, 24 min/110 °C/vel 0, sin cubilete; añade la leche y tritura 1 min/vel 8. |
+| 1:40 | Táperes | Deja templar y guarda en la nevera la sopa y lo de las fajitas. Al congelador: la carne de la Big Mac. Para cenar, la crema de zanahoria con la tosta de jamón y mozzarella. |
+
+
+**Recordatorios de la semana:**
+- **Lunes 21 por la noche:** Pasa la carne de la Big Mac del congelador a la nevera.
+- **Martes 22:** Cena: Big Mac Fit: las patatas al horno (220 °C, 15–25 minutos) y la carne, aplastada en la sartén muy caliente; la salsa, al momento.
+- **Miércoles 23:** Cena: calienta la sopa y haz los huevos pochados al momento (3 minutos).
+- **Miércoles 23 por la noche:** Pasa a la nevera la tofuloñesa (comida del jueves).
+- **Jueves 24:** Compra el salmón para la comida del sábado: fresco, o congelado y a la nevera la noche antes (mañana cierran las tiendas).
+- **Jueves 24:** Nochebuena: cena libre.
+- **Viernes 25:** Navidad: comida y cena libres.
+- **Sábado 26 por la noche:** Pasa la sepia del congelador a la nevera (guiso del domingo).
+- **Sábado 26 por la noche:** Pasa las gambas cocidas del congelador a la nevera (ensalada de la cena del domingo).
+- **Domingo 27:** Cena: ensalada de huevo y gambas. Los 6 huevos se cuecen en la tanda de cenas del batch de hoy: pélalos y machácalos con el yogur y las mostazas; añade las gambas escurridas, el apio y la cebolla morada. Con el pan tostado.
+
+---
+
+## Semana 12 (28 dic – 3 ene) · Domingo 27 de diciembre
+
+*Ese día comes el guiso de sepia y cenas la ensalada de huevo y gambas (los huevos se cuecen en la tanda de cenas).*
+
+### Mediodía (táperes)
+
+*Duración: 2 h 35 min, aproximadamente, por el estofado: a la 1 h 15 están los táperes y hacia las 2 h 05 coméis el guiso de sepia; luego el estofado acaba solo, a fuego suave (en ese rato cabe la tanda de cenas).*
+
+**A la nevera:**
+- Arroz tres delicias con tofu, 2 raciones (lunes)
+- Cachelos del pulpo, cocidos y pelados (martes; el pulpo, en su envase)
+- Estofado de ternera, 2 raciones (miércoles)
+
+**Al congelador** (pásalo a la nevera la noche antes):
+- Arroz con pollo y judías verdes, 2 raciones (jueves)
+
+**Paso a paso:**
+
+| Hora | Dónde | Qué hacer |
+| :--- | :--- | :--- |
+| 0:00 | Preparación | Lava el basmati; quítale el agua al tofu apretándolo entre papel de cocina con un peso encima. Lava el arroz redondo; trocea en el robot los pimientos y el tomate del arroz con pollo (4–5 s/vel 5) y guárdalos; el pollo, en dados. Corta la carne del estofado (340 g) en dados y salpiméntala, y trocea en el robot su cebolla, su ajo y su zanahoria (4–5 s/vel 5). |
 | 0:05 | Fuego 1 · Le Creuset | Estofado (2 raciones): dora la carne 4–5 minutos y sácala; en la misma grasa, pocha la cebolla, el ajo y la zanahoria 10 minutos y el tomate rallado 5. Vuelve a meter la carne con el balsámico, cubre justo con el caldo (700 ml) y pon las hierbas; cuando hierva, tapa y a fuego suave 1 h 30 min, moviendo la olla de vez en cuando. |
-| 0:05 | Fuego 2 · cazo | Cuece 4 huevos 10 minutos para las lentejas y guárdalos con cáscara. |
-| 0:05 | Robot y tabla | Trocea en el robot la cebolla de las lentejas y, aparte, la cebolla y los pimientos de la tofuloñesa (4–5 s/vel 5). A cuchillo: la calabaza de las lentejas en dados, el pollo del teriyaki en dados y sus verduras en tiras. Ralla el tofu grueso y mézclalo con las especias y la sal. |
-| 0:15 | Robot | Lentejas al curry (2 raciones), con la mariposa: la cebolla, el tomate y el aceite, 6 min/120 °C/vel 1; la calabaza, 3 min; luego las lentejas escurridas (160 g), el agua, la sal y el curry, 25 min/100 °C/vel 1/giro inverso. Si siguen duras, 5 minutos más. |
-| 0:15 | Fuego 2 · olla | Arroz integral de las lentejas: 80 g, el tiempo del paquete; escúrrelo y repártelo con las lentejas. |
-| 0:15 | Fuego 3 · sartén | Tofuloñesa: pocha la cebolla y los pimientos con el aceite 10 minutos; sube el fuego, añade el tofu y dóralo 6–8 minutos, removiendo poco, y luego el tomate, 8–10 minutos. |
-| 0:45 | Fuego 2 · olla | Agua para la pasta: 130 g de espaguetis, el tiempo del paquete; escúrrelos y mézclalos con la tofuloñesa. |
-| 0:45 | Fuego 3 · sartén | Pasa la tofuloñesa a un bol. Pollo teriyaki (2 raciones): dora el pollo (340 g) 4–5 minutos y sácalo; saltea las verduras 5–6 minutos; vuelve a meter el pollo con la salsa (soja, miel, jengibre, ajo, limón, agua y maicena) 1–2 minutos. |
-| 1:05 | Fuego 2 · olla | El basmati del teriyaki: 130 g, el tiempo del paquete (10–12 minutos). |
-| 1:20 | Táperes | Deja templar (el arroz, extendido en una fuente para que se enfríe rápido) y reparte: 3 de cada 5 cazos para Guillermo y 2 para Indi. Nevera las lentejas con su arroz y los huevos y la tofuloñesa; congelador el teriyaki con el basmati. El estofado sigue solo, a fuego suave. |
-| 1:20 | Fuego 2 · cazuela | Marmitako de rape para comer hoy (unos 55 minutos): calienta el caldo con el puerro y el perejil (5 minutos de microondas) y cuélalo; en la cazuela, el sofrito de cebolleta y pimientos 15 minutos, el tomate 5 y el choricero; las patatas chascadas, cubiertas con el caldo, 30–35 minutos, y el rape, un par de minutos al final. |
+| 0:05 | Fuego 2 · olla | Arroz del tres delicias: 120 g de basmati, 10–12 minutos; los últimos 2, añade la zanahoria en daditos (80 g) y los guisantes (120 g). Escúrrelo todo y extiéndelo en una fuente para que se enfríe. |
+| 0:20 | Fuego 2 · olla | Cachelos del pulpo del martes: 500 g de patata con piel, en agua con sal, unos 20 minutos, hasta que se pinchen bien; pélalos en caliente y córtalos en 4. |
+| 0:20 | Tabla | Corta el tofu del tres delicias (300 g) en filetes y úntalos con el aceite, la cebolla en polvo, el pimentón, la pimienta y la sal. |
+| 0:40 | Fuego 2 · cazuela | Arroz con pollo (2 raciones): dora el pollo 4–5 minutos, añade los pimientos y el tomate 5 minutos y luego las judías y el caldo; cuando hierva, el arroz redondo (140 g) 15–17 minutos, sin remover. |
+| 0:45 | Fuego 3 · sartén | Arroz tres delicias: tuesta los filetes de tofu por los dos lados y sácalos; tuesta el jamón 1 minuto, añade el arroz frío con la zanahoria y los guisantes, 2 minutos; haz un hueco, cuaja los 2 huevos removiendo y mézclalo todo. |
+| 1:15 | Táperes | Deja templar y reparte: 3 de cada 5 cazos para Guillermo y 2 para Indi. El arroz con pollo, antes, extendido en una fuente para que se enfríe rápido. Nevera: el arroz tres delicias con su tofu (es para mañana) y los cachelos. Congelador: el arroz con pollo. El estofado sigue solo, a fuego suave. |
+| 1:15 | Fuego 2 · cazuela | Guiso de sepia para comer hoy (unos 50 minutos): rehoga el ajo y la cebolla 6–8 minutos; añade la guindilla, el pimentón y el tomate, las patatas chascadas, agua hasta cubrir y sal. |
+| 1:25 | Fuego 3 · sartén | Dora la sepia salpimentada a fuego fuerte 2–3 minutos y pásala a la cazuela; tapa y cuece 30 minutos a fuego medio; añade los guisantes, 10 minutos más. A comer. |
 | 2:00 | Fuego 1 · Le Creuset | Estofado: prueba la carne (si sigue dura, 15 minutos más). Añade la patata chascada (400 g) y cuece 25–30 minutos, destapado al final si hace falta espesar; los guisantes, los últimos 5. Rectifica de sal. |
 | 2:35 | Táperes | Deja templar el estofado y repártelo (3 cazos para Guillermo y 2 para Indi), a la nevera: es la comida del miércoles. |
 
 ### Cenas
 
-*Duración: 1 h, aproximadamente, con la crema de boniato de la cena de hoy. Empiézala cuando el robot quede libre, hacia la 1 h de la tanda de mediodía.*
+*Duración: 45 min, aproximadamente. Cabe después de comer, cuando el robot quede libre.*
 
 **A la nevera:**
-- Pollo del kebab marinado y salsa blanca (lunes)
-- Crema de calabaza, 2 raciones (martes; la tortilla, al momento)
-- Pechuga asada y desmenuzada y juliana para las fajitas (miércoles)
+- Solomillos de los fingers, marinando (lunes)
+- Crema de verduras, 2 raciones, y 4 huevos cocidos con cáscara (martes)
+- 6 huevos cocidos con cáscara para la ensalada (miércoles)
 
 **Al congelador** (pásalo a la nevera la noche antes):
 - Nada
@@ -524,20 +603,96 @@
 
 | Hora | Dónde | Qué hacer |
 | :--- | :--- | :--- |
-| 0:00 | Horno | Precalienta a 200 °C. Pechuga de las fajitas (300 g) con la soja, la mostaza y las especias, 25–30 minutos. |
-| 0:05 | Tabla | Corta la juliana de las fajitas (a un táper) y trocea la calabaza, el puerro, la cebolla y la patata de la crema de calabaza, y la cebolla, el puerro y el boniato de la crema de boniato. |
-| 0:15 | Robot | Crema de calabaza: puerro y cebolla 6 s/vel 6, sofrito 4 min/120 °C/vel 1 y la calabaza, la patata y el agua, 20 min/110 °C/vel 0; tritura 1 min/vel 7, rectifica de sal y pásala a un táper. |
-| 0:15 | Encimera | Kebab del lunes: marina los solomillos (360 g) con las especias y el yogur y haz la salsa blanca (yogur, especias y limón); las dos cosas, a la nevera. |
-| 0:30 | Horno | Saca la pechuga y desmenúzala. Apaga el horno. |
-| 0:45 | Robot | Crema de boniato con pollo (cena de hoy): cebolla y puerro 5 s/vel 5 y 8 min/120 °C/vel 1; el boniato, 3 min; con la mariposa, las pechugas, la sal, la pimienta y el agua, 20–25 min/100 °C/vel 1/giro inverso; saca las pechugas y tritura. |
-| 1:00 | Táperes | Deja templar y guarda en la nevera la crema de calabaza, el kebab con su salsa y lo de las fajitas. Para cenar, la crema de boniato con pollo. |
+| 0:00 | Fuego 2 · olla | Cuece 10 minutos (en dos tandas si no caben): 12 huevos para las dos ensaladas (los 6 de esta noche se enfrían y se pelan; los 6 del miércoles, a la nevera con cáscara) y 4 huevos para la crema de verduras del martes. |
+| 0:05 | Encimera | Fingers del lunes: marina los solomillos (400 g) en el huevo batido con el pimentón, la cebolla y el ajo en polvo y la sal, tapados, a la nevera. |
+| 0:10 | Tabla | Trocea el puerro, la cebolla, la zanahoria, la patata y las judías verdes de la crema de verduras. |
+| 0:15 | Robot | Crema de verduras: puerro y cebolla 6 s/vel 6 y sofrito 3 min/120 °C/vel 1; la zanahoria, la patata, las judías verdes y el caldo, 20 min/110 °C/vel 0; tritura 30 s/vel 10, rectifica de sal y pásala a un táper. |
+| 0:45 | Táperes | Guarda en la nevera la crema de verduras con sus huevos, los solomillos y los 6 huevos del miércoles. Para cenar, la ensalada de huevo y gambas: machaca los 6 huevos pelados con el yogur y las mostazas y añade las gambas escurridas, el apio y la cebolla morada. Con el pan tostado. |
 
 
 **Recordatorios de la semana:**
-- **Lunes 21:** Kebab: pon las patatas en remojo al llegar a casa.
-- **Martes 22:** Cena: calienta la crema de calabaza y haz la tortilla de claras con jamón al momento.
-- **Miércoles 23 por la noche:** Pasa el pollo teriyaki del jueves a la nevera.
-- **Jueves 24:** Nochebuena: cena libre. Compra hoy el salmón de la comida del sábado 26 (mañana cierran las tiendas) y a la nevera.
-- **Viernes 25:** Navidad: comida y cena libres.
-- **Sábado 26 por la noche:** Pasa del congelador a la nevera la sepia (comida del domingo) y las gambas cocidas (cena del domingo).
-- **Domingo 27:** Cena: ensalada de huevo y gambas. Cuece 6 huevos 10 minutos por la tarde, para que se enfríen, pélalos y machácalos con el yogur y las mostazas; añade las gambas escurridas, el apio y la cebolla morada. Con el pan tostado.
+- **Lunes 28:** Cena: fingers de pollo: reboza los solomillos en los copos de maíz triturados y a la airfryer (180 °C, 7 minutos por lado); con la ensalada.
+- **Martes 29:** Comida: abre el pulpo y témplalo con los cachelos (1–2 minutos de microondas, tapado); aceite, pimentón y sal gruesa al servir.
+- **Martes 29:** Cena: calienta la crema de verduras; dora el jamón en taquitos en una sartén sin aceite y pela los huevos cocidos.
+- **Martes 29 por la noche:** Pasa las gambas cocidas del congelador a la nevera (ensalada de la cena de mañana).
+- **Miércoles 30:** Cena: ensalada de huevo y gambas, al momento (10 minutos): pela los huevos del batch y machácalos con el yogur y las mostazas; añade las gambas escurridas, el apio y la cebolla morada. Con el pan tostado.
+- **Miércoles 30 por la noche:** Pasa el arroz con pollo del jueves a la nevera.
+- **Jueves 31:** Compra las 2 doradas frescas, enteras y sin escamar, para la comida del sábado (a la sal). Si son congeladas, a la nevera la noche antes (mañana cierran las tiendas).
+- **Jueves 31:** Nochevieja: cena libre.
+- **Viernes 1:** Año Nuevo: comida y cena libres.
+- **Sábado 2 por la noche:** Pasa el calamar del congelador a la nevera (guiso del domingo).
+
+---
+
+## Semana 13 (4 – 10 ene) · Domingo 3 de enero
+
+*Ese día comes el guiso de calamares y cenas la crema de zanahoria con su tosta (en la tanda de cenas).*
+
+### Mediodía (táperes)
+
+*Duración: 1 h 40 min, aproximadamente. Para comer hoy, el guiso de calamares (en la olla a presión, mientras se hace el risotto).*
+
+**A la nevera:**
+- Risotto de pollo, puerro y setas, 2 raciones (lunes)
+- Solomillo de cerdo en salsa de piquillos, 2 raciones, y sus patatas (martes)
+- Ternera escalfada en filetes, con su salsa y sus patatas, 2 raciones (miércoles)
+- 2 huevos duros con cáscara para el potaje (viernes)
+
+**Al congelador** (pásalo a la nevera la noche antes):
+- Albóndigas en salsa con su arroz, 2 raciones (jueves)
+- Potaje de garbanzos con acelgas, 2 raciones (viernes; congelado, la patata queda algo más harinosa)
+
+**Paso a paso:**
+
+| Hora | Dónde | Qué hacer |
+| :--- | :--- | :--- |
+| 0:00 | Preparación | Lava el arroz integral. Salpimienta la pieza de ternera (340 g). Corta el solomillo de cerdo en medallones. |
+| 0:05 | Fuego 1 · olla | Ternera escalfada: la pieza con la zanahoria y la cebolla en cuartos, el ajo, el laurel, el caldo (300 ml) y el balsámico; cuando rompa a hervir, tapa y baja al mínimo, 1 hora, dándole la vuelta a la media hora (en el libro va en el robot: 95 °C, 1 hora, sin velocidad). |
+| 0:05 | Robot y tabla | Mezcla de las albóndigas en el robot: cebolla, ajo, pan, leche, huevo y perejil 6 s/vel 6, y la carne con la sal 15–20 s/vel 5; a la nevera. Luego trocea, por tandas (4–5 s/vel 5) y guardando cada cosa aparte, la cebolla, la zanahoria y el pimiento de la salsa de las albóndigas y el puerro y las setas del risotto. A cuchillo: las acelgas en tiras y la pechuga del risotto en dados. |
+| 0:15 | Robot | Salsa de piquillos del solomillo: trocea la cebolla y el ajo 4 s/vel 5 y sofríelos con la mitad del aceite 8 min/120 °C/vel 1; añade los piquillos y el caldo, 5 min/100 °C/vel 1, y tritura 30 s, subiendo de vel 5 a 10. Pásala a un bol y lava el vaso. |
+| 0:15 | Fuego 2 · olla | Arroz integral de las albóndigas: 120 g, el tiempo del paquete; escúrrelo y resérvalo. |
+| 0:15 | Fuego 3 · sartén | Salsa de las albóndigas: sofríe sus verduras con el aceite 8 minutos y añade el tomate y el laurel, 10 minutos; apártala del fuego. |
+| 0:20 | Airfryer | Haz las albóndigas (unas 12, del tamaño de una nuez) y ponlas a 190 °C 8–10 minutos, en dos tandas si no caben. |
+| 0:35 | Robot | Potaje de garbanzos (2 raciones): pica la cebolla y el ajo 10 s/vel 5; añade la patata chascada, el aceite, el caldo, el tomate concentrado, el pimentón y el laurel, 20 min/100 °C/vel 1/giro inverso, y luego los garbanzos y las acelgas, 10 minutos más. |
+| 0:40 | Fuego 3 · sartén | Quita el laurel de la salsa, mete las albóndigas y cuécelas 10 minutos a fuego suave. Repártelas con el arroz. |
+| 0:45 | Fuego 2 · cazo | Cuece 2 huevos 10 minutos para el potaje y guárdalos con cáscara. |
+| 0:50 | Fuego 3 · sartén | Pasa las albóndigas a sus táperes. Solomillo en salsa de piquillos (2 raciones): dora los medallones (340 g), salpimentados, 2 minutos por lado con el resto del aceite; echa la salsa del robot y cuécelos 4–5 minutos a fuego suave. |
+| 1:00 | Microondas | Patatas en rodajas, tapadas con un poco de agua y sal, 8–10 minutos cada tanda: 600 g para el solomillo y 500 g para la ternera. |
+| 1:05 | Encimera | Saca la ternera y el laurel y tritura las verduras con su jugo (batidora): es la salsa. Corta la carne en filetes finos y cúbrelos con la salsa. |
+| 1:10 | Robot | Pasa el potaje a sus táperes y lava el vaso. Risotto del lunes (2 raciones), lo último: con la mariposa, el aceite, el jamón, el pollo, el puerro y las setas, 6 min/120 °C/vel 1/giro inverso; añade el arroz (120 g) y el caldo caliente (600 ml), 15 min/95 °C/vel 1; la mozzarella, los últimos 2 minutos. |
+| 1:25 | Fuego 2 · olla a presión | Guiso de calamares para comer hoy (unos 35 minutos): rehoga el ajo, la cebolleta y el pimiento verde 8–10 minutos; añade el calamar, 2–3 minutos, el choricero y la guindilla; la patata chascada y agua hasta cubrir justo; cierra y cuece 5 minutos desde que suba la válvula. Deja que baje la presión sola. |
+| 1:40 | Táperes | Deja templar y reparte: 3 de cada 5 cazos para Guillermo y 2 para Indi. Nevera: el risotto (es para mañana), el solomillo de cerdo con sus patatas, la ternera en su salsa con las patatas y los 2 huevos del potaje. Congelador: las albóndigas con su arroz y el potaje. |
+| 1:50 | Fuego 3 · sartén | Dora los ajos frescos 3–4 minutos y a comer el guiso de calamares, con los ajos por encima. |
+
+### Cenas
+
+*Duración: 40 min, aproximadamente, al terminar la de mediodía: el robot hace la crema de zanahoria de la cena de hoy.*
+
+**A la nevera:**
+- Pimiento y cebolla en tiras para la pizza (lunes)
+- 6 huevos cocidos con cáscara para la ensalada (martes)
+
+**Al congelador** (pásalo a la nevera la noche antes):
+- Pechuga cruda de la crema de boniato del domingo (360 g), en bolsa
+
+**Paso a paso:**
+
+| Hora | Dónde | Qué hacer |
+| :--- | :--- | :--- |
+| 0:00 | Tabla | Corta en tiras el pimiento y la cebolla de la pizza del lunes (a un táper). La pechuga de la crema de boniato del domingo (360 g), cruda, en una bolsa al congelador. Trocea la zanahoria, la patata, el puerro y la cebolla de la crema de zanahoria. |
+| 0:05 | Fuego 2 · cazo | Cuece 6 huevos 10 minutos para la ensalada del martes y guárdalos con cáscara. |
+| 0:05 | Robot | Crema de zanahoria (cena de hoy): puerro y cebolla 6 s/vel 6 y sofrito 3 min/120 °C/vel 1; la patata chascada, la zanahoria, el caldo, la sal y la pimienta, 24 min/110 °C/vel 0, sin cubilete; añade la leche y tritura 1 min/vel 8. |
+| 0:40 | Táperes | Guarda en la nevera lo de la pizza y los huevos. Para cenar, la crema de zanahoria con la tosta de jamón y mozzarella. |
+
+
+**Recordatorios de la semana:**
+- **Lunes 4:** Cena: pizza de avena y yogur, al momento (la masa y 10–12 minutos de horno), con el pimiento y la cebolla del batch.
+- **Lunes 4 por la noche:** Pasa las gambas cocidas del congelador a la nevera (ensalada de la cena de mañana).
+- **Martes 5:** Cena: ensalada de huevo y gambas, al momento (10 minutos): pela los huevos del batch y machácalos con el yogur y las mostazas; añade las gambas escurridas, el apio y la cebolla morada. Con el pan tostado.
+- **Miércoles 6:** Cena: sándwich de tortilla francesa con jamón serrano, al momento (10 minutos).
+- **Miércoles 6 por la noche:** Pasa las albóndigas del jueves a la nevera.
+- **Jueves 7:** Cena: sándwich mixto, al momento (5–10 minutos).
+- **Jueves 7 por la noche:** Pasa el potaje del viernes a la nevera.
+- **Viernes 8 por la noche:** Pasa la merluza a la nevera y haz la tártara (fish & chips del sábado).
+- **Sábado 9 por la noche:** Pasa los gambones del congelador a la nevera (arroz del domingo).
+- **Sábado 9 por la noche:** Pasa a la nevera la pechuga de la crema de boniato (cena del domingo).

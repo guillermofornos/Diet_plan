@@ -7,10 +7,10 @@ from lib import macros_receta
 from yo import dia_yo, plan_yo, miles, reglas, BATIDO, PREPADEL
 from plan import pescados_semana
 
-MESES = {"10": "oct", "11": "nov", "12": "dic"}
-MES_LARGO = {"10": "octubre", "11": "noviembre", "12": "diciembre"}
-# La página lleva la semana en curso y el mes nuevo: así el enlace de Indi sirve siempre (se publica en la misma URL).
-PAGINA = [7, 8, 9, 10, 11]
+MESES = {"01": "ene", "02": "feb", "03": "mar", "04": "abr", "05": "may", "06": "jun", "07": "jul", "08": "ago", "09": "sep", "10": "oct", "11": "nov", "12": "dic"}
+MES_LARGO = {"01": "enero", "02": "febrero", "03": "marzo", "04": "abril", "05": "mayo", "06": "junio", "07": "julio", "08": "agosto", "09": "septiembre", "10": "octubre", "11": "noviembre", "12": "diciembre"}
+# La página lleva la semana en curso y la primera vuelta del ciclo de 5 semanas: así el enlace de Indi sirve siempre (se publica en la misma URL).
+PAGINA = [8, 9, 10, 11, 12, 13]
 SEMANAS = [s for s in SEMANAS if s["num"] in PAGINA]
 usadas = set()
 for s in SEMANAS:
@@ -49,7 +49,8 @@ for s in SEMANAS:
                          fuera=fila[3] == FUERA, libre=("comida y cena libres" if fila[1] == LIBRE else "cena libre") if fila[3] == LIBRE else "", comidas=[["Desayuno", fila[0]], ["Comida", fila[1]], ["Merienda", fila[2]], ["Cena", fila[3]]],
                          prep=prep_dia[i], yo=yo))
     compra = [dict(h=sec, items=items) for sec, items in lista(s).items()]
-    semanas.append(dict(num=s["num"], titulo=s["titulo"], corto=f"{dias[0]['n']} {dias[0]['mes']}", inicio=s["fechas"][0], fin=s["fechas"][-1],
+    bigmac = not any("FF2" in fila for fila in s["filas"])      # si la Big Mac ya está en el menú de la semana, no se ofrece el sábado
+    semanas.append(dict(num=s["num"], ciclo=s.get("ciclo"), bigmac=bigmac, titulo=s["titulo"], corto=f"{dias[0]['n']} {dias[0]['mes']}", inicio=s["fechas"][0], fin=s["fechas"][-1],
                         antes=antes, dias=dias, compra=compra, salmon="salmón" in pescados_semana(s), opcional=opcional_bigmac(), batch=BATCH[s["num"]], nota_compra=NOTA_COMPRA.get(s["num"])))
 yo_plan = plan_yo([s for s in SEMANAS if s["num"] >= 8]); yo_plan.update(batido=list(BATIDO), pre=list(PREPADEL))
 data = dict(recetas=recetas, semanas=semanas, normas=NORMAS, yo=yo_plan, reglas=reglas())
@@ -58,7 +59,7 @@ plantilla = (AQUI / "plantilla.html").read_text()
 def largo(f): _, m, d = f.split("-"); return f"{int(d)} de {MES_LARGO[m]}"
 ini, fin = SEMANAS[0]["fechas"][0], SEMANAS[-1]["fechas"][-1]
 html = (plantilla.replace("/*__DATA__*/null", json.dumps(data, ensure_ascii=False))
-        .replace("__EYEBROW__", f"Semanas {SEMANAS[0]['num']} a {SEMANAS[-1]['num']} · Objetivo: 15 % de grasa")
+        .replace("__EYEBROW__", "Ciclo de 5 semanas, que se repite · Objetivo: 15 % de grasa")
         .replace("__TITULO__", f"Del {largo(ini)} al {largo(fin)}")
         .replace("__INICIO__", str(int(ini.split("-")[2]))))
 SALIDA = AQUI / "salida"; SALIDA.mkdir(exist_ok=True)

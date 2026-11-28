@@ -870,6 +870,142 @@
 
 ---
 
+### Magro de cerdo en salsa con patatas
+*Fuente: Cocina con Carmen (YouTube); en la Mambo, CociMambo · ≈ 627 kcal · 46 g proteína · 62 g HC · 18 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=exO80aX6OMk>  
+▶ **Otro vídeo:** <https://www.youtube.com/watch?v=3nJlR1_a_Hs>
+
+**Ingredientes (Carne en salsa):**
+- 340 g de magro de cerdo en dados de 3 cm (lomo o jamón fresco, sin grasa visible).
+- 120 g de cebolla.
+- 100 g de zanahoria en rodajas.
+- 80 g de pimiento rojo.
+- 16 ml de AOVE.
+- 300 ml de caldo de verduras bajo en sal (en vez del vino blanco y el agua).
+- 1 diente de ajo, 1 hoja de laurel, tomillo u orégano, sal y pimienta.
+
+**Ingredientes (Guarnición):**
+- 500 g de patata.
+- 60 g de pan integral.
+
+**Instrucciones:**
+1. En una cazuela con la mitad del aceite muy caliente, dora la carne salpimentada por todos los lados y sácala.
+2. En la misma cazuela, con el resto del aceite, pocha el ajo y la cebolla picados con un poco de sal hasta que estén transparentes, unos 8 minutos.
+3. Añade el pimiento y la zanahoria troceados y sofríe 5 minutos.
+4. Vuelve a meter la carne con el laurel y el tomillo, cubre con el caldo caliente y, cuando hierva, cuece a fuego medio unos 40 minutos, removiendo de vez en cuando, hasta que la carne esté tierna.
+5. Sube el fuego un par de minutos para reducir la salsa y rectifica de sal. Si la quieres fina, saca la carne y tritura las verduras.
+6. Patatas: en dados o rodajas, tapadas con un poco de agua y sal, 8–10 minutos de microondas (o cocidas). Sirve con la salsa y el pan.
+7. En la Mambo (segundo vídeo): trocea el ajo, la cebolla, el pimiento y la zanahoria 10 s/vel 6 y sofríelos 12 min/100 °C/vel 1; pon la mariposa, añade la carne (dorada antes en una sartén), el laurel y el caldo, y programa 45 min/100 °C/vel 1 con giro inverso.
+
+*Tupper:* 3 días en la nevera; la carne con su salsa se congela muy bien (la patata queda algo más harinosa).
+*Batch cooking:* Entero en el batch (1 hora, casi solo): en una olla a fuego medio o en el robot con la mariposa. 3 días en la nevera o al congelador; las patatas, al microondas.
+*Cambios respecto a la fuente:* Magro sin grasa en vez de cabeza de lomo, y 170 g por persona (la receta pone 1 kg para 3 o 4); caldo en vez del vino blanco, como ofrece la propia receta (alcohol 51 en tu test); medio diente de ajo por persona en vez de uno; el aceite, medido; con patata y pan para que sea un plato completo de táper.
+
+---
+
+### Arroz tres delicias con tofu sabroso
+*Fuente: Lara Ibarra · ≈ 640 kcal · 41 g proteína · 57 g HC · 25 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=QVF0yf-68kM&t=51s>  
+▶ **Otro vídeo:** <https://www.youtube.com/watch?v=GnUxt3Qus4Q>
+
+**Ingredientes (Tofu sabroso):**
+- 300 g de tofu firme, en filetes de un dedo de grosor.
+- 6 ml de AOVE.
+- Cebolla en polvo, pimentón dulce de la Vera, pimienta y sal.
+
+**Ingredientes (Arroz tres delicias):**
+- 120 g de arroz basmati o largo (en crudo), cocido y frío.
+- 60 g de taquitos de jamón serrano.
+- 2 huevos.
+- 120 g de guisantes congelados.
+- 80 g de zanahoria en daditos.
+- 6 ml de AOVE.
+
+**Instrucciones:**
+1. Lava el arroz, cuécelo el tiempo del paquete, escúrrelo y extiéndelo en una fuente para que se enfríe (lo ideal es que sea del día anterior). En esa misma agua, hierve 2 minutos la zanahoria y los guisantes.
+2. Tofu: quítale el agua apretándolo con papel de cocina, córtalo en filetes y úntalos con el aceite, la cebolla en polvo, el pimentón, la pimienta y la sal.
+3. En una sartén a fuego medio-alto, tuesta los filetes de tofu por los dos lados y sácalos.
+4. En la misma sartén, con el resto del aceite, tuesta los taquitos de jamón 1 minuto y añade el arroz frío; saltéalo un par de minutos.
+5. Haz un hueco, casca el huevo y remuévelo hasta que cuaje mezclado con el arroz; añade los guisantes y la zanahoria, 1 minuto más.
+6. Sirve el arroz con el tofu al lado.
+
+*Tupper:* Enfríalo rápido: 1 día en la nevera, o congelado (recaliéntalo hasta que queme).
+*Batch cooking:* En el batch: el arroz, cocido al principio y enfriado en una fuente, y el salteado al final (10 minutos de sartén). A la nevera si es para el lunes; si no, al congelador en cuanto temple.
+*Cambios respecto a la fuente:* Cantidades pesadas (el vídeo no las da): 60 g de arroz y 150 g de tofu por persona; con zanahoria, como el tres delicias del segundo vídeo; sin gambas.
+
+---
+
+### Pastel de carne con puré de boniato
+*Fuente: Rosa, cocinera y madre (YouTube); el de patata, de Karlos Arguiñano · ≈ 596 kcal · 46 g proteína · 55 g HC · 18 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=athmx4a_hNY>  
+▶ **Otro vídeo:** <https://www.youtube.com/watch?v=M_Femj-6W9A&t=91s>
+
+**Ingredientes (Carne):**
+- 300 g de carne picada magra, mitad ternera y mitad cerdo.
+- 80 g de cebolla.
+- 80 g de zanahoria.
+- 120 g de tomate triturado natural.
+- 10 ml de AOVE.
+- 1 diente de ajo, orégano, sal y pimienta.
+
+**Ingredientes (Puré de boniato):**
+- 500 g de boniato pelado.
+- 40 ml de leche.
+- 1 huevo.
+- 60 g de mozzarella fresca light en trocitos (en vez del queso rallado).
+
+**Instrucciones:**
+1. Pela el boniato, trocéalo y cuécelo en agua con sal 10–15 minutos, hasta que esté tierno. Escúrrelo y guarda un poco del agua.
+2. Pica fino la cebolla, el ajo y la zanahoria y póchalos con el aceite a fuego medio unos 10 minutos.
+3. Añade la carne, salpimienta y suéltala bien con la cuchara, 4–5 minutos; añade el tomate y el orégano y cuece 5–6 minutos más, hasta que quede seca.
+4. Aplasta el boniato con un tenedor y mézclalo con la leche, el huevo batido, sal y pimienta. Si queda muy espeso, un poco del agua de cocerlo.
+5. En una fuente untada con unas gotas de aceite, pon una capa fina de puré, toda la carne y el resto del puré; reparte la mozzarella por encima.
+6. Horno precalentado a 200 °C, 20 minutos, hasta que se dore. Deja que temple antes de cortarlo en raciones.
+
+*Tupper:* 3 días en la nevera; se congela bien por raciones (caliéntalo en el horno, en la airfryer o en el microondas).
+*Batch cooking:* Entero en el batch: la carne en la sartén, el boniato cocido y 20 minutos de horno; se corta en raciones. 3 días en la nevera o al congelador.
+*Cambios respecto a la fuente:* Carne picada magra, 150 g por persona; mozzarella light en vez de queso rallado y tomate triturado natural en vez de frito; medio huevo en el puré, como hace Arguiñano en el suyo de patata, para que aguante el táper y el congelador; sin vino.
+
+---
+
+### Ensaladilla de pasta y jamón con huevo duro
+*Fuente: Karlos Arguiñano · ≈ 617 kcal · 40 g proteína · 61 g HC · 22 g grasa · por persona*
+
+▶ **Vídeo:** <https://www.youtube.com/watch?v=gyiXoBtk4sM>  
+📄 **Receta escrita:** <https://www.hogarmania.com/cocina/recetas/ensaladas-verduras/201402/ensaladilla-pasta-jamon-23667.html>
+
+**Ingredientes (Ensaladilla):**
+- 140 g de pasta corta (hélices o lacitos, mejor de colores), en seco.
+- 160 g de jamón cocido extra, en un taco para cortarlo en dados.
+- 2 huevos duros, en trozos.
+- 50 g de maíz dulce en conserva, escurrido.
+- 80 g de zanahoria rallada en hilos.
+- 12 aceitunas sin hueso, en cuartos.
+- Perejil picado y una ramita de romero para cocer la pasta.
+
+**Ingredientes (Mahonesa proteica de choricero):**
+- 2 huevos duros más, para la mahonesa.
+- 80 g de yogur natural.
+- 10 ml de AOVE.
+- 2 cucharaditas de carne de pimiento choricero.
+- Unas gotas de vinagre y sal.
+
+**Instrucciones:**
+1. Cuece la pasta con la ramita de romero en agua con sal 8–10 minutos; quita el romero, refréscala con agua fría y escúrrela bien.
+2. Cuece los huevos 10 minutos, enfríalos y pélalos.
+3. Mahonesa proteica: tritura la mitad de los huevos duros con el yogur, el aceite, el vinagre, la sal y la carne de choricero (batidora, o el robot 15 s/vel 5) hasta que quede cremosa. Arguiñano la hace con huevo crudo; así aguanta en el táper.
+4. Ralla la zanahoria en hilos, corta las aceitunas en cuartos, el jamón en dados y el resto de los huevos en trozos.
+5. Mézclalo todo con el maíz y la pasta, alíñalo con la mahonesa y termina con perejil picado. A la nevera: se come fría.
+
+*Tupper:* 3 días en la nevera, ya aliñada; se come fría. No se congela.
+*Batch cooking:* Entera en el batch (25 minutos): la pasta y los huevos cocidos y la mahonesa en el robot. 3 días en la nevera.
+*Cambios respecto a la fuente:* Con huevo duro (la original no lleva) y mahonesa proteica de huevo cocido y yogur en vez de la de huevo crudo, que no aguanta 3 días en el táper; 80 g de jamón por persona y algo menos de pasta; carne de choricero de bote en vez de cocer los pimientos.
+
+---
+
 ## Cenas
 
 ### Tacos de merluza crujiente con pico de gallo y salsa de yogur y lima

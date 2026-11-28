@@ -164,8 +164,6 @@
 
 ---
 
-## Cenas
-
 ### Ternera escalfada con salsa de sus verduras y patata
 *Fuente: Libro de recetas del robot Cecotec · ≈ 506 kcal · 44 g proteína · 50 g HC · 12 g grasa · por persona*
 
@@ -178,7 +176,7 @@
 - 1 diente de ajo, 1 hoja de laurel, sal y pimienta.
 - 300 ml de caldo de verduras bajo en sal.
 - 2 cucharaditas de vinagre balsámico (en vez del vino).
-- 10 ml de AOVE para marcarla.
+- 10 ml de AOVE (para la patata, o para marcar la carne si la comes en casa).
 
 **Ingredientes (Guarnición):**
 - 500 g de patata.
@@ -188,11 +186,11 @@
 1. Salpimienta la pieza y ponla en el robot con la zanahoria y la cebolla en cuartos, el ajo, el laurel, el caldo y el balsámico.
 2. Programa 95 °C durante 1 hora, sin movimiento de cuchillas (velocidad 0). A media cocción, dale la vuelta a la pieza.
 3. Saca la carne y el laurel y tritura las verduras con el jugo: 30 segundos a velocidad 5–10. Es la salsa.
-4. El día que la comas, corta la carne en filetes y márcalos 1 minuto por lado en una sartén muy caliente con el aceite. Calienta la salsa.
+4. Para el táper, corta la carne en filetes finos y cúbrelos con la salsa. Si la comes en casa, márcalos antes 1 minuto por lado en una sartén muy caliente con el aceite.
 5. Patata en rodajas en un bol tapado, con un poco de agua, 7–8 minutos de microondas (o al vapor). Sirve la carne con la salsa, la patata y los canónigos.
 
-*Tupper:* La carne entera en su salsa, 3 días en la nevera; se corta y se marca al momento.
-*Batch cooking:* En el batch, la ternera escalfada (robot, 1 hora) y la salsa triturada, a la nevera; el día que la comas, filetes a la plancha 1 minuto por lado y la patata.
+*Tupper:* En filetes y cubierta con su salsa, 3 días en la nevera; caliéntala a media potencia para que no se seque.
+*Batch cooking:* Entera en el batch: la ternera escalfada (1 hora en el robot, casi sola), fileteada y cubierta con su salsa, con la patata al lado; 3 días en la nevera. Los canónigos, al servir.
 *Cambios respecto a la fuente:* Caldo y un poco de balsámico en vez del vino tinto (alcohol 51 en tu test); la verdura del escalfado, triturada, hace de salsa; patata y canónigos de guarnición.
 
 ---
@@ -218,11 +216,13 @@
 4. Cuando falten 2 minutos, añade la mozzarella para que quede cremoso. Deja reposar 2 minutos y sirve con pimienta y perejil.
 5. Sin robot: en una sartén honda, el sofrito con el pollo 6 minutos, el arroz 1 minuto y el caldo caliente poco a poco, removiendo, 16–18 minutos.
 
-*Tupper:* Mejor recién hecho; 1 día en la nevera (al recalentar, un chorrito de caldo).
-*Batch cooking:* Se hace al momento en el robot (30 minutos). En el batch, la pechuga va cruda al congelador y se pasa a la nevera la noche antes.
+*Tupper:* Recién hecho está mejor: aguanta 1 día en la nevera, por eso va de comida el lunes (al recalentar, un chorrito de caldo o de agua).
+*Batch cooking:* Lo último de la tanda de mediodía del domingo (30 minutos en el robot): es el táper del lunes, y no aguanta más de un día.
 *Cambios respecto a la fuente:* Con pollo; sin mantequilla (45) ni parmesano (queso curado 55): un poco de mozzarella fresca al final; sin vino; más puerro y setas (no champiñón, 43 en tu test); menos jamón y caldo bajo en sal.
 
 ---
+
+## Cenas
 
 ### Crema de calabaza con pipas y tortilla de claras con jamón
 *Fuente: Recetas Cecotec (web) · ≈ 423 kcal · 37 g proteína · 27 g HC · 17 g grasa · por persona*
@@ -291,6 +291,41 @@
 *Tupper:* La crema, 3 días en la nevera; el calamar, al momento.
 *Batch cooking:* La crema, en el robot (30 minutos) el mismo día o en el batch; el calamar, siempre al momento.
 *Cambios respecto a la fuente:* Leche normal en vez de evaporada; caldo bajo en sal; calamar a la plancha por encima para llegar a la proteína (en vez de gambas, que ya hay el domingo anterior). La web no dice raciones: cantidades calculadas para 4 y pasadas a 2.
+
+---
+
+### Crema de zanahoria con tosta de jamón y mozzarella
+*Fuente: Recetas Cecotec (web) · ≈ 503 kcal · 38 g proteína · 47 g HC · 16 g grasa · por persona*
+
+📄 **Receta escrita:** <https://cecotec.es/recetas/cremas-y-sopas/crema-de-zanahoria>
+
+**Ingredientes (Crema de zanahoria):**
+- 250 g de zanahoria.
+- 80 g de patata.
+- 50 g de puerro.
+- 50 g de cebolla.
+- 10 ml de AOVE.
+- 300 ml de caldo de verduras bajo en sal.
+- 50 ml de leche (en vez de leche evaporada).
+- Sal y pimienta.
+
+**Ingredientes (Tosta y postre):**
+- 100 g de pan integral, tostado.
+- 100 g de mozzarella fresca light en lonchas.
+- 60 g de jamón serrano.
+- 2 yogures +Proteínas natural, de postre.
+
+**Instrucciones:**
+1. Trocea en el robot el puerro y la cebolla: 6 segundos a velocidad 6.
+2. Añade el aceite y sofríe 3 minutos a 120 °C y velocidad 1 (en el Cecotec, potencia de calor 7).
+3. Añade la patata chascada, la zanahoria en trozos, el caldo, la sal y la pimienta: 24 minutos a 110 °C, sin movimiento (velocidad 0) y sin el cubilete.
+4. Pon el cubilete, añade la leche y tritura 1 minuto a velocidad 8.
+5. Tosta: tuesta el pan y pon encima la mozzarella y el jamón (1 minuto de airfryer a 200 °C si quieres la mozzarella fundida).
+6. Sirve la crema bien caliente con la tosta; de postre, el yogur.
+
+*Tupper:* La crema, 3 días en la nevera (se congela bien); la tosta, al momento.
+*Batch cooking:* La crema, en el robot (30 minutos) en la tanda de cenas del batch; la tosta, al momento.
+*Cambios respecto a la fuente:* Leche normal en vez de evaporada; caldo bajo en sal; tosta de jamón y mozzarella y un yogur +Proteínas para llegar a la proteína (antes llevaba calamar a la plancha, pero el pescado no va de cena). La web no dice raciones: cantidades calculadas para 4 y pasadas a 2.
 
 ---
 

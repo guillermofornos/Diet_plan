@@ -118,6 +118,9 @@ T = {
  "caldo_pollo":  dict(n=(5, 0.3, 0.1, 0.5)),
  "caldo_verd":   dict(n=(5, 0.3, 0.1, 0.5)),
  "picada_mixta": dict(n=(132, 21.0, 5.2, 0.0)),  # mitad ternera magra, mitad lomo de cerdo
+ # Comidas sin pollo del ciclo de 5 semanas (28 de noviembre)
+ "magro_cerdo":  dict(n=(135, 21.0, 5.5, 0.0)),  # magro de cerdo en dados (lomo o jamón fresco, sin grasa visible)
+ "pasta":        dict(n=(355, 12.0, 1.5, 72.0)), # pasta corta de trigo, en seco
 }
 
 def macros(items):

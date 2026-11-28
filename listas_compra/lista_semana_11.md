@@ -4,33 +4,32 @@
 
 *Truco: compra el pescado congelado. Casi todo el pollo se cocina o se marina en el batch del domingo; el del fin de semana va crudo al congelador y se pasa a la nevera la noche antes (ver «Recordatorios de la semana» en el menú).*
 
-> **Ojo:** Semana de Navidad: la cena del jueves 24 (Nochebuena) y la comida y la cena del viernes 25 quedan libres, sin compra. El salmón de la comida del sábado 26, compradlo el jueves 24 (el 25 cierran las tiendas), o congelado y a la nevera la noche antes. La sepia del domingo 27, congelada.
+> **Ojo:** Semana de Navidad: la cena del jueves 24 (Nochebuena) y la comida y la cena del viernes 25 quedan libres y no están en la lista. El salmón de la comida del sábado 26, compradlo el jueves 24 (el 25 cierran las tiendas), o congelado y a la nevera la noche antes. La carne picada de la Big Mac del martes va al congelador en el batch de mañana, y la del pastel se cocina ese día. El salmón de la comida del sábado, fresco el viernes (o congelado, y a la nevera la noche antes). La sepia del domingo, congelada.
 
 ## Fruta y verdura
 - 12 Plátanos (desayunos y meriendas)
-- 12 Kiwis (desayunos y meriendas)
-- 2 Aguacates (unos 260 g de pulpa)
-- 500 g Pimientos rojos o de colores
-- 200 g Pimientos verdes italianos
-- 990 g Cebollas (incluye cebolleta y morada)
-- 220 g Zanahorias
-- 180 g Tomates (incluye cherrys)
-- 1,58 kg Patatas
-- 600 g Calabaza (pelada)
-- 80 g Puerros
+- 14 Kiwis (desayunos y meriendas)
+- 3 Aguacates (unos 320 g de pulpa)
+- 300 g Pimientos rojos o de colores
+- 280 g Pimientos verdes italianos
+- 1,02 kg Cebollas (incluye cebolleta y morada)
+- 420 g Zanahorias
+- 120 g Tomates (incluye cherrys)
+- 2,26 kg Patatas
 - 1 Apio (paquete de ramas o una mata pequeña; se usan 150 g)
-- 1 bolsa Rúcula o canónigos (unos 70 g)
+- 1 bolsa Rúcula o canónigos (unos 110 g)
 - Limones
 - Perejil
 
 ## Carne, huevos y tofu
-- 2 docenas y media Huevos (se usan 24)
-- 1,14 L Claras de huevo pasteurizadas
-- 300 g Pechuga de pollo
-- 700 g Solomillos de pollo
-- 80 g Jamón cocido extra
+- 2 docenas y media Huevos (se usan 26)
+- 340 ml Claras de huevo pasteurizadas
+- 660 g Pechuga de pollo
+- 80 g Taquitos de jamón serrano
+- 160 g Jamón cocido extra
 - 500 g Tofu firme (2 bloques de 400 g)
-- 340 g Ternera para guisar en tacos (jarrete (morcillo), aguja o llana, sin grasa visible)
+- 340 g Ternera en una pieza para escalfar (redondo, tapa o contra)
+- 300 g Carne picada de ternera magra (carnicería: tapilla o babilla; cómprala el día que la cocines)
 
 ## Pescado
 - 200 g Gambas o langostinos cocidos y pelados (congelados) (para la ensalada de huevo; a la nevera la noche antes)
@@ -38,45 +37,38 @@
 - 300 g Lomos de salmón (frescos o congelados)
 
 ## Lácteos
-- 8 Yogures naturales sin azúcar (de 125 g)
+- 10 Yogures naturales sin azúcar (de 125 g)
 - 1 Yogur +Proteínas natural (vasitos de 120 g, en packs de 4)
 - 14 Natillas +Proteínas (4 packs de 4)
-- 1 bola Mozzarella fresca (se usan 60 g)
+- 1 bola Mozzarella fresca (se usan 100 g)
 
 ## Pan y tortillas
-- 800 g Pan integral (100% integral)
-- 2 Panes de pita (mejor integrales)
+- 900 g Pan integral (100% integral)
+- 2 Panes de hamburguesa 100% integrales
 
 ## Despensa
-- 160 g Lenteja pardina
-- 80 g Arroz integral
-- 130 g Arroz basmati
-- 1 bote Miel (si no te queda; se usan 15 g)
+- 1 Ketchup sin azúcar (si no te queda)
+- 1 bote Guindillas en vinagre
+- 180 g Lenteja pardina
 - 130 g Espaguetis integrales o normales (mira si os quedan del paquete)
+- 140 g Pasta corta (hélices o lacitos) (mejor de colores)
+- 1 lata pequeña Maíz dulce en conserva (se usan 50 g)
 - 120 g Copos de avena
-- 230 g Pipas de calabaza sin sal
-- 440 g Tomate triturado natural
-- 1 brik de 1 L Caldo de carne bajo en sal (se usan 700 ml)
+- 210 g Pipas de calabaza sin sal
+- 380 g Tomate triturado natural
+- 1 bote Carne de pimiento choricero (se usan 10 g)
+- 1 lata Aceitunas sin hueso (se usan 30 g)
 - 1 Salsa de soja baja en sodio (si no te queda)
 - 1 Mostaza (si no te queda)
 - 1 Vinagre balsámico (si no te queda; no crema de balsámico)
-- 150 ml Aceite de oliva virgen extra (se usan esta semana)
+- 1 brik de 1 L Caldo de verduras bajo en sal (se usan 800 ml)
+- 120 ml Aceite de oliva virgen extra (se usan esta semana)
 - Mostaza en grano, a la antigua (si no os queda)
 - Salsa picante (opcional)
 
 ## Congelados
-- 220 g Guisantes finos congelados
-- 140 g Judías verdes troceadas congeladas
+- 120 g Guisantes finos congelados
 
 ## Especias y condimentos
-- Comino, Curry en polvo, Jengibre, Laurel, Pimentón dulce (revisa lo que tienes)
+- Comino, Cúrcuma, Laurel, Pimentón dulce, Vinagre (revisa lo que tienes)
 - Sal, pimienta, ajo en polvo y cebolla en polvo (básicos)
-
-## Opcional: Big Mac en casa el sábado (x2)
-*Solo si el sábado cenáis en casa en vez de fuera (receta en `recetas/fast_food_saludable.md`).*
-- 300 g Patatas
-- 300 g Carne picada de ternera magra (carnicería: tapilla o babilla; cómprala el día que la cocines)
-- 2 Panes de hamburguesa 100% integrales
-- 1 Ketchup sin azúcar (si no te queda)
-- 1 bote Guindillas en vinagre
-- Yogur, mozzarella, cebolla, canónigos y mostaza (de la lista: añade 1 yogur y 40 g de mozzarella)

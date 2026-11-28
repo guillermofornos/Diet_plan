@@ -115,7 +115,7 @@ def plan_yo(semanas):
              "Después de entrenar; los días sin gimnasio, en la merienda y al terminar el pádel o de postre en la cena. Un bote de 1 kg te dura unas 3 semanas."),
             ("Creatina monohidrato", "5 g al día, también los días que no entrenas.",
              "Cuando quieras: en el batido o con la comida. Sin fase de carga."),
-            ("Omega 3 (MyProtein)", "2 cápsulas al día; 1 las semanas con salmón (7 y 21 de diciembre).",
+            ("Omega 3 (MyProtein)", "2 cápsulas al día; 1 las semanas con salmón (la 1 y la 3 del ciclo).",
              "Con la comida, que lleva algo de grasa."),
             ("Vitamina D3", "1.000–2.000 UI al día, de octubre a marzo.",
              "Con la comida. Lo ideal es pedir en la próxima analítica la vitamina D (25-OH) y ajustar."),
@@ -130,13 +130,20 @@ def plan_yo(semanas):
 def reglas():
     """Todo lo acordado para el menú, para la pestaña «Tú» de la página."""
     return [
+        ("El ciclo", [
+            "El menú son 5 semanas que se repiten desde el 7 de diciembre. Las normas de no repetir valen también de la semana 5 a la 1.",
+            "Como mucho 2 platos con pollo a la semana, contando comidas y cenas y cualquier plato que lo lleve (también la sopa, las cremas y los arroces).",
+            "Lo que antes era una vez al mes (el arroz con secreto, la dorada y la lubina a la sal, el salmón 2 semanas) es ahora una vez en cada vuelta de 5 semanas.",
+        ]),
         ("Tus recetas", [
-            "Las que pasas tú (enlace, foto, captura o texto) tienen prioridad sobre las demás: si hay que hacer sitio o elegir, se quedan las tuyas.",
+            "Las que pasas tú (enlace, foto, captura o texto) quedan apuntadas como tuyas y tienen prioridad sobre las demás: entran todas en el ciclo, y si hay que hacer sitio o elegir, se quedan las tuyas.",
+            "Fuera del ciclo solo queda la ternera a la jardinera, porque es el mismo guiso que tu estofado. La crema de zanahoria entra con una tosta de jamón y mozzarella en vez del calamar, porque el pescado no va de cena.",
+            "Las 4 comidas sin pollo que ha buscado Claude (magro en salsa, arroz tres delicias, pastel de carne y ensaladilla de pasta) no son tuyas: cualquier receta que pases les quita el sitio.",
         ]),
         ("Comidas", [
             "Ningún plato se repite dentro de la semana ni de una semana a la siguiente, y tampoco el mismo tipo de plato aunque sea otra receta: entre unas lentejas y las siguientes, una semana sin lentejas; igual con los garbanzos y con los guisos de ternera. Lentejas, como mucho un día por semana.",
-            "El estofado de ternera (tu receta) es el guiso de carne habitual: cada dos semanas, a fuego suave en la Le Creuset (nunca en la olla a presión).",
-            "Una vez al mes, el arroz meloso con secreto ibérico en la Le Creuset.",
+            "El estofado de ternera (tu receta) es el guiso de carne habitual: dos veces en cada vuelta del ciclo (semanas 1 y 4), a fuego suave en la Le Creuset (nunca en la olla a presión).",
+            "Una vez en cada vuelta, el arroz meloso con secreto ibérico en la Le Creuset.",
             "Nunca pollo en la comida y en la cena del mismo día. Solomillos de pollo, no contramuslos.",
         ]),
         ("Cenas", [
@@ -146,8 +153,8 @@ def reglas():
             "Viernes y sábado, cena fuera: ahí van las 3 cervezas de la semana.",
         ]),
         ("Pescado", [
-            "Siempre a mediodía del fin de semana, porque se cocina el mismo día que se come (las gambas cocidas de la ensalada semanal, no).",
-            "Salmón 2 semanas al mes; dorada a la sal y lubina a la sal, una vez al mes cada una. Los guisos y marmitakos se quedan.",
+            "Siempre a mediodía del fin de semana, porque se cocina el mismo día que se come. Lo que ya viene cocido (el pulpo de los martes y las gambas de la ensalada) sí puede ir entre semana.",
+            "En cada vuelta de 5 semanas: salmón 2 semanas, y dorada a la sal y lubina a la sal, una vez cada una. Los guisos y marmitakos se quedan.",
             "Merluza, siempre rebozada. Entre merluza y bacalao, una semana sin ninguno; y ningún pescado dos semanas seguidas.",
         ]),
         ("Lo que nunca entra", [
@@ -161,6 +168,6 @@ def reglas():
             "En los fuegos, como mucho 2 ollas y 1 sartén a la vez; la Mambo, el horno y la airfryer van en paralelo.",
             "Táperes de lunes a miércoles, a la nevera; los de jueves y viernes, al congelador, y a la nevera la noche antes.",
             "Al repartir: 3 de cada 5 cazos para Guillermo y 2 para Indi.",
-            "Navidad: la cena del 24 y el día 25, libres.",
+            "Navidad: la cena del 24 y el día 25, libres. Nochevieja y Año Nuevo, igual.",
         ]),
     ]

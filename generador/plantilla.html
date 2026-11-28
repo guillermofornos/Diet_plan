@@ -429,7 +429,7 @@ main{padding-block:16px 40px}
     }
     var sum, body;
     if (key === "FUERA") {
-      var sab = d.nombre === "Sábado";
+      var sab = d.nombre === "Sábado" && W[week].bigmac;
       var dish = el("span", { class: "dish" }, sab ? "Cena fuera: hamburguesa + cervezas" : "Cena fuera + cervezas");
       if (sab) dish.append(el("span", { class: "pill pill-video", text: "Vídeo" }));
       dish.append(el("small", { text: sab ? "O la Big Mac del vídeo en casa" : "Proteína y verdura; las cervezas de la semana, aquí" }));
@@ -484,7 +484,7 @@ main{padding-block:16px 40px}
   function renderWeeks() {
     var host = document.getElementById("weeks"); host.textContent = "";
     W.forEach(function (w, i) {
-      var b = el("button", { type: "button", "aria-pressed": String(i === week) }, el("span", { text: "Semana " + w.num }), el("b", { text: w.corto }));
+      var b = el("button", { type: "button", "aria-pressed": String(i === week) }, el("span", { text: w.ciclo ? "Ciclo · " + w.ciclo + " de 5" : "Semana " + w.num }), el("b", { text: w.corto }));
       b.addEventListener("click", function () { week = i; renderAll(); });
       host.append(b);
     });
@@ -589,8 +589,8 @@ main{padding-block:16px 40px}
   function renderShop() {
     var host = document.getElementById("shop"); host.textContent = "";
     if (W[week].nota_compra) host.append(el("div", { class: "before" }, el("b", { text: "Ojo con esta compra" }), el("p", { text: W[week].nota_compra })));
-    var secs = W[week].compra.concat([{ h: "Opcional · Big Mac en casa el sábado", items: W[week].opcional, opt: true,
-      note: "Solo si el sábado cenáis en casa en vez de fuera. La carne picada, cómprala el mismo día que la vayas a cocinar." }]);
+    var secs = W[week].bigmac ? W[week].compra.concat([{ h: "Opcional · Big Mac en casa el sábado", items: W[week].opcional, opt: true,
+      note: "Solo si el sábado cenáis en casa en vez de fuera. La carne picada, cómprala el mismo día que la vayas a cocinar." }]) : W[week].compra;
     secs.forEach(function (s) {
       var sec = el("section", { class: "shop-sec" + (s.opt ? " optional" : "") }, el("h3", { text: s.h }));
       if (s.note) sec.append(el("p", { class: "sec-note", text: s.note }));
@@ -686,7 +686,7 @@ main{padding-block:16px 40px}
         if (d.nombre === "Sábado" && idx >= 0) s += " Toca la compra de la semana del " + W[idx].corto + ".";
         if (d.nombre === "Domingo" && idx >= 0) s += " Toca el batch cooking de la semana del " + W[idx].corto + " (pestaña Batch).";
       }
-    } else s = "Mes terminado. Toca preparar las semanas siguientes.";
+    } else s = "Vuelta terminada: el menú vuelve a la semana 1 del ciclo.";
     document.getElementById("status").textContent = s;
   }
 

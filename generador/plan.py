@@ -4,8 +4,10 @@ from recetas_lara_comidas import R as R2
 from recetas_lara_cenas import R as R3
 from recetas_pescado import R as R4
 from recetas_cecotec import R as R5
+from recetas_ciclo import R as R6
+from datetime import date, timedelta
 from lib import macros_receta
-R = {**R0, **R1, **R2, **R3, **R4, **R5}
+R = {**R0, **R1, **R2, **R3, **R4, **R5, **R6}
 DIAS = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"]
 TIPO = ["E", "E", "D", "E", "E", "D", "D"]
 FUERA = "FUERA"
@@ -32,15 +34,6 @@ SEMANAS = [
  dict(num=8, titulo="30 nov – 6 dic", fechas=["2026-11-30","2026-12-01","2026-12-02","2026-12-03","2026-12-04","2026-12-05","2026-12-06"],
    filas=[("D1","SOLPIQ","ME_E","FAJ"), ("D4","ALBON","ME_E","SOPA"), ("D2","BBQ","ME_D","ENSHUEVO"), ("D1","POTG","ME_E","KEB"),
           ("D4","ARRPOL","ME_E",FUERA), ("D4S","DORSAL","ME_D",FUERA), ("D2","ARRGAMB","ME_D","CASTA")]),
- dict(num=9, titulo="7 – 13 dic", fechas=["2026-12-07","2026-12-08","2026-12-09","2026-12-10","2026-12-11","2026-12-12","2026-12-13"],
-   filas=[("D4L","LENTJ","ME_E","TAC"), ("D1","CURRY","ME_E","CREMCAL"), ("D4S","ESTOF","ME_D","SANDMIX"), ("D4","TOFU","ME_E","ENSHUEVO"),
-          ("D4","TERI","ME_E",FUERA), ("D4S","SALM2","ME_D",FUERA), ("D2","LUBSAL","ME_D","CREMVER")]),
- dict(num=10, titulo="14 – 20 dic", fechas=["2026-12-14","2026-12-15","2026-12-16","2026-12-17","2026-12-18","2026-12-19","2026-12-20"],
-   filas=[("D4","SOLPIQ","ME_E","PZA"), ("D1","BBQ","ME_E","ENSHUEVO"), ("D2","POTG","ME_D","SANDPOL"), ("D1","ALBON","ME_E","TOR"),
-          ("D4","ARRPOL","ME_E",FUERA), ("D4S","ARRSEC","ME_D",FUERA), ("D2","RAPE","ME_D","CASTA")]),
- dict(num=11, titulo="21 – 27 dic", fechas=["2026-12-21","2026-12-22","2026-12-23","2026-12-24","2026-12-25","2026-12-26","2026-12-27"],
-   filas=[("D4L","LENT2","ME_E","KEB"), ("D1","TOFU","ME_E","CREMCAL"), ("D2","ESTOF","ME_D","FAJ"), ("D3","TERI","ME_E",LIBRE),
-          ("D4",LIBRE,"ME_E",LIBRE), ("D4S","SALM1","ME_D",FUERA), ("D2","SEPIA","ME_D","ENSHUEVO")]),
 ]
 def total_dia(fila):
     k = p = 0
@@ -48,6 +41,46 @@ def total_dia(fila):
         if clave not in NO_PLATO:
             kc, pr, _, _ = macros_receta(R[clave]); k += kc; p += pr
     return k, p
+# ---------------------------------------------------------------------------------------------------------------------
+# CICLO DE 5 SEMANAS (28 de noviembre): desde la semana 9 (lunes 7 de diciembre) el menú son estas 5 semanas, que se
+# repiten. Las normas de no repetir valen también de la semana 5 a la 1 (comprobar_ciclo). Para generar más semanas,
+# sube ULTIMA_SEMANA: la 14 vuelve a ser la 1 del ciclo.
+CICLO_SEMANA, CICLO_LUNES = 9, date(2026, 12, 7)
+ULTIMA_SEMANA = 13
+# 5 semanas de 7 filas (desayuno, comida, merienda, cena), de lunes a domingo
+CICLO = [
+ [("D3", "LENTJ", "ME_E", "TAC"), ("D3", "PASTAF", "ME_E", "CRI"), ("D2", "ESTOF", "ME_D", "CREMCAL"), ("D1", "ARR3D", "ME_E", "ENSHUEVO"),     # desayunos sin huevo entero:
+  ("D3", "CERSAL", "ME_E", FUERA), ("D2", "SALM2", "ME_D", FUERA), ("D2", "LUBSAL", "ME_D", "CREMVER")],                                        # es la semana con más huevo
+ [("D1", "SOLPIQ", "ME_E", "ENSHUEVO"), ("D1", "PULPO", "ME_E", "PZA"), ("D4S", "POTG", "ME_D", "KEB"), ("D1", "ALBON", "ME_E", "TOR"),
+  ("D4", "ARRPOL", "ME_E", FUERA), ("D4S", "ARRSEC", "ME_D", FUERA), ("D2", "RAPE", "ME_D", "CREMZAN2")],
+ [("D1", "LENTJ", "ME_E", "FAJ"), ("D4", "PASTAF", "ME_E", "FF2"), ("D4S", "TERESC", "ME_D", "SOPA"), ("D1", "TOFU", "ME_E", "CREMCAL"),
+  ("D4", "PASTEL", "ME_E", FUERA), ("D4S", "SALM1", "ME_D", FUERA), ("D2", "SEPIA", "ME_D", "ENSHUEVO")],
+ [("D1", "ARR3D", "ME_E", "FIN"), ("D1", "PULPO", "ME_E", "CREMVER"), ("D4S", "ESTOF", "ME_D", "ENSHUEVO"), ("D4", "ARRPOL", "ME_E", "CENAV"),
+  ("D4", "CERSAL", "ME_E", FUERA), ("D4S", "DORSAL", "ME_D", FUERA), ("D2", "GCAL", "ME_D", "CREMZAN2")],
+ [("D1", "RISOT", "ME_E", "PZA"), ("D1", "SOLPIQ", "ME_E", "ENSHUEVO"), ("D2", "TERESC", "ME_D", "SANDTOR"), ("D1", "ALBON", "ME_E", "SANDMIX"),
+  ("D4", "POTG", "ME_E", FUERA), ("D4S", "FISHCHIPS", "ME_D", FUERA), ("D2", "ARRGAMB", "ME_D", "CASTA")],
+]
+# Festivos: comida o cena que quedan libres, aviso para ese día y si cierran las tiendas (las compras pasan a la víspera)
+FESTIVOS = {
+ date(2026, 12, 24): dict(cena=LIBRE, aviso="Nochebuena: cena libre."),
+ date(2026, 12, 25): dict(comida=LIBRE, cena=LIBRE, aviso="Navidad: comida y cena libres.", cerrado=True),
+ date(2026, 12, 31): dict(cena=LIBRE, aviso="Nochevieja: cena libre."),
+ date(2027, 1, 1): dict(comida=LIBRE, cena=LIBRE, aviso="Año Nuevo: comida y cena libres.", cerrado=True),
+}
+MES_CORTO = ["", "ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"]
+def semana_ciclo(num):
+    """La semana `num` del calendario, sacada del ciclo: con sus fechas y con los festivos ya libres."""
+    k = (num - CICLO_SEMANA) % len(CICLO); lunes = CICLO_LUNES + timedelta(weeks=num - CICLO_SEMANA); dom = lunes + timedelta(days=6)
+    titulo = f"{lunes.day} – {dom.day} {MES_CORTO[dom.month]}" if lunes.month == dom.month else f"{lunes.day} {MES_CORTO[lunes.month]} – {dom.day} {MES_CORTO[dom.month]}"
+    filas = []
+    for i, (d, c, m, ce) in enumerate(CICLO[k]):
+        f = FESTIVOS.get(lunes + timedelta(days=i), {})
+        filas.append((d, f.get("comida", c), m, f.get("cena", ce)))
+    return dict(num=num, ciclo=k + 1, titulo=titulo, fechas=[(lunes + timedelta(days=i)).isoformat() for i in range(7)], filas=filas)
+def montar_ciclo():
+    """Quita de SEMANAS las semanas del ciclo y las vuelve a generar (se llama al final del módulo, con CICLO ya escrito)."""
+    SEMANAS[:] = [s for s in SEMANAS if s["num"] < CICLO_SEMANA] + ([semana_ciclo(n) for n in range(CICLO_SEMANA, ULTIMA_SEMANA + 1)] if CICLO else [])
+montar_ciclo()
 PESCADOS = {"merluza": "merluza", "bacalao": "bacalao", "gambas": "gambas", "gambas_coc": "gambas", "gambones": "gambas", "calamar": "calamar",
             "sepia": "sepia", "pulpo": "pulpo", "dorada": "dorada", "rape": "rape", "rodaballo": "rodaballo", "salmon": "salmón", "lubina": "lubina", "dorada_sal": "dorada", "atun": "atún", "atun_fresco": "atún"}
 PLATOS = ("comida", "cena")
@@ -79,7 +112,8 @@ def comprobar_pescados():
 FAMILIAS = {
  "lentejas": {"LENT1", "LENT2", "LENTJ"},
  "garbanzos": {"POTG", "GARBAC"},
- "guiso de ternera": {"ESTOF", "CARNEG", "JARD", "TERESC"},
+ "guiso de ternera": {"ESTOF", "CARNEG", "JARD"},
+ "crema de zanahoria": {"CREMZAN", "CREMZAN2"},
  "tofuloñesa": {"TOFU", "TOFU_D"},
  "guisantes con jamón": {"GUIS", "GUIS_D", "GUIS_T"},
  "bacalao a la vizcaína": {"VIZCA", "VIZCA_A"},
@@ -122,12 +156,13 @@ def comprobar_repeticiones(desde=6):
             vistos = [familia(c) for f in s["filas"] for c in (f[1], f[3]) if c not in NO_PLATO]
             rep = sorted({c for c in vistos if vistos.count(c) > 1})
             if rep: errores.append(f"Semana {s['num']}: se repite dentro de la semana: {', '.join(nombre_familia(c) for c in rep)}")
-    # Desde la semana 8: cada cena fija semanal, una vez a la semana
+    # Desde la semana 8: cada cena fija semanal, una vez a la semana (si un festivo deja libre esa cena, ninguna)
     for s in SEMANAS:
         if s["num"] >= 8:
             for k in sorted(SEMANALES):
                 n = sum(f[3] == k for f in s["filas"])
-                if n != 1: errores.append(f"Semana {s['num']}: {R[k]['nombre']} va una vez a la semana de cena (va {n})")
+                festivo = "ciclo" in s and any(f[3] == k for f in CICLO[s["ciclo"] - 1])
+                if n != 1 and not (n == 0 and festivo): errores.append(f"Semana {s['num']}: {R[k]['nombre']} va una vez a la semana de cena (va {n})")
     # Desde la semana 7: los guisantes con jamón no son plato principal (fuera del plan, 21 de noviembre)
     for s in SEMANAS:
         if s["num"] >= 7 and {"GUIS", "GUIS_D", "GUIS_T"} & platos_semana(s):
@@ -138,18 +173,10 @@ def comprobar_repeticiones(desde=6):
             con = [R[c]["nombre"] for f in s["filas"] for c in f if c not in NO_PLATO
                    and any(i in ("pavo", "pavo_fiambre") for _, ings in R[c]["grupos"] for i, _q, _t in ings)]
             if con: errores.append(f"Semana {s['num']}: lleva pavo: {', '.join(sorted(set(con)))}")
-    # Cada mes (bloques de 4 semanas desde la 7): arroz con secreto en la Le Creuset, dorada y lubina a la sal y salmón 2 semanas
-    for ini in range(8, max(s["num"] for s in SEMANAS) + 1, 4):
-        mes = [s for s in SEMANAS if ini <= s["num"] < ini + 4]
-        if len(mes) < 4: continue
-        platos = set().union(*(platos_semana(s) for s in mes))
-        for k in MENSUALES:
-            if k not in platos: errores.append(f"Semanas {ini}–{ini + 3}: falta {R[k]['nombre']} (una vez al mes)")
-        n_salmon = sum("salmón" in pescados_semana(s) for s in mes)
-        if n_salmon < 2: errores.append(f"Semanas {ini}–{ini + 3}: salmón solo {n_salmon} semana(s); tienen que ser 2")
+    # Lo de «una vez al mes» (arroz con secreto, dorada y lubina a la sal, 2 semanas de salmón) va ahora por vuelta del ciclo: comprobar_ciclo
     return errores
 MENSUALES = ["ARRSEC", "DORSAL", "LUBSAL"]
-CENAS_LIGERAS = {"CREMCAL", "CREMZAN", "CREMVER", "SOPA", "CASTA", "CENAV", "TOR", "TOM", "SANDTOR", "SANDMIX", "SANDPOL", "ENSHUEVO"}
+CENAS_LIGERAS = {"CREMCAL", "CREMZAN", "CREMZAN2", "CREMVER", "SOPA", "CASTA", "CENAV", "TOR", "TOM", "SANDTOR", "SANDMIX", "SANDPOL", "ENSHUEVO"}
 CENAS_RAPIDAS = {"KEB", "FAJ", "TAC", "CRI", "FIN", "FF2", "BEX", "FPZ", "PZA"}
 LEGUMBRES = {"LENT1", "LENT2", "LENTJ", "POTG"}
 # Recetas que ha pasado Guillermo (enlaces, fotos del libro, capturas o texto). Norma del 25 de noviembre: tienen prioridad
@@ -157,20 +184,58 @@ LEGUMBRES = {"LENT1", "LENT2", "LENTJ", "POTG"}
 # nueva suya se añade a esta lista.
 PROPIAS = {"CRI", "FF2", "TAC", "FAJ", "FIN", "KEB",                        # vídeos, 6 de octubre
            "LENTJ", "ARRPOL", "TERESC", "RISOT", "JARD", "POTG", "ALBON",   # fotos del libro del robot, 25 de octubre
-           "CREMCAL", "CREMZAN",                                            # enlaces de Cecotec, 26 de octubre
+           "CREMCAL", "CREMZAN", "CREMZAN2",                                # enlaces de Cecotec, 26 de octubre
            "SOPA", "CASTA", "ARRSEC", "ESTOF", "ENSHUEVO"}                  # 15 a 25 de noviembre
-if __name__ == "__main__":
-    for s in SEMANAS: print(f"Semana {s['num']}: {', '.join(sorted(pescados_semana(s))) or '—'}")
-    from batch import comprobar_fuegos
-    for e in comprobar_pescados() + comprobar_repeticiones() + comprobar_fuegos(): print("  NORMA:", e)
+# Recetas suyas que no entran en el ciclo, con el motivo (comprobar_ciclo avisa si falta alguna que no esté aquí)
+PROPIAS_FUERA = {
+ "JARD": "es el mismo guiso que su estofado, que es el que pidió como habitual (22 de noviembre)",
+ "CREMZAN": "llevaba calamar y el pescado no va de cena: entra como CREMZAN2, con tosta de jamón y mozzarella",
+}
+POLLO = {"pechuga", "solomillo"}
+def lleva_pollo(c):
+    return c not in NO_PLATO and any(i in POLLO for _, ings in R[c]["grupos"] for i, _q, _t in ings)
+def comprobar_pollo(desde=CICLO_SEMANA):
+    """Desde el ciclo (28 de noviembre): como mucho 2 platos con pollo a la semana, contando comidas y cenas y cualquier plato
+       que lo lleve (también sopas, cremas y arroces). Y nunca pollo en la comida y en la cena del mismo día."""
+    errores = []
     for s in SEMANAS:
-        print(f"\nSemana {s['num']} ({s['titulo']})")
-        for i, fila in enumerate(s["filas"]):
-            k, p = total_dia(fila)
-            obj = 1950 if TIPO[i] == "E" else 1600
-            nota = "  + cena fuera" if fila[3] == FUERA else ("  + comida y cena libres" if fila[1] == LIBRE else "  + cena libre") if fila[3] == LIBRE else f"  ({k-obj:+.0f} vs {obj})"
-            print(f"  {DIAS[i]:10s} {TIPO[i]}  {k:5.0f} kcal  {p:5.0f} g prot  {' / '.join(fila)}{nota}")
-
+        if s["num"] < desde: continue
+        con = [R[c]["nombre"] for f in s["filas"] for c in (f[1], f[3]) if lleva_pollo(c)]
+        if len(con) > 2: errores.append(f"Semana {s['num']}: {len(con)} platos con pollo (como mucho, 2): {', '.join(con)}")
+        for i, f in enumerate(s["filas"]):
+            if lleva_pollo(f[1]) and lleva_pollo(f[3]): errores.append(f"Semana {s['num']}, {DIAS[i].lower()}: pollo en la comida y en la cena")
+    return errores
+def comprobar_ciclo():
+    """La vuelta del ciclo: de la semana 5 a la 1 no se repite ningún plato (ni otro de su familia) ni ningún pescado, y
+       merluza y bacalao guardan su semana de por medio. En cada vuelta entran el arroz con secreto, la dorada y la lubina a
+       la sal y 2 semanas de salmón, la cena fija de cada semana y todas las recetas de Guillermo menos las de PROPIAS_FUERA."""
+    errores = []
+    if not CICLO: return errores
+    sem = [dict(num=i + 1, filas=f) for i, f in enumerate(CICLO)]
+    for i, a in enumerate(sem):
+        b = sem[(i + 1) % len(sem)]
+        rep = {familia(c) for c in platos_semana(a) - SEMANALES} & {familia(c) for c in platos_semana(b) - SEMANALES}
+        if rep: errores.append(f"Ciclo, semanas {a['num']} y {b['num']}: se repite {', '.join(nombre_familia(f) for f in sorted(rep))}")
+        pa, pb = pescados_semana(a, SEMANALES), pescados_semana(b, SEMANALES)
+        if pa & pb: errores.append(f"Ciclo, semanas {a['num']} y {b['num']}: {', '.join(sorted(pa & pb))} dos semanas seguidas")
+        mb = {"merluza", "bacalao"}
+        if pa & mb and pb & mb and not (pa & pb & mb): errores.append(f"Ciclo, semanas {a['num']} y {b['num']}: merluza y bacalao sin una semana de por medio")
+        for k in sorted(SEMANALES):
+            n = sum(f[3] == k for f in a["filas"])
+            if n != 1: errores.append(f"Ciclo, semana {a['num']}: {R[k]['nombre']} va una vez a la semana de cena (va {n})")
+        con = [c for f in a["filas"] for c in (f[1], f[3]) if lleva_pollo(c)]
+        if len(con) > 2: errores.append(f"Ciclo, semana {a['num']}: {len(con)} platos con pollo")
+    platos = set().union(*(platos_semana(s) for s in sem))
+    for k in MENSUALES:
+        if k not in platos: errores.append(f"Ciclo: falta {R[k]['nombre']} (una vez en cada vuelta)")
+    ns = sum("salmón" in pescados_semana(s) for s in sem)
+    if ns != 2: errores.append(f"Ciclo: salmón en {ns} semana(s); tienen que ser 2")
+    for k in sorted(PROPIAS - platos - set(PROPIAS_FUERA)):
+        errores.append(f"Ciclo: falta {R[k]['nombre']}, que es receta de Guillermo (o apúntala en PROPIAS_FUERA con el motivo)")
+    return errores
+def comprobar_todo():
+    from batch import comprobar_fuegos
+    return comprobar_pescados() + comprobar_repeticiones() + comprobar_pollo() + comprobar_ciclo() + comprobar_fuegos(BATCH)
 CAMBIOS = {
  "LENT1": "Solomillos en vez de contramuslo, mucho menos aceite y sin chorizo; pimiento rojo en vez de calabacín; la patata es el extra para días de entreno.",
  "LENT2": "Huevo cocido añadido para la proteína (la original es vegana) y 80 g de lentejas en vez de 150; el arroz es el extra para días de entreno.",
@@ -204,6 +269,7 @@ CAMBIOS = {
  "PILPIL": "Menos aceite en la salsa (el que sobra, colado, sirve para cocinar), un diente de ajo por persona que puedes no comerte, y patata cocida y pimiento asado de guarnición, como lo sirve Arguiñano pero sin freír los pimientos.",
  "CREMCAL": "AOVE en vez de mantequilla (45 en tu test); pipas de calabaza por encima y una tortilla de claras con jamón cocido de segundo para llegar a la proteína. La web no dice raciones: cantidades calculadas para 4 y pasadas a 2.",
  "CREMZAN": "Leche normal en vez de evaporada; caldo bajo en sal; calamar a la plancha por encima para llegar a la proteína (en vez de gambas, que ya hay el domingo anterior). La web no dice raciones: cantidades calculadas para 4 y pasadas a 2.",
+ "CREMZAN2": "Leche normal en vez de evaporada; caldo bajo en sal; tosta de jamón y mozzarella y un yogur +Proteínas para llegar a la proteína (antes llevaba calamar a la plancha, pero el pescado no va de cena). La web no dice raciones: cantidades calculadas para 4 y pasadas a 2.",
  "ARRGAMB": "Gambones enteros en vez de colas peladas, para hacer el fumet con sus cabezas (lo que propone la receta si no tienes caldo); 70 g de arroz por persona en vez de 100 y el aceite medido.",
  "GCAL": "Sin vermut (alcohol 51 en tu test): un poco más de agua; carne de choricero de bote en vez de choriceros y ñoras en remojo (valen si los tienes); 2 ajos frescos por persona en vez de 3 (ajo 43) y el aceite medido; algo más de calamar y de patata para que sea un plato completo. La receta es para 4: cantidades pasadas a 2.",
  "PULPO": "Con pulpo ya cocido (envasado) en vez de cocer uno entero: 25 minutos en total; el aceite, medido. La receta es para 4: cantidades pasadas a 2.",
@@ -225,17 +291,51 @@ CAMBIOS = {
  "ENSHUEVO": "Apio en vez de pepino (45 en tu test), yogur +Proteínas en vez de griego ligero y 40 g de pan integral tostado para que la cena no se quede corta. Cantidades de la receta, por persona.",
  "SOPA": "Pasada a vuestra Mambo (la original se hace en una olla); un huevo pochado por persona en vez de uno para los dos; la pechuga, pesada (unos 180 g por persona) y las especias, concretadas.",
  "RISOT": "Con pollo; sin mantequilla (45) ni parmesano (queso curado 55): un poco de mozzarella fresca al final; sin vino; más puerro y setas (no champiñón, 43 en tu test); menos jamón y caldo bajo en sal.",
+ "CERSAL": "Magro sin grasa en vez de cabeza de lomo, y 170 g por persona (la receta pone 1 kg para 3 o 4); caldo en vez del vino blanco, como ofrece la propia receta (alcohol 51 en tu test); medio diente de ajo por persona en vez de uno; el aceite, medido; con patata y pan para que sea un plato completo de táper.",
+ "ARR3D": "Cantidades pesadas (el vídeo no las da): 60 g de arroz y 150 g de tofu por persona; con zanahoria, como el tres delicias del segundo vídeo; sin gambas.",
+ "PASTEL": "Carne picada magra, 150 g por persona; mozzarella light en vez de queso rallado y tomate triturado natural en vez de frito; medio huevo en el puré, como hace Arguiñano en el suyo de patata, para que aguante el táper y el congelador; sin vino.",
+ "PASTAF": "Con huevo duro (la original no lleva) y mahonesa proteica de huevo cocido y yogur en vez de la de huevo crudo, que no aguanta 3 días en el táper; 80 g de jamón por persona y algo menos de pasta; carne de choricero de bote en vez de cocer los pimientos.",
 }
-from batch import BATCH, NORMAS
+from batch import BATCH as _BATCH_FIJOS, CICLO_BATCH, NORMAS, instanciar
+def _batch_ciclo(s):
+    """El batch de una semana del ciclo: la plantilla de su semana, con fechas, sin lo que un festivo deja libre."""
+    ant = SEMANAS[SEMANAS.index(s) - 1]; lunes = date.fromisoformat(s["fechas"][0])
+    presentes = {c for f in s["filas"] for c in (f[1], f[3])} | {ant["filas"][6][1], ant["filas"][6][3]}
+    dias = [lunes + timedelta(days=i) for i in range(-1, 7)]
+    avisos = [(d, FESTIVOS[d]["aviso"]) for d in dias if d in FESTIVOS]
+    return instanciar(CICLO_BATCH[s["ciclo"]], lunes, presentes, avisos, {d for d in dias if FESTIVOS.get(d, {}).get("cerrado")})
+BATCH = {**{n: b for n, b in _BATCH_FIJOS.items() if n < CICLO_SEMANA}, **{s["num"]: _batch_ciclo(s) for s in SEMANAS if "ciclo" in s}}
+# Notas de la compra: las de cada semana del ciclo y, delante, las de las semanas con festivos
+NOTA_CICLO = {
+ 1: "Las 2 lubinas de la comida del domingo se hacen a la sal: enteras y sin escamar. Mejor frescas: no las compréis hoy, sino el sábado que viene, con la compra de la semana siguiente. El salmón de la comida del sábado, fresco el viernes (o congelado, y a la nevera la noche antes).",
+ 2: "El secreto ibérico del arroz del sábado va al congelador en el batch de mañana. El pulpo del martes viene cocido y envasado: mirad la fecha.",
+ 3: "La carne picada de la Big Mac del martes va al congelador en el batch de mañana, y la del pastel se cocina ese día. El salmón de la comida del sábado, fresco el viernes (o congelado, y a la nevera la noche antes). La sepia del domingo, congelada.",
+ 4: "Las 2 doradas de la comida del sábado se hacen a la sal: enteras y sin escamar. Mejor frescas, compradas el viernes o el mismo sábado; si no, congeladas enteras, y a la nevera la noche antes. El pulpo del martes viene cocido y envasado: mirad la fecha. El calamar del domingo, congelado.",
+ 5: "La merluza del fish & chips del sábado y los gambones del arroz del domingo, congelados. La pechuga de la crema del domingo va al congelador en el batch de mañana.",
+}
+NOTA_FESTIVOS = {
+ 11: "Semana de Navidad: la cena del jueves 24 (Nochebuena) y la comida y la cena del viernes 25 quedan libres y no están en la lista. El salmón de la comida del sábado 26, compradlo el jueves 24 (el 25 cierran las tiendas), o congelado y a la nevera la noche antes.",
+ 12: "Semana de Año Nuevo: la cena del jueves 31 (Nochevieja) y la comida y la cena del viernes 1 quedan libres y no están en la lista. Las doradas de la comida del sábado 2, compradlas el jueves 31 (el 1 cierran las tiendas), o congeladas y a la nevera la noche antes.",
+}
 NOTA_COMPRA = {
- 11: "Semana de Navidad: la cena del jueves 24 (Nochebuena) y la comida y la cena del viernes 25 quedan libres, sin compra. El salmón de la comida del sábado 26, compradlo el jueves 24 (el 25 cierran las tiendas), o congelado y a la nevera la noche antes. La sepia del domingo 27, congelada.",
  3: "La compra de esta semana ya está hecha (sábado 24). Con los cambios solo falta: 140 g de jamón cocido extra para la pizza del martes, un pimiento rojo para el pil pil y la fajicesta y una guindilla o cayena si no tenéis. Os sobran 2 latas de atún y 400 g de garbanzos (los garbanzos, para el potaje del miércoles 4).",
  4: "No compréis los garbanzos: os sobran de la semana pasada (ya no los lleva el bacalao).",
  5: "La compra de esta semana ya está hecha. El domingo 15 ya no hay tacos de merluza, sino arroz meloso con gambones: el sábado 14, con la compra de la semana 6, añadid 500 g de gambones crudos congelados (unos 12), 140 g de arroz bomba (o redondo, si os queda), 60 g más de pimiento rojo y 30 g de verde, media cebolla, un trozo de puerro (40 g), 120 g de tomate triturado y azafrán si no tenéis. Si ya comprasteis la merluza (340 g), dejadla en el congelador para el fish & chips del sábado 21; las tortillas de maíz, la piña y la lima os sobran.",
+ 6: "Si comprasteis la merluza de los tacos de la semana pasada (340 g), no compréis más: os vale para el fish & chips del sábado 21.",
  7: "Si ya habéis hecho la compra con la lista anterior: os sobran los guisantes, el jamón, el secreto (al congelador, para el arroz del sábado 19 de diciembre), el pavo, el salmón (congelado, para el miércoles 2), la carne picada de las albóndigas y la mitad de las lentejas. Lo nuevo está en la lista: ternera para guisar, judías verdes, arroz basmati, miel, jengibre, copos de maíz y yogures +Proteínas. El pulpo cocido, compradlo ya (es para el martes 24: mirad la fecha). El rodaballo (1 de 1–1,2 kg), mejor fresco: el viernes 27 o el mismo sábado 28.",
  8: "Las 2 doradas de la comida del sábado 5 se hacen a la sal: enteras y sin escamar. Mejor frescas, compradas el viernes 4 o el mismo sábado; si no, congeladas enteras, y a la nevera la noche antes.",
- 9: "Las 2 lubinas de la comida del domingo 13 se hacen a la sal: enteras y sin escamar. Mejor frescas: no las compréis hoy, sino el sábado 12 con la compra de la semana siguiente. El salmón de la comida del sábado 12, fresco el viernes 11 (o congelado y a la nevera la noche antes).",
- 10: "El secreto ibérico del arroz del sábado 19 va al congelador en el batch del domingo 13.",
- 6: "Si comprasteis la merluza de los tacos de la semana pasada (340 g), no compréis más: os vale para el fish & chips del sábado 21.",
 }
+for _s in SEMANAS:
+    if "ciclo" in _s:
+        NOTA_COMPRA[_s["num"]] = " ".join(x for x in (NOTA_FESTIVOS.get(_s["num"]), NOTA_CICLO[_s["ciclo"]]) if x)
 PREP = {n: b['recordatorios'] for n, b in BATCH.items()}
+if __name__ == "__main__":
+    for s in SEMANAS: print(f"Semana {s['num']}: {', '.join(sorted(pescados_semana(s))) or '—'}")
+    for e in comprobar_todo(): print("  NORMA:", e)
+    for s in SEMANAS:
+        print(f"\nSemana {s['num']} ({s['titulo']})")
+        for i, fila in enumerate(s["filas"]):
+            k, p = total_dia(fila)
+            obj = 1950 if TIPO[i] == "E" else 1600
+            nota = "  + cena fuera" if fila[3] == FUERA else ("  + comida y cena libres" if fila[1] == LIBRE else "  + cena libre") if fila[3] == LIBRE else f"  ({k-obj:+.0f} vs {obj})"
+            print(f"  {DIAS[i]:10s} {TIPO[i]}  {k:5.0f} kcal  {p:5.0f} g prot  {' / '.join(fila)}{nota}")
